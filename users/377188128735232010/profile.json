@@ -2,11 +2,22 @@
   "name": "Totonho",
   "bio": "adawdawdadawdd",
   "avatar": "https://cdn.discordapp.com/avatars/377188128735232010/544aa7a4d1204abab70f0150ad8aa4c5.png?size=256",
-  "banner": "https://raw.githubusercontent.com/Totonho0/ANIMEIMAGENS/main/users/377188128735232010/banner.gif?v=1779919822061",
+  "banner": "/api/proxy-image?url=https%3A%2F%2Fraw.githubusercontent.com%2FTotonho0%2FANIMEIMAGENS%2Fmain%2Fusers%2F377188128735232010%2Fbanner.gif",
   "favorites": [],
   "watchLater": [],
-  "library": {},
+  "library": {
+    "kill-ao-dublado": {
+      "slug": "kill-ao-dublado",
+      "title": "Kill Ao Dublado",
+      "poster": "https://image.tmdb.org/t/p/w780/veVpU91VITkLsua9EnRqtgNbyVU.jpg",
+      "kind": "anime"
+    }
+  },
   "watched": {},
-  "started": {},
-  "updatedAt": 1779919819973
+  "started": {
+    "kill-ao-dublado": [
+      1
+    ]
+  },
+  "updatedAt": 1779919833872
 }

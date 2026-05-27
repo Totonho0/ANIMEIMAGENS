@@ -17,11 +17,15 @@
       "kind": "anime"
     }
   },
-  "watched": {},
+  "watched": {
+    "kill-ao-dublado": [
+      1
+    ]
+  },
   "started": {
     "kill-ao-dublado": [
       1
     ]
   },
-  "updatedAt": 1779919955128
+  "updatedAt": 1779920018990
 }

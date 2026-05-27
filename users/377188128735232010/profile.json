@@ -15,6 +15,12 @@
       "title": "Kill Ao Dublado",
       "poster": "https://image.tmdb.org/t/p/w780/veVpU91VITkLsua9EnRqtgNbyVU.jpg",
       "kind": "anime"
+    },
+    "tensei-kizoku-kantei-skill-de-nariagaru-2": {
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
+      "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -25,7 +31,10 @@
   "started": {
     "kill-ao-dublado": [
       1
+    ],
+    "tensei-kizoku-kantei-skill-de-nariagaru-2": [
+      1
     ]
   },
-  "updatedAt": 1779920139322
+  "updatedAt": 1779920162853
 }

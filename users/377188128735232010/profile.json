@@ -27,6 +27,12 @@
       "title": "Haikyuu!!",
       "poster": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
       "kind": "anime"
+    },
+    "haikyuu-dublado": {
+      "slug": "haikyuu-dublado",
+      "title": "Haikyuu!! Dublado",
+      "poster": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -46,7 +52,10 @@
     ],
     "haikyuu": [
       1
+    ],
+    "haikyuu-dublado": [
+      1
     ]
   },
-  "updatedAt": 1779921257381
+  "updatedAt": 1779925574222
 }

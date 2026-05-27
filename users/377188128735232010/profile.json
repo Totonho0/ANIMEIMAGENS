@@ -3,7 +3,9 @@
   "bio": "adawdawdadawdd",
   "avatar": "https://cdn.discordapp.com/avatars/377188128735232010/544aa7a4d1204abab70f0150ad8aa4c5.png?size=256",
   "banner": "/api/proxy-image?url=https%3A%2F%2Fraw.githubusercontent.com%2FTotonho0%2FANIMEIMAGENS%2Fmain%2Fusers%2F377188128735232010%2Fbanner.gif",
-  "favorites": [],
+  "favorites": [
+    "kill-ao-dublado"
+  ],
   "watchLater": [],
   "library": {
     "kill-ao-dublado": {
@@ -19,5 +21,5 @@
       1
     ]
   },
-  "updatedAt": 1779919833872
+  "updatedAt": 1779919835923
 }

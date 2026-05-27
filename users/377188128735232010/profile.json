@@ -33,6 +33,12 @@
       "title": "Haikyuu!! Dublado",
       "poster": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
       "kind": "anime"
+    },
+    "maou-sama-retry": {
+      "slug": "maou-sama-retry",
+      "title": "Maou-sama, Retry! 2 - Todos os Episódios",
+      "poster": "https://image.tmdb.org/t/p/w780/fHd0sO7jgwSqYkzsUXcWTDeMFSn.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -55,7 +61,10 @@
     ],
     "haikyuu-dublado": [
       1
+    ],
+    "maou-sama-retry": [
+      1
     ]
   },
-  "updatedAt": 1779925574222
+  "updatedAt": 1779925597134
 }

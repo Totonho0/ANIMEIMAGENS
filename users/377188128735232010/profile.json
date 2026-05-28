@@ -57,6 +57,18 @@
       "title": "One Piece - Todos os Episodios",
       "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "kind": "anime"
+    },
+    "haikyuu-second-season": {
+      "slug": "haikyuu-second-season",
+      "title": "Haikyuu!! Second Season",
+      "poster": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "kind": "anime"
+    },
+    "one-piece-dublado": {
+      "slug": "one-piece-dublado",
+      "title": "One Piece Dublado - Todos os Episodios",
+      "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -95,7 +107,13 @@
     ],
     "one-piece": [
       1
+    ],
+    "haikyuu-second-season": [
+      1
+    ],
+    "one-piece-dublado": [
+      1
     ]
   },
-  "updatedAt": 1779995532551
+  "updatedAt": 1779999417728
 }

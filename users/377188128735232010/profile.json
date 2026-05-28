@@ -51,6 +51,12 @@
       "title": "B.King",
       "poster": "https://image.tmdb.org/t/p/w780/ovCXwVW95faq8vQkkshIc7jPu2u.jpg",
       "kind": "anime"
+    },
+    "one-piece": {
+      "slug": "one-piece",
+      "title": "One Piece - Todos os Episodios",
+      "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -85,7 +91,10 @@
     ],
     "b-king": [
       1
+    ],
+    "one-piece": [
+      1
     ]
   },
-  "updatedAt": 1779977445206
+  "updatedAt": 1779977521964
 }

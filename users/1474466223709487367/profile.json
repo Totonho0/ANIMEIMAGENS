@@ -11,13 +11,22 @@
       "title": "Tsue to Tsurugi no Wistoria 2",
       "poster": "https://image.tmdb.org/t/p/w780/oSyBnGb7tkcbv4jdBJX5TYFv8m3.jpg",
       "kind": "anime"
+    },
+    "sakura-card-captor-o-filme": {
+      "slug": "sakura-card-captor-o-filme",
+      "title": "Sakura Card Captor: O Filme",
+      "poster": "https://image.tmdb.org/t/p/w780/jfyGmkmLfiKwNUOenjnTyv9bCNf.jpg",
+      "kind": "filme"
     }
   },
   "watched": {},
   "started": {
     "tsue-to-tsurugi-no-wistoria-2": [
       1
+    ],
+    "sakura-card-captor-o-filme": [
+      1
     ]
   },
-  "updatedAt": 1780001396619
+  "updatedAt": 1780002221319
 }

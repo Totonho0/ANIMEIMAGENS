@@ -11,13 +11,22 @@
       "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
       "poster": "https://image.tmdb.org/t/p/w780/oSyBnGb7tkcbv4jdBJX5TYFv8m3.jpg",
       "kind": "anime"
+    },
+    "ikumonogakari-the-animation": {
+      "slug": "ikumonogakari-the-animation",
+      "title": "Ikumonogakari The Animation - Todos os Episódios",
+      "poster": "https://image.tmdb.org/t/p/w780/lSSUKKdRN4AhEBsQ8yIqMccTEqz.jpg",
+      "kind": "anime"
     }
   },
   "watched": {},
   "started": {
     "tsue-to-tsurugi-no-wistoria-2-dublado": [
       1
+    ],
+    "ikumonogakari-the-animation": [
+      1
     ]
   },
-  "updatedAt": 1779977245522
+  "updatedAt": 1779977393515
 }

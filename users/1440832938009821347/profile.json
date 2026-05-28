@@ -1,0 +1,23 @@
+{
+  "name": "Rickw",
+  "bio": "",
+  "avatar": "https://cdn.discordapp.com/avatars/1440832938009821347/1a6603b5da06d11218c0da25fe7ab5c2.png?size=256",
+  "banner": "/placeholder.svg",
+  "favorites": [],
+  "watchLater": [],
+  "library": {
+    "tower-of-god-2": {
+      "slug": "tower-of-god-2",
+      "title": "Tower of God 2 - Todos os Episódios",
+      "poster": "https://image.tmdb.org/t/p/w780/bkvkJyLqOk2ZbELDEukEAXEatrt.jpg",
+      "kind": "anime"
+    }
+  },
+  "watched": {},
+  "started": {
+    "tower-of-god-2": [
+      0
+    ]
+  },
+  "updatedAt": 1780001344106
+}

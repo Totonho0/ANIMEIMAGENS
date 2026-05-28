@@ -17,6 +17,12 @@
       "title": "Sakura Card Captor: O Filme",
       "poster": "https://image.tmdb.org/t/p/w780/jfyGmkmLfiKwNUOenjnTyv9bCNf.jpg",
       "kind": "filme"
+    },
+    "haikyuu-second-season": {
+      "slug": "haikyuu-second-season",
+      "title": "Haikyuu!! Second Season",
+      "poster": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "kind": "anime"
     }
   },
   "watched": {},
@@ -26,7 +32,10 @@
     ],
     "sakura-card-captor-o-filme": [
       1
+    ],
+    "haikyuu-second-season": [
+      1
     ]
   },
-  "updatedAt": 1780002221319
+  "updatedAt": 1780002246209
 }

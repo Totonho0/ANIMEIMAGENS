@@ -75,6 +75,12 @@
       "title": "Uzumaki - Todos os Episódios",
       "poster": "https://image.tmdb.org/t/p/w780/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
       "kind": "anime"
+    },
+    "stranger-things-historias-de-85-dublado": {
+      "slug": "stranger-things-historias-de-85-dublado",
+      "title": "Stranger Things: Histórias de 85 Dublado",
+      "poster": "https://image.tmdb.org/t/p/w780/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -122,7 +128,10 @@
     ],
     "uzumaki": [
       1
+    ],
+    "stranger-things-historias-de-85-dublado": [
+      1
     ]
   },
-  "updatedAt": 1780042853746
+  "updatedAt": 1780042877818
 }

@@ -101,6 +101,12 @@
       "title": "Ikumonogakari The Animation - Todos os Episódios",
       "poster": "https://image.tmdb.org/t/p/w780/lSSUKKdRN4AhEBsQ8yIqMccTEqz.jpg",
       "kind": "anime"
+    },
+    "nageki-no-bourei-wa-intai-shitai": {
+      "slug": "nageki-no-bourei-wa-intai-shitai",
+      "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -154,7 +160,10 @@
     ],
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": [
       1
+    ],
+    "nageki-no-bourei-wa-intai-shitai": [
+      1
     ]
   },
-  "updatedAt": 1780045327374
+  "updatedAt": 1780045932094
 }

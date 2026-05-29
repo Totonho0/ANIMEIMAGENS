@@ -69,6 +69,12 @@
       "title": "One Piece Dublado - Todos os Episodios",
       "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "kind": "anime"
+    },
+    "uzumaki": {
+      "slug": "uzumaki",
+      "title": "Uzumaki - Todos os Episódios",
+      "poster": "https://image.tmdb.org/t/p/w780/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -113,7 +119,10 @@
     ],
     "one-piece-dublado": [
       1
+    ],
+    "uzumaki": [
+      1
     ]
   },
-  "updatedAt": 1779999417728
+  "updatedAt": 1780042853746
 }

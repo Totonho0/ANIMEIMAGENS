@@ -7,7 +7,8 @@
     "kill-ao-dublado"
   ],
   "watchLater": [
-    "kill-ao-dublado"
+    "kill-ao-dublado",
+    "stranger-things-historias-de-85-dublado"
   ],
   "library": {
     "kill-ao-dublado": {
@@ -81,6 +82,12 @@
       "title": "Stranger Things: Histórias de 85 Dublado",
       "poster": "https://image.tmdb.org/t/p/w780/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
       "kind": "anime"
+    },
+    "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
+      "poster": "https://image.tmdb.org/t/p/w780/gT1kV1uteYTObWRHqjMlXHGZsPl.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -131,7 +138,10 @@
     ],
     "stranger-things-historias-de-85-dublado": [
       1
+    ],
+    "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": [
+      1
     ]
   },
-  "updatedAt": 1780042909197
+  "updatedAt": 1780042930666
 }

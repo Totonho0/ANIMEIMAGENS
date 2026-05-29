@@ -9,7 +9,13 @@
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
-      "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvcE1MaXRLN3VDS29GMjVkTm41WGFpMFJ1RnJhLmpwZw",
+      "kind": "anime"
+    },
+    "wu-liuqi-zui-qiang-fa-xing-shi": {
+      "slug": "wu-liuqi-zui-qiang-fa-xing-shi",
+      "title": "Wu Liuqi: Zui Qiang Fa Xing Shi - Todos os Episodios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC90TVk3cng4MUR0dUtJQXVQbUtFa0lsNUZGTVguanBn",
       "kind": "anime"
     }
   },
@@ -17,7 +23,10 @@
   "started": {
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       1
+    ],
+    "wu-liuqi-zui-qiang-fa-xing-shi": [
+      1
     ]
   },
-  "updatedAt": 1779994601994
+  "updatedAt": 1780088405658
 }

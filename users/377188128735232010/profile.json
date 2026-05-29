@@ -95,6 +95,12 @@
       "title": "Eroge de Subete wa Kaiketsu Dekiru!",
       "poster": "https://image.tmdb.org/t/p/w780/zomIkQQ74EblMFLq8xO951lwt2x.jpg",
       "kind": "anime"
+    },
+    "ikumonogakari-the-animation": {
+      "slug": "ikumonogakari-the-animation",
+      "title": "Ikumonogakari The Animation - Todos os Episódios",
+      "poster": "https://image.tmdb.org/t/p/w780/lSSUKKdRN4AhEBsQ8yIqMccTEqz.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -148,7 +154,10 @@
     ],
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": [
       1
+    ],
+    "ikumonogakari-the-animation": [
+      1
     ]
   },
-  "updatedAt": 1780043010479
+  "updatedAt": 1780043019561
 }

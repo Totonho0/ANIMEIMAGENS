@@ -89,6 +89,12 @@
       "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
       "poster": "https://image.tmdb.org/t/p/w780/gT1kV1uteYTObWRHqjMlXHGZsPl.jpg",
       "kind": "anime"
+    },
+    "eroge-de-subete-wa-kaiketsu-dekiru": {
+      "slug": "eroge-de-subete-wa-kaiketsu-dekiru",
+      "title": "Eroge de Subete wa Kaiketsu Dekiru!",
+      "poster": "https://image.tmdb.org/t/p/w780/zomIkQQ74EblMFLq8xO951lwt2x.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -142,7 +148,10 @@
     ],
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": [
       1
+    ],
+    "eroge-de-subete-wa-kaiketsu-dekiru": [
+      1
     ]
   },
-  "updatedAt": 1780042935917
+  "updatedAt": 1780042961072
 }

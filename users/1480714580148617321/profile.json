@@ -9,13 +9,19 @@
     "tsue-to-tsurugi-no-wistoria-2-dublado": {
       "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
       "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
-      "poster": "https://image.tmdb.org/t/p/w780/oSyBnGb7tkcbv4jdBJX5TYFv8m3.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vU3lCbkdiN3RrY2J2NGpkQkpYNVRZRnY4bTMuanBn",
       "kind": "anime"
     },
     "ikumonogakari-the-animation": {
       "slug": "ikumonogakari-the-animation",
       "title": "Ikumonogakari The Animation - Todos os Episódios",
-      "poster": "https://image.tmdb.org/t/p/w780/lSSUKKdRN4AhEBsQ8yIqMccTEqz.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sU1NVS0tkUk40QWhFQnNROHlJcU1jY1RFcXouanBn",
+      "kind": "anime"
+    },
+    "nee-shiyo": {
+      "slug": "nee-shiyo",
+      "title": "Nee Shiyo",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xVHRKUmxESXdXZHNtUlhEVG9tVWxhMUpCS0kuanBn",
       "kind": "anime"
     }
   },
@@ -26,7 +32,10 @@
     ],
     "ikumonogakari-the-animation": [
       1
+    ],
+    "nee-shiyo": [
+      1
     ]
   },
-  "updatedAt": 1779977452130
+  "updatedAt": 1780085704368
 }

@@ -107,6 +107,12 @@
       "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
       "kind": "anime"
+    },
+    "tsue-to-tsurugi-no-wistoria-2": {
+      "slug": "tsue-to-tsurugi-no-wistoria-2",
+      "title": "Tsue to Tsurugi no Wistoria 2",
+      "poster": "https://image.tmdb.org/t/p/w780/oSyBnGb7tkcbv4jdBJX5TYFv8m3.jpg",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -163,7 +169,10 @@
     ],
     "nageki-no-bourei-wa-intai-shitai": [
       1
+    ],
+    "tsue-to-tsurugi-no-wistoria-2": [
+      1
     ]
   },
-  "updatedAt": 1780045932094
+  "updatedAt": 1780045974276
 }

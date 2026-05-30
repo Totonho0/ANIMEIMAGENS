@@ -119,6 +119,12 @@
       "title": "Hitoribocchi no Isekai Kouryaku",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92bnN4a2RGZDBXUkVjbEFXbHlYUUoxb1lzVlMuanBn",
       "kind": "anime"
+    },
+    "fuufu-ijou-koibito-miman-dublado": {
+      "slug": "fuufu-ijou-koibito-miman-dublado",
+      "title": "Fuufu Ijou, Koibito Miman Dublado - Todos os Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvNE12VVVkZk05M0NaUDF1Y2FuQVoyS1FBZWNVLmpwZw",
+      "kind": "anime"
     }
   },
   "watched": {},
@@ -164,9 +170,12 @@
     ],
     "hitoribocchi-no-isekai-kouryaku": [
       1
+    ],
+    "fuufu-ijou-koibito-miman-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [],
   "watchHistoryHidden": [],
-  "updatedAt": 1780143741007
+  "updatedAt": 1780159340735
 }

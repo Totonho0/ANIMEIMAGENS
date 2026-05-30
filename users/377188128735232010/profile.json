@@ -121,15 +121,8 @@
       "kind": "anime"
     }
   },
-  "watched": {
-    "kill-ao-dublado": [
-      1
-    ]
-  },
+  "watched": {},
   "started": {
-    "kill-ao-dublado": [
-      1
-    ],
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       2
     ],
@@ -173,13 +166,7 @@
       1
     ]
   },
-  "watchHistoryLog": [
-    {
-      "slug": "kill-ao-dublado",
-      "ep": 1,
-      "at": 0
-    }
-  ],
+  "watchHistoryLog": [],
   "watchHistoryHidden": [],
-  "updatedAt": 1780137981120
+  "updatedAt": 1780137983728
 }

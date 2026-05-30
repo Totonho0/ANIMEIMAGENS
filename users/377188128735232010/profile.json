@@ -131,6 +131,12 @@
       "title": "Devil May Cry 2 (2026) Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uTHlYWElETXBESHZVZ3hjaGV6eHVob0o0RWouanBn",
       "kind": "anime"
+    },
+    "aishiteru-game-wo-owarasetai-dublado": {
+      "slug": "aishiteru-game-wo-owarasetai-dublado",
+      "title": "Aishiteru Game wo Owarasetai Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82bFdDYjV4STA5S2tjWWRUZzdTdDhpOHE3WEYuanBn",
+      "kind": "anime"
     }
   },
   "watched": {},
@@ -182,9 +188,12 @@
     ],
     "devil-may-cry-2026-dublado": [
       1
+    ],
+    "aishiteru-game-wo-owarasetai-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [],
   "watchHistoryHidden": [],
-  "updatedAt": 1780181137933
+  "updatedAt": 1780181905623
 }

@@ -127,9 +127,6 @@
     ],
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       1
-    ],
-    "maou-sama-retry": [
-      1
     ]
   },
   "started": {
@@ -144,9 +141,6 @@
       1
     ],
     "haikyuu-dublado": [
-      1
-    ],
-    "maou-sama-retry": [
       1
     ],
     "tsue-to-tsurugi-no-wistoria-2-dublado": [
@@ -193,13 +187,8 @@
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
       "at": 0
-    },
-    {
-      "slug": "maou-sama-retry",
-      "ep": 1,
-      "at": 0
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780137974305
+  "updatedAt": 1780137978081
 }

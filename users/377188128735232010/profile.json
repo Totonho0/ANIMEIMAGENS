@@ -121,7 +121,11 @@
       "kind": "anime"
     }
   },
-  "watched": {},
+  "watched": {
+    "maou-sama-retry": [
+      1
+    ]
+  },
   "started": {
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       2
@@ -169,7 +173,13 @@
       1
     ]
   },
-  "watchHistoryLog": [],
+  "watchHistoryLog": [
+    {
+      "slug": "maou-sama-retry",
+      "ep": 1,
+      "at": 1780139499905
+    }
+  ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780139417432
+  "updatedAt": 1780139499543
 }

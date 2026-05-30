@@ -124,9 +124,6 @@
   "watched": {
     "kill-ao-dublado": [
       1
-    ],
-    "tensei-kizoku-kantei-skill-de-nariagaru-2": [
-      1
     ]
   },
   "started": {
@@ -134,7 +131,6 @@
       1
     ],
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
-      1,
       2
     ],
     "haikyuu": [
@@ -182,13 +178,8 @@
       "slug": "kill-ao-dublado",
       "ep": 1,
       "at": 0
-    },
-    {
-      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-      "ep": 1,
-      "at": 0
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780137978081
+  "updatedAt": 1780137981120
 }

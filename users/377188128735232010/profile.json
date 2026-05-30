@@ -125,6 +125,12 @@
       "title": "Fuufu Ijou, Koibito Miman Dublado - Todos os Episódios",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvNE12VVVkZk05M0NaUDF1Y2FuQVoyS1FBZWNVLmpwZw",
       "kind": "anime"
+    },
+    "devil-may-cry-2026-dublado": {
+      "slug": "devil-may-cry-2026-dublado",
+      "title": "Devil May Cry 2 (2026) Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uTHlYWElETXBESHZVZ3hjaGV6eHVob0o0RWouanBn",
+      "kind": "anime"
     }
   },
   "watched": {},
@@ -173,9 +179,12 @@
     ],
     "fuufu-ijou-koibito-miman-dublado": [
       1
+    ],
+    "devil-may-cry-2026-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [],
   "watchHistoryHidden": [],
-  "updatedAt": 1780168407455
+  "updatedAt": 1780181137933
 }

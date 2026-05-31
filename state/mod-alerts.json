@@ -241,10 +241,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780255376241,
-      "lastAlertAt": 1780255376241,
+      "lastAlertAt": 1780255730469,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

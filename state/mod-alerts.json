@@ -71,11 +71,11 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1780258162098,
+      "lastSeenAt": 1780258942725,
       "lastAlertAt": 1780258580579,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "viaBot": true,
+      "embedOnlineStatus": true
     },
     "ip:09bb6261415d60c6": {
       "userKey": "ip:09bb6261415d60c6",
@@ -86,8 +86,8 @@
       "username": "",
       "lastSeenAt": 1780252039914,
       "lastAlertAt": 1780252430389,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:ad61e79515c5e088": {
@@ -99,8 +99,8 @@
       "username": "",
       "lastSeenAt": 1780252407636,
       "lastAlertAt": 1780252730391,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:bf5728c190cdce31": {
@@ -112,8 +112,8 @@
       "username": "",
       "lastSeenAt": 1780252467894,
       "lastAlertAt": 1780252880391,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:823f9082c419ff45": {
@@ -125,8 +125,8 @@
       "username": "",
       "lastSeenAt": 1780252473047,
       "lastAlertAt": 1780252880391,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:e6be7e5764009093": {
@@ -138,8 +138,8 @@
       "username": "",
       "lastSeenAt": 1780252473945,
       "lastAlertAt": 1780252880391,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:748a1d10f29f07dd": {
@@ -151,8 +151,8 @@
       "username": "",
       "lastSeenAt": 1780252903379,
       "lastAlertAt": 1780253330392,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:0e8442478258ca72": {
@@ -164,8 +164,8 @@
       "username": "",
       "lastSeenAt": 1780253224903,
       "lastAlertAt": 1780253630414,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:631879dd2fbb509c": {
@@ -177,8 +177,8 @@
       "username": "",
       "lastSeenAt": 1780253778952,
       "lastAlertAt": 1780254080422,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:fef66d9e04b26439": {
@@ -190,8 +190,8 @@
       "username": "",
       "lastSeenAt": 1780256279920,
       "lastAlertAt": 1780256630475,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:82f5fcfff74f9250": {
@@ -203,8 +203,8 @@
       "username": "",
       "lastSeenAt": 1780254067576,
       "lastAlertAt": 1780254380442,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:1e4cf41800fa8759": {
@@ -216,8 +216,8 @@
       "username": "",
       "lastSeenAt": 1780254405553,
       "lastAlertAt": 1780254830455,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:23aaf813a786a787": {
@@ -229,8 +229,8 @@
       "username": "",
       "lastSeenAt": 1780254701128,
       "lastAlertAt": 1780255130461,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:1a68dd49b26d9f8b": {
@@ -242,8 +242,8 @@
       "username": "",
       "lastSeenAt": 1780256002577,
       "lastAlertAt": 1780256330474,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:00175dbac3900aab": {
@@ -255,8 +255,8 @@
       "username": "",
       "lastSeenAt": 1780256380000,
       "lastAlertAt": 1780256780483,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:f27182005197e4de": {
@@ -268,8 +268,8 @@
       "username": "",
       "lastSeenAt": 1780256442306,
       "lastAlertAt": 1780256780483,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "d:1335061693088399476": {
@@ -294,8 +294,8 @@
       "username": "",
       "lastSeenAt": 1780257538769,
       "lastAlertAt": 1780257980526,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:297638666aa74fb8": {
@@ -307,8 +307,8 @@
       "username": "",
       "lastSeenAt": 1780258532067,
       "lastAlertAt": 1780258880594,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     }
   },

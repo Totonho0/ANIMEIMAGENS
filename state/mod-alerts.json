@@ -298,15 +298,15 @@
       "viaBot": true,
       "embedOnlineStatus": false
     },
-    "d:377188128735232010": {
-      "userKey": "d:377188128735232010",
+    "ip:84f757da9050388e": {
+      "userKey": "ip:84f757da9050388e",
       "messageId": "1510710814162813089",
       "channelId": "1510693609551171775",
       "ip": "143.131.235.95",
-      "discordId": "377188128735232010",
-      "username": "Totonho",
-      "lastSeenAt": 1780258983858,
-      "lastAlertAt": 1780258983657,
+      "discordId": "",
+      "username": "",
+      "lastSeenAt": 1780259005457,
+      "lastAlertAt": 1780259005669,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true

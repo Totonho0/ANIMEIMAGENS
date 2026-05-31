@@ -24,13 +24,15 @@
     },
     "d:377188128735232010": {
       "userKey": "d:377188128735232010",
-      "messageId": "",
+      "messageId": "1510706232812376115",
       "channelId": "1510693609551171775",
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1780250810385,
-      "lastAlertAt": 1780250809816
+      "lastSeenAt": 1780250833365,
+      "lastAlertAt": 1780250833365,
+      "viaBot": true,
+      "componentsOk": true
     }
   },
   "links": {

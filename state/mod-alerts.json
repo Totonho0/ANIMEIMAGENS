@@ -7,8 +7,18 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1780249224399,
+      "lastSeenAt": 1780249235790,
       "lastAlertAt": 1780249023486
+    },
+    "ip:84f757da9050388e": {
+      "userKey": "ip:84f757da9050388e",
+      "messageId": "1510699533905166446",
+      "channelId": "1510693609551171775",
+      "ip": "143.131.235.95",
+      "discordId": "",
+      "username": "",
+      "lastSeenAt": 1780249236852,
+      "lastAlertAt": 1780249236162
     }
   }
 }

@@ -22,19 +22,16 @@
       "lastAlertAt": 1780249458399,
       "componentsOk": false
     },
-    "d:377188128735232010": {
-      "userKey": "d:377188128735232010",
+    "ip:84f757da9050388e": {
+      "userKey": "ip:84f757da9050388e",
       "messageId": "",
       "channelId": "",
       "ip": "143.131.235.95",
-      "discordId": "377188128735232010",
-      "username": "Totonho",
-      "lastSeenAt": 1780249987529,
+      "discordId": "",
+      "username": "",
+      "lastSeenAt": 1780250002800,
       "lastAlertAt": 0
     }
   },
-  "links": {
-    "ip:84f757da9050388e": "d:377188128735232010",
-    "d:377188128735232010": "ip:84f757da9050388e"
-  }
+  "links": {}
 }

@@ -552,11 +552,11 @@
       "ip": "191.19.143.95",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780268983395,
-      "lastAlertAt": 1780269353554,
+      "lastSeenAt": 1780270590298,
+      "lastAlertAt": 1780270590298,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:34cf7eda08e5936b": {
       "userKey": "ip:34cf7eda08e5936b",

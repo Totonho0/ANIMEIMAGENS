@@ -19,6 +19,16 @@
       "username": "",
       "lastSeenAt": 1780249250128,
       "lastAlertAt": 1780249250128
+    },
+    "ip:a54f27e5d36d1225": {
+      "userKey": "ip:a54f27e5d36d1225",
+      "messageId": "1510700465849893019",
+      "channelId": "1510693609551171775",
+      "ip": "172.70.248.29",
+      "discordId": "",
+      "username": "",
+      "lastSeenAt": 1780249458399,
+      "lastAlertAt": 1780249458399
     }
   },
   "links": {

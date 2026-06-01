@@ -644,10 +644,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780272309597,
-      "lastAlertAt": 1780271949909,
+      "lastAlertAt": 1780272653638,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:9830a099ece3c72d": {
       "userKey": "ip:9830a099ece3c72d",

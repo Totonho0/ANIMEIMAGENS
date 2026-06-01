@@ -917,10 +917,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780303329228,
-      "lastAlertAt": 1780295455853,
+      "lastAlertAt": 1780303406943,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:22c3e180852562f9": {
       "userKey": "ip:22c3e180852562f9",

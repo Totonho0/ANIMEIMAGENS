@@ -643,11 +643,11 @@
       "ip": "172.71.184.166",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780275429032,
-      "lastAlertAt": 1780275803745,
+      "lastSeenAt": 1780277960454,
+      "lastAlertAt": 1780277960454,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:9830a099ece3c72d": {
       "userKey": "ip:9830a099ece3c72d",

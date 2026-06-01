@@ -822,7 +822,281 @@
         "hasMore": false
       },
       "at": 1780284164627
+    },
+    "lancamentos|1|": {
+      "data": {
+        "items": [
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "mahou-no-shimai-lulutto-lilly",
+            "episode": 8,
+            "url": "https://animesonline.cloud/episodio/mahou-no-shimai-lulutto-lilly-episodio-08",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rXRNt2HvFElDEZlmkbGomB6q5w2-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "niwatori-fighter-dublado",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/niwatori-fighter-dublado-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/lqRucqPGcJD4A2KEVs5rImaK5yL-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "nippon-sangoku-dublado",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/zr98Cr1KgSBKQbgJOuqKOehDCLM-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "tongari-boushi-no-atelier-dublado",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/acCMo1XiPJp8xOLHN8wPWJTE5eE-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 5",
+            "epTitle": "Episódio 5",
+            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+            "episode": 5,
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-05",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/zd8H6CrDzahJ3kcNgZgSstIkp19-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "isekai-nonbiri-nouka-2",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/isekai-nonbiri-nouka-2-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/cuOBfkvMCyGRb3t84CVrrDFIg0K-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "liar-game",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/liar-game-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8FmaHYlPV3m44Vn1Eupx8f3o0HI-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/dkLQ6BsUK7mIX9NaHKvCKT4KQm6-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "tongari-boushi-no-atelier",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/3KTQKzTFN8bltPxSm3VtbGFiKFC-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "yomi-no-tsugai-dublado",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/h9UVIuqqVm4zrzehSkMytGDup-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 4",
+            "epTitle": "Episódio 4",
+            "slug": "akane-banashi-dublado",
+            "episode": 4,
+            "url": "https://animesonline.cloud/episodio/akane-banashi-dublado-episodio-04",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/xPpXcpFP6s4frTb1tuVFb0Czbjx-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 1164",
+            "epTitle": "Episódio 1164",
+            "slug": "one-piece",
+            "episode": 1164,
+            "url": "https://animesonline.cloud/episodio/one-piece-episodio-1164",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/tcLvgaNEx8Z7wZjOnbZjrwRY3Ad-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "episode": 8,
+            "url": "https://animesonline.cloud/episodio/yozakura-san-chi-no-daisakusen-2-episodio-08",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/lCStVe53Zf6Mu5Hut3Kzek97qqx-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "niwatori-fighter",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/niwatori-fighter-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/lqRucqPGcJD4A2KEVs5rImaK5yL-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "nippon-sangoku",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/2YyiWTgKWQedEXYoCSzPwUMkmIk-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "maid-san-wa-taberu-dake",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/maid-san-wa-taberu-dake-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/bxo8gkrGEBfFWzwQWNHAkUtvmuV-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "episode": 8,
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-08",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/4vHpczqRsvjKjJ5KiqJFZY3t5Op-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 33",
+            "epTitle": "Episódio 33",
+            "slug": "digimon-beatbreak",
+            "episode": 33,
+            "url": "https://animesonline.cloud/episodio/digimon-beatbreak-episodio-33",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/hR7DAwzhVK3F3BlnMdOtaaFvuWl-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/utswSuNIRMxwhH29KdfnPM7LLUs-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "mao",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/mao-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/zKcU5HBlhMPOYtEnASR5DJX7Sgy-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "needy-girl-overdose",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/afMZQrzv6UvRGokvQVwVyLq8oW2-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "kanan-sama-wa-akumade-choroi",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/yjZK18YIXMUcdcl7PlnRthactF-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "yomi-no-tsugai",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/uajXMY9NzYkqeDL7VRnzYEqkCep-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "shunkashuutou-daikousha-haru-no-mai",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/hvlYRgGwgsEIWrdwyVjH898nNpb-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          }
+        ],
+        "category": "lancamentos",
+        "page": 1,
+        "hasMore": true
+      },
+      "at": 1780337917129
     }
   },
-  "updatedAt": 1780336313106
+  "updatedAt": 1780337917129
 }

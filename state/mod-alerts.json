@@ -786,11 +786,11 @@
       "ip": "172.68.10.208",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780276886507,
+      "lastSeenAt": 1780277840504,
       "lastAlertAt": 1780277303887,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:767e6fa0dc996764": {
       "userKey": "ip:767e6fa0dc996764",

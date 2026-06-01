@@ -474,7 +474,7 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1780338439574,
+      "lastSeenAt": 1780338446483,
       "lastAlertAt": 1780338261431,
       "componentsOk": true,
       "viaBot": true,
@@ -1802,8 +1802,8 @@
       "username": "",
       "lastSeenAt": 1780338331737,
       "lastAlertAt": 1780338331737,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": true
     }
   },

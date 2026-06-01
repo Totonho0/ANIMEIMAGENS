@@ -15,15 +15,16 @@
     },
     "ip:a54f27e5d36d1225": {
       "userKey": "ip:a54f27e5d36d1225",
-      "messageId": "",
-      "channelId": "",
+      "messageId": "1511081736396865628",
+      "channelId": "1510739162116915371",
       "ip": "172.70.248.29",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780249458399,
-      "lastAlertAt": 1780249458399,
-      "componentsOk": false,
-      "viaBot": false
+      "lastSeenAt": 1780340360452,
+      "lastAlertAt": 1780340360452,
+      "componentsOk": true,
+      "viaBot": true,
+      "embedOnlineStatus": true
     },
     "ip:42626b55071347b2": {
       "userKey": "ip:42626b55071347b2",

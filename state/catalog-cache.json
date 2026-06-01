@@ -785,7 +785,44 @@
         "hasMore": true
       },
       "at": 1780253820591
+    },
+    "todos|1|d": {
+      "data": {
+        "items": [
+          {
+            "title": "Devil May Cry 2 (2026) Dublado",
+            "slug": "devil-may-cry-2026-dublado",
+            "url": "https://animesonline.cloud/anime/devil-may-cry-2026-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/dpBhVJXHWm6ApO013ZdHcINnHU8-185x278.jpg",
+            "rating": "8.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dandelion Dublado",
+            "slug": "dandelion-dublado",
+            "url": "https://animesonline.cloud/anime/dandelion-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/r5Cq5wax0sQ1ModcZXWKyXF1xpy-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dandelion",
+            "slug": "dandelion",
+            "url": "https://animesonline.cloud/anime/dandelion",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/ol5mLd4a7oEPEQD6PtaonILToow-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 1,
+        "hasMore": false
+      },
+      "at": 1780284164627
     }
   },
-  "updatedAt": 1780284159796
+  "updatedAt": 1780284164627
 }

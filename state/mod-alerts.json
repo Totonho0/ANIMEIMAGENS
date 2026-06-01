@@ -488,10 +488,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780279654879,
-      "lastAlertAt": 1780279654879,
+      "lastAlertAt": 1780280004074,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:3b45639ca24532a5": {
       "userKey": "ip:3b45639ca24532a5",

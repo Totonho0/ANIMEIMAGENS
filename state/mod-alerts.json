@@ -891,10 +891,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780280622737,
-      "lastAlertAt": 1780280607799,
+      "lastAlertAt": 1780281054154,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:479e884737b3941a": {
       "userKey": "ip:479e884737b3941a",

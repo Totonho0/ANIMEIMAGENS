@@ -487,11 +487,11 @@
       "ip": "172.71.184.167",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780287106889,
-      "lastAlertAt": 1780287504699,
+      "lastSeenAt": 1780291229031,
+      "lastAlertAt": 1780291229031,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:3b45639ca24532a5": {
       "userKey": "ip:3b45639ca24532a5",

@@ -1801,10 +1801,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780338331737,
-      "lastAlertAt": 1780338331737,
+      "lastAlertAt": 1780338739043,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

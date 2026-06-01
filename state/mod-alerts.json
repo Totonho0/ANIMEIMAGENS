@@ -1631,11 +1631,11 @@
       "ip": "172.70.248.28",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780330619682,
-      "lastAlertAt": 1780331009907,
+      "lastSeenAt": 1780338753697,
+      "lastAlertAt": 1780338753697,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:584cf294133327ed": {
       "userKey": "ip:584cf294133327ed",

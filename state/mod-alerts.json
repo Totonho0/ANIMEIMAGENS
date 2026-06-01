@@ -1436,11 +1436,11 @@
       "ip": "172.71.144.42",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780318902512,
-      "lastAlertAt": 1780319308830,
+      "lastSeenAt": 1780336221250,
+      "lastAlertAt": 1780336221250,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:7d4454ec775ae464": {
       "userKey": "ip:7d4454ec775ae464",

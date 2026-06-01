@@ -1722,11 +1722,11 @@
       "ip": "121.29.51.28",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780334071333,
+      "lastSeenAt": 1780334464951,
       "lastAlertAt": 1780334460153,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:0c2cb8c77c11a19f": {
       "userKey": "ip:0c2cb8c77c11a19f",

@@ -358,11 +358,11 @@
       "ip": "172.69.151.99",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780261655624,
-      "lastAlertAt": 1780262002922,
+      "lastSeenAt": 1780343936489,
+      "lastAlertAt": 1780343936489,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:2288690badf8be37": {
       "userKey": "ip:2288690badf8be37",

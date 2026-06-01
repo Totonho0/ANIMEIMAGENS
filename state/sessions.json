@@ -64,5 +64,17 @@
       "username": "Totonho",
       "avatar": "https://cdn.discordapp.com/avatars/377188128735232010/efa8b28a7904c6e9bfa21aaf0cf18853.png?size=256"
     }
+  },
+  "c346688f-eb58-4e33-b5e4-8c662722cb14": {
+    "createdAt": 1780347954583,
+    "user": {
+      "id": "377188128735232010",
+      "username": "Totonho",
+      "avatar": "https://cdn.discordapp.com/avatars/377188128735232010/efa8b28a7904c6e9bfa21aaf0cf18853.png?size=256"
+    },
+    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.jq0yoA86EGfd9qq2hJHBebMZubNXk1",
+    "oauthAccessExpiresAt": 1780952754583,
+    "hentaiAccess": true,
+    "hentaiAccessCheckedAt": 1780347956388
   }
 }

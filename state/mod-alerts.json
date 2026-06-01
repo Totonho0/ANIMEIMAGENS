@@ -657,10 +657,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780272563104,
-      "lastAlertAt": 1780272563104,
+      "lastAlertAt": 1780272953646,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:6f26fd492d58766f": {
       "userKey": "ip:6f26fd492d58766f",

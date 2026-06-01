@@ -813,10 +813,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780277502457,
-      "lastAlertAt": 1780277502457,
+      "lastAlertAt": 1780277903920,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:8ae631edf2703978": {
       "userKey": "ip:8ae631edf2703978",

@@ -955,11 +955,11 @@
       "ip": "104.23.223.139",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780307860826,
-      "lastAlertAt": 1780308207545,
+      "lastSeenAt": 1780320783636,
+      "lastAlertAt": 1780320783636,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:5fbe425f4bd89e52": {
       "userKey": "ip:5fbe425f4bd89e52",

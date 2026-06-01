@@ -943,10 +943,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780281143433,
-      "lastAlertAt": 1780281143433,
+      "lastAlertAt": 1780281504182,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:631da565c8280f2b": {
       "userKey": "ip:631da565c8280f2b",

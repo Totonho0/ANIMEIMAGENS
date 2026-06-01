@@ -1190,10 +1190,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780297490717,
-      "lastAlertAt": 1780297484211,
+      "lastAlertAt": 1780297856176,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

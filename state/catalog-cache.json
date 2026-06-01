@@ -1096,7 +1096,26 @@
         "hasMore": true
       },
       "at": 1780337917129
+    },
+    "todos|1|o": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 1,
+        "hasMore": false
+      },
+      "at": 1780338344008
     }
   },
-  "updatedAt": 1780338272782
+  "updatedAt": 1780338344008
 }

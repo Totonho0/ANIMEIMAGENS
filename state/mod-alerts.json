@@ -292,11 +292,11 @@
       "ip": "172.71.148.136",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780275792719,
-      "lastAlertAt": 1780276103776,
+      "lastSeenAt": 1780315079002,
+      "lastAlertAt": 1780315079002,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:d774fd8cfb689b4e": {
       "userKey": "ip:d774fd8cfb689b4e",

@@ -695,11 +695,11 @@
       "ip": "168.228.201.109",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780274842134,
-      "lastAlertAt": 1780275203723,
+      "lastSeenAt": 1780277788716,
+      "lastAlertAt": 1780277788716,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:e7f4d08ccd944f45": {
       "userKey": "ip:e7f4d08ccd944f45",

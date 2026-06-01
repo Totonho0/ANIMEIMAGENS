@@ -969,10 +969,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780303340419,
-      "lastAlertAt": 1780303328809,
+      "lastAlertAt": 1780303857000,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:a5a33c7ba29707b6": {
       "userKey": "ip:a5a33c7ba29707b6",

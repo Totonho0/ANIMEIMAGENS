@@ -1932,10 +1932,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780348350644,
-      "lastAlertAt": 1780348350644,
+      "lastAlertAt": 1780348733482,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:ec9db1fc7bcfdecf": {
       "userKey": "ip:ec9db1fc7bcfdecf",

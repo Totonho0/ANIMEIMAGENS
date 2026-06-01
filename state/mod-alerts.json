@@ -916,11 +916,11 @@
       "ip": "184.72.121.156",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780280871859,
-      "lastAlertAt": 1780281204154,
+      "lastSeenAt": 1780284233829,
+      "lastAlertAt": 1780284233829,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:22c3e180852562f9": {
       "userKey": "ip:22c3e180852562f9",

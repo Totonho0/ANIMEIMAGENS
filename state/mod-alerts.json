@@ -201,11 +201,11 @@
       "ip": "54.86.66.252",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780303329020,
-      "lastAlertAt": 1780303706989,
+      "lastSeenAt": 1780307135389,
+      "lastAlertAt": 1780307134617,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:23aaf813a786a787": {
       "userKey": "ip:23aaf813a786a787",
@@ -968,11 +968,11 @@
       "ip": "54.209.60.63",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780303340419,
-      "lastAlertAt": 1780303857000,
+      "lastSeenAt": 1780307136176,
+      "lastAlertAt": 1780307136176,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:a5a33c7ba29707b6": {
       "userKey": "ip:a5a33c7ba29707b6",

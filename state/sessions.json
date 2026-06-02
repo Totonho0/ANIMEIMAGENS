@@ -100,5 +100,17 @@
     "oauthAccessExpiresAt": 1781034837504,
     "hentaiAccess": true,
     "hentaiAccessCheckedAt": 1780430890857
+  },
+  "7991dcdd-3529-43ce-acca-bbad11cd055d": {
+    "createdAt": 1780430960806,
+    "user": {
+      "id": "1003147802139955240",
+      "username": "Ntzin",
+      "avatar": "https://cdn.discordapp.com/avatars/1003147802139955240/f20f70576acb8e152ec7a4ba759f1065.png?size=256"
+    },
+    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.ZczrDSF47lmOxz2EfI5W5VfvJ0xlaX",
+    "oauthAccessExpiresAt": 1781035760806,
+    "hentaiAccess": true,
+    "hentaiAccessCheckedAt": 1780430962808
   }
 }

@@ -278,7 +278,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1780419081111
+      "at": 1780422235048
     },
     "todos|2|": {
       "data": {
@@ -827,6 +827,17 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "hidarikiki-no-eren",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/hidarikiki-no-eren-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/50Dud8ukKNJHRRhLxOhS4AieLQa-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 8",
             "epTitle": "Episódio 8",
             "slug": "aishiteru-game-wo-owarasetai",
@@ -1078,24 +1089,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "ace-of-the-diamond-act-ii-season-2",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/utswSuNIRMxwhH29KdfnPM7LLUs-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780419081320
+      "at": 1780422235026
     },
     "todos|1|o": {
       "data": {
@@ -1397,5 +1397,5 @@
       "at": 1780417883028
     }
   },
-  "updatedAt": 1780419081320
+  "updatedAt": 1780422235048
 }

@@ -2777,10 +2777,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780422217889,
-      "lastAlertAt": 1780422217889,
+      "lastAlertAt": 1780422562721,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:d0d8042db904a1ee": {
       "userKey": "ip:d0d8042db904a1ee",

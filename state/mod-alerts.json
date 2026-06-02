@@ -151,10 +151,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780430226802,
-      "lastAlertAt": 1780430219812,
+      "lastAlertAt": 1780430542586,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:631879dd2fbb509c": {
       "userKey": "ip:631879dd2fbb509c",

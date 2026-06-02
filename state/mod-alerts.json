@@ -2997,11 +2997,11 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1780440663682,
+      "lastSeenAt": 1780441033008,
       "lastAlertAt": 1780441018195,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:503b7b5eda37e106": {
       "userKey": "ip:503b7b5eda37e106",

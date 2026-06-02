@@ -2789,11 +2789,11 @@
       "ip": "143.131.235.95",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780425593062,
-      "lastAlertAt": 1780425955622,
+      "lastSeenAt": 1780427511645,
+      "lastAlertAt": 1780427511645,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:e97ba3de567731e0": {
       "userKey": "ip:e97ba3de567731e0",
@@ -2804,8 +2804,8 @@
       "username": "",
       "lastSeenAt": 1780426859340,
       "lastAlertAt": 1780427305766,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     }
   },

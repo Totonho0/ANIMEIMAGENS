@@ -2552,14 +2552,14 @@
       "userKey": "d:377188128735232010",
       "messageId": "1511373270912335872",
       "channelId": "1510693609551171775",
-      "ip": "31.221.204.10",
+      "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1780419075994,
-      "lastAlertAt": 1780419412463,
+      "lastSeenAt": 1780422230904,
+      "lastAlertAt": 1780422230904,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:12449afdf00c6466": {
       "userKey": "ip:12449afdf00c6466",
@@ -2785,7 +2785,7 @@
   },
   "links": {
     "ip:84f757da9050388e": "d:377188128735232010",
-    "d:377188128735232010": "ip:c512528ee4128aef",
+    "d:377188128735232010": "ip:84f757da9050388e",
     "ip:0364f613a90462fb": "d:1335061693088399476",
     "d:1335061693088399476": "ip:0364f613a90462fb",
     "ip:c512528ee4128aef": "d:377188128735232010"

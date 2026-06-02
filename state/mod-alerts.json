@@ -774,11 +774,11 @@
       "ip": "172.68.10.208",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780381519056,
-      "lastAlertAt": 1780381887038,
+      "lastSeenAt": 1780382568877,
+      "lastAlertAt": 1780382568877,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:767e6fa0dc996764": {
       "userKey": "ip:767e6fa0dc996764",

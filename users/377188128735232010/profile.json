@@ -145,7 +145,11 @@
       "kind": "anime"
     }
   },
-  "watched": {},
+  "watched": {
+    "devil-may-cry-2026-dublado": [
+      1
+    ]
+  },
   "started": {
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       2
@@ -206,7 +210,13 @@
       1
     ]
   },
-  "watchHistoryLog": [],
+  "watchHistoryLog": [
+    {
+      "slug": "devil-may-cry-2026-dublado",
+      "ep": 1,
+      "at": 1780431540433
+    }
+  ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780431103956
+  "updatedAt": 1780431539763
 }

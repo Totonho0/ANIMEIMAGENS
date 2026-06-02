@@ -1,0 +1,25 @@
+{
+  "name": "Raridade",
+  "bio": "",
+  "avatar": "https://cdn.discordapp.com/avatars/1029383978265882664/d9c8b76ec9fdb01555fb43a93992f408.png?size=256",
+  "banner": "/placeholder.svg",
+  "favorites": [],
+  "watchLater": [],
+  "library": {
+    "aishiteru-game-wo-owarasetai-dublado": {
+      "slug": "aishiteru-game-wo-owarasetai-dublado",
+      "title": "Aishiteru Game wo Owarasetai Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82bFdDYjV4STA5S2tjWWRUZzdTdDhpOHE3WEYuanBn",
+      "kind": "anime"
+    }
+  },
+  "watched": {},
+  "started": {
+    "aishiteru-game-wo-owarasetai-dublado": [
+      1
+    ]
+  },
+  "watchHistoryLog": [],
+  "watchHistoryHidden": [],
+  "updatedAt": 1780431518508
+}

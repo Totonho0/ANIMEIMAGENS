@@ -1425,10 +1425,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780372259576,
-      "lastAlertAt": 1780372259576,
+      "lastAlertAt": 1780372585884,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:7d4454ec775ae464": {
       "userKey": "ip:7d4454ec775ae464",

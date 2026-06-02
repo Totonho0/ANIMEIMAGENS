@@ -2582,10 +2582,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780410981622,
-      "lastAlertAt": 1780410981622,
-      "viaBot": true,
+      "lastAlertAt": 1780411312202,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "viaBot": true,
+      "embedOnlineStatus": false
     }
   },
   "links": {

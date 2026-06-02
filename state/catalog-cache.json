@@ -16620,7 +16620,44 @@
         "hasMore": false
       },
       "at": 1780435806639
+    },
+    "todos|2|m|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”",
+            "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+            "url": "https://animesonline.cloud/anime/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/2cZEw2ntVk1lbcs1hqDjudKMzJr-185x278.jpg",
+            "rating": "7.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Marriagetoxin",
+            "slug": "marriagetoxin",
+            "url": "https://animesonline.cloud/anime/marriagetoxin",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/bHCm3vz7Mg60wEO6HTm9g2g8IEH-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 2,
+        "hasMore": false
+      },
+      "at": 1780435810954
     }
   },
-  "updatedAt": 1780435806639
+  "updatedAt": 1780435810954
 }

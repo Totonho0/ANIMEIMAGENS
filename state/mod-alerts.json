@@ -2204,11 +2204,11 @@
       "ip": "172.70.248.48",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780431627694,
-      "lastAlertAt": 1780432042594,
+      "lastSeenAt": 1780437671210,
+      "lastAlertAt": 1780437671210,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:376418ed49405448": {
       "userKey": "ip:376418ed49405448",

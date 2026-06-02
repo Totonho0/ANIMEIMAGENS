@@ -801,10 +801,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780363997107,
-      "lastAlertAt": 1780363997107,
+      "lastAlertAt": 1780364335269,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:8ae631edf2703978": {
       "userKey": "ip:8ae631edf2703978",
@@ -2036,10 +2036,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780363968094,
-      "lastAlertAt": 1780363962371,
+      "lastAlertAt": 1780364335269,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

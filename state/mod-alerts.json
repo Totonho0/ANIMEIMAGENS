@@ -397,11 +397,11 @@
       "ip": "172.71.164.17",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780262454557,
-      "lastAlertAt": 1780262902934,
+      "lastSeenAt": 1780398464033,
+      "lastAlertAt": 1780398464033,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:7e8f92094ecfe592": {
       "userKey": "ip:7e8f92094ecfe592",

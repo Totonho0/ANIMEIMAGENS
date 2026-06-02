@@ -5035,7 +5035,287 @@
         "hasMore": true
       },
       "at": 1780430092454
+    },
+    "todos|17|": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Bad Girl",
+            "slug": "badgirl",
+            "url": "https://animesonline.cloud/anime/badgirl",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ovE3txsuLdvpIPWpG4WodlkWXGi-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ame to Kimi to",
+            "slug": "ame-to-kimi-to",
+            "url": "https://animesonline.cloud/anime/ame-to-kimi-to",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/oCzIdh0j3s2Rh0KvfdbQ0MAwnr0-185x278.jpg",
+            "rating": "7.16",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Fermat no Ryouri",
+            "slug": "fermat-no-ryouri",
+            "url": "https://animesonline.cloud/anime/fermat-no-ryouri",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/22T1A22tDMYG0SMEAiQqmCZrIQw-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kizetsu Yuusha to Ansatsu Hime",
+            "slug": "the-shy-hero-and-the-assassin-princesses",
+            "url": "https://animesonline.cloud/anime/the-shy-hero-and-the-assassin-princesses",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/qdQBSwOUD99BvnBiOJ0RvnR5Oz8-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+            "slug": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
+            "url": "https://animesonline.cloud/anime/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/kwV4MylQoDhz14Qd54z3Hq4qppf-185x278.jpg",
+            "rating": "7,07",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kaoru Hana wa Rin to Saku",
+            "slug": "kaoru-hana-wa-rin-to-saku",
+            "url": "https://animesonline.cloud/anime/kaoru-hana-wa-rin-to-saku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/06/khxkciCkPVG1c7R00vNZFxqgqFE-185x278.jpg",
+            "rating": "8.86",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+            "slug": "yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru",
+            "url": "https://animesonline.cloud/anime/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/nE1roPkXMjTpGNSuN1mjWsm9DNN-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "SilverHawks",
+            "slug": "silverhawks",
+            "url": "https://animesonline.cloud/anime/silverhawks",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/mOEWtpkuqNMfY9c2UcWEIDQzo0o-185x278.jpg",
+            "rating": "8.148",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Arknights: Reimei Zensou",
+            "slug": "arknights-reimei-zensou",
+            "url": "https://animesonline.cloud/anime/arknights-reimei-zensou",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/kRaE0uUaINUSFBd14gFSzhzB25l-185x278.jpg",
+            "rating": "6.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Watari-kun no xx ga Houkai Sunzen",
+            "slug": "watari-kun-no-xx-ga-houkai-sunzen",
+            "url": "https://animesonline.cloud/anime/watari-kun-no-xx-ga-houkai-sunzen",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/3WvPzs9EbizKgoAoZbKnvleu1S5-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Busu ni Hanataba wo.",
+            "slug": "busu-ni-hanataba-wo",
+            "url": "https://animesonline.cloud/anime/busu-ni-hanataba-wo",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/m1OK9bwr1ukQa46QxfzRWIFHQ8L-185x278.jpg",
+            "rating": "7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Mizu Zokusei no Mahoutsukai",
+            "slug": "the-water-magician",
+            "url": "https://animesonline.cloud/anime/the-water-magician",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/qYK9kCN23Lrg9jcPh1QDBL0PeWw-185x278.jpg",
+            "rating": "7.0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tsuihousha Shokudou e Youkoso!",
+            "slug": "tsuihousha-shokudou-e-youkoso",
+            "url": "https://animesonline.cloud/anime/tsuihousha-shokudou-e-youkoso",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/1IJigiaXgp8qvjwlRVFYhP71z8Q-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Onmyo Kaiten Re:Birth Verse",
+            "slug": "onmyo-kaiten-rebirth-verse",
+            "url": "https://animesonline.cloud/anime/onmyo-kaiten-rebirth-verse",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/gjXTpi4ENSkf69jtNlShoM3TdUe-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tsuyokute New Saga",
+            "slug": "tsuyokute-new-saga",
+            "url": "https://animesonline.cloud/anime/tsuyokute-new-saga",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/7WAVcPVqdLK9whw75A7z6qeiuCg-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha Dublado",
+            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "url": "https://animesonline.cloud/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/tJCR0g2EvVQ8V0laox1HB7Up9DS-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jigoku Sensei Nube",
+            "slug": "jigoku-sensei-nube",
+            "url": "https://animesonline.cloud/anime/jigoku-sensei-nube",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/grfNZ1Sx5lGl4UVtXFT8amk6A3M-185x278.jpg",
+            "rating": "6.67",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
+            "url": "https://animesonline.cloud/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/tJCR0g2EvVQ8V0laox1HB7Up9DS-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kakkou no Iinazuke 2",
+            "slug": "kakkou-no-iinazuke-2",
+            "url": "https://animesonline.cloud/anime/kakkou-no-iinazuke-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/rM44B7aike8mV4eJaE6ekKrCnQS-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Bullet/Bullet",
+            "slug": "bullet-bullet",
+            "url": "https://animesonline.cloud/anime/bullet-bullet",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/cNCGEF7uYm3O82RyszA7QPTsEJ4-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Grand Blue Dreaming 2",
+            "slug": "grand-blue-dreaming-2",
+            "url": "https://animesonline.cloud/anime/grand-blue-dreaming-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/luqItcfk4OuBk0jp30raXHSEqUG-185x278.jpg",
+            "rating": "7.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Necronomico and the Cosmic Horror Show",
+            "slug": "necronomico-and-the-cosmic-horror-show",
+            "url": "https://animesonline.cloud/anime/necronomico-and-the-cosmic-horror-show",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/443pa7TaKbBM5VadgnAy4WHNZd7-185x278.jpg",
+            "rating": "6.13",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kanojo Okarishimasu",
+            "slug": "kanojo-okarishimasu",
+            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/lHt3j91jV7Kh6MuRJ4w8KmK3Xav-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Mattaku Saikin no Tantei to Kitara",
+            "slug": "mattaku-saikin-no-tantei-to-kitara",
+            "url": "https://animesonline.cloud/anime/mattaku-saikin-no-tantei-to-kitara",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/oPjkcuMQCtzafBJaiBu7XlS3lRK-185x278.jpg",
+            "rating": "7.0",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 17,
+        "hasMore": true
+      },
+      "at": 1780430899322
     }
   },
-  "updatedAt": 1780430897110
+  "updatedAt": 1780430899322
 }

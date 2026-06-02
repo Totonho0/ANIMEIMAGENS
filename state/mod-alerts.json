@@ -2790,10 +2790,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780437415942,
-      "lastAlertAt": 1780437415942,
+      "lastAlertAt": 1780437718108,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:6232efb5f80a7a2c": {
       "userKey": "ip:6232efb5f80a7a2c",

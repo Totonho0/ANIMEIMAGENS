@@ -2543,10 +2543,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780434824603,
-      "lastAlertAt": 1780434824603,
+      "lastAlertAt": 1780435168056,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:12449afdf00c6466": {
       "userKey": "ip:12449afdf00c6466",

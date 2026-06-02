@@ -476,10 +476,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780360514663,
-      "lastAlertAt": 1780360514663,
+      "lastAlertAt": 1780360884980,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:3b45639ca24532a5": {
       "userKey": "ip:3b45639ca24532a5",

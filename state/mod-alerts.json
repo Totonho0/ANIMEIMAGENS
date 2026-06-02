@@ -2712,10 +2712,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780421259147,
-      "lastAlertAt": 1780421259147,
+      "lastAlertAt": 1780421662675,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:556aa45b543e9ffc": {
       "userKey": "ip:556aa45b543e9ffc",

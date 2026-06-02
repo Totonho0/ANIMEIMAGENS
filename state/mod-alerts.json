@@ -2946,10 +2946,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780439085633,
-      "lastAlertAt": 1780439085633,
+      "lastAlertAt": 1780439518165,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:592ac80406d096b6": {
       "userKey": "ip:592ac80406d096b6",

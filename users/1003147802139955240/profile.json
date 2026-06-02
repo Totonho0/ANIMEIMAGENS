@@ -13,7 +13,11 @@
       "kind": "anime"
     }
   },
-  "watched": {},
+  "watched": {
+    "devil-may-cry-2026-dublado": [
+      1
+    ]
+  },
   "started": {
     "devil-may-cry-2026-dublado": [
       1
@@ -22,7 +26,13 @@
       9
     ]
   },
-  "watchHistoryLog": [],
+  "watchHistoryLog": [
+    {
+      "slug": "devil-may-cry-2026-dublado",
+      "ep": 1,
+      "at": 1780431393721
+    }
+  ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780431229028
+  "updatedAt": 1780431394360
 }

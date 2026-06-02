@@ -814,10 +814,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780433295549,
-      "lastAlertAt": 1780433285689,
+      "lastAlertAt": 1780433684633,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:34685047f9990022": {
       "userKey": "ip:34685047f9990022",

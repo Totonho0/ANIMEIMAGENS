@@ -1320,11 +1320,11 @@
       "ip": "162.158.110.87",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780421612222,
-      "lastAlertAt": 1780421962686,
+      "lastSeenAt": 1780444347003,
+      "lastAlertAt": 1780444347003,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:cfa6839795efcace": {
       "userKey": "ip:cfa6839795efcace",

@@ -255,10 +255,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780429808974,
-      "lastAlertAt": 1780415062258,
+      "lastAlertAt": 1780429808974,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "d:1335061693088399476": {
       "userKey": "d:1335061693088399476",

@@ -16152,7 +16152,257 @@
         "warning": "Catálogo em cache — páginas seguintes vêm do armazenamento local até o AOC voltar."
       },
       "at": 1780433367842
+    },
+    "hentai|1||24": {
+      "data": {
+        "items": [
+          {
+            "title": "Cool de M",
+            "slug": "cool-de-m",
+            "url": "https://animesonline.cloud/anime/cool-de-m",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zrcUzIRiWL0XBjiqTTJxjiX118R-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Mujin Eki The Animation",
+            "slug": "mujin-eki-the-animation",
+            "url": "https://animesonline.cloud/anime/mujin-eki-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/hu2Ns2SpcP5fENNmmWJRMdwOMBy-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Kuro Gal a La Carte",
+            "slug": "kuro-gal-a-la-carte",
+            "url": "https://animesonline.cloud/anime/kuro-gal-a-la-carte",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/3XMT4yryXUWeZdHxlx6e6uFmC9-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Yatara Yarashii Fukami-kun",
+            "slug": "yatara-yarashii-fukami-kun",
+            "url": "https://animesonline.cloud/anime/yatara-yarashii-fukami-kun",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/09/rSQSg642q5E7Juu7iUasLSSbQJV-185x278.jpg",
+            "rating": "6.667",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Ito wo Yoru",
+            "slug": "ito-wo-yoru",
+            "url": "https://animesonline.cloud/anime/ito-wo-yoru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/Ito-wo-Yoru-185x261-1.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "No Waifu No Life!",
+            "slug": "no-waifu-no-life",
+            "url": "https://animesonline.cloud/anime/no-waifu-no-life",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/No-Waifu-No-Life.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Shounen ga Otona ni Natta Natsu",
+            "slug": "shounen-ga-otona-ni-natta-natsu",
+            "url": "https://animesonline.cloud/anime/shounen-ga-otona-ni-natta-natsu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/Shounen-ga-Otona-ni-Natta-Natsu-Anime-Drive.png",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Oni Chichi Harem",
+            "slug": "oni-chichi-harem",
+            "url": "https://animesonline.cloud/anime/oni-chichi-harem",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/y7w9VYja4GxDEQnNIGL60EnRaa1-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Yumemiru Otome",
+            "slug": "yumemiru-otome",
+            "url": "https://animesonline.cloud/anime/yumemiru-otome",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/1YsYSiDEaAKzbuLtAzyjNCbgJ2J-185x278.jpg",
+            "rating": "6",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Overflow Dublado – Todos os Episódios",
+            "slug": "overflow-dublado",
+            "url": "https://animesonline.cloud/anime/overflow-dublado-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/wWKrrAVGk8nLsEOtkOEaaQCEQem.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Yarichin Bitch Club",
+            "slug": "yarichin-bitch-club",
+            "url": "https://animesonline.cloud/anime/yarichin-bitch-club",
+            "poster": "https://image.tmdb.org/t/p/original/5bAcvgpy0yGUXkQJV2RE52dIvUk.jpg",
+            "rating": "7.3",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Ikumonogakari The Animation – Todos os Episódios",
+            "slug": "ikumonogakari-the-animation",
+            "url": "https://animesonline.cloud/anime/ikumonogakari-the-animation-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/w185/4oFnolKQtIO32eBELEODThLmhL4.jpg",
+            "rating": "6.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Taishou Itsuwari Bridal",
+            "slug": "taishou-itsuwari-bridal",
+            "url": "https://animesonline.cloud/anime/taishou-itsuwari-bridal",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/adLuRUaIzy44nUExYjUix2ZKjqM-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Yoasobi Gurashi!",
+            "slug": "yoasobi-gurashi",
+            "url": "https://animesonline.cloud/anime/yoasobi-gurashi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/wxvosl1gwbJ80uXChRojZs3RP6I-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Ateuma Chara No Kuse Shite Supadari Ouji Ni Choai Sareteimasu",
+            "slug": "ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu",
+            "url": "https://animesonline.cloud/anime/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/aszAjDvU5gOB9oXHBc4REuoPNCO-185x278.jpg",
+            "rating": "6",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Modaete yo, Adam-kun",
+            "slug": "modaete-yo-adam-kun",
+            "url": "https://animesonline.cloud/anime/modaete-yo-adam-kun",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/1n1ZP0KHXUSvVxZG63x7aOzmO4M-185x278.jpg",
+            "rating": "6.6",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Fleur The Animation",
+            "slug": "fleur-the-animation",
+            "url": "https://animesonline.cloud/anime/fleur-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/luHieB09niRBFx89tmnTnUdepZG-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Tsundero",
+            "slug": "tsundero",
+            "url": "https://animesonline.cloud/anime/tsundero",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ohfZzVD51alDHHGracqIjyRM141-185x278.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Goblin no Suana",
+            "slug": "goblin-no-suana",
+            "url": "https://animesonline.cloud/anime/goblin-no-suana",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/rPtGP0hXA5NcVuwxgsvuWZjml9D-185x278.jpg",
+            "rating": "6",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+            "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+            "url": "https://animesonline.cloud/anime/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/cIVz47FkSTguGwYaRi6x4H2ms0L-185x278.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Eroge de Subete wa Kaiketsu Dekiru!",
+            "slug": "eroge-de-subete-wa-kaiketsu-dekiru",
+            "url": "https://animesonline.cloud/anime/eroge-de-subete-wa-kaiketsu-dekiru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/xpA5XiSqXkJRzykj1axYdYzJxjA-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Onii-chan, Asa made Zutto Gyutte Shite!",
+            "slug": "onii-chan-asa-made-zutto-gyutte-shite",
+            "url": "https://animesonline.cloud/anime/onii-chan-asa-made-zutto-gyutte-shite",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/k9vWrMWYxIKWuets7ayQvpQnd44-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Aisei Tenshi Love Mary: Akusei Jutai The Animation",
+            "slug": "aisei-tenshi-love-mary-akusei-jutai-the-animation",
+            "url": "https://animesonline.cloud/anime/aisei-tenshi-love-mary-akusei-jutai-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/eit8VD15iZKimN5FHIFu2Oe4JHt-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Master Piece The Animation",
+            "slug": "master-piece-the-animation",
+            "url": "https://animesonline.cloud/anime/master-piece-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/rsyBljVavX6qDMkfu9Rsh4FzVhs-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          }
+        ],
+        "category": "hentai",
+        "page": 1,
+        "hasMore": true
+      },
+      "at": 1780435731259
     }
   },
-  "updatedAt": 1780435319774
+  "updatedAt": 1780435731259
 }

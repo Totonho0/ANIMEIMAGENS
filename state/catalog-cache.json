@@ -4195,7 +4195,847 @@
         "hasMore": true
       },
       "at": 1780430028579
+    },
+    "todos|14|": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld 2 Dublado",
+            "slug": "sword-art-online-alicization-war-of-underworld-2-dublado",
+            "url": "https://animesonline.cloud/anime/sword-art-online-alicization-war-of-underworld-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/i86Z8hcSHPRrplRgbNUGjmUbjEZ-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld 2",
+            "slug": "sword-art-online-alicization-war-of-underworld-2",
+            "url": "https://animesonline.cloud/anime/sword-art-online-alicization-war-of-underworld-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/LiC6RQb4HU7aBLw6vYQYzhuqX0-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld Dublado",
+            "slug": "sword-art-online-alicization-war-of-underworld-dublado",
+            "url": "https://animesonline.cloud/anime/sword-art-online-alicization-war-of-underworld-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/vxog7oEJ0H8vYHYaWT2svyzzZSN-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online: Alicization – War of Underworld",
+            "slug": "sword-art-online-alicization-war-of-underworld",
+            "url": "https://animesonline.cloud/anime/sword-art-online-alicization-war-of-underworld",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/jBx7fUPvMFGT1LvbNlkyx5Pa1vK-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online: Alicization Dublado",
+            "slug": "sword-art-online-alicization-dublado",
+            "url": "https://animesonline.cloud/anime/sword-art-online-alicization-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/ypwJXkjc9cpH1r5TxDXUWflbq2x-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online: Alicization",
+            "slug": "sword-art-online-alicization",
+            "url": "https://animesonline.cloud/anime/sword-art-online-alicization",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/43waZTlwWoDCuMmaeNLhgkxPgrl-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Bullet/Bullet Dublado",
+            "slug": "bullet-bullet-dublado",
+            "url": "https://animesonline.cloud/anime/bullet-bullet-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/rA2U4DTb6woaI0ExjCusjx2LMQY-185x278.jpg",
+            "rating": "6.48",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shin Samurai-den Yaiba Dublado",
+            "slug": "shin-samurai-den-yaiba-dublado",
+            "url": "https://animesonline.cloud/anime/shin-samurai-den-yaiba-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/1jltcsz17CkfyhpcsSlmVC6pQGh-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online 2 Dublado",
+            "slug": "sword-art-online-2-dublado",
+            "url": "https://animesonline.cloud/anime/sword-art-online-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/kd4EtP4I143o8kTO1q5AY9nABBz-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online 2",
+            "slug": "sword-art-online-2",
+            "url": "https://animesonline.cloud/anime/sword-art-online-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/ycCgDrMbUVx0hmwLikCUfv1lETG-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sword Art Online Dublado",
+            "slug": "sword-art-online-dublado",
+            "url": "https://animesonline.cloud/anime/sword-art-online-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/nfnpRV9P5hr3HopG2pX2Zrfqd9g-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Vinland Saga 2 Dublado",
+            "slug": "vinland-saga-2-dublado",
+            "url": "https://animesonline.cloud/anime/vinland-saga-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/oOTLXjbcdZwoQ0f6gspqTH6Gspt-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Vinland Saga 2",
+            "slug": "vinland-saga-2",
+            "url": "https://animesonline.cloud/anime/vinland-saga-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/7BwBilp19GklJGUy6IBFnuoQ12B-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Vinland Saga Dublado",
+            "slug": "vinland-saga-dublado",
+            "url": "https://animesonline.cloud/anime/vinland-saga-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/8Sih4LoQucb7ActfTcA5BkIS9Ua-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Akame ga Kill! Dublado",
+            "slug": "akame-ga-kill-dublado",
+            "url": "https://animesonline.cloud/anime/akame-ga-kill-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
+            "rating": "8.286",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ao Ashi Dublado",
+            "slug": "ao-ashi-dublado",
+            "url": "https://animesonline.cloud/anime/ao-ashi-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/08/gmLYJPrOApnCANeKIQczu841krp-185x278.jpg",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Futari Solo Camp Dublado",
+            "slug": "futari-solo-camp-dublado",
+            "url": "https://animesonline.cloud/anime/futari-solo-camp-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/lo6vw7VbIX1ScZPAquXvX9RDNE7-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/nVOeDMugEuIzGAeOfVU386bWFKm-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2 Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
+            "url": "https://animesonline.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/3Z7T9LxxCC6AhhWUxJsShtV3dXM-185x278.jpg",
+            "rating": "6.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2 Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ddND31kXTAlBdDQYbUEQJgswcig-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+            "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/dx972st0uNycRxZpSmuY8tUQjJR-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kakkou no Iinazuke 2 Dublado",
+            "slug": "kakkou-no-iinazuke-2-dublado",
+            "url": "https://animesonline.cloud/anime/kakkou-no-iinazuke-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/rM44B7aike8mV4eJaE6ekKrCnQS-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/iP17LLR2okmDSVfuOHiq7CuH3om-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 14,
+        "hasMore": true
+      },
+      "at": 1780430090057
+    },
+    "todos|15|": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+            "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/62pWJCjUzOMHExw3uaYfQoeUivP-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jibaku Shounen Hanako-kun 2 Part 2 Dublado",
+            "slug": "jibaku-shounen-hanako-kun-2-part-2-dublado",
+            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2-part-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/g7arUubV7fNq38SPjmzQkv2hf9s-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/uOo7gxGJHQtTHxtaqnx4PILUsre-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Lord Of Mysteries Dublado",
+            "slug": "lord-of-mysteries-dublado",
+            "url": "https://animesonline.cloud/anime/lord-of-mysteries-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/pAqdKSYnT4AjexO8ykp3RFhExwl-185x278.jpg",
+            "rating": "9.667",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tsuyokute New Saga Dublado",
+            "slug": "tsuyokute-new-saga-dublado",
+            "url": "https://animesonline.cloud/anime/tsuyokute-new-saga-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/alLLSXrFGG11KGwfvrF8P86SqYO-185x278.jpg",
+            "rating": "6.73",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+            "slug": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/gzDrogA6cUXhdUysrXAsDFBVhXx-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tate no Yuusha no Nariagari 4 Dublado",
+            "slug": "tate-no-yuusha-no-nariagari-4-dublado",
+            "url": "https://animesonline.cloud/anime/tate-no-yuusha-no-nariagari-4-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/jFkp3lC2HmvIGvEyH2c4GlqruFp-185x278.jpg",
+            "rating": "7.40",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dr. Stone: Science Future 2 Dublado",
+            "slug": "dr-stone-science-future-2-dublado",
+            "url": "https://animesonline.cloud/anime/dr-stone-science-future-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/2C7lHKeWY7k1qEtTKecUHuqKv1X-185x278.jpg",
+            "rating": "8.564",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nyaight of the Living Cat Dublado",
+            "slug": "nyaight-of-the-living-cat-dublado",
+            "url": "https://animesonline.cloud/anime/nyaight-of-the-living-cat-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/8JGwsqHqdTUQ2z6BpVoI0XsuOQc-185x278.jpg",
+            "rating": "6.43",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kanojo Okarishimasu 4th Season Dublado",
+            "slug": "kanojo-okarishimasu-4th-season-dublado",
+            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu-4th-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ie6ErCiZeFrJGswmtVuFbRneXC1-185x278.jpg",
+            "rating": "6.22",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders Dublado",
+            "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-dublado",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/f3drdFytkB4WzEbwu63lgFl29Ym-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+            "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/32p39EHgqrApp8GdA4QDvpBPuC4-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo no Kimyou na Bouken Dublado (2012)",
+            "slug": "jojo-no-kimyou-na-bouken-dublado-2012",
+            "url": "https://animesonline.cloud/anime/jojo-no-kimyou-na-bouken-dublado-2012",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/okoCuLlbLBUwj4BBWYat3XErP75-185x278.jpg",
+            "rating": "8.569",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nukitashi the Animation",
+            "slug": "nukitashi-the-animation",
+            "url": "https://animesonline.cloud/anime/nukitashi-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/zlybZJXfu4IpPnWXhnRtobl9BgZ-185x278.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "JoJo’s Bizarre Adventure: Adventure (2000)",
+            "slug": "jojos-bizarre-adventure-adventure-2000",
+            "url": "https://animesonline.cloud/anime/jojos-bizarre-adventure-adventure-2000",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/mzoZz5PuffeacFDGABDUgt9vkHk-185x278.jpg",
+            "rating": "7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakamoto Days 2 Dublado",
+            "slug": "sakamoto-days-2-dublado",
+            "url": "https://animesonline.cloud/anime/sakamoto-days-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
+            "rating": "8,03",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dragon Raja II -The Mourner’s Eyes-",
+            "slug": "dragon-raja-ii-the-mourners-eyes",
+            "url": "https://animesonline.cloud/anime/dragon-raja-ii-the-mourners-eyes",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/5x8NfllHVTpEFe2ZCAIXXlefvl1-185x278.jpg",
+            "rating": "6.727",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakamoto Days 2",
+            "slug": "sakamoto-days-2",
+            "url": "https://animesonline.cloud/anime/sakamoto-days-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4RV1Icg4NPoUEjue57m3hlnqRmM-185x278.jpg",
+            "rating": "8,03",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Yami Shibai 15",
+            "slug": "yami-shibai-15",
+            "url": "https://animesonline.cloud/anime/yami-shibai-15",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/Au8kFYRagmxw4DtpzsOKjCVUBWJ-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tougen Anki Dublado",
+            "slug": "tougen-anki-dublado",
+            "url": "https://animesonline.cloud/anime/tougen-anki-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/aVG8MTcg6MdTPlbs3S5w5L2enSI-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei shitara Dainana Ouji Datta node Kimama ni Majutsu wo Kiwamemasu 2",
+            "slug": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2",
+            "url": "https://animesonline.cloud/anime/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/w2yBhzw20oh7oYxK8GC2ysr01q2-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dr. Stone: Science Future 2",
+            "slug": "dr-stone-science-future-2",
+            "url": "https://animesonline.cloud/anime/dr-stone-science-future-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/g7LwQqNFmxoxrdVKBHk18z6iv0p-185x278.jpg",
+            "rating": "8.564",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kamitsubaki-shi Kensetsuchuu",
+            "slug": "kamitsubaki-shi-kensetsuchuu",
+            "url": "https://animesonline.cloud/anime/kamitsubaki-shi-kensetsuchuu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/17TgENGeO5YMahY5bdayov7PbW-185x278.jpg",
+            "rating": "5.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Futari Solo Camp",
+            "slug": "futari-solo-camp",
+            "url": "https://animesonline.cloud/anime/futari-solo-camp",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 15,
+        "hasMore": true
+      },
+      "at": 1780430091209
+    },
+    "todos|16|": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "New Panty & Stocking with Garterbelt Dublado",
+            "slug": "new-panty-stocking-with-garterbelt-dublado",
+            "url": "https://animesonline.cloud/anime/new-panty-stocking-with-garterbelt-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/aNI2q7s2all1sH5k7B5yGhBZdfr-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Osomatsu-san 3",
+            "slug": "osomatsu-san-3",
+            "url": "https://animesonline.cloud/anime/osomatsu-san-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/i5bFfvgIh6nq9VlDx53S4HhuJBi-185x278.jpg",
+            "rating": "6.938",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tate no Yuusha no Nariagari 4",
+            "slug": "tate-no-yuusha-no-nariagari-4",
+            "url": "https://animesonline.cloud/anime/tate-no-yuusha-no-nariagari-4",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/2MDqemFjy2gQucBfynjvE3ZxTWC-185x278.jpg",
+            "rating": "8.55",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Mikadono Sanshimai wa Angai, Choroi",
+            "slug": "mikadono-sanshimai-wa-angai-choroi",
+            "url": "https://animesonline.cloud/anime/mikadono-sanshimai-wa-angai-choroi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/m1V6c1x127niTfg3k0rLWPouDSn-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "New Panty & Stocking with Garterbelt",
+            "slug": "new-panty-stocking-with-garterbelt",
+            "url": "https://animesonline.cloud/anime/new-panty-stocking-with-garterbelt",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/hCOYjAsPuZeJUH9iMSor7RhJBd6-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Osomatsu-san 4",
+            "slug": "osomatsu-san-4",
+            "url": "https://animesonline.cloud/anime/osomatsu-san-4",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/vceBokwUm62MXldhJ4d8w5FZYtp-185x278.jpg",
+            "rating": "6.938",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Osomatsu-san 2",
+            "slug": "osomatsu-san-2",
+            "url": "https://animesonline.cloud/anime/osomatsu-san-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/8HfacCFlf7IxiD2V9QQ0aH7W1BL-185x278.jpg",
+            "rating": "6.938",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Turkey! Time to Strike",
+            "slug": "turkey-time-to-strike",
+            "url": "https://animesonline.cloud/anime/turkey-time-to-strike",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/a7UXd4jRd2VCEKQLAnvXrB8wSj0-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Puniru wa Kawaii Slime 2",
+            "slug": "puniru-wa-kawaii-slime-2",
+            "url": "https://animesonline.cloud/anime/puniru-wa-kawaii-slime-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/jYzLWY0ui7xDMQjXLt7H4fayHBp-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Gachiakuta Dublado",
+            "slug": "gachiakuta-dublado",
+            "url": "https://animesonline.cloud/anime/gachiakuta-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/RxuL7KuFoOzHC0htjtLGxJEGGx-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "City The Animation Dublado",
+            "slug": "city-the-animation-dublado",
+            "url": "https://animesonline.cloud/anime/city-the-animation-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/iF1lDNPZtqqUk200IBFnOe4K26m-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Food Court de Mata Ashita",
+            "slug": "food-court-de-mata-ashita",
+            "url": "https://animesonline.cloud/anime/food-court-de-mata-ashita",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ftbclK56IBYCoaMASrcMi6c31GI-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dekin no Mogura",
+            "slug": "dekin-no-mogura",
+            "url": "https://animesonline.cloud/anime/dekin-no-mogura",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/bcmZblOannHR42RQAfbqhMOW4Q3-185x278.jpg",
+            "rating": "6.13",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jibaku Shounen Hanako-kun 2 Part 2",
+            "slug": "jibaku-shounen-hanako-kun-2-part-2",
+            "url": "https://animesonline.cloud/anime/jibaku-shounen-hanako-kun-2-part-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/g7arUubV7fNq38SPjmzQkv2hf9s-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!",
+            "slug": "watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri",
+            "url": "https://animesonline.cloud/anime/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/gj5oUGMFPMJB304Z9jQAoTTCREJ-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Game Center Shoujo to Ibunka Kouryuu",
+            "slug": "game-center-shoujo-to-ibunka-kouryuu",
+            "url": "https://animesonline.cloud/anime/game-center-shoujo-to-ibunka-kouryuu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/zDwWyorWWm7OOCsOHcXidWHpaIr-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nyaight of the Living Cat",
+            "slug": "nyaight-of-the-living-cat",
+            "url": "https://animesonline.cloud/anime/nyaight-of-the-living-cat",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/xaiHM6xiEAcjuBSww2rUZ3ZaQM-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Busamen Gachi Fighter",
+            "slug": "busamen-gachi-fighter",
+            "url": "https://animesonline.cloud/anime/busamen-gachi-fighter",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/tuOXsK63UNldWDNiWXZrajWRcyL-185x278.jpg",
+            "rating": "6.64",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+            "slug": "isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku",
+            "url": "https://animesonline.cloud/anime/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/nrd2DMbn39Usv9Lp5LpHh67yVAN-185x278.jpg",
+            "rating": "7.16",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ruri no Houseki",
+            "slug": "ruri-no-houseki",
+            "url": "https://animesonline.cloud/anime/ruri-no-houseki",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/6uOEjCO4Zl4up30zWGjsO2nXeWV-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hotel Inhumans",
+            "slug": "hotel-inhumans",
+            "url": "https://animesonline.cloud/anime/hotel-inhumans",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hikaru ga Shinda Natsu",
+            "slug": "hikaru-ga-shinda-natsu",
+            "url": "https://animesonline.cloud/anime/hikaru-ga-shinda-natsu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/4sxpBwpZVjQZ4sSonqmoGaae1ay-185x278.jpg",
+            "rating": "8.15",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+            "slug": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
+            "url": "https://animesonline.cloud/anime/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ce56jplr0r7pTZl3Rn4uXn18r9u-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ultraman Omega",
+            "slug": "ultraman-omega",
+            "url": "https://animesonline.cloud/anime/ultraman-omega",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/aIwc1CLT66eI1HEZtL32MYePmh4-185x278.jpg",
+            "rating": "9.3",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 16,
+        "hasMore": true
+      },
+      "at": 1780430092454
     }
   },
-  "updatedAt": 1780430028579
+  "updatedAt": 1780430092454
 }

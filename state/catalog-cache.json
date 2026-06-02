@@ -10786,7 +10786,287 @@
         "hasMore": true
       },
       "at": 1780432874343
+    },
+    "todos|36|": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "The Fable – Todos os Episódios",
+            "slug": "the-fable",
+            "url": "https://animesonline.cloud/anime/the-fable",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/baflpfvihSZCNsyTHZGBKkDIlXr-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Highspeed Etoile – Todos os Episódios",
+            "slug": "highspeed-etoile",
+            "url": "https://animesonline.cloud/anime/highspeed-etoile",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/xPvEzlhKAEycts5WzDE9CNDAtqp-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Henjin no Salad Bowl – Todos os Episódios",
+            "slug": "henjin-no-salad-bowl",
+            "url": "https://animesonline.cloud/anime/henjin-no-salad-bowl-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/06/syqUYWnOIDMzrplUQpcg4dpCxF3-185x278.jpg",
+            "rating": "7.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Wind Breaker – Todos os Episódios",
+            "slug": "wind-breaker",
+            "url": "https://animesonline.cloud/anime/wind-breaker",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/c2wfIKUPcQY0tiyiOmY7ItHtNO9-185x278.jpg",
+            "rating": "9.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Re:Monster – Todos os Episódios",
+            "slug": "remonster",
+            "url": "https://animesonline.cloud/anime/remonster",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/tg2VXsEyeuexAayn1hma8AVLglz-185x278.jpg",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Astro Note – Todos os Episódios",
+            "slug": "astro-note",
+            "url": "https://animesonline.cloud/anime/astro-note",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/t80gwqjaQ5QtYP5NDFHtFnpgnqL-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf – Todos os Episódios",
+            "slug": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+            "url": "https://animesonline.cloud/anime/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/vgfhyqA6n8WWiDhHXdVRBMHAqQw-185x278.jpg",
+            "rating": "7.667",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei shitara Dainana Ouji Datta node Kimama ni Majutsu wo Kiwamemasu – Todos os Episódios",
+            "slug": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+            "url": "https://animesonline.cloud/anime/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/jCIY15zBEiRMifdabq3HjY5kWIM-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kami wa Game ni Ueteiru – Todos os Episódios",
+            "slug": "kami-wa-game-ni-ueteiru",
+            "url": "https://animesonline.cloud/anime/kami-wa-game-ni-ueteiru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/uBVxIofgBq2Tp36F1ggcNUfy6VG-185x278.jpg",
+            "rating": "6.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shuumatsu Train Doko e Iku? – Todos os Episódios",
+            "slug": "shuumatsu-train-doko-e-iku",
+            "url": "https://animesonline.cloud/anime/shuumatsu-train-doko-e-iku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/04/jS0XEpSCBgWWpiiX6LjmrNt805K-185x278.jpg",
+            "rating": "1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "One Room, Hiatari Futsuu, Tenshi-tsuki – Todos os Episódios",
+            "slug": "one-room-hiatari-futsuu-tenshi-tsuki",
+            "url": "https://animesonline.cloud/anime/one-room-hiatari-futsuu-tenshi-tsuki",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/jhCmZmFmHxb7z6qVy13bvCpCRPY-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "X-Men ’97 – Todos os Episódios",
+            "slug": "x-men-97",
+            "url": "https://animesonline.cloud/anime/x-men-97",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/gU4ezBtf2K9t4AsYjbSsYd8Gzga-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sand Land: The Series – Todos os Episódios",
+            "slug": "sand-land-the-series",
+            "url": "https://animesonline.cloud/anime/sand-land-the-series",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/pqwlso6rI0fHNgINnvvdaCDRe7m-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dragon Ball Daima – Todos os Episódios",
+            "slug": "dragon-ball-daima",
+            "url": "https://animesonline.cloud/anime/dragon-ball-daima",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/mcMnRw8Ejvb3KQiKuoAsXvNeKaS-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Bakuage Sentai Boonboomger – Todos os Episódios",
+            "slug": "bakuage-sentai-boonboomger",
+            "url": "https://animesonline.cloud/anime/bakuage-sentai-boonboomger",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/03/sF4iozfFt9R6PgPPmhM16i0PLGy-185x278.jpg",
+            "rating": "8.667",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ninja Kamui",
+            "slug": "ninja-kamui",
+            "url": "https://animesonline.cloud/anime/ninja-kamui",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/02/Ninja-Kamui-AnimesOnline.Cloud_-185x278.jpg",
+            "rating": "8.74",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jujutsu Kaisen",
+            "slug": "jujutsu-kaisen",
+            "url": "https://animesonline.cloud/anime/jujutsu-kaisen",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/eNWo1SAzHVnXNBYagafAm9yjMgJ-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Gekai Elise – Todos os Episódios",
+            "slug": "gekai-elise",
+            "url": "https://animesonline.cloud/anime/gekai-elise",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Gekai-Elise-animesonline.cloud_-185x278.jpg",
+            "rating": "7.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen – Todos os Episódios",
+            "slug": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "url": "https://animesonline.cloud/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen-animesonline.cloud_-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Synduality: Noir 2 – Todos os Episódios",
+            "slug": "synduality-noir-2",
+            "url": "https://animesonline.cloud/anime/synduality-noir-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Synduality-Noir-2-Todos-os-Episodios-animesonline.cloud_-185x278.jpg",
+            "rating": "4.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hikari no Ou 2 – Todos os Episódios",
+            "slug": "hikari-no-ou-2",
+            "url": "https://animesonline.cloud/anime/hikari-no-ou-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/Hikari-no-Ou-2nd-Season-animesonline.cloud_-185x278.jpg",
+            "rating": "5.3",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Chiyu Mahou no Machigatta Tsukaikata",
+            "slug": "chiyu-mahou-no-machigatta-tsukaikata",
+            "url": "https://animesonline.cloud/anime/chiyu-mahou-no-machigatta-tsukaikata",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/qG55US4mp1OzLjMp9qB0H8WCdCP-185x278.jpg",
+            "rating": "7.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sasaki to Pii-chan – Todos os Episódios",
+            "slug": "sasaki-to-pii-chan",
+            "url": "https://animesonline.cloud/anime/sasaki-to-pii-chan",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/m3D7giT0fyJJ5ssjOEhYgUXN7Sg-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Gekkan Mousou Kagaku – Todos os Episódios",
+            "slug": "gekkan-mousou-kagaku",
+            "url": "https://animesonline.cloud/anime/gekkan-mousou-kagaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/01/6Ei5yD3veVdp2UXylL1xgZvjKR4-185x278.jpg",
+            "rating": "1",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 36,
+        "hasMore": true
+      },
+      "at": 1780433032079
     }
   },
-  "updatedAt": 1780432874343
+  "updatedAt": 1780433032079
 }

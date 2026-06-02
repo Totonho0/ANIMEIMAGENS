@@ -905,10 +905,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780411428730,
-      "lastAlertAt": 1780411428730,
+      "lastAlertAt": 1780411762210,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:22c3e180852562f9": {
       "userKey": "ip:22c3e180852562f9",

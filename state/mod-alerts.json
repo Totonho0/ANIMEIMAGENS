@@ -775,10 +775,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780368971547,
-      "lastAlertAt": 1780368385534,
+      "lastAlertAt": 1780369285609,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:767e6fa0dc996764": {
       "userKey": "ip:767e6fa0dc996764",

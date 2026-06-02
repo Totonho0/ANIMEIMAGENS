@@ -1424,11 +1424,11 @@
       "ip": "172.71.144.42",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780336221250,
-      "lastAlertAt": 1780336560288,
+      "lastSeenAt": 1780372259576,
+      "lastAlertAt": 1780372259576,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:7d4454ec775ae464": {
       "userKey": "ip:7d4454ec775ae464",

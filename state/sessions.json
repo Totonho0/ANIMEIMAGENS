@@ -112,5 +112,17 @@
     "oauthAccessExpiresAt": 1781035760806,
     "hentaiAccess": true,
     "hentaiAccessCheckedAt": 1780431302881
+  },
+  "b6d7c767-001f-4ce8-ae40-dfe83422dafd": {
+    "createdAt": 1780431410387,
+    "user": {
+      "id": "1029383978265882664",
+      "username": "Raridade",
+      "avatar": "https://cdn.discordapp.com/avatars/1029383978265882664/d9c8b76ec9fdb01555fb43a93992f408.png?size=256"
+    },
+    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.Q6pN9FUcKJhujsnwKbucSqxfMIIXBi",
+    "oauthAccessExpiresAt": 1781036210387,
+    "hentaiAccess": true,
+    "hentaiAccessCheckedAt": 1780431410588
   }
 }

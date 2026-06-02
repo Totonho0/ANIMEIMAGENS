@@ -2841,11 +2841,11 @@
       "ip": "190.89.243.21",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780430279112,
+      "lastSeenAt": 1780430730800,
       "lastAlertAt": 1780430692587,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:093a9445fe2a2d4c": {
       "userKey": "ip:093a9445fe2a2d4c",

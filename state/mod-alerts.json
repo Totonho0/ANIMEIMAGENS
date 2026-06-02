@@ -1255,11 +1255,11 @@
       "ip": "104.23.239.17",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780329336397,
-      "lastAlertAt": 1780329659807,
+      "lastSeenAt": 1780425513570,
+      "lastAlertAt": 1780425513570,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:52ef4b7bde9ae35f": {
       "userKey": "ip:52ef4b7bde9ae35f",

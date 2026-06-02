@@ -11282,11 +11282,33 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1780433050642
+      "at": 1780435305322
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "marriagetoxin-dublado",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/bUIuE94npSGXize6U9F9Ae6TpkJ-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 5",
+            "epTitle": "Episódio 5",
+            "slug": "aishiteru-game-wo-owarasetai-dublado",
+            "episode": 5,
+            "url": "https://animesonline.cloud/episodio/aishiteru-game-wo-owarasetai-dublado-episodio-05",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/tbivtMww7FQP53wGTMQPASf3N8Y-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
@@ -11528,35 +11550,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "nippon-sangoku",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/2YyiWTgKWQedEXYoCSzPwUMkmIk-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "maid-san-wa-taberu-dake",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/maid-san-wa-taberu-dake-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/bxo8gkrGEBfFWzwQWNHAkUtvmuV-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780433054462
+      "at": 1780435305284
     },
     "todos|2||24": {
       "data": {
@@ -16154,5 +16154,5 @@
       "at": 1780433367842
     }
   },
-  "updatedAt": 1780433367842
+  "updatedAt": 1780435305322
 }

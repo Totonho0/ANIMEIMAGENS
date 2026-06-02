@@ -137,6 +137,12 @@
       "title": "Aishiteru Game wo Owarasetai Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82bFdDYjV4STA5S2tjWWRUZzdTdDhpOHE3WEYuanBn",
       "kind": "anime"
+    },
+    "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado": {
+      "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
+      "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tTEtOMWRzaW1LUGlYQ1o0OEtFRDBYOGEwMnQuanBn",
+      "kind": "anime"
     }
   },
   "watched": {},
@@ -195,9 +201,12 @@
     ],
     "marriagetoxin-dublado": [
       9
+    ],
+    "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [],
   "watchHistoryHidden": [],
-  "updatedAt": 1780423141303
+  "updatedAt": 1780429183627
 }

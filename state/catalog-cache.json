@@ -278,7 +278,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1780429410970
+      "at": 1780431303950
     },
     "todos|2|": {
       "data": {
@@ -829,6 +829,28 @@
           {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
+            "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hsicxJVRIyFAaREJGvZbPUG5Zjx-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "tadaima-ojamasaremasu",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/oVcXKkbmuAsjDkEDnnJHvNEvkTN-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
             "slug": "hidarikiki-no-eren",
             "episode": 9,
             "url": "https://animesonline.cloud/episodio/hidarikiki-no-eren-episodio-09",
@@ -1067,35 +1089,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 8",
-            "epTitle": "Episódio 8",
-            "slug": "tsue-to-tsurugi-no-wistoria-2",
-            "episode": 8,
-            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-08",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/4vHpczqRsvjKjJ5KiqJFZY3t5Op-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 33",
-            "epTitle": "Episódio 33",
-            "slug": "digimon-beatbreak",
-            "episode": 33,
-            "url": "https://animesonline.cloud/episodio/digimon-beatbreak-episodio-33",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/hR7DAwzhVK3F3BlnMdOtaaFvuWl-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780429410986
+      "at": 1780431304051
     },
     "todos|1|o": {
       "data": {
@@ -6383,5 +6383,5 @@
       "at": 1780431033990
     }
   },
-  "updatedAt": 1780431033990
+  "updatedAt": 1780431304051
 }

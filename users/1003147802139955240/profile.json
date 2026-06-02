@@ -17,6 +17,12 @@
       "title": "Overflow Dublado - Todos os Episódios",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sYk1lbmMzbUlxeG5FeFVzZENZUWlDMkJvemwuanBn",
       "kind": "anime"
+    },
+    "shounen-ga-otona-ni-natta-natsu": {
+      "slug": "shounen-ga-otona-ni-natta-natsu",
+      "title": "Shounen ga Otona ni Natta Natsu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvU2hvdW5lbi1nYS1PdG9uYS1uaS1OYXR0YS1OYXRzdS1BbmltZS1Ecml2ZS5wbmc",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -33,15 +39,18 @@
     ],
     "overflow-dublado": [
       1
+    ],
+    "shounen-ga-otona-ni-natta-natsu": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780431407090
+      "at": 1780431672886
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780431426418
+  "updatedAt": 1780431682298
 }

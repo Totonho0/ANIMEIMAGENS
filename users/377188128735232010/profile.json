@@ -143,6 +143,12 @@
       "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tTEtOMWRzaW1LUGlYQ1o0OEtFRDBYOGEwMnQuanBn",
       "kind": "anime"
+    },
+    "kanan-sama-wa-akumade-choroi": {
+      "slug": "kanan-sama-wa-akumade-choroi",
+      "title": "Kanan-sama wa Akumade Choroi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uNjZxUkRZbVoyZm15QUM5SUZ6Y1NaVUxBQU4uanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -211,15 +217,18 @@
     ],
     "maou-sama-retry": [
       1
+    ],
+    "kanan-sama-wa-akumade-choroi": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780433999267
+      "at": 1780434591127
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780434014085
+  "updatedAt": 1780434598086
 }

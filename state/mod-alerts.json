@@ -398,10 +398,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780398464033,
-      "lastAlertAt": 1780398464033,
+      "lastAlertAt": 1780398839050,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:7e8f92094ecfe592": {
       "userKey": "ip:7e8f92094ecfe592",

@@ -11,6 +11,12 @@
       "title": "Devil May Cry 2 (2026) Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uTHlYWElETXBESHZVZ3hjaGV6eHVob0o0RWouanBn",
       "kind": "anime"
+    },
+    "overflow-dublado": {
+      "slug": "overflow-dublado",
+      "title": "Overflow Dublado - Todos os Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sYk1lbmMzbUlxeG5FeFVzZENZUWlDMkJvemwuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -24,15 +30,18 @@
     ],
     "hidarikiki-no-eren": [
       9
+    ],
+    "overflow-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780431393721
+      "at": 1780431407090
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780431394360
+  "updatedAt": 1780431426418
 }

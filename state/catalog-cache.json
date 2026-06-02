@@ -16592,7 +16592,35 @@
         "hasMore": false
       },
       "at": 1780435737959
+    },
+    "todos|1|m|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Marriagetoxin Dublado",
+            "slug": "marriagetoxin-dublado",
+            "url": "https://animesonline.cloud/anime/marriagetoxin-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/wXyOAIxNUFTEk9Mpj7Ca4jCibMf-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 1,
+        "hasMore": false
+      },
+      "at": 1780435806639
     }
   },
-  "updatedAt": 1780435737959
+  "updatedAt": 1780435806639
 }

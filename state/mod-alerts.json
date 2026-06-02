@@ -1996,11 +1996,11 @@
       "ip": "172.68.10.209",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780359298443,
-      "lastAlertAt": 1780359684896,
+      "lastSeenAt": 1780370687393,
+      "lastAlertAt": 1780370687393,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:f2ec461a74d44b89": {
       "userKey": "ip:f2ec461a74d44b89",

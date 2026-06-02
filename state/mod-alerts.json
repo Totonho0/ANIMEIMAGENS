@@ -904,11 +904,11 @@
       "ip": "184.72.121.156",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780381868022,
-      "lastAlertAt": 1780382187083,
+      "lastSeenAt": 1780385371217,
+      "lastAlertAt": 1780385371217,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:22c3e180852562f9": {
       "userKey": "ip:22c3e180852562f9",

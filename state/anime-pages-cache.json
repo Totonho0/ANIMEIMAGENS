@@ -109,7 +109,7 @@
       }
     },
     "maou-sama-retry": {
-      "at": 1780490277674,
+      "at": 1780490428843,
       "data": {
         "slug": "maou-sama-retry",
         "title": "Maou-sama, Retry! 2 - Todos os Episódios",
@@ -340,7 +340,7 @@
       }
     },
     "marriagetoxin-dublado": {
-      "at": 1780490303107,
+      "at": 1780490427254,
       "data": {
         "slug": "marriagetoxin-dublado",
         "title": "Marriagetoxin Dublado",
@@ -6331,7 +6331,7 @@
       }
     },
     "dandelion-dublado": {
-      "at": 1780490401010,
+      "at": 1780490427429,
       "data": {
         "slug": "dandelion-dublado",
         "title": "Dandelion Dublado",
@@ -6345,6 +6345,183 @@
           }
         ],
         "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "tadaima-ojamasaremasu": {
+      "at": 1780490428696,
+      "data": {
+        "slug": "tadaima-ojamasaremasu",
+        "title": "Pardon the Intrusion, I’m Home!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95dHBZdEZvWjduWkd2Tkh5U0xZdWZURnBaQjkuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Com licença pela intromissão, você está na minha casa!?",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Começando com um namorado de mentira?!",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Entretanto, naquela época...!?",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Eu não estou com bloqueio criativo, ok?!",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Isto é uma obra de ficção, ok?!",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - É só um beijo?!",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Você está ocupado no Natal?!",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Mao significa \"Resultado do adultério da mãe\"?!",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O segredo de Satsuki-san?!",
+            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kanan-sama-wa-akumade-choroi": {
+      "at": 1780490429851,
+      "data": {
+        "slug": "kanan-sama-wa-akumade-choroi",
+        "title": "Kanan-sama wa Akumade Choroi",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uNjZxUkRZbVoyZm15QUM5SUZ6Y1NaVUxBQU4uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Kanachoro",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Ami chegou.",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O primeiro encontro de Kanan",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Ami, o Cupido Poderoso",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Canaã e o Santo",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Primeira vez no mar de Canaã",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Férias de Verão de Kanan",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Kanan retorna para sua família.",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O Teste de Derrota de Lilim",
+            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "mata-korosarete-shimatta-no-desu-ne-tantei-sama": {
+      "at": 1780490430389,
+      "data": {
+        "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
+        "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82UHNFZkZyazdrUUpnaVY3QWU4M25PanFnUlQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Caso do Assassinato da Rainha Irie, Parte 1",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Caso do Assassinato da Rainha Irie, Parte 2",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Caso de Assassinato do Teatro Crimson",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O assassinato no Hotel Kowloon (1)",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O assassinato no Hotel Kowloon (2)",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - O Parque da Roda Gigante Devoradora de Homens (1)",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Parque da Roda Gigante Devoradora de Homens (2)",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Assassinato na Ilha da Galeria - Parte 1",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O Assassinato na Ilha da Galeria - Parte 2",
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
         "kind": "anime",
         "provider": "aoc"
       }

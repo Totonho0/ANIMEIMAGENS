@@ -944,10 +944,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780528513474,
-      "lastAlertAt": 1780528513474,
+      "lastAlertAt": 1780528891348,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:5fbe425f4bd89e52": {
       "userKey": "ip:5fbe425f4bd89e52",
@@ -3843,10 +3843,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780528568149,
-      "lastAlertAt": 1780528568149,
+      "lastAlertAt": 1780528891348,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

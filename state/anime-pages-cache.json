@@ -6897,7 +6897,7 @@
       }
     },
     "yowayowa-sensei": {
-      "at": 1780493047845,
+      "at": 1780522115265,
       "data": {
         "slug": "yowayowa-sensei",
         "title": "Yowayowa Sensei",
@@ -12283,6 +12283,45 @@
           }
         ],
         "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "tensei-shitara-slime-datta-ken-4th-season-dublado": {
+      "at": 1780522115055,
+      "data": {
+        "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+        "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94empaRHlxVW9idUp0a0JsamhnTEg0RmRueWUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Novos dias",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Evolução da Masmorra",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - É formada a Equipe Avatar",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Convite",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O primeiro passo",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-05"
+          }
+        ],
+        "totalEpisodes": 5,
         "kind": "anime",
         "provider": "aoc"
       }

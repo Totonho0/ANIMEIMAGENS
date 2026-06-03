@@ -183,7 +183,7 @@
       }
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
-      "at": 1780512226254,
+      "at": 1780521542948,
       "data": {
         "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
         "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
@@ -11885,6 +11885,109 @@
           }
         ],
         "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kami-no-shizuku": {
+      "at": 1780521544014,
+      "data": {
+        "slug": "kami-no-shizuku",
+        "title": "Kami no Shizuku",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91Zk1aSUdIaFNsNURVeHY1S20yakxma3ZFVzUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - No início de todas as batalhas",
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Orações a uma Terra Perfumada",
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Assim falou o testamento.",
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Feito pela mão do homem",
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Homem Estranho da Divisão de Vinhos",
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Quero ver aquele sorriso de novo.",
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Pégaso que saltou através do tempo",
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-07"
+          }
+        ],
+        "totalEpisodes": 7,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "a-hundred-scenes-of-awajima": {
+      "at": 1780521545229,
+      "data": {
+        "slug": "a-hundred-scenes-of-awajima",
+        "title": "A Hundred Scenes of AWAJIMA",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xRUY0RE5MbXMxaTFoU1JQTEVDUU5WdnM1VDYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Tabata e Príncipe Takehara / Kinue Takehara e Ryouko Ueda",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Emi Okabe e Yukie Onoda / Katsurako Ibuki e Wakana Tabata",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Katsurako Ibuki e Natsuko Kusanagi / Ruriko Yamaji e Natsuko Kusanagi",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Kayo Yomogida e Saori Yamagata / Wakana Tabata e Saeko Tabata / Takuto Kashiwagi e Sayaka Yoshimura",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Ohkubo Asami / Asaka Midori e Asagami Reo",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Histórias de Fantasmas de Awajima",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Saori Yamagata e Mikako Takeuchi",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Sara Takanashi / Eri Fujisawa / Shizuka Utagawa",
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
         "kind": "anime",
         "provider": "aoc"
       }

@@ -9,19 +9,25 @@
     "tsue-to-tsurugi-no-wistoria-2": {
       "slug": "tsue-to-tsurugi-no-wistoria-2",
       "title": "Tsue to Tsurugi no Wistoria 2",
-      "poster": "https://image.tmdb.org/t/p/w780/oSyBnGb7tkcbv4jdBJX5TYFv8m3.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vU3lCbkdiN3RrY2J2NGpkQkpYNVRZRnY4bTMuanBn",
       "kind": "anime"
     },
     "sakura-card-captor-o-filme": {
       "slug": "sakura-card-captor-o-filme",
       "title": "Sakura Card Captor: O Filme",
-      "poster": "https://image.tmdb.org/t/p/w780/jfyGmkmLfiKwNUOenjnTyv9bCNf.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qZnlHbWttTGZpS3dOVU9lbmpuVHl2OWJDTmYuanBn",
       "kind": "filme"
     },
     "haikyuu-second-season": {
       "slug": "haikyuu-second-season",
       "title": "Haikyuu!! Second Season",
-      "poster": "https://image.tmdb.org/t/p/w780/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+      "kind": "anime"
+    },
+    "haikyuu-dublado": {
+      "slug": "haikyuu-dublado",
+      "title": "Haikyuu!! Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
       "kind": "anime"
     }
   },
@@ -32,7 +38,12 @@
     ],
     "sakura-card-captor-o-filme": [
       1
+    ],
+    "haikyuu-dublado": [
+      1
     ]
   },
-  "updatedAt": 1780002264472
+  "watchHistoryLog": [],
+  "watchHistoryHidden": [],
+  "updatedAt": 1780521583902
 }

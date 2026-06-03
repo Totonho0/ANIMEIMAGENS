@@ -2101,10 +2101,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780526518865,
-      "lastAlertAt": 1780526502280,
+      "lastAlertAt": 1780526941155,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:06132b93f1062bd2": {
       "userKey": "ip:06132b93f1062bd2",

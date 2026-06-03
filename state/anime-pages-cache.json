@@ -1,7 +1,7 @@
 {
   "entries": {
     "uzumaki": {
-      "at": 1780491158144,
+      "at": 1780493231056,
       "data": {
         "slug": "uzumaki",
         "title": "Uzumaki - Todos os Episódios",
@@ -296,7 +296,7 @@
       }
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
-      "at": 1780493057722,
+      "at": 1780493229832,
       "data": {
         "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
@@ -6350,7 +6350,7 @@
       }
     },
     "tadaima-ojamasaremasu": {
-      "at": 1780490428696,
+      "at": 1780493232300,
       "data": {
         "slug": "tadaima-ojamasaremasu",
         "title": "Pardon the Intrusion, I’m Home!",
@@ -6951,7 +6951,7 @@
       }
     },
     "replica-datte-koi-wo-suru": {
-      "at": 1780493191307,
+      "at": 1780493232776,
       "data": {
         "slug": "replica-datte-koi-wo-suru",
         "title": "Even a Replica Can Fall in Love",
@@ -7133,6 +7133,60 @@
           }
         ],
         "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "ichijouma-mankitsugurashi": {
+      "at": 1780493231603,
+      "data": {
+        "slug": "ichijouma-mankitsugurashi",
+        "title": "Ichijouma Mankitsugurashi",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sVVlSTG1KSEp5Vnp3d0pVSVBJSkh4WlI2VEUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Mudando-se para Tóquio? O que acontecerá com Meiko?",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Hedgehog vai fechar? Precisamos dar a volta por cima!",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Clientes Estranhos e um Dia Inesquecível!",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Clientes Estranhos e um Dia Inesquecível!",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Meiko, regresso a casa",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
         "kind": "anime",
         "provider": "aoc"
       }

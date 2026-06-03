@@ -3271,10 +3271,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780471124227,
-      "lastAlertAt": 1780471124227,
+      "lastAlertAt": 1780471471635,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

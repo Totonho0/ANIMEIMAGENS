@@ -12109,6 +12109,75 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "kimetsu-no-yaiba-yuukaku-hen": {
+      "at": 1780521640794,
+      "data": {
+        "slug": "kimetsu-no-yaiba-yuukaku-hen",
+        "title": "Kimetsu no Yaiba: Yuukaku-hen - Todos os Episódios",
+        "poster": "https://i.imgur.com/byGm2s7.jpeg",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Hashira Tengen Uzui, o Pilar do Som",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Invasão do Distrito de Entretenimento",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "O Que Você Está?",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Esta noite",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Vamos bem extravagantes!",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Memórias Sobrepostas",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Transformação",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Reunião",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Quando eu Derrotar os Onis Superiores",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Jamais vou desistir",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Não importa quantas vezes eu precisar renascer",
+            "url": "https://animesonline.cloud/episodio/kimetsu-no-yaiba-yuukaku-hen-episodio-11"
+          }
+        ],
+        "totalEpisodes": 11,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

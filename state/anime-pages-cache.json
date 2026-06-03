@@ -35,7 +35,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1780493190233,
+      "at": 1780495080922,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -6198,7 +6198,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1780495077225,
+      "at": 1780495080201,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
@@ -7138,7 +7138,7 @@
       }
     },
     "ichijouma-mankitsugurashi": {
-      "at": 1780493231603,
+      "at": 1780495081310,
       "data": {
         "slug": "ichijouma-mankitsugurashi",
         "title": "Ichijouma Mankitsugurashi",
@@ -9217,6 +9217,124 @@
           }
         ],
         "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "himekishi-wa-barbaroi-no-yome": {
+      "at": 1780495083699,
+      "data": {
+        "slug": "himekishi-wa-barbaroi-no-yome",
+        "title": "The Warrior Princess and the Barbaric King",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94VlJwZHNZbFFSNmhzYXB3RmJ3eFZuRlhEQkguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Princesa Cavaleira é Prisioneira da Derrota",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - A hipocrisia é a flor da cavalaria.",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O banquete foi realizado quando o nevoeiro se dissipou.",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Mãos que oram pelo conflito vindouro",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Os demônios são o karma da humanidade.",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - A água corrente purifica a estagnação.",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O acordo é o estatuto do colar",
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "fist-of-the-north-star-hokuto-no-ken": {
+      "at": 1780495082095,
+      "data": {
+        "slug": "fist-of-the-north-star-hokuto-no-ken",
+        "title": "Hokuto no Ken: Fist of the North Star",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lbFZ4MFFYNHBZZ1M2U3AzZFg4c0haaVg2OU4uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Grito do Coração",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Um Amanhã Melhor",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Um Amanhã Melhor",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Chamas da Obsessão",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Cruz de Sangue",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Terra de Deus",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Assassino Supremo",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Um Mensageiro de Casa",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Os Cães Loucos Devem Morrer",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Encarnação do Diabo",
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-10"
+          }
+        ],
+        "totalEpisodes": 10,
         "kind": "anime",
         "provider": "aoc"
       }

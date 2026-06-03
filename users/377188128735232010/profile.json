@@ -149,6 +149,12 @@
       "title": "Kanan-sama wa Akumade Choroi",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uNjZxUkRZbVoyZm15QUM5SUZ6Y1NaVUxBQU4uanBn",
       "kind": "anime"
+    },
+    "marriagetoxin-dublado": {
+      "slug": "marriagetoxin-dublado",
+      "title": "Marriagetoxin Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -214,6 +220,7 @@
       1
     ],
     "marriagetoxin-dublado": [
+      1,
       9
     ],
     "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado": [
@@ -230,14 +237,14 @@
     {
       "slug": "hitoribocchi-no-isekai-kouryaku",
       "ep": 1,
-      "at": 1780489012979
+      "at": 1780490285710
     },
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780489012979
+      "at": 1780490285710
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780489014929
+  "updatedAt": 1780490303907
 }

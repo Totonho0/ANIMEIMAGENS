@@ -3388,10 +3388,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780490111861,
-      "lastAlertAt": 1780490105814,
+      "lastAlertAt": 1780490550308,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

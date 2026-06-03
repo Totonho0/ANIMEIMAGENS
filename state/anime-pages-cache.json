@@ -1,7 +1,7 @@
 {
   "entries": {
     "uzumaki": {
-      "at": 1780493411133,
+      "at": 1780493463062,
       "data": {
         "slug": "uzumaki",
         "title": "Uzumaki - Todos os Episódios",
@@ -257,7 +257,7 @@
       }
     },
     "aishiteru-game-wo-owarasetai-dublado": {
-      "at": 1780491227263,
+      "at": 1780493463919,
       "data": {
         "slug": "aishiteru-game-wo-owarasetai-dublado",
         "title": "Aishiteru Game wo Owarasetai Dublado",
@@ -7238,6 +7238,109 @@
             "number": 8,
             "title": "Episodio 08 - Quem é você?",
             "url": "https://animesonline.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "stranger-things-historias-de-85-dublado": {
+      "at": 1780493464636,
+      "data": {
+        "slug": "stranger-things-historias-de-85-dublado",
+        "title": "Stranger Things: Histórias de 85 Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Bem-vinda a Hawkins, novata",
+            "url": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Colheita ruim",
+            "url": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Evolução",
+            "url": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A confissão",
+            "url": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Tabloide",
+            "url": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Tempestade a caminho",
+            "url": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - No meio da tempestade",
+            "url": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-07"
+          }
+        ],
+        "totalEpisodes": 7,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kamiina-botan-yoeru-sugata-wa-yuri-no-hana": {
+      "at": 1780493465261,
+      "data": {
+        "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+        "title": "Kamiina Botan Yoeru Sugata wa Yuri no Hana",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9odlhESE5mdkRUTXdRY1hGa1JKM05EbmxTZ3IuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Primeira Bebida",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-08"
           }
         ],
         "totalEpisodes": 8,

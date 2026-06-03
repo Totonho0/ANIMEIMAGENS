@@ -178,6 +178,9 @@
     ],
     "jujutsu-kaisen-2-dublado": [
       1
+    ],
+    "nageki-no-bourei-wa-intai-shitai": [
+      1
     ]
   },
   "started": {
@@ -256,6 +259,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "nageki-no-bourei-wa-intai-shitai",
+      "ep": 1,
+      "at": 1780494601762
+    },
+    {
       "slug": "jujutsu-kaisen-2-dublado",
       "ep": 1,
       "at": 1780493070416
@@ -272,5 +280,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780493651097
+  "updatedAt": 1780494602256
 }

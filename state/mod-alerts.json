@@ -3583,10 +3583,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780524520705,
-      "lastAlertAt": 1780524520705,
+      "lastAlertAt": 1780524840984,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:19d51ddfb6cba104": {
       "userKey": "ip:19d51ddfb6cba104",

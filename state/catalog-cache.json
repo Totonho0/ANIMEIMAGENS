@@ -11282,11 +11282,55 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1780509128913
+      "at": 1780511045972
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "ganbare-nakamura-kun",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5IXNxiCJnnPwH0bkBQKoKlJIP3x-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "otaku-ni-yasashii-gal-wa-inai",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/qA2IWa8kEsEDhjuvgPvJkpqwGEt-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/pDSOH2WrgwlHLQqWc6OSXolmaO4-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/jVegACTj9btQwqmA0qMBUbkOn2Z-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
@@ -11506,57 +11550,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "isekai-nonbiri-nouka-2",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/isekai-nonbiri-nouka-2-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/cuOBfkvMCyGRb3t84CVrrDFIg0K-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "liar-game",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/liar-game-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8FmaHYlPV3m44Vn1Eupx8f3o0HI-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/dkLQ6BsUK7mIX9NaHKvCKT4KQm6-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "tongari-boushi-no-atelier",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/3KTQKzTFN8bltPxSm3VtbGFiKFC-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780509128898
+      "at": 1780511045834
     },
     "todos|2||24": {
       "data": {
@@ -17765,5 +17765,5 @@
       "at": 1780495213189
     }
   },
-  "updatedAt": 1780509816399
+  "updatedAt": 1780511045972
 }

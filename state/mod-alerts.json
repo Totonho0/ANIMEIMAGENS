@@ -254,11 +254,11 @@
       "ip": "104.23.221.154",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780480813594,
-      "lastAlertAt": 1780481222728,
+      "lastSeenAt": 1780485816402,
+      "lastAlertAt": 1780485816402,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "d:1335061693088399476": {
       "userKey": "d:1335061693088399476",

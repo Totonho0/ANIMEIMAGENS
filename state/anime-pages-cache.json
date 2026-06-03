@@ -9821,6 +9821,1850 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "bleach": {
+      "at": 1780520909637,
+      "data": {
+        "slug": "bleach",
+        "title": "Bleach",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vME5zYmNJdnNsbGc2Q0pYMEZCRlk4d1dic24uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "O Dia Em Que Me Tornei Um Shinigami",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - PEDRAS FUNDAMENTAIS",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "O Desejo do Irmão Mais Velho, o Desejo da Irmã Mais Nova",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - CORAÇÃO DE LOBO",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-ketsubetsu-tan-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - FURIOSO COMO UM RELÂMPAGO",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Batalha até a Morte! Ichigo Vs Ichigo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - NASCIDO NA ESCURIDÃO",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O PROJETO ESTRELA CADENTE [MIX ZERO]",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Não Persiga uma sombra",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Queria, segure sua mão 2",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - CEDO DEMAIS PARA VENCER, TARDE DEMAIS PARA SABER",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-ketsubetsu-tan-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - TUDO MENOS A CHUVA: \"VERDADE DE JUNHO\"",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Final - A LÂMINA SOU EU",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Minhas Ultimas Palavras",
+            "url": "https://animesonline.cloud/episodio/bleach-sennen-kessen-hen-soukoku-tan-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "O Ótimo Plano de Kon",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Encontro, Renji Abarai!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Ichigo Morre!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Recupere! O Poder de Shinigami!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Ichigo se Transforma em um Hollow!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "A Sombra de Gin Ichimaru",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Entrando No Mundo Dos Deuses Da Morte!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "O Homem Que Odeia Deuses Da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "14 Dias Antes da Execução da Rukia",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Unidos! Os 13 Batalhões",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Penetrando Diretamente Dentro de Uma Bola?!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-25"
+          },
+          {
+            "number": 26,
+            "title": "Formação! A Pior Dupla!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-26"
+          },
+          {
+            "number": 27,
+            "title": "A Liberação do Golpe Fatal!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-27"
+          },
+          {
+            "number": 28,
+            "title": "Mirando na Orihime",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-28"
+          },
+          {
+            "number": 29,
+            "title": "Uma ruptura! A cerca da rede de Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-29"
+          },
+          {
+            "number": 30,
+            "title": "O Confronto com o Renji!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-30"
+          },
+          {
+            "number": 31,
+            "title": "A Determinação para Matar",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-31"
+          },
+          {
+            "number": 32,
+            "title": "As Estrelas e o Animal Desgarrado",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-32"
+          },
+          {
+            "number": 33,
+            "title": "O Milagre! O Novo Herói Misterioso",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-33"
+          },
+          {
+            "number": 34,
+            "title": "Uma Tragédia ao Amanhecer",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-34"
+          },
+          {
+            "number": 35,
+            "title": "O Assassinato do Aizen",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-35"
+          },
+          {
+            "number": 36,
+            "title": "Kenpachi Zaraki se Aproxima!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-36"
+          },
+          {
+            "number": 37,
+            "title": "Os Motivos do Punho",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-37"
+          },
+          {
+            "number": 38,
+            "title": "Desespero! A Zangetsu Quebra!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-38"
+          },
+          {
+            "number": 39,
+            "title": "O Homem Imortal",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-39"
+          },
+          {
+            "number": 40,
+            "title": "O Deus da Morte que o Ganju conhecera",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-40"
+          },
+          {
+            "number": 41,
+            "title": "A Reunião Entre o Ichigo e a Rukia",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-41"
+          },
+          {
+            "number": 42,
+            "title": "Yoruichi, a Mestre Relâmpago!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-42"
+          },
+          {
+            "number": 43,
+            "title": "O Deus da Morte desprezível",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-43"
+          },
+          {
+            "number": 44,
+            "title": "O Poder Absoluto Do Ishida!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-44"
+          },
+          {
+            "number": 45,
+            "title": "Supere Os Seus Limites!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-45"
+          },
+          {
+            "number": 46,
+            "title": "Só Os Recordes Verdadeiros! A Escolha Dos Deuses Da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-46"
+          },
+          {
+            "number": 47,
+            "title": "Os Vingadores",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-47"
+          },
+          {
+            "number": 48,
+            "title": "O Rugido Do Hitsugaya!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-48"
+          },
+          {
+            "number": 49,
+            "title": "O Pesadelo Da Rukia",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-49"
+          },
+          {
+            "number": 50,
+            "title": "O Renascer Do Leão",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-50"
+          },
+          {
+            "number": 51,
+            "title": "Na Manhã Da Sentença",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-51"
+          },
+          {
+            "number": 52,
+            "title": "O Renji E O Seu Juramento! A Luta Até A Morte Com O Byakuya",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-52"
+          },
+          {
+            "number": 53,
+            "title": "A Tentação Do Gin E Uma Determinação Estilhaçada",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-53"
+          },
+          {
+            "number": 54,
+            "title": "Uma Promessa Cumprida! Salvar A Rukia!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-54"
+          },
+          {
+            "number": 55,
+            "title": "O Deus Da Morte Mais Poderoso! O Confronto Absoluto Entre Professora E Aluna!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-55"
+          },
+          {
+            "number": 56,
+            "title": "A Batalha Supersônica! A Deusa Das Batalhas!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-56"
+          },
+          {
+            "number": 57,
+            "title": "A Senbonzakura Aniquilada E A Zangetsu Pelos Ares!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-57"
+          },
+          {
+            "number": 58,
+            "title": "A Revelação! A Lâmina Negra De Poder Miraculoso",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-58"
+          },
+          {
+            "number": 59,
+            "title": "A Conclusão Da Morte Súbita! O Orgulho Branco E O Desejo Negro",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-59"
+          },
+          {
+            "number": 60,
+            "title": "A Realidade Do Desespero, O Punhal Do Assassino Está Em Jogo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-60"
+          },
+          {
+            "number": 61,
+            "title": "O Levante Do Aizen E As Suas Ambições Terríveis!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-61"
+          },
+          {
+            "number": 62,
+            "title": "Todos Unidos! O Grupo Dos Deuses Da Morte Mais Poderosos",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-62"
+          },
+          {
+            "number": 63,
+            "title": "A Resolução Da Rukia E Os Sentimentos Do Ichigo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-63"
+          },
+          {
+            "number": 64,
+            "title": "Novos Termos Escolares E A Aparição Do Renji No Mundo Real!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-64"
+          },
+          {
+            "number": 65,
+            "title": "Terror: A Segunda Vítima",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-65"
+          },
+          {
+            "number": 66,
+            "title": "Quebra-cabeça! A Armadilha Escondida No Labirinto",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-66"
+          },
+          {
+            "number": 67,
+            "title": "Jogo De Vida Ou Morte! O Desaparecimento",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-67"
+          },
+          {
+            "number": 68,
+            "title": "A Verdadeira Face Do Mal, O Segredo Revelado",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-68"
+          },
+          {
+            "number": 69,
+            "title": "Bounts! Os Caçadores De Almas!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-69"
+          },
+          {
+            "number": 70,
+            "title": "O Retorno Da Rukia! O Renascimento Da Equipe Substituta!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-70"
+          },
+          {
+            "number": 71,
+            "title": "O momento de colisão! Um mal paira sob um Quincy",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-71"
+          },
+          {
+            "number": 72,
+            "title": "Uma onda de ataques! A fuga do hospital!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-72"
+          },
+          {
+            "number": 73,
+            "title": "A união dos Bounts! Um homem fazendo a sua jogada",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-73"
+          },
+          {
+            "number": 74,
+            "title": "As memórias de um clã eternamente vivo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-74"
+          },
+          {
+            "number": 75,
+            "title": "Um evento de partir o 11º Esquadrão! O Deus da Morte que ressuscita uma vez mais",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-75"
+          },
+          {
+            "number": 76,
+            "title": "Uma colisão de forças! O Friede versus a Zangetsu",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-76"
+          },
+          {
+            "number": 77,
+            "title": "O rancor que não desbota! O Deus da Morte que o Kenpachi matou",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-77"
+          },
+          {
+            "number": 78,
+            "title": "Uma revelação chocante para os Treze Batalhões! A verdade encoberta pela história",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-78"
+          },
+          {
+            "number": 79,
+            "title": "A decisão fatal da Yoshino",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-79"
+          },
+          {
+            "number": 80,
+            "title": "Um ataque de um inimigo formidável! Uma linha ínfima de defesa?!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-80"
+          },
+          {
+            "number": 81,
+            "title": "O Hitsugaya age! A cidade atacada",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-81"
+          },
+          {
+            "number": 82,
+            "title": "Ichigo vs. Dalk! A aparência da escuridão",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-82"
+          },
+          {
+            "number": 83,
+            "title": "A sombra verde, o segredo das dolls",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-83"
+          },
+          {
+            "number": 84,
+            "title": "Mudanças na equipe do Deus da Morte substituto? A traição da Rukia!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-84"
+          },
+          {
+            "number": 85,
+            "title": "A batalha letal das lágrimas! Rukia vs. Orihime",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-85"
+          },
+          {
+            "number": 86,
+            "title": "A Rangiku dança! Despedace o inimigo invisível!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-86"
+          },
+          {
+            "number": 87,
+            "title": "A convocação do Byakuya! Os Treze Batalhões entram em ação",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-87"
+          },
+          {
+            "number": 88,
+            "title": "Tenentes aniquilados!? A emboscada na caverna subterrânea",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-88"
+          },
+          {
+            "number": 89,
+            "title": "Um novo embate?! Ishida versus Nemu",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-89"
+          },
+          {
+            "number": 90,
+            "title": "Renji Abarai, a bankai da alma!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-90"
+          },
+          {
+            "number": 91,
+            "title": "A Deusa da Morte e o Quincy, o reavivamento dos poderes",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-91"
+          },
+          {
+            "number": 92,
+            "title": "A invasão do mundo dos Deuses da Morte, outra vez",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-92"
+          },
+          {
+            "number": 93,
+            "title": "A investida dos Bounts! O terremoto destrutivo dos Treze Batalhões do Tribunal",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-93"
+          },
+          {
+            "number": 94,
+            "title": "A decisão do Hitsugaya! O estrondo se aproxima",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-94"
+          },
+          {
+            "number": 95,
+            "title": "O Byakuya entra em cena! A dança das cerejeiras cortantes",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-95"
+          },
+          {
+            "number": 96,
+            "title": "A batalha dos três extremos: Ichigo, Byakuya e Kariya!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-96"
+          },
+          {
+            "number": 97,
+            "title": "O Hitsugaya vai ao ataque! Cortando o inimigo no meio da floresta",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-97"
+          },
+          {
+            "number": 98,
+            "title": "Embate! Kenpachi Zaraki vs. Maki Ichinose",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-98"
+          },
+          {
+            "number": 99,
+            "title": "Deus da Morte vs. Deus da Morte! O poder incontrolável",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-99"
+          },
+          {
+            "number": 100,
+            "title": "A Suì-Feng morre? As últimas da Unidade Força Especiais",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-100"
+          },
+          {
+            "number": 101,
+            "title": "A bankai do Mayuri!! Sawatari: O bater do demônio",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-101"
+          },
+          {
+            "number": 102,
+            "title": "O último Quincy! O poder explosivo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-102"
+          },
+          {
+            "number": 103,
+            "title": "O Ishida excedendo os limites para atacar!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-103"
+          },
+          {
+            "number": 104,
+            "title": "Morte no 10º Batalhão! A liberação da Hyorinmaru",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-104"
+          },
+          {
+            "number": 105,
+            "title": "Kariya! A contagem regressiva para a detonação",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-105"
+          },
+          {
+            "number": 106,
+            "title": "A vida e a vingança! O Ishida e a escolha absoluta",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-106"
+          },
+          {
+            "number": 107,
+            "title": "À beira do precipício! O momento da ruína",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-107"
+          },
+          {
+            "number": 108,
+            "title": "A lamúria dos Bounts! O último embate",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-108"
+          },
+          {
+            "number": 109,
+            "title": "O Ichigo e a Rukia, pensamentos envolventes da batalha",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-109"
+          },
+          {
+            "number": 110,
+            "title": "Reabrindo o negócio do substituto! Um estudante transferido assustador",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-110"
+          },
+          {
+            "number": 111,
+            "title": "Choque! A verdadeira identidade do pai!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-111"
+          },
+          {
+            "number": 112,
+            "title": "O começo da guerra, Visored versus Arrancar",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-112"
+          },
+          {
+            "number": 113,
+            "title": "O prelúdio do apocalipse: a ofensiva arrancar!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-113"
+          },
+          {
+            "number": 114,
+            "title": "Uma reunião entre o Ichigo, a Rukia e os Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-114"
+          },
+          {
+            "number": 115,
+            "title": "Missão! Os Deuses da Morte chegaram",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-115"
+          },
+          {
+            "number": 116,
+            "title": "O olho maléfico: a volta do Aizen",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-116"
+          },
+          {
+            "number": 117,
+            "title": "Começa a batalha da Rukia! Eis a lâmina de gelo branca",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-117"
+          },
+          {
+            "number": 118,
+            "title": "A bankai do Ikkaku! O poder que passa por cima de tudo!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-118"
+          },
+          {
+            "number": 119,
+            "title": "A história secreta do batalhão do Zaraki! O sortudo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-119"
+          },
+          {
+            "number": 120,
+            "title": "O Hitsugaya se dispersa! Uma Hyourinmaru quebrada",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-120"
+          },
+          {
+            "number": 121,
+            "title": "Embate! O protetor versus o carregador",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-121"
+          },
+          {
+            "number": 122,
+            "title": "Visored! O poder do despertar",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-122"
+          },
+          {
+            "number": 123,
+            "title": "A Holificação completa do Ichigo!?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-123"
+          },
+          {
+            "number": 124,
+            "title": "Colisão! A bankai negra e a bankai branca",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-124"
+          },
+          {
+            "number": 125,
+            "title": "Relatório urgente! O plano atentador do Aizen!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-125"
+          },
+          {
+            "number": 126,
+            "title": "Uryuu versus Ryuuken! O embate de pai e filho Quincies",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-126"
+          },
+          {
+            "number": 127,
+            "title": "A decisão do Urahara e os pensamentos da Orihime",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-127"
+          },
+          {
+            "number": 128,
+            "title": "O pesadelo Arrancar! A equipe do Hitsugaya age",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-128"
+          },
+          {
+            "number": 129,
+            "title": "A entrada do descente do emissário negro! A propagação da malícia",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-129"
+          },
+          {
+            "number": 130,
+            "title": "O inimigo invisível! A decisão impiedosa do Hitsugaya",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-130"
+          },
+          {
+            "number": 131,
+            "title": "As lágrimas da Rangiku e a despedida entre irmãos",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-131"
+          },
+          {
+            "number": 132,
+            "title": "Hitsugaya, Karin e bola de futebol",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-132"
+          },
+          {
+            "number": 133,
+            "title": "Os contos fervorosos de kendô de Ikkaku",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-133"
+          },
+          {
+            "number": 134,
+            "title": "O belo pâtissier, Yumichika",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-134"
+          },
+          {
+            "number": 135,
+            "title": "Kon é enganado! Rangiku à espreita...",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-135"
+          },
+          {
+            "number": 136,
+            "title": "Guerra civil do Hueco Mundo! A morte de Ulquiorra",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-136"
+          },
+          {
+            "number": 137,
+            "title": "Luta de má fé, a armadilha de Aizen",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-137"
+          },
+          {
+            "number": 138,
+            "title": "A segunda ação do Hueco Mundo! Hitsugaya x Yammy",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-138"
+          },
+          {
+            "number": 139,
+            "title": "Ichigo x Grimmjow, a batalha de 11 segundos!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-139"
+          },
+          {
+            "number": 140,
+            "title": "O esquema de Ulquiorra, o momento em que o Sol se põe!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-140"
+          },
+          {
+            "number": 141,
+            "title": "Adeus, Kurosaki",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-141"
+          },
+          {
+            "number": 142,
+            "title": "Ordem! Resgate da Orihime Inoue está proibido",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-142"
+          },
+          {
+            "number": 143,
+            "title": "Grimmjow renasce",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-143"
+          },
+          {
+            "number": 144,
+            "title": "Ishida e Chad: ganhando um novo poder rapidamente",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-144"
+          },
+          {
+            "number": 145,
+            "title": "Os Espada se reúnem! A assembleia real de Aizen",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-145"
+          },
+          {
+            "number": 146,
+            "title": "Ela se chama Nel A aparição de uma Arrancar estranha",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-146"
+          },
+          {
+            "number": 147,
+            "title": "Floresta dos Menos! A busca pela Rukia perdida",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-147"
+          },
+          {
+            "number": 148,
+            "title": "Ashido, o Deus da Morte que veio do passado",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-148"
+          },
+          {
+            "number": 149,
+            "title": "Através da floresta que sucumbe: um milhão de Menos",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-149"
+          },
+          {
+            "number": 150,
+            "title": "Juramento! De volta aqui e vivo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-150"
+          },
+          {
+            "number": 151,
+            "title": "A tempestade! Encontro com o Arrancar dançante",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-151"
+          },
+          {
+            "number": 152,
+            "title": "Ichigo contra-ataca! Essa é a minha bankai",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-152"
+          },
+          {
+            "number": 153,
+            "title": "A pesquisa demoníaca! O plano do Szayelaporro",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-153"
+          },
+          {
+            "number": 154,
+            "title": "Rukia e Kaien: a reunião pesarosa",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-154"
+          },
+          {
+            "number": 155,
+            "title": "Rukia revida! A liberação do encantamento desesperado",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-155"
+          },
+          {
+            "number": 156,
+            "title": "Ishida e Pesche: um ataque combinado de amizade?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-156"
+          },
+          {
+            "number": 157,
+            "title": "O trunfo do Ishida, o cortador de almas",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-157"
+          },
+          {
+            "number": 158,
+            "title": "Braço direito do gigante, braço esquerdo do Diabo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-158"
+          },
+          {
+            "number": 159,
+            "title": "Yasutora Sado morre! Orihime chora",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-159"
+          },
+          {
+            "number": 160,
+            "title": "Testamento: seu coração está bem aqui...",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-160"
+          },
+          {
+            "number": 161,
+            "title": "O Arrancar cruel, a provocação de Ulquiorra",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-161"
+          },
+          {
+            "number": 162,
+            "title": "Szayelaporro ri, a rede que prende Renji está completa",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-162"
+          },
+          {
+            "number": 163,
+            "title": "Deus da Morte e Quincy, a batalha de loucura",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-163"
+          },
+          {
+            "number": 164,
+            "title": "A estratégia de Ishida, o ataque e a defesa de 20 segundos",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-164"
+          },
+          {
+            "number": 165,
+            "title": "Intenção assassina! Grimmjow contente",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-165"
+          },
+          {
+            "number": 166,
+            "title": "Esforços desesperados x esforços desesperados! O Ichigo em Holificação",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-166"
+          },
+          {
+            "number": 167,
+            "title": "O momento da conclusão, o fim de Grimmjow",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-167"
+          },
+          {
+            "number": 168,
+            "title": "Surge um novo Capitão! Ele se chama Shuusuke Amagai",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-168"
+          },
+          {
+            "number": 169,
+            "title": "Novo desenvolvimento, uma perigosa aluna nova surge!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-169"
+          },
+          {
+            "number": 170,
+            "title": "Uma luta desesperada sob o luar, o misterioso assassino com sua zanpakutou",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-170"
+          },
+          {
+            "number": 171,
+            "title": "A abundância de flores escarlates",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-171"
+          },
+          {
+            "number": 172,
+            "title": "Kibune vai à guerra! O vento violento que sopra",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-172"
+          },
+          {
+            "number": 173,
+            "title": "O surgimento do grande mal! A escuridão na mansão dos Kasumiooji",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-173"
+          },
+          {
+            "number": 174,
+            "title": "Atravesse os limites do espelho! Ichigo preso",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-174"
+          },
+          {
+            "number": 175,
+            "title": "O assassino vingativo: o alvo é Ichigo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-175"
+          },
+          {
+            "number": 176,
+            "title": "Mistério! O assassino que consome espadas",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-176-177"
+          },
+          {
+            "number": 177,
+            "title": "A luta contra os assassinos continua.",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-177"
+          },
+          {
+            "number": 178,
+            "title": "O pesadelo que aparece, Ichigo dentro do espelho",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-178"
+          },
+          {
+            "number": 179,
+            "title": "Confronto? Amagai contra os Treze Batalhões do Tribunal",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-179"
+          },
+          {
+            "number": 180,
+            "title": "A decisão da princesa, a noiva aflita",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-180"
+          },
+          {
+            "number": 181,
+            "title": "O 2º Batalhão surge! Ichigo cercado",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-181"
+          },
+          {
+            "number": 182,
+            "title": "A verdadeira força do Amagai, a zanpakutou é liberada!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-182"
+          },
+          {
+            "number": 183,
+            "title": "A escuridão que se move! A verdadeira essência de Kibune",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-183"
+          },
+          {
+            "number": 184,
+            "title": "Kira e Kibune, ataque e defesa do 3º Batalhão",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-184"
+          },
+          {
+            "number": 185,
+            "title": "Gelo e chamas! A batalha feroz entre Amagai e Hitsugaya",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-185"
+          },
+          {
+            "number": 186,
+            "title": "Ordens de ataque! Suprimam o Clã Kasumiooji",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-186"
+          },
+          {
+            "number": 187,
+            "title": "Ichigo se enraivece! O segredo do assassino",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-187"
+          },
+          {
+            "number": 188,
+            "title": "Duelo! Amagai x Ichigo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-188"
+          },
+          {
+            "number": 189,
+            "title": "O orgulho do Deus da Morte decaído",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-189"
+          },
+          {
+            "number": 190,
+            "title": "Hueco Mundo: reinício!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-190"
+          },
+          {
+            "number": 191,
+            "title": "O banquete aterrorizante, o teatro do Szayelaporro",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-191"
+          },
+          {
+            "number": 192,
+            "title": "O segredo da Nel, uma beldade de peitos grandes se une à luta?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-192"
+          },
+          {
+            "number": 193,
+            "title": "Irresistível, as marionetes do terror”",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-193"
+          },
+          {
+            "number": 194,
+            "title": "O passado da Nelliel",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-194"
+          },
+          {
+            "number": 195,
+            "title": "A união suprema! A seriedade de Pesche",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-195"
+          },
+          {
+            "number": 196,
+            "title": "Entrando na batalha! O mais forte exército de Deuses da Morte surge",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-196"
+          },
+          {
+            "number": 197,
+            "title": "A bankai do Byakuya, a ira silenciosa",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-197"
+          },
+          {
+            "number": 198,
+            "title": "Dois cientistas, a armadilha de Mayuri",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-198"
+          },
+          {
+            "number": 199,
+            "title": "O nascimento sacro, a ressurreição de Szayelaporro",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-199"
+          },
+          {
+            "number": 200,
+            "title": "O corpo mais duro?! Corte o Nnoitra!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-200"
+          },
+          {
+            "number": 201,
+            "title": "Nnoitra liberado! Braços múltiplos",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-201"
+          },
+          {
+            "number": 202,
+            "title": "A conclusão da batalha feroz! Quem é o mais forte?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-202"
+          },
+          {
+            "number": 203,
+            "title": "A cidade de Karakura se reúne! Aizen x Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-203"
+          },
+          {
+            "number": 204,
+            "title": "A estratégia de embrulhar o estômago de Ichigo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-204"
+          },
+          {
+            "number": 205,
+            "title": "Tum! Um torneio de chutar bola repleto de Hollows",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-205"
+          },
+          {
+            "number": 206,
+            "title": "A História do passado começa! A verdade de 110 anos atrás",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-206"
+          },
+          {
+            "number": 207,
+            "title": "O novo Capitão do 12º Batalhão: Kisuke Urahara",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-207"
+          },
+          {
+            "number": 208,
+            "title": "Aizen e o garoto prodígio",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-208"
+          },
+          {
+            "number": 209,
+            "title": "O 9º Batalhão de Muguruma parte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-209"
+          },
+          {
+            "number": 210,
+            "title": "Hiyori morre? O começo de uma tragédia",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-210"
+          },
+          {
+            "number": 211,
+            "title": "Traição! As manobras secretas de Aizen",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-211"
+          },
+          {
+            "number": 212,
+            "title": "O tenente Sousuke Aizen se revela como traidor.",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-212"
+          },
+          {
+            "number": 213,
+            "title": "O policial do rito de passagem, Karakruizer",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-213"
+          },
+          {
+            "number": 214,
+            "title": "O último dia do Karakruizer",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-214"
+          },
+          {
+            "number": 215,
+            "title": "Defendam Karakura! A aparição completa dos Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-215"
+          },
+          {
+            "number": 216,
+            "title": "Elite! Os quatro Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-216"
+          },
+          {
+            "number": 217,
+            "title": "A bela e pequena Charlotte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-217"
+          },
+          {
+            "number": 218,
+            "title": "Kira, a batalha do desespero",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-218"
+          },
+          {
+            "number": 219,
+            "title": "A shikai do Hisagi! O seu nome é...",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-219"
+          },
+          {
+            "number": 220,
+            "title": "Ikkaku sucumbe! A crise dos Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-220"
+          },
+          {
+            "number": 221,
+            "title": "Um confronto total! Deuses da Morte x Espada",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-221"
+          },
+          {
+            "number": 222,
+            "title": "O mais cruel jogo de pega-pega? Suì-Feng e Oomaeda",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-222"
+          },
+          {
+            "number": 223,
+            "title": "Um corpo milagroso! Ggio libera",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-223"
+          },
+          {
+            "number": 224,
+            "title": "Batalha de 3 contra 1! A crise da Rangiku",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-224"
+          },
+          {
+            "number": 225,
+            "title": "Todos os tenentes são dizimados! A aterrorizante besta demoníaca",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-225"
+          },
+          {
+            "number": 226,
+            "title": "A conclusão da batalha feroz? Rumo a uma nova batalha!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-226"
+          },
+          {
+            "number": 227,
+            "title": "Um erro magnífico",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-227"
+          },
+          {
+            "number": 228,
+            "title": "Verão! Mar! Festival de biquínis!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-228"
+          },
+          {
+            "number": 229,
+            "title": "O choro da alma? Surge o Deus da Morte de peruca!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-229"
+          },
+          {
+            "number": 230,
+            "title": "Um novo inimigo! A materialização das zanpakutou",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-230"
+          },
+          {
+            "number": 231,
+            "title": "Byakuya some com as pétalas de cerejeiras",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-231"
+          },
+          {
+            "number": 232,
+            "title": "Sode no Shirayuki x Rukia! Uma confusão no coração",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-232"
+          },
+          {
+            "number": 233,
+            "title": "Zangetsu se torna o inimigo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-233"
+          },
+          {
+            "number": 234,
+            "title": "Renji surpreso? As duas Zabimaru!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-234"
+          },
+          {
+            "number": 235,
+            "title": "Confronto! Hisagi x Kazeshini",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-235"
+          },
+          {
+            "number": 236,
+            "title": "Libere! A nova Presa Celestial",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-236"
+          },
+          {
+            "number": 237,
+            "title": "Suì-Feng cercando as zanpakutou",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-237"
+          },
+          {
+            "number": 238,
+            "title": "Amizade? Ódio? Haineko e Tobiume",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-238"
+          },
+          {
+            "number": 239,
+            "title": "O despertar de Hyourinmaru! A batalha feroz de Hitsugaya",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-239"
+          },
+          {
+            "number": 240,
+            "title": "A traição de Byakuya",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-240"
+          },
+          {
+            "number": 241,
+            "title": "Pelo orgulho! Byakuya x Renji",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-241"
+          },
+          {
+            "number": 242,
+            "title": "Deuses da Morte e zanpakutou: um confronto geral",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-242"
+          },
+          {
+            "number": 243,
+            "title": "Um a um! Ichigo x Senbonzakura",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-243"
+          },
+          {
+            "number": 244,
+            "title": "O tão esperado... Kenpachi aparece!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-244"
+          },
+          {
+            "number": 245,
+            "title": "Sigam Byakuya! A confusão dos batalhões",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-245"
+          },
+          {
+            "number": 246,
+            "title": "Missão especial! Resgatem o Comandante Yamamoto!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-246"
+          },
+          {
+            "number": 247,
+            "title": "Deus da Morte enganado! A crise de fim de mundo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-247"
+          },
+          {
+            "number": 248,
+            "title": "Dragão de gelo e dragão de fogo! O mais forte confronto!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-248"
+          },
+          {
+            "number": 249,
+            "title": "A bankai de Senbonzakura Ataque e defesa no mundo dos vivos",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-249"
+          },
+          {
+            "number": 250,
+            "title": "Aquele homem, pelo bem dos Kuchiki",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-250"
+          },
+          {
+            "number": 251,
+            "title": "Passado negro! O pior Deus da Morte nasce",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-251"
+          },
+          {
+            "number": 252,
+            "title": "Byakuya, a verdade por trás de sua traição",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-252"
+          },
+          {
+            "number": 253,
+            "title": "A verdadeira identidade de Muramasa é revelada",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-253"
+          },
+          {
+            "number": 254,
+            "title": "Byakuya e Renji: o 6º Batalhão está de volta",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-254"
+          },
+          {
+            "number": 255,
+            "title": "O capítulo final dos contos secretos das zanpakutou",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-255"
+          },
+          {
+            "number": 256,
+            "title": "A ira de Byakuya, a queda do clã Kuchiki",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-256"
+          },
+          {
+            "number": 257,
+            "title": "Um novo inimigo! A verdadeira essência das Espadas Monstros",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-257"
+          },
+          {
+            "number": 258,
+            "title": "Cobra perdida, macaco torturado",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-258"
+          },
+          {
+            "number": 259,
+            "title": "Terror! O monstro que se esconde",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-259"
+          },
+          {
+            "number": 260,
+            "title": "Conclusão?! Hisagi x Kazeshini",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-260"
+          },
+          {
+            "number": 261,
+            "title": "A pessoa com habilidades desconhecidas! Estão atrás da Orihime",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-261"
+          },
+          {
+            "number": 262,
+            "title": "A Espada Demônio trágica! Haineko ruge!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-262"
+          },
+          {
+            "number": 263,
+            "title": "Presos?! Senbonzakura e Zabimaru",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-263"
+          },
+          {
+            "number": 264,
+            "title": "Batalha de mulheres? Katen Kyoukotsu x Nanao!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-264"
+          },
+          {
+            "number": 265,
+            "title": "Evolução?! A ameaça da última Espada Demônio",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-265"
+          },
+          {
+            "number": 266,
+            "title": "Ichigo x Ulquiorra, recomece!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-266"
+          },
+          {
+            "number": 267,
+            "title": "Corações ligados! O punho esquerdo está pronto para a morte!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-267"
+          },
+          {
+            "number": 268,
+            "title": "Ódio e inveja, o dilema de Orihime",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-268"
+          },
+          {
+            "number": 269,
+            "title": "Ichigo e Uryuu, ligados costas a costas",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-269"
+          },
+          {
+            "number": 270,
+            "title": "O começo do desespero... Ichigo, a lâmina inalcançável",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-270"
+          },
+          {
+            "number": 271,
+            "title": "Ichigo morre! Orihime, o choro de pesar!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-271"
+          },
+          {
+            "number": 272,
+            "title": "Ichigo x Ulquiorra, a conclusão!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-272"
+          },
+          {
+            "number": 273,
+            "title": "A fúria do tubarão! Hallibel libera",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-273"
+          },
+          {
+            "number": 274,
+            "title": "Hitsugaya, o Funeral Floral da Geleira dos Céus suicida!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-274"
+          },
+          {
+            "number": 275,
+            "title": "O sopro de morte que se aproxima, o Rei que governa a morte!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-275"
+          },
+          {
+            "number": 276,
+            "title": "Assassinato em um golpe, a bankai de Suì-Feng!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-276"
+          },
+          {
+            "number": 277,
+            "title": "Clímax! Kyouraku x Starrk!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-277"
+          },
+          {
+            "number": 278,
+            "title": "O pesadelo volta... O renascer dos Espada",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-278"
+          },
+          {
+            "number": 279,
+            "title": "Hirako e Aizen... o reencontro do destino!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-279"
+          },
+          {
+            "number": 280,
+            "title": "Hisagi e Tousen, o momento de despedida",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-280"
+          },
+          {
+            "number": 281,
+            "title": "A coroa de mentiras: a rixa do Barragan",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-281"
+          },
+          {
+            "number": 282,
+            "title": "O poder da alma! Los Lobos, ataquem!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-282"
+          },
+          {
+            "number": 283,
+            "title": "Stark, o lutador solitário",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-283"
+          },
+          {
+            "number": 284,
+            "title": "Uma cadeia de sacríficos: o passado da Harribel",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-284"
+          },
+          {
+            "number": 285,
+            "title": "A rixa de um século! A vingança da Hiyori",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-285"
+          },
+          {
+            "number": 286,
+            "title": "Protejam Karakura! Ichigo ruma ao mundo dos vivos!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-286"
+          },
+          {
+            "number": 287,
+            "title": "História paralela: Ichigo e a lâmpada maravilhosa",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-287"
+          },
+          {
+            "number": 288,
+            "title": "O último trunfo! Ichigo ruma à batalha decisiva",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-288"
+          },
+          {
+            "number": 289,
+            "title": "Byakuya x Kenpachi?! O confronto físico começa",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-289"
+          },
+          {
+            "number": 290,
+            "title": "Pela justiça? O homem que abandonou os Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-290"
+          },
+          {
+            "number": 291,
+            "title": "Batalha desesperada contra Aizen! Hirako, shikai!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-291"
+          },
+          {
+            "number": 292,
+            "title": "Guerra declarada! Aizen x Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-292"
+          },
+          {
+            "number": 293,
+            "title": "Hitsugaya enraivecido! Uma lâmina repleta de ódio!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-293"
+          },
+          {
+            "number": 294,
+            "title": "Impossível de se atacar? Genryuusai é selado!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-294"
+          },
+          {
+            "number": 295,
+            "title": "É tudo uma armadilha, laços maquinados!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-295"
+          },
+          {
+            "number": 296,
+            "title": "A verdade chocante... o poder misterioso de Ichigo!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-296"
+          },
+          {
+            "number": 297,
+            "title": "A lâmina que se estende? Ichigo x Gin!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-297"
+          },
+          {
+            "number": 298,
+            "title": "Festival de cinema! O festival de cinema dos Deuses da Morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-298"
+          },
+          {
+            "number": 299,
+            "title": "Comemoração da abertura do teatro! Capítulo infernal - Prólogo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-299"
+          },
+          {
+            "number": 300,
+            "title": "Urahara aparece! Impeçam o Aizen!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-300"
+          },
+          {
+            "number": 301,
+            "title": "Ichigo perde a vontade de lutar? As expectativas de Gin!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-301"
+          },
+          {
+            "number": 302,
+            "title": "A última Presa Celestial?! O treinamento de Ichigo!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-302"
+          },
+          {
+            "number": 303,
+            "title": "O mundo dos vivos e os Deuses da Morte O especial de Ano Novo!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-303"
+          },
+          {
+            "number": 304,
+            "title": "Mais uma história paralela! Desta vez, o inimigo é um monstro?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-304"
+          },
+          {
+            "number": 305,
+            "title": "Os delírios rugem! Hisagi em direção à pousada de termas!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-305"
+          },
+          {
+            "number": 306,
+            "title": "Para proteger! Ichigo x Tensa Zangetsu!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-306"
+          },
+          {
+            "number": 307,
+            "title": "Situação de emergência! Aizen, uma nova evolução!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-307"
+          },
+          {
+            "number": 308,
+            "title": "Adeus... Rangiku",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-308"
+          },
+          {
+            "number": 309,
+            "title": "A conclusão da batalha feroz! Libere a última Presa Celestial!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-309"
+          },
+          {
+            "number": 310,
+            "title": "A determinação de Ichigo! O preço de uma batalha feroz",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-310"
+          },
+          {
+            "number": 311,
+            "title": "O policial do rito de passagem, Karakruizer ataca novamente!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-311"
+          },
+          {
+            "number": 312,
+            "title": "Inauguração! O novo Capitão do 2º Batalhão!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-312"
+          },
+          {
+            "number": 313,
+            "title": "O homem que arrisca sua vida pelo 11º Batalhão!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-313"
+          },
+          {
+            "number": 314,
+            "title": "Kon é visto! O segredo da bela secretária",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-314"
+          },
+          {
+            "number": 315,
+            "title": "Amigo da Yachiru! O Deus da Morte da justiça aparece!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-315"
+          },
+          {
+            "number": 316,
+            "title": "A folga de Toushirou Hitsugaya!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-316"
+          },
+          {
+            "number": 317,
+            "title": "Um incidente estranho no Tribunal das Almas Puras?! O exército invasor dos Treze Batalhões do Tribunal!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-317"
+          },
+          {
+            "number": 318,
+            "title": "Renji x Rukia? Uma luta entre colegas!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-318"
+          },
+          {
+            "number": 319,
+            "title": "Rede de captura de Ichigo! Fuga da Soul Society!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-319"
+          },
+          {
+            "number": 320,
+            "title": "Treze Batalhões do Tribunal se reúnem no mundo dos vivos!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-320"
+          },
+          {
+            "number": 321,
+            "title": "Confronto de iguais: Ikkaku x Ikkaku!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-321"
+          },
+          {
+            "number": 322,
+            "title": "Confronto! Rukia x Rukia!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-322"
+          },
+          {
+            "number": 323,
+            "title": "Protejam o Ichigo! A determinação da Nozomi",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-323"
+          },
+          {
+            "number": 324,
+            "title": "Retomem o Tribunal das Almas Puras! Os capitães agem!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-324"
+          },
+          {
+            "number": 325,
+            "title": "Pelos que creem! Byakuya x Hitsugaya!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-325"
+          },
+          {
+            "number": 326,
+            "title": "Duas Hinamoris, a resolução do Hitsugaya",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-326"
+          },
+          {
+            "number": 327,
+            "title": "O orgulho do clã Kuchiki! Byakuya x Byakuya!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-327"
+          },
+          {
+            "number": 328,
+            "title": "Derrotem Kagerouza! Deuses da Morte, uma guerra declarada!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-328"
+          },
+          {
+            "number": 329,
+            "title": "A pesquisa proibida... o segredo de Nozomi!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-329"
+          },
+          {
+            "number": 330,
+            "title": "Quero viver...! A zanpakutou da Nozomi",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-330"
+          },
+          {
+            "number": 331,
+            "title": "Pela luta! O despertar de Nozomi!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-331"
+          },
+          {
+            "number": 332,
+            "title": "O mais vil corpo postiço surge no mundo dos vivos!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-332"
+          },
+          {
+            "number": 333,
+            "title": "Destruir a Nozomi? A decisão de Genryuusai",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-333"
+          },
+          {
+            "number": 334,
+            "title": "A pressão espiritual que se extingue! Ichigo, uma alma de debatendo na morte",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-334"
+          },
+          {
+            "number": 335,
+            "title": "Esconderijo no Limbo? Ichigo está a sós?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-335"
+          },
+          {
+            "number": 336,
+            "title": "Sigam Kagerouza! Invasão do Departamento de Pesquisa e Desenvolvimento!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-336"
+          },
+          {
+            "number": 337,
+            "title": "O desenvolvedor das almas alteradas",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-337"
+          },
+          {
+            "number": 338,
+            "title": "Os pensamentos de Kon, os pensamentos da Nozomi",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-338"
+          },
+          {
+            "number": 339,
+            "title": "Protejam o Ichigo! Os laços de amizade",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-339"
+          },
+          {
+            "number": 340,
+            "title": "Corpos postiços x Originais, a batalha feroz em que se aposta o orgulho!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-340"
+          },
+          {
+            "number": 341,
+            "title": "O exército invasor, a conclusão!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-341"
+          },
+          {
+            "number": 342,
+            "title": "Obrigado",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-342"
+          },
+          {
+            "number": 343,
+            "title": "Estudante do 3º ano! Vestido de um jeito novo para uma nova história!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-343"
+          },
+          {
+            "number": 344,
+            "title": "Uma disputa no colégio? Ichigo e Uryuu lutam juntos!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-344"
+          },
+          {
+            "number": 345,
+            "title": "Uryuu sofre um ataque, uma ameaça aproxima os amigos!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-345"
+          },
+          {
+            "number": 346,
+            "title": "Kuugo Ginjou: o usuário de Fullbring",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-346"
+          },
+          {
+            "number": 347,
+            "title": "Um perigo se aproxima à família Kurosaki? A confusão do Ichigo!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-347"
+          },
+          {
+            "number": 348,
+            "title": "O poder do distintivo de Deus Substituto, o \"orgulho\" do Ichigo!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-348"
+          },
+          {
+            "number": 349,
+            "title": "Próximo alvo, as mãos do demônio querem alcançar Orihime!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-349"
+          },
+          {
+            "number": 350,
+            "title": "O homem que matou um Deus da Morte Substituto? Tsukishima age",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-350"
+          },
+          {
+            "number": 351,
+            "title": "Fullbring, um poder detestável!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-351"
+          },
+          {
+            "number": 352,
+            "title": "Tsukishima ataca! O treinamento é interrompido",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-352"
+          },
+          {
+            "number": 353,
+            "title": "Ichigo dominando o Fullbring?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-353"
+          },
+          {
+            "number": 354,
+            "title": "Ichigo x Ginjou! Ao espaço de jogo",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-354"
+          },
+          {
+            "number": 355,
+            "title": "Os Deuses da Morte entram na batalha! O Tribunal das Almas Puras também tem um especial de Ano Novo!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-355"
+          },
+          {
+            "number": 356,
+            "title": "Amigo ou inimigo? O coração não visto de Ginjou",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-356"
+          },
+          {
+            "number": 357,
+            "title": "A ameaça que se aproxima: a habilidade de Tsukishima!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-357"
+          },
+          {
+            "number": 358,
+            "title": "Confronto?! Xcution ataca Ginjou",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-358"
+          },
+          {
+            "number": 359,
+            "title": "A triste disputa! Ichigo x Sado e Orihime!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-359"
+          },
+          {
+            "number": 360,
+            "title": "Ichigo x Uryuu?! Quem é o traidor?",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-360"
+          },
+          {
+            "number": 361,
+            "title": "Um novo surgimento! Conheçam os Treze Batalhões do Tribunal!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-361"
+          },
+          {
+            "number": 362,
+            "title": "Renascimento! Deus da Morte Substituto? Ichigo Kurosaki!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-362"
+          },
+          {
+            "number": 363,
+            "title": "Batalha feroz! Deuses da Morte x Xcution!",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-363"
+          },
+          {
+            "number": 364,
+            "title": "Batalha desesperadora? Memórias confusas de Byakuya",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-364"
+          },
+          {
+            "number": 365,
+            "title": "Ichigo x Ginjou! O segredo do distintivo de Deus da Morte Substituto",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-365"
+          },
+          {
+            "number": 366,
+            "title": "Final: Mudando a história sem mudar de coração",
+            "url": "https://animesonline.cloud/episodio/bleach-episodio-366-final"
+          }
+        ],
+        "totalEpisodes": 366,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

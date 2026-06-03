@@ -3530,11 +3530,11 @@
       "ip": "143.131.235.95",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780512625787,
+      "lastSeenAt": 1780513223739,
       "lastAlertAt": 1780512976376,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:babf2f2a42b64476": {
       "userKey": "ip:babf2f2a42b64476",
@@ -3545,8 +3545,8 @@
       "username": "",
       "lastSeenAt": 1780512715317,
       "lastAlertAt": 1780513126377,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     }
   },

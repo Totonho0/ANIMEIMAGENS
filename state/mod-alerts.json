@@ -1983,11 +1983,11 @@
       "ip": "172.68.10.209",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780458881306,
-      "lastAlertAt": 1780459320160,
+      "lastSeenAt": 1780527184652,
+      "lastAlertAt": 1780527184652,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:f2ec461a74d44b89": {
       "userKey": "ip:f2ec461a74d44b89",

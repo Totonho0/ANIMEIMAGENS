@@ -155,6 +155,12 @@
       "title": "Marriagetoxin Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
       "kind": "anime"
+    },
+    "sousou-no-friere-2-dublado": {
+      "slug": "sousou-no-friere-2-dublado",
+      "title": "Sousou no Frieren 2nd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85NlJUMkE0N1VkeldsVWZ2SUVSRnlCc0xoTDIuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -231,6 +237,9 @@
     ],
     "kanan-sama-wa-akumade-choroi": [
       1
+    ],
+    "sousou-no-friere-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -246,5 +255,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780490354714
+  "updatedAt": 1780490436167
 }

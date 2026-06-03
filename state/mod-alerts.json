@@ -2750,11 +2750,11 @@
       "ip": "172.70.240.206",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780420205997,
-      "lastAlertAt": 1780420612555,
+      "lastSeenAt": 1780510865736,
+      "lastAlertAt": 1780510865736,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:b887f5b9d7abda23": {
       "userKey": "ip:b887f5b9d7abda23",

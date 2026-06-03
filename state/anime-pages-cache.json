@@ -35,7 +35,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1780495080922,
+      "at": 1780513237881,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -296,7 +296,7 @@
       }
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
-      "at": 1780509813709,
+      "at": 1780513239851,
       "data": {
         "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
@@ -6198,7 +6198,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1780512224635,
+      "at": 1780513236869,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
@@ -9565,7 +9565,7 @@
       }
     },
     "akane-banashi-dublado": {
-      "at": 1780512227053,
+      "at": 1780513238976,
       "data": {
         "slug": "akane-banashi-dublado",
         "title": "Akane-banashi Dublado",
@@ -9681,6 +9681,45 @@
           }
         ],
         "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "tsue-to-tsurugi-no-wistoria-2-dublado": {
+      "at": 1780513241886,
+      "data": {
+        "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+        "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vU3lCbkdiN3RrY2J2NGpkQkpYNVRZRnY4bTMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Dia da Barreira",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Festa do Inferno Começa",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Um Único Feitiço",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - E a História Começa",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Dia da Partida",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-05"
+          }
+        ],
+        "totalEpisodes": 5,
         "kind": "anime",
         "provider": "aoc"
       }

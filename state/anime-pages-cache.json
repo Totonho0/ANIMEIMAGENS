@@ -7347,6 +7347,75 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "nageki-no-bourei-wa-intai-shitai-2": {
+      "at": 1780493685136,
+      "data": {
+        "slug": "nageki-no-bourei-wa-intai-shitai-2",
+        "title": "Nageki no Bourei wa Intai shitai 2",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYlpENTVncFg3VURtUFRPM3JKS0ZVT2t3WDdBLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Quero Falar das Minhas Memórias",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Agora que isso aconteceu, quero fazer uma viagem para algum lugar",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Quero confiar a paz da cidade a outros.",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Quero deixar monstros fortes pra lá",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Quero superar isso de alguma forma.",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Quero distribuir presentes para todos",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Quero Pular a Viagem de Escolta",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - A raposa de nove caudas quer operar em segredo !",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - \"Quero ser grato pela ajuda dos meus amigos\"",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - \"Quero dar Uma Grande Risada no Final\"",
+            "url": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-2-episodio-11"
+          }
+        ],
+        "totalEpisodes": 11,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

@@ -7064,7 +7064,7 @@
       }
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki": {
-      "at": 1780522075422,
+      "at": 1780522116932,
       "data": {
         "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
@@ -12322,6 +12322,65 @@
           }
         ],
         "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "marriagetoxin": {
+      "at": 1780522116784,
+      "data": {
+        "slug": "marriagetoxin",
+        "title": "Marriagetoxin",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Busca do Mestre dos Venenos por uma Noiva",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Afinal, o que é \"charme\"?",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Meu Primeiro",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Mestre do Som",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Senhor Frio",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Juntos comigo",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O casamento do mestre dos insetos",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Caçador de Assassinos",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O Reino Animal",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
         "kind": "anime",
         "provider": "aoc"
       }

@@ -296,7 +296,7 @@
       }
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
-      "at": 1780490293704,
+      "at": 1780490401142,
       "data": {
         "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
@@ -6272,6 +6272,79 @@
           }
         ],
         "totalEpisodes": 13,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kujima-utaeba-ie-hororo": {
+      "at": 1780490400212,
+      "data": {
+        "slug": "kujima-utaeba-ie-hororo",
+        "title": "Kujima: Why Sing When You Can Warble?",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9reU9qUkRscGg2NE9iR0VMMVdSYlk2RzVkTzkuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O primeiro Blin que você fizer será um caroço.",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Um corvo imitando um corvo-marinho.",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Não nascem dois pássaros com a mesma pena.",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O pássaro do norte constrói seu ninho em um galho do norte.",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - A verdade nasce de uma mentira",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - 1 Fuji 2 Kujima 3 Berinjela",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Quem se associa com o vermelho-vivo se tornará vermelho-vivo",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Um homem se afogando se agarrará a uma palha.",
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "dandelion-dublado": {
+      "at": 1780490401010,
+      "data": {
+        "slug": "dandelion-dublado",
+        "title": "Dandelion Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93QlQxcGtCa1prOWpreXRieFVnaElEV0VxOFQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 7,
+            "title": "Episódio 07 - Faça o que só pode ser feito agora!",
+            "url": "https://animesonline.cloud/episodio/dandelion-dublado-episodio-07"
+          }
+        ],
+        "totalEpisodes": 1,
         "kind": "anime",
         "provider": "aoc"
       }

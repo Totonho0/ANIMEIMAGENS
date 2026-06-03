@@ -175,6 +175,9 @@
     ],
     "hitoribocchi-no-isekai-kouryaku": [
       1
+    ],
+    "jujutsu-kaisen-2-dublado": [
+      1
     ]
   },
   "started": {
@@ -253,16 +256,21 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "jujutsu-kaisen-2-dublado",
+      "ep": 1,
+      "at": 1780493070416
+    },
+    {
       "slug": "hitoribocchi-no-isekai-kouryaku",
       "ep": 1,
-      "at": 1780490959642
+      "at": 1780493070416
     },
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780490959642
+      "at": 1780493070416
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780491187324
+  "updatedAt": 1780493069781
 }

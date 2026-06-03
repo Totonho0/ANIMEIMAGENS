@@ -181,6 +181,9 @@
     ],
     "nageki-no-bourei-wa-intai-shitai": [
       1
+    ],
+    "aishiteru-game-wo-owarasetai-dublado": [
+      1
     ]
   },
   "started": {
@@ -259,6 +262,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "aishiteru-game-wo-owarasetai-dublado",
+      "ep": 1,
+      "at": 1780496841277
+    },
+    {
       "slug": "jujutsu-kaisen-2-dublado",
       "ep": 1,
       "at": 1780495298860
@@ -280,5 +288,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780495817519
+  "updatedAt": 1780496841734
 }

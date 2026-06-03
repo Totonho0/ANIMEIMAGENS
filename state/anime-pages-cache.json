@@ -296,7 +296,7 @@
       }
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
-      "at": 1780495753509,
+      "at": 1780509813709,
       "data": {
         "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
@@ -7138,7 +7138,7 @@
       }
     },
     "ichijouma-mankitsugurashi": {
-      "at": 1780495081310,
+      "at": 1780509814352,
       "data": {
         "slug": "ichijouma-mankitsugurashi",
         "title": "Ichijouma Mankitsugurashi",
@@ -7192,7 +7192,7 @@
       }
     },
     "rezero-kara-hajimeru-isekai-seikatsu-4th-season": {
-      "at": 1780493239238,
+      "at": 1780509815565,
       "data": {
         "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
         "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
@@ -9276,7 +9276,7 @@
       }
     },
     "fist-of-the-north-star-hokuto-no-ken": {
-      "at": 1780495082095,
+      "at": 1780509815123,
       "data": {
         "slug": "fist-of-the-north-star-hokuto-no-ken",
         "title": "Hokuto no Ken: Fist of the North Star",
@@ -9487,6 +9487,40 @@
           }
         ],
         "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "marika-chan-no-koukando-wa-bukkowareteiru": {
+      "at": 1780509816009,
+      "data": {
+        "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
+        "title": "Marika-chan no Koukando wa Bukkowareteiru",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9meGtjY2xyYUxDT05VWkVKTHlsS0FDQWdSZHQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Comecei a Ver Medidores de Amor",
+            "url": "https://animesonline.cloud/episodio/marika-chan-no-koukando-wa-bukkowareteiru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Os Medidores de Amor Aumentam e Diminuem",
+            "url": "https://animesonline.cloud/episodio/marika-chan-no-koukando-wa-bukkowareteiru-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Despertar dos Medidores de Amor",
+            "url": "https://animesonline.cloud/episodio/marika-chan-no-koukando-wa-bukkowareteiru-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Os Medidores de Amor São Seres Vivos?",
+            "url": "https://animesonline.cloud/episodio/marika-chan-no-koukando-wa-bukkowareteiru-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
         "kind": "anime",
         "provider": "aoc"
       }

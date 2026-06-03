@@ -6951,7 +6951,7 @@
       }
     },
     "replica-datte-koi-wo-suru": {
-      "at": 1780521102754,
+      "at": 1780521553274,
       "data": {
         "slug": "replica-datte-koi-wo-suru",
         "title": "Even a Replica Can Fall in Love",
@@ -7192,7 +7192,7 @@
       }
     },
     "rezero-kara-hajimeru-isekai-seikatsu-4th-season": {
-      "at": 1780509815565,
+      "at": 1780521551240,
       "data": {
         "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
         "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
@@ -11985,6 +11985,60 @@
             "number": 8,
             "title": "Episódio 08 - Sara Takanashi / Eri Fujisawa / Shizuka Utagawa",
             "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "otaku-ni-yasashii-gal-wa-inai": {
+      "at": 1780521552246,
+      "data": {
+        "slug": "otaku-ni-yasashii-gal-wa-inai",
+        "title": "Otaku ni Yasashii Gal wa Inai!?",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85OWxRREkxQnZRU3VDc1puQnMzMTlhRjV2eTguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Uma garota pode ser gentil com um otaku?",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Meu quarto é um ponto de encontro para garotas?!",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Você vai subir...?",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Vamos ao karaokê!",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O que vocês acharam dos nossos biquínis? ♡",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Amor? ♡",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Você é um verdadeiro conquistador, Otaku-kun",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Uma festa do pijama? Nem pensar!",
+            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-08"
           }
         ],
         "totalEpisodes": 8,

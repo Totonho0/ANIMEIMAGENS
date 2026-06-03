@@ -9524,6 +9524,45 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "kanojo-okarishimasu-5th-season-dublado": {
+      "at": 1780511886762,
+      "data": {
+        "slug": "kanojo-okarishimasu-5th-season-dublado",
+        "title": "Kanojo Okarishimasu 5th Season Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bGxmeTk4U1Rrbm8xMXJER2k0NFNLNmxsd3guanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Minha ex-namorada, Nanami Mami",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Namorada de aluguel",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Fim da Namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Clímax e Namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Namorada legítima",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-05"
+          }
+        ],
+        "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

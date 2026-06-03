@@ -2113,11 +2113,11 @@
       "ip": "172.69.151.100",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780366647451,
-      "lastAlertAt": 1780367035458,
+      "lastSeenAt": 1780470509379,
+      "lastAlertAt": 1780470509379,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:1c27c26e7f9a0047": {
       "userKey": "ip:1c27c26e7f9a0047",

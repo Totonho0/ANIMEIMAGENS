@@ -17735,7 +17735,35 @@
         "hasMore": false
       },
       "at": 1780495210417
+    },
+    "todos|2|a|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Awajima Hyakkei",
+            "slug": "a-hundred-scenes-of-awajima",
+            "url": "https://animesonline.cloud/anime/a-hundred-scenes-of-awajima",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 2,
+        "hasMore": false
+      },
+      "at": 1780495212097
+    },
+    "todos|1|09|24": {
+      "data": {
+        "items": [],
+        "category": "todos",
+        "page": 1,
+        "hasMore": false
+      },
+      "at": 1780495213189
     }
   },
-  "updatedAt": 1780495210417
+  "updatedAt": 1780495213189
 }

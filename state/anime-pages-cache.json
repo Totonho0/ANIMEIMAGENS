@@ -338,6 +338,50 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "marriagetoxin-dublado": {
+      "at": 1780490296023,
+      "data": {
+        "slug": "marriagetoxin-dublado",
+        "title": "Marriagetoxin Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Busca do Mestre dos Venenos por uma Noiva",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Afinal, o que é \"charme\"?",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Meu Primeiro",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Mestre do Som",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Senhor Chladni",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Juntos comigo",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

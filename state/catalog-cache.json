@@ -17762,7 +17762,7 @@
         "page": 1,
         "hasMore": false
       },
-      "at": 1780495213189
+      "at": 1780520894043
     },
     "todos|1|c|24": {
       "data": {
@@ -17772,7 +17772,35 @@
         "hasMore": false
       },
       "at": 1780520891111
+    },
+    "todos|2|c|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Cool de M",
+            "slug": "cool-de-m",
+            "url": "https://animesonline.cloud/anime/cool-de-m",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zrcUzIRiWL0XBjiqTTJxjiX118R-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+            "url": "https://animesonline.cloud/anime/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/smk2wgVAfdDDLr3NKW4uYlRoIWr-185x278.jpg",
+            "rating": "7.1",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 2,
+        "hasMore": false
+      },
+      "at": 1780520894083
     }
   },
-  "updatedAt": 1780520891111
+  "updatedAt": 1780520894083
 }

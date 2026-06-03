@@ -161,6 +161,12 @@
       "title": "Sousou no Frieren 2nd Season",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85NlJUMkE0N1VkeldsVWZ2SUVSRnlCc0xoTDIuanBn",
       "kind": "anime"
+    },
+    "jujutsu-kaisen-2-dublado": {
+      "slug": "jujutsu-kaisen-2-dublado",
+      "title": "Jujutsu Kaisen 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wckpjdlE1dVJ1cW8yVW0xbG9CYnFvS295QlMuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -240,20 +246,23 @@
     ],
     "sousou-no-friere-2-dublado": [
       1
+    ],
+    "jujutsu-kaisen-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "hitoribocchi-no-isekai-kouryaku",
       "ep": 1,
-      "at": 1780490285710
+      "at": 1780490959642
     },
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780490285710
+      "at": 1780490959642
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780490436167
+  "updatedAt": 1780491187324
 }

@@ -183,7 +183,7 @@
       }
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
-      "at": 1780496044436,
+      "at": 1780512226254,
       "data": {
         "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
         "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
@@ -9124,7 +9124,7 @@
       }
     },
     "devil-may-cry-2026-dublado": {
-      "at": 1780512182443,
+      "at": 1780512227169,
       "data": {
         "slug": "devil-may-cry-2026-dublado",
         "title": "Devil May Cry 2 (2026) Dublado",
@@ -9560,6 +9560,40 @@
           }
         ],
         "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "akane-banashi-dublado": {
+      "at": 1780512227053,
+      "data": {
+        "slug": "akane-banashi-dublado",
+        "title": "Akane-banashi Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95VUVYamdGRnFxUks0M2xkWGJ3aGE4c3ZRWFYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Naquele dia",
+            "url": "https://animesonline.cloud/episodio/akane-banashi-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Primeira Apresentação",
+            "url": "https://animesonline.cloud/episodio/akane-banashi-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Companheiro aprendiz mais velho",
+            "url": "https://animesonline.cloud/episodio/akane-banashi-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Além da alegria",
+            "url": "https://animesonline.cloud/episodio/akane-banashi-dublado-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
         "kind": "anime",
         "provider": "aoc"
       }

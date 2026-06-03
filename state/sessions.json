@@ -124,5 +124,17 @@
     "oauthAccessExpiresAt": 1781036210387,
     "hentaiAccess": true,
     "hentaiAccessCheckedAt": 1780457658651
+  },
+  "9e65e767-2bf5-4e28-b472-423b9020ebb0": {
+    "createdAt": 1780521509233,
+    "user": {
+      "id": "1474466223709487367",
+      "username": "𝗖𝝝𝗙𝗙𝝨𝝨",
+      "avatar": "https://cdn.discordapp.com/avatars/1474466223709487367/933c4a035b000a4c58efa6e87db4a58f.png?size=256"
+    },
+    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.Yt7YNoLduUymdQZBk6UoIQg07k9z6a",
+    "oauthAccessExpiresAt": 1781126309233,
+    "hentaiAccess": false,
+    "hentaiAccessCheckedAt": 1780521509566
   }
 }

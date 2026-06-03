@@ -1398,11 +1398,11 @@
       "ip": "172.71.144.43",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780344992661,
-      "lastAlertAt": 1780345433264,
+      "lastSeenAt": 1780494103859,
+      "lastAlertAt": 1780494103859,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:fc0ddcf5b396750c": {
       "userKey": "ip:fc0ddcf5b396750c",
@@ -3402,8 +3402,8 @@
       "username": "",
       "lastSeenAt": 1780493425260,
       "lastAlertAt": 1780493850480,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     },
     "ip:fcf64ffc7dabe5f8": {
@@ -3415,8 +3415,8 @@
       "username": "",
       "lastSeenAt": 1780493456624,
       "lastAlertAt": 1780493850480,
-      "viaBot": true,
       "componentsOk": true,
+      "viaBot": true,
       "embedOnlineStatus": false
     }
   },

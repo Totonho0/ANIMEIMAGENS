@@ -163,11 +163,11 @@
       "ip": "104.23.223.138",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780464832105,
-      "lastAlertAt": 1780465170862,
+      "lastSeenAt": 1780474382239,
+      "lastAlertAt": 1780474382239,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:fef66d9e04b26439": {
       "userKey": "ip:fef66d9e04b26439",

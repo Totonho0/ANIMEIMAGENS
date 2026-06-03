@@ -384,7 +384,7 @@
       }
     },
     "one-piece": {
-      "at": 1780490352789,
+      "at": 1780493049229,
       "data": {
         "slug": "one-piece",
         "title": "One Piece - Todos os Episodios",
@@ -6198,7 +6198,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1780490354060,
+      "at": 1780493050039,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
@@ -6331,7 +6331,7 @@
       }
     },
     "dandelion-dublado": {
-      "at": 1780490427429,
+      "at": 1780493049392,
       "data": {
         "slug": "dandelion-dublado",
         "title": "Dandelion Dublado",
@@ -6892,6 +6892,60 @@
           }
         ],
         "totalEpisodes": 23,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "yowayowa-sensei": {
+      "at": 1780493047845,
+      "data": {
+        "slug": "yowayowa-sensei",
+        "title": "Yowayowa Sensei",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kS0E4eTFIeEVxMDlNMTFwODk2aEJrWnNrdTEuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Professora Assustadora?",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Teste Físico Da Professora",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Comunicação em Massagem",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Um acampamento escolar fraco e medroso",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Um Encontro Fraco",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Chantagem fraca e covarde",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Um Campo de Treinamento de Fotografia Fraco e Medroso (1)",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Um Campo de Treinamento de Fotografia Fraco e Medroso (2)",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
         "kind": "anime",
         "provider": "aoc"
       }

@@ -384,7 +384,7 @@
       }
     },
     "one-piece": {
-      "at": 1780494620308,
+      "at": 1780494872712,
       "data": {
         "slug": "one-piece",
         "title": "One Piece - Todos os Episodios",
@@ -8907,6 +8907,145 @@
           }
         ],
         "totalEpisodes": 296,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "haikyuu": {
+      "at": 1780494873607,
+      "data": {
+        "slug": "haikyuu",
+        "title": "Haikyuu!!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O fim e o começo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Clube de Voleibol do Colégio Karasuno",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Um aliado formidável",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A visão do topo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - A ansiedade do covarde",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Um time interessante",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Contra o Grande Rei",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O dito \"Ace\"",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Um toque pro Ace",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Admiração",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Decisão",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O reencontro Neko-Karasu",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Rival",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Adversários formidáveis",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - Renascimento",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Vencedores e perdedores",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - A Muralha de Ferro",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Protegendo as costas",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - Maestros",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Oikawa Tooru não é um prodígio",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - A verdadeira força do senpai",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - Progresso",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - O ponto que muda o ritmo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - Ex-rei solitário",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 - O terceiro dia",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-25"
+          }
+        ],
+        "totalEpisodes": 25,
         "kind": "anime",
         "provider": "aoc"
       }

@@ -1984,10 +1984,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780527184652,
-      "lastAlertAt": 1780527184652,
+      "lastAlertAt": 1780527541202,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:f2ec461a74d44b89": {
       "userKey": "ip:f2ec461a74d44b89",

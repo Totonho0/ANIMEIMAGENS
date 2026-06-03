@@ -12384,6 +12384,145 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "spy-x-family": {
+      "at": 1780526699525,
+      "data": {
+        "slug": "spy-x-family",
+        "title": "Spy x Family - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96TnVnbm5SNUtFbXE5RXpMY2wwTWUxVW1IWWsuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Operação Strix",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Garantir uma esposa",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Preparativos para a entrevista",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "A entrevista do colégio de elite",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Aprovados ou reprovados?",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "O esquema da amizade",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Segundo filho do alvo",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Camuflagem contra a polícia secreta",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Ostente o seu amor",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "O grande plano de queimada",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Estrela",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Parque dos pinguins",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Projeto Apple",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Desarmar a bomba-relógio",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Um novo integrante da família",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "A cozinha de Yor - O grande plano de romance do informante",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Execute o plano do grifo - Dama Metálica - Omelete de arroz",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "O tio professor particular - Daybreak",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Um plano de vingança contra Desmond - A mamãe se tornou o vento",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Investigação do hospital geral - Código secreto",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Nightfall - Primeiro ataque de ciúmes",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Campbelldon: o torneio clandestino de tênis",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Um caminho sem volta",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "O papel de uma mãe e de uma esposa - Saída às compras",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 Final",
+            "url": "https://animesonline.cloud/episodio/spy-x-family-episodio-25-final"
+          }
+        ],
+        "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

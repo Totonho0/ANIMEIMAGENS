@@ -3777,11 +3777,11 @@
       "ip": "189.40.73.248",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780526822715,
-      "lastAlertAt": 1780527241172,
+      "lastSeenAt": 1780529628881,
+      "lastAlertAt": 1780529628881,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:9c94e07ef3c15503": {
       "userKey": "ip:9c94e07ef3c15503",

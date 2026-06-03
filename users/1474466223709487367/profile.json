@@ -29,6 +29,12 @@
       "title": "Haikyuu!! Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
       "kind": "anime"
+    },
+    "kimetsu-no-yaiba-movie-mugen-jou-hen": {
+      "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen",
+      "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91MUNvTWsyWXFzOXJiWTVMQVBTekRHb2dMWEkuanBn",
+      "kind": "anime"
     }
   },
   "watched": {},
@@ -45,5 +51,5 @@
   },
   "watchHistoryLog": [],
   "watchHistoryHidden": [],
-  "updatedAt": 1780521583902
+  "updatedAt": 1780521607598
 }

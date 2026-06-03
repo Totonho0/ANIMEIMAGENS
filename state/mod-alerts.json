@@ -3726,10 +3726,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780522264401,
-      "lastAlertAt": 1780522264401,
+      "lastAlertAt": 1780522590798,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:d7def1d853048091": {
       "userKey": "ip:d7def1d853048091",

@@ -340,7 +340,7 @@
       }
     },
     "marriagetoxin-dublado": {
-      "at": 1780490427254,
+      "at": 1780494882709,
       "data": {
         "slug": "marriagetoxin-dublado",
         "title": "Marriagetoxin Dublado",
@@ -7246,7 +7246,7 @@
       }
     },
     "stranger-things-historias-de-85-dublado": {
-      "at": 1780493464636,
+      "at": 1780494881863,
       "data": {
         "slug": "stranger-things-historias-de-85-dublado",
         "title": "Stranger Things: Histórias de 85 Dublado",
@@ -9046,6 +9046,79 @@
           }
         ],
         "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "needy-girl-overdose-dublado": {
+      "at": 1780494880118,
+      "data": {
+        "slug": "needy-girl-overdose-dublado",
+        "title": "Needy Girl Overdose Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kb3QxTkk2RjVJckxjazh4V0lPbjc0aWVhREguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Ela é uma Rainha Assassina",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Só nós dois",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - SOBREDOSE DE INTERNET",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Chamada de Londres",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado": {
+      "at": 1780494880569,
+      "data": {
+        "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+        "title": "The Beginning After the End Season 2",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94aUZ1MjZyZWxDUHhmME9wVTZnTHN3ZDUxbWouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Rei se Aventura",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A princesa parte em uma aventura.",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Rei Naufraga.",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Rei volta para casa",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - As lutas do rei",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-05"
+          }
+        ],
+        "totalEpisodes": 5,
         "kind": "anime",
         "provider": "aoc"
       }

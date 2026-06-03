@@ -3752,10 +3752,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780523270796,
-      "lastAlertAt": 1780523270796,
+      "lastAlertAt": 1780523640862,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:7dd4687e9fddf6c2": {
       "userKey": "ip:7dd4687e9fddf6c2",

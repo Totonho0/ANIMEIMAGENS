@@ -3544,10 +3544,10 @@
       "discordId": "377188128735232010",
       "username": "Totonho",
       "lastSeenAt": 1780519762181,
-      "lastAlertAt": 1780519762181,
+      "lastAlertAt": 1780520190742,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:4d51af9a71d959a9": {
       "userKey": "ip:4d51af9a71d959a9",
@@ -3596,10 +3596,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780519861267,
-      "lastAlertAt": 1780519861267,
+      "lastAlertAt": 1780520190742,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

@@ -3712,11 +3712,11 @@
       "ip": "177.136.4.64",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780521870717,
-      "lastAlertAt": 1780522290786,
+      "lastSeenAt": 1780525073554,
+      "lastAlertAt": 1780525073554,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:b6c4f5dbd20ed204": {
       "userKey": "ip:b6c4f5dbd20ed204",

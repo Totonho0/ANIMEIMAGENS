@@ -2568,11 +2568,11 @@
       "ip": "172.70.247.171",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780410981622,
-      "lastAlertAt": 1780411312202,
+      "lastSeenAt": 1780483379162,
+      "lastAlertAt": 1780483379162,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:0a0f4dd81582b077": {
       "userKey": "ip:0a0f4dd81582b077",

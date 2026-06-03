@@ -7008,6 +7008,60 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "mairimashita-iruma-kun-4-dublado": {
+      "at": 1780493196499,
+      "data": {
+        "slug": "mairimashita-iruma-kun-4-dublado",
+        "title": "Mairimashita! Iruma-kun 4 Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kOGJBSTJFRE03TDJxOTR3RFpmamI4MktSb2guanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Classe dos Desajustados, Outro Demônio",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Desafio dos 13",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - A essência de um dem-dol",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Não podemos vê-lo, mas...",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Vamos conversar",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Festival de Música: Hora do Espetáculo!!",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Tapete de Lilith",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Saudação da Vitória",
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-dublado-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

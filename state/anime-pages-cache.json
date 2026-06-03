@@ -35,7 +35,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1780490269653,
+      "at": 1780493190233,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -6946,6 +6946,65 @@
           }
         ],
         "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "replica-datte-koi-wo-suru": {
+      "at": 1780493191307,
+      "data": {
+        "slug": "replica-datte-koi-wo-suru",
+        "title": "Even a Replica Can Fall in Love",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81aUdVZXhiMkU2S3llcG1qRWVsRVI4bXJ0MGcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Uma Réplica Nunca Sonha",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Replica Skips School",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - As réplicas são enganosas",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A réplica está chorando.",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Uma Réplica dos Sonhos",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A réplica treme",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Vou procurar uma réplica.",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - As réplicas estão distorcidas.",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Uma réplica está desprovida de",
+            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
         "kind": "anime",
         "provider": "aoc"
       }

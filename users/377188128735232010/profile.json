@@ -154,6 +154,9 @@
   "watched": {
     "devil-may-cry-2026-dublado": [
       1
+    ],
+    "hitoribocchi-no-isekai-kouryaku": [
+      1
     ]
   },
   "started": {
@@ -225,11 +228,16 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "hitoribocchi-no-isekai-kouryaku",
+      "ep": 1,
+      "at": 1780489012979
+    },
+    {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780441035770
+      "at": 1780489012979
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780441063331
+  "updatedAt": 1780489012465
 }

@@ -4336,11 +4336,11 @@
       "ip": "104.23.221.13",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780604393143,
-      "lastAlertAt": 1780604797710,
+      "lastSeenAt": 1780607108170,
+      "lastAlertAt": 1780607108170,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:7d462a525a51589b": {
       "userKey": "ip:7d462a525a51589b",

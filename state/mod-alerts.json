@@ -4090,10 +4090,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780570058244,
-      "lastAlertAt": 1780570058244,
+      "lastAlertAt": 1780570445258,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:c900c25d9aa867f4": {
       "userKey": "ip:c900c25d9aa867f4",

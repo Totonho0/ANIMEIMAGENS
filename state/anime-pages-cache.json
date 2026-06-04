@@ -12977,6 +12977,50 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "shunkashuutou-daikousha-haru-no-mai-dublado": {
+      "at": 1780596306443,
+      "data": {
+        "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+        "title": "Agents of the Four Seasons: Dance of Spring",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jUWxuUjVydmJUcEpNUDNsazJya1FPd0VFUlouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Dança da Primavera",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Neve persistente",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Um vislumbre",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Calma matinal",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Solidão a Dois",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Lugar para Voltar",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

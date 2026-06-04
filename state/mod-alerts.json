@@ -904,7 +904,7 @@
       "ip": "184.72.121.156",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780558629888,
+      "lastSeenAt": 1780558669691,
       "lastAlertAt": 1780558629888,
       "componentsOk": true,
       "viaBot": true,
@@ -1840,11 +1840,11 @@
       "ip": "54.175.74.27",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780492261960,
-      "lastAlertAt": 1780492650458,
+      "lastSeenAt": 1780558669489,
+      "lastAlertAt": 1780558669489,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:a2ee1317cad452c2": {
       "userKey": "ip:a2ee1317cad452c2",

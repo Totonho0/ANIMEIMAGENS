@@ -826,11 +826,11 @@
       "ip": "46.224.210.134",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780277725740,
-      "lastAlertAt": 1780278053946,
+      "lastSeenAt": 1780601949342,
+      "lastAlertAt": 1780601949342,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:28fede8cb71c19a1": {
       "userKey": "ip:28fede8cb71c19a1",

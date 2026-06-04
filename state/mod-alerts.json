@@ -1619,11 +1619,11 @@
       "ip": "172.70.248.28",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780525455010,
-      "lastAlertAt": 1780525891062,
+      "lastSeenAt": 1780588449874,
+      "lastAlertAt": 1780588449874,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:584cf294133327ed": {
       "userKey": "ip:584cf294133327ed",

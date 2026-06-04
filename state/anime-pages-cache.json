@@ -12760,6 +12760,25 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "chainsaw-man-o-filme-arco-da-reze-dublado": {
+      "at": 1780541855401,
+      "data": {
+        "slug": "chainsaw-man-o-filme-arco-da-reze-dublado",
+        "title": "Chainsaw Man – O Filme: Arco da Reze Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kaDBkTFZMRExxVUtodHl0Q0Zqa2YzRUhlSkkuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Filme completo",
+            "url": null
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "filme",
+        "provider": "aoc"
+      }
     }
   }
 }

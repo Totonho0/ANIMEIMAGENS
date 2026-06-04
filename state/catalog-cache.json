@@ -11116,6 +11116,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Haikyuu!! Second Season Dublado",
+            "slug": "haikyuu-second-season-dublado",
+            "url": "https://animesonline.cloud/anime/haikyuu-second-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wkQX0xwqXTtOtMXfwCf1Ad1ZfCv-185x278.jpg",
+            "rating": "8.607",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Haikyuu!! Second Season",
             "slug": "haikyuu-second-season",
             "url": "https://animesonline.cloud/anime/haikyuu-second-season",
@@ -11267,26 +11276,28 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Dandelion Dublado",
-            "slug": "dandelion-dublado",
-            "url": "https://animesonline.cloud/anime/dandelion-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/r5Cq5wax0sQ1ModcZXWKyXF1xpy-185x278.jpg",
-            "rating": "8.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780545183790
+      "at": 1780585680749
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 25",
+            "epTitle": "Episódio 25",
+            "slug": "haikyuu-second-season-dublado",
+            "episode": 25,
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-25",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/boTsMwp1QAMNhkr7Q50m2DrkK3g-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
@@ -11539,24 +11550,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 8",
-            "epTitle": "Episódio 8",
-            "slug": "mahou-no-shimai-lulutto-lilly",
-            "episode": 8,
-            "url": "https://animesonline.cloud/episodio/mahou-no-shimai-lulutto-lilly-episodio-08",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rXRNt2HvFElDEZlmkbGomB6q5w2-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780545181832
+      "at": 1780585679851
     },
     "todos|2||24": {
       "data": {
@@ -18254,5 +18254,5 @@
       "at": 1780521572364
     }
   },
-  "updatedAt": 1780582424517
+  "updatedAt": 1780585680749
 }

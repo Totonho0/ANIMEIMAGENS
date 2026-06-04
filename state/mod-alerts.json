@@ -189,11 +189,11 @@
       "ip": "104.23.217.148",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780512566408,
-      "lastAlertAt": 1780512976376,
+      "lastSeenAt": 1780563357927,
+      "lastAlertAt": 1780563357927,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:1e4cf41800fa8759": {
       "userKey": "ip:1e4cf41800fa8759",

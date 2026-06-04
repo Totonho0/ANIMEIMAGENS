@@ -6907,7 +6907,7 @@
       }
     },
     "yowayowa-sensei": {
-      "at": 1780522115265,
+      "at": 1780596317781,
       "data": {
         "slug": "yowayowa-sensei",
         "title": "Yowayowa Sensei",
@@ -11900,7 +11900,7 @@
       }
     },
     "kami-no-shizuku": {
-      "at": 1780521544014,
+      "at": 1780596318924,
       "data": {
         "slug": "kami-no-shizuku",
         "title": "Kami no Shizuku",
@@ -13018,6 +13018,60 @@
           }
         ],
         "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kill-blue": {
+      "at": 1780596317754,
+      "data": {
+        "slug": "kill-blue",
+        "title": "Kill Ao",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92ZVZwVTkxVklUa0xzdWE5RW5ScXRnTmJ5VlUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vamos para a escola.",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Noren Mitsuoka",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Limpe a sua própria bagunça",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Duelo de Chupeta",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Tem um unicórnio à frente",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Que tal um \"Obrigado\"?",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Encontro duplo entre cavalo e cachorro",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Versus Irmãos Rindou",
+            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
         "kind": "anime",
         "provider": "aoc"
       }

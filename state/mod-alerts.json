@@ -1021,11 +1021,11 @@
       "ip": "172.69.50.226",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780376419093,
-      "lastAlertAt": 1780376786378,
+      "lastSeenAt": 1780609301210,
+      "lastAlertAt": 1780609301210,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:871c62be2abe2773": {
       "userKey": "ip:871c62be2abe2773",

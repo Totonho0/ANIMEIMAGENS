@@ -12563,6 +12563,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Invencível 4",
+            "slug": "invencivel-4",
+            "url": "https://animesonline.cloud/anime/invencivel-4",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/fopIqWozi4kTGcqKzB2c50wJMjo-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Beastars 3 Final Season Part 2",
+            "slug": "beastars-3-final-season-part-2",
+            "url": "https://animesonline.cloud/anime/beastars-3-final-season-part-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/l89CHQa5Hwe6qPl1TlGPNo2Kcfr-185x278.jpg",
+            "rating": "8.477",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
             "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
             "url": "https://animesonline.cloud/anime/bleach-sennen-kessen-hen-soukoku-tan-dublado",
@@ -12705,31 +12723,13 @@
             "rating": "8.455",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu – Zenpen Dublado",
-            "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado",
-            "url": "https://animesonline.cloud/anime/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/nLQizRZjhjja507QeLWk3Kps3hF-185x278.jpg",
-            "rating": "8.6",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Terror Man",
-            "slug": "terror-man",
-            "url": "https://animesonline.cloud/anime/terror-man",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/02/13izuyHXlQAAlt8Vy0H1apb3bty-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 5,
         "hasMore": true
       },
-      "at": 1780527332926
+      "at": 1780596345746
     },
     "todos|6||24": {
       "data": {
@@ -18243,5 +18243,5 @@
       "at": 1780521572364
     }
   },
-  "updatedAt": 1780596335484
+  "updatedAt": 1780596345746
 }

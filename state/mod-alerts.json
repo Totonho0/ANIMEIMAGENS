@@ -2751,10 +2751,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780586866964,
-      "lastAlertAt": 1780586866964,
+      "lastAlertAt": 1780587246586,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:b887f5b9d7abda23": {
       "userKey": "ip:b887f5b9d7abda23",

@@ -1841,10 +1841,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780587655046,
-      "lastAlertAt": 1780587546604,
+      "lastAlertAt": 1780587996635,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:a2ee1317cad452c2": {
       "userKey": "ip:a2ee1317cad452c2",

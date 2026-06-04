@@ -12337,6 +12337,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Ganbare! Nakamura-kun!! Dublado",
+            "slug": "ganbare-nakamura-kun-dublado",
+            "url": "https://animesonline.cloud/anime/ganbare-nakamura-kun-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/gS6cT23gqSEIGzycxyMry5bSc4e-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kirio Fanclub",
+            "slug": "kirio-fanclub",
+            "url": "https://animesonline.cloud/anime/kirio-fanclub",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/yy9gsBKHX9PHq17mJhhm2yVKh8g-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Haibara-kun no Tsuyokute Seishun New Game",
             "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
             "url": "https://animesonline.cloud/anime/haibara-kun-no-tsuyokute-seishun-new-game",
@@ -12479,31 +12497,13 @@
             "rating": "7.7",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Koori no Jouheki",
-            "slug": "koori-no-jouheki",
-            "url": "https://animesonline.cloud/anime/koori-no-jouheki",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/raUWGUcUQ5W8xi63a22gLhFXn9H-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Isekai Nonbiri Nouka 2",
-            "slug": "isekai-nonbiri-nouka-2",
-            "url": "https://animesonline.cloud/anime/isekai-nonbiri-nouka-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/9xpmB050xiiG1OD51Qf7SyUz6MC-185x278.jpg",
-            "rating": "7.585",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true
       },
-      "at": 1780526297259
+      "at": 1780596335484
     },
     "todos|5||24": {
       "data": {
@@ -18243,5 +18243,5 @@
       "at": 1780521572364
     }
   },
-  "updatedAt": 1780596306065
+  "updatedAt": 1780596335484
 }

@@ -11616,6 +11616,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Kill Ao",
+            "slug": "kill-blue",
+            "url": "https://animesonline.cloud/anime/kill-blue",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Ichijouma Mankitsugurashi",
             "slug": "ichijouma-mankitsugurashi",
             "url": "https://animesonline.cloud/anime/ichijouma-mankitsugurashi",
@@ -11767,22 +11776,13 @@
             "rating": "7.0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Marriagetoxin",
-            "slug": "marriagetoxin",
-            "url": "https://animesonline.cloud/anime/marriagetoxin",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/bHCm3vz7Mg60wEO6HTm9g2g8IEH-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780545183904
+      "at": 1780585685701
     },
     "todos|1||48": {
       "data": {
@@ -18254,5 +18254,5 @@
       "at": 1780521572364
     }
   },
-  "updatedAt": 1780585680749
+  "updatedAt": 1780585685701
 }

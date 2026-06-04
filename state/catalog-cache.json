@@ -11116,6 +11116,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Kagurabachi",
+            "slug": "kagurabachi",
+            "url": "https://animesonline.cloud/anime/kagurabachi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vYE38d5dcyD0oAGgbtC5slERvM3-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Haikyuu!! Second Season Dublado",
             "slug": "haikyuu-second-season-dublado",
             "url": "https://animesonline.cloud/anime/haikyuu-second-season-dublado",
@@ -11267,26 +11276,61 @@
             "rating": "7.71",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kill Ao Dublado",
-            "slug": "kill-ao-dublado",
-            "url": "https://animesonline.cloud/anime/kill-ao-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/i1RaaFQUSGfx48CavoBRqeloLYb-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780585680749
+      "at": 1780596136830
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "koori-no-jouheki",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/koori-no-jouheki-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/ezT705zwuJlNq66nGs9Z4HemAMT-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "dr-stone-science-future-4-part-3",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/kjhQOhCkYNGxHEuSPYhd8MlkzRO-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "kujima-utaeba-ie-hororo",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/q6PfRyKTXIjBFuKoF1p7NG4EfYg-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "himekishi-wa-barbaroi-no-yome",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wRFCOhlwSwsZ8KxeGOynNbMjtE3-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 25",
             "epTitle": "Episódio 25",
@@ -11495,68 +11539,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-2",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-2-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vJmEGT8yHJ0IIouPTxEoqV94YB2-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "replica-datte-koi-wo-suru",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/replica-datte-koi-wo-suru-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/obUDNK9CFDQ8zfRLXdemi3XBVR1-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "marriagetoxin",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/marriagetoxin-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/27U9jBV90mDfUBgDJG8shwtSphh-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/oqRXTPjhiDuFU6LTBE2XdUbCmwz-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "episode": 7,
-            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-07",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/2eMWwzG6LfRecO8XKb6fcVbXRfk-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
-        "hasMore": true
+        "hasMore": false
       },
-      "at": 1780585679851
+      "at": 1780596137553
     },
     "todos|2||24": {
       "data": {
@@ -18254,5 +18243,5 @@
       "at": 1780521572364
     }
   },
-  "updatedAt": 1780585685701
+  "updatedAt": 1780596137553
 }

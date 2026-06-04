@@ -801,10 +801,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780586178303,
-      "lastAlertAt": 1780582146177,
+      "lastAlertAt": 1780586196483,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:8ae631edf2703978": {
       "userKey": "ip:8ae631edf2703978",

@@ -3647,11 +3647,11 @@
       "ip": "177.181.5.141",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780538278614,
-      "lastAlertAt": 1780538642414,
+      "lastSeenAt": 1780600498504,
+      "lastAlertAt": 1780600498504,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:62903a87815e5cbe": {
       "userKey": "ip:62903a87815e5cbe",

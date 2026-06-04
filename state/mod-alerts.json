@@ -957,10 +957,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780581754435,
-      "lastAlertAt": 1780576595769,
+      "lastAlertAt": 1780581846145,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:a5a33c7ba29707b6": {
       "userKey": "ip:a5a33c7ba29707b6",

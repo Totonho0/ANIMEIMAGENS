@@ -37,7 +37,11 @@
       "kind": "anime"
     }
   },
-  "watched": {},
+  "watched": {
+    "kimetsu-no-yaiba-movie-mugen-jou-hen": [
+      1
+    ]
+  },
   "started": {
     "tsue-to-tsurugi-no-wistoria-2": [
       1
@@ -49,7 +53,13 @@
       1
     ]
   },
-  "watchHistoryLog": [],
+  "watchHistoryLog": [
+    {
+      "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen",
+      "ep": 1,
+      "at": 1780585674782
+    }
+  ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780521607598
+  "updatedAt": 1780585675107
 }

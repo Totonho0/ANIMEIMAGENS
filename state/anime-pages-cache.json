@@ -13493,6 +13493,65 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "haibara-kun-no-tsuyokute-seishun-new-game": {
+      "at": 1780596348322,
+      "data": {
+        "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
+        "title": "Haibara-kun no Tsuyokute Seishun New Game",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80UVJjRnFBSnEwSnBpNWpmUTJFeHhWSnRXQ3YuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O plano do menino cinzento para uma adolescência colorida",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Dias de Sonhos",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Comportamento perfeito",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Se você me apoiar",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Eu te darei um guarda-chuva quando você estiver na chuva.",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Desejar",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Em busca do verão perfeito",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - A relação entre seus sonhos e segredos",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O Fim de um Verão Milagroso",
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

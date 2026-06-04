@@ -827,10 +827,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780601949342,
-      "lastAlertAt": 1780601949342,
+      "lastAlertAt": 1780602397536,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:28fede8cb71c19a1": {
       "userKey": "ip:28fede8cb71c19a1",

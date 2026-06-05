@@ -14644,6 +14644,30 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "cool-de-m": {
+      "at": 1780643664174,
+      "data": {
+        "slug": "cool-de-m",
+        "title": "Cool de M",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83cjBhZzZNSFVSTkpCTEp2a3BjSllDcWY2dFYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Uma mulher que não perde a compostura",
+            "url": "https://animesonline.cloud/episodio/cool-de-m-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A mulher que nunca vacila",
+            "url": "https://animesonline.cloud/episodio/cool-de-m-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

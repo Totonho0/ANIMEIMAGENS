@@ -296,7 +296,7 @@
       }
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
-      "at": 1780642795311,
+      "at": 1780693178310,
       "data": {
         "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
@@ -6208,7 +6208,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1780683880940,
+      "at": 1780693177703,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
@@ -15480,6 +15480,19 @@
           }
         ],
         "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "bocchi-the-rock-season-2": {
+      "at": 1780693177678,
+      "data": {
+        "slug": "bocchi-the-rock-season-2",
+        "title": "Bocchi the Rock! Season 2",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9yaVJKR25iYjE4elZCRVhwb3Y4R0pLbkJjemouanBn",
+        "synopsis": "",
+        "episodes": [],
+        "totalEpisodes": 0,
         "kind": "anime",
         "provider": "aoc"
       }

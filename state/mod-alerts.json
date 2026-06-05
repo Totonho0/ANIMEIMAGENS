@@ -4835,6 +4835,19 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "ip:bb22e447014cd35e": {
+      "userKey": "ip:bb22e447014cd35e",
+      "messageId": "1512588079125495839",
+      "channelId": "1510739162116915371",
+      "ip": "45.92.85.254",
+      "discordId": "",
+      "username": "",
+      "lastSeenAt": 1780699500458,
+      "lastAlertAt": 1780699500458,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -14388,6 +14388,30 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "eroge-de-subete-wa-kaiketsu-dekiru": {
+      "at": 1780643344721,
+      "data": {
+        "slug": "eroge-de-subete-wa-kaiketsu-dekiru",
+        "title": "Eroge de Subete wa Kaiketsu Dekiru!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96b21Ja1FRNzRFYmxNRkxxOHhPOTUxbHd0MnguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/eroge-de-subete-wa-kaiketsu-dekiru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/eroge-de-subete-wa-kaiketsu-dekiru-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

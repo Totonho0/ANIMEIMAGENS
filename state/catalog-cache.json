@@ -11288,6 +11288,17 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "dr-stone-science-future-4-part-3-dublado",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-dublado-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/kjhQOhCkYNGxHEuSPYhd8MlkzRO-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 12",
             "epTitle": "Episódio 12",
             "slug": "bocchi-the-rock",
@@ -11517,24 +11528,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "otaku-ni-yasashii-gal-wa-inai",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/qA2IWa8kEsEDhjuvgPvJkpqwGEt-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780682837364
+      "at": 1780686608980
     },
     "todos|2||24": {
       "data": {
@@ -18324,5 +18324,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780686606107
+  "updatedAt": 1780686608980
 }

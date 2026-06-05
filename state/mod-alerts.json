@@ -2191,11 +2191,11 @@
       "ip": "172.70.242.38",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780378555140,
-      "lastAlertAt": 1780378886650,
+      "lastSeenAt": 1780689768395,
+      "lastAlertAt": 1780689768395,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:fb9ff54a4d16bd64": {
       "userKey": "ip:fb9ff54a4d16bd64",

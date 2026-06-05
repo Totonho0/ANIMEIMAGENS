@@ -192,6 +192,12 @@
       "title": "Otaku ni Yasashii Gal wa Inai!?",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85OWxRREkxQnZRU3VDc1puQnMzMTlhRjV2eTguanBn",
       "kind": "anime"
+    },
+    "ichijouma-mankitsugurashi": {
+      "slug": "ichijouma-mankitsugurashi",
+      "title": "Ichijouma Mankitsugurashi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sVVlSTG1KSEp5Vnp3d0pVSVBJSkh4WlI2VEUuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -301,6 +307,9 @@
     ],
     "otaku-ni-yasashii-gal-wa-inai": [
       1
+    ],
+    "ichijouma-mankitsugurashi": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -341,5 +350,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780684396761
+  "updatedAt": 1780684590870
 }

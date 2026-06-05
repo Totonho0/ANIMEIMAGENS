@@ -109,7 +109,7 @@
       }
     },
     "maou-sama-retry": {
-      "at": 1780596345555,
+      "at": 1780631606295,
       "data": {
         "slug": "maou-sama-retry",
         "title": "Maou-sama, Retry! 2 - Todos os Episódios",
@@ -6645,7 +6645,7 @@
       }
     },
     "trigun-stargaze-dublado": {
-      "at": 1780490434156,
+      "at": 1780631604833,
       "data": {
         "slug": "trigun-stargaze-dublado",
         "title": "TRIGUN STARGAZE",
@@ -13549,6 +13549,268 @@
           }
         ],
         "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2": {
+      "at": 1780631605892,
+      "data": {
+        "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
+        "title": "The Beginning After the End Season 2",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94aUZ1MjZyZWxDUHhmME9wVTZnTHN3ZDUxbWouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Rei se Aventura",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A princesa parte em uma aventura.",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Rei Naufraga.",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Rei volta para casa",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - As lutas do rei",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - O rei está falando sério.",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O rei retornou",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O rei comparecerá em tribunal.",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - O Rei Negocia",
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-10"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "shunkashuutou-daikousha-haru-no-mai": {
+      "at": 1780631605274,
+      "data": {
+        "slug": "shunkashuutou-daikousha-haru-no-mai",
+        "title": "Agents of the Four Seasons: Dance of Spring",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jUWxuUjVydmJUcEpNUDNsazJya1FPd0VFUlouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Dança da Primavera",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Neve persistente",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Um vislumbre",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Calma matinal",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Solidão a Dois",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Lugar para Voltar",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Crepúsculo",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Chuva de primavera",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Novos Unidos",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Imagem Residual",
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-10"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "bucky": {
+      "at": 1780631606382,
+      "data": {
+        "slug": "bucky",
+        "title": "Bucky",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sTnNOZTF6SDhQbU05TEFVRHg1ZktFOVBsQVguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Sou Bucky! Sonho em governar o mundo!",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Pinky, a outra Grande Criança",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O ataque à Cidade dos Porcos",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Monstro Da Rocha",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Kai, A Terceira Grande Criança",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - O orgulho é a prova do meu sonho!",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O aperfeiçoamento da técnica",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - A outra Grande Criança, Dartagnan!",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Construindo um sonho para Spaak",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - A Grande Criança Alibabá",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - A vitória de um monstro",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O sonho de ter um Espírito",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - A luta entre os Grandes Soldados e as Grandes Crianças",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - O sonho perdido de um Grande Soldado",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - A tristeza de Pinky",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - O canto de uma Grande Criança",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - Acorde de seu sonho, Grande Criança da Morte!",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - A Grande Criança Rumaru",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - A Grande Criança Lucy contra o bandido.",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - O vôo da Grande Criança Hayak",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - O sonho da Grande Criança Joan",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - A Ilha Inflamável",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - O Rei Jibak",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - Reo, o Destruidor de Sonhos",
+            "url": "https://animesonline.cloud/episodio/bucky-episodio-24"
+          }
+        ],
+        "totalEpisodes": 24,
         "kind": "anime",
         "provider": "aoc"
       }

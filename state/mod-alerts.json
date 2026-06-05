@@ -4415,10 +4415,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780619471156,
-      "lastAlertAt": 1780619463418,
+      "lastAlertAt": 1780619798430,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

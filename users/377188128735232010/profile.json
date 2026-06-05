@@ -186,6 +186,12 @@
       "title": "Kanojo Okarishimasu 5th Season Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bGxmeTk4U1Rrbm8xMXJER2k0NFNLNmxsd3guanBn",
       "kind": "anime"
+    },
+    "otaku-ni-yasashii-gal-wa-inai": {
+      "slug": "otaku-ni-yasashii-gal-wa-inai",
+      "title": "Otaku ni Yasashii Gal wa Inai!?",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85OWxRREkxQnZRU3VDc1puQnMzMTlhRjV2eTguanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -292,6 +298,9 @@
     ],
     "haikyuu-second-season": [
       1
+    ],
+    "otaku-ni-yasashii-gal-wa-inai": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -332,5 +341,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780684373570
+  "updatedAt": 1780684396761
 }

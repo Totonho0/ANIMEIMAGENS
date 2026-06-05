@@ -2490,11 +2490,11 @@
       "ip": "172.71.148.137",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780616376117,
-      "lastAlertAt": 1780616798320,
+      "lastSeenAt": 1780621484404,
+      "lastAlertAt": 1780621484404,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:bad7ba9ff9b9b0a8": {
       "userKey": "ip:bad7ba9ff9b9b0a8",

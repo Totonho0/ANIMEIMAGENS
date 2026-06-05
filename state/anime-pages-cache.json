@@ -15093,6 +15093,40 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "onii-chan-asa-made-zutto-gyutte-shite": {
+      "at": 1780643771379,
+      "data": {
+        "slug": "onii-chan-asa-made-zutto-gyutte-shite",
+        "title": "Onii-chan, Asa made Zutto Gyutte Shite!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81MHFMQlpuRmdGc0xETW5ORmV0N0x5NU1PNWYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Arco Onami Sora",
+            "url": "https://animesonline.cloud/episodio/onii-chan-asa-made-zutto-gyutte-shite-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Arco Onami Kohaku",
+            "url": "https://animesonline.cloud/episodio/onii-chan-asa-made-zutto-gyutte-shite-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Arco Onami Akane",
+            "url": "https://animesonline.cloud/episodio/onii-chan-asa-made-zutto-gyutte-shite-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Arco Onami Sumi",
+            "url": "https://animesonline.cloud/episodio/onii-chan-asa-made-zutto-gyutte-shite-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

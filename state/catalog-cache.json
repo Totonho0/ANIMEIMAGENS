@@ -11820,6 +11820,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Bocchi the Rock! Season 2",
+            "slug": "bocchi-the-rock-season-2",
+            "url": "https://animesonline.cloud/anime/bocchi-the-rock-season-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
+            "rating": "8.363",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Kagurabachi",
             "slug": "kagurabachi",
             "url": "https://animesonline.cloud/anime/kagurabachi",
@@ -12025,22 +12034,13 @@
             "rating": "7.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kuroneko to Majo no Kyoushitsu",
-            "slug": "kuroneko-to-majo-no-kyoushitsu",
-            "url": "https://animesonline.cloud/anime/kuroneko-to-majo-no-kyoushitsu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/pcXzTpEwnIkAU9QcJ6UzaAeUzx3-185x278.jpg",
-            "rating": "6.91",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780661050015
+      "at": 1780682993287
     },
     "todos|3||24": {
       "data": {
@@ -18324,5 +18324,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780682958159
+  "updatedAt": 1780682993287
 }

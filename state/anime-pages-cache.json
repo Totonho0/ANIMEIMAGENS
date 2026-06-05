@@ -14223,6 +14223,30 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "no-waifu-no-life": {
+      "at": 1780643331496,
+      "data": {
+        "slug": "no-waifu-no-life",
+        "title": "No Waifu No Life!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvTm8tV2FpZnUtTm8tTGlmZS5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episodio 01",
+            "url": "https://animesonline.cloud/episodio/no-waifu-no-life-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episodio 02",
+            "url": "https://animesonline.cloud/episodio/no-waifu-no-life-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

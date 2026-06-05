@@ -15605,6 +15605,2520 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "naruto-shippuden": {
+      "at": 1780693201130,
+      "data": {
+        "slug": "naruto-shippuden",
+        "title": "Naruto Shippuden",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85YWtFOFFsNEhGdjZwaUx2azIxZmNRbDZHc2cuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Voltando Para Casa",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Os Akatsuki Entram em Ação",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Os Resultados do Treinamento",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "O Jinchuriki da Areia",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Kazekage se Mantém no Alto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Missão Cumprida",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Corra, Kankuro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - A Equipe Kakashi Se Mobiliza",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "As Lágrimas do Jinchuriki",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Jutsu de Selamento: Nove Dragões Fantasmas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "A Aprendiz de Médica Ninja",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "A Determinação da Vovó Aposentada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Um Encontro Com o Destino",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "O Crescimento de Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "A Esfera Secreta se Chama...",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "O Segredo do Jinchuriki",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "A Morte do Gaara!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Postura Tática! Operação Entrada em Gancho!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Armadilhas Ativadas! Os Inimigos da Equipe Guy",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Hiruko Contra Duas Kunoichi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "O Verdadeiro Rosto de Sasori",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "As Habilidades Secretas de Chiyo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Pai e Mãe",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "O Terceiro Kazekage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Três Minutos Entre a Vida e a Morte",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-25"
+          },
+          {
+            "number": 26,
+            "title": "Luta entre Marionetes: Dez Contra Cem!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-26"
+          },
+          {
+            "number": 27,
+            "title": "Um Sonho Impossível",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-27"
+          },
+          {
+            "number": 28,
+            "title": "As Feras Ressuscitadas!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-28"
+          },
+          {
+            "number": 29,
+            "title": "Kakashi Iluminado!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-29"
+          },
+          {
+            "number": 30,
+            "title": "A Estética de um Momento",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-30"
+          },
+          {
+            "number": 31,
+            "title": "O Legado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-31"
+          },
+          {
+            "number": 32,
+            "title": "A Volta do Kazekage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-32"
+          },
+          {
+            "number": 33,
+            "title": "Um Novo Alvo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-33"
+          },
+          {
+            "number": 34,
+            "title": "Formação! A Nova Equipe Kakashi!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-34"
+          },
+          {
+            "number": 35,
+            "title": "Uma Adição Indesejada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-35"
+          },
+          {
+            "number": 36,
+            "title": "O Falso Sorriso",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-36"
+          },
+          {
+            "number": 37,
+            "title": "Sem Título",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-37"
+          },
+          {
+            "number": 38,
+            "title": "Simulação",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-38"
+          },
+          {
+            "number": 39,
+            "title": "A Ponte Tenchi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-39"
+          },
+          {
+            "number": 40,
+            "title": "A Nove-Caudas se Liberta",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-40"
+          },
+          {
+            "number": 41,
+            "title": "A Missão Super-Secreta se Inicia",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-41"
+          },
+          {
+            "number": 42,
+            "title": "Orochimaru vs. Jinchuriki",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-42"
+          },
+          {
+            "number": 43,
+            "title": "As Lágrimas de Sakura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-43"
+          },
+          {
+            "number": 44,
+            "title": "O Segredo da Batalha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-44"
+          },
+          {
+            "number": 45,
+            "title": "As Consequências da Traição",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-45"
+          },
+          {
+            "number": 46,
+            "title": "A Página Inacabada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-46"
+          },
+          {
+            "number": 47,
+            "title": "Infiltração: O Covil da Cobra!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-47"
+          },
+          {
+            "number": 48,
+            "title": "Laços",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-48"
+          },
+          {
+            "number": 49,
+            "title": "Algo Importante...",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-49"
+          },
+          {
+            "number": 50,
+            "title": "A História do Álbum Ilustrado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-50"
+          },
+          {
+            "number": 51,
+            "title": "Reencontro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-51"
+          },
+          {
+            "number": 52,
+            "title": "O Poder do Uchiha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-52"
+          },
+          {
+            "number": 53,
+            "title": "Título",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-53"
+          },
+          {
+            "number": 54,
+            "title": "Pesadelo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-54"
+          },
+          {
+            "number": 55,
+            "title": "Vento",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-55"
+          },
+          {
+            "number": 56,
+            "title": "Contorção",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-56"
+          },
+          {
+            "number": 57,
+            "title": "O Despertar do Sono Eterno",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-57"
+          },
+          {
+            "number": 58,
+            "title": "Solidão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-58"
+          },
+          {
+            "number": 59,
+            "title": "Um Novo Inimigo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-59"
+          },
+          {
+            "number": 60,
+            "title": "Mudanças",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-60"
+          },
+          {
+            "number": 61,
+            "title": "Contato",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-61"
+          },
+          {
+            "number": 62,
+            "title": "Companheiro de Equipe",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-62"
+          },
+          {
+            "number": 63,
+            "title": "Os Dois Reis",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-63"
+          },
+          {
+            "number": 64,
+            "title": "Sinal de Fogo Negro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-64"
+          },
+          {
+            "number": 65,
+            "title": "Presa na Escuridão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-65"
+          },
+          {
+            "number": 66,
+            "title": "Almas Ressuscitadas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-66"
+          },
+          {
+            "number": 67,
+            "title": "Uma Luta Até a Morte",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-67"
+          },
+          {
+            "number": 68,
+            "title": "Momento do Despertar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-68"
+          },
+          {
+            "number": 69,
+            "title": "Desespero",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-69"
+          },
+          {
+            "number": 70,
+            "title": "Ressonância",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-70"
+          },
+          {
+            "number": 71,
+            "title": "Meu Amigo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-71"
+          },
+          {
+            "number": 72,
+            "title": "Uma Ameaça se Aproxima",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-72"
+          },
+          {
+            "number": 73,
+            "title": "A Invasão da Akatsuki",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-73"
+          },
+          {
+            "number": 74,
+            "title": "Sob o Céu Estrelado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-74"
+          },
+          {
+            "number": 75,
+            "title": "A Oração do Velho Monge",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-75"
+          },
+          {
+            "number": 76,
+            "title": "O Próximo Passo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-76"
+          },
+          {
+            "number": 77,
+            "title": "Escalada de Prata",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-77"
+          },
+          {
+            "number": 78,
+            "title": "O Julgamento",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-78"
+          },
+          {
+            "number": 79,
+            "title": "Um Grito Interrompido",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-79"
+          },
+          {
+            "number": 80,
+            "title": "Últimas Palavras",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-80"
+          },
+          {
+            "number": 81,
+            "title": "Notícias Tristes",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-81"
+          },
+          {
+            "number": 82,
+            "title": "Equipe 10",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-82"
+          },
+          {
+            "number": 83,
+            "title": "Alvo Na Mira!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-83"
+          },
+          {
+            "number": 84,
+            "title": "As Habilidades de Kakuzu",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-84"
+          },
+          {
+            "number": 85,
+            "title": "O Terrível Segredo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-85"
+          },
+          {
+            "number": 86,
+            "title": "O Gênio Shikamaru",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-86"
+          },
+          {
+            "number": 87,
+            "title": "Quando se Amaldiçoa Alguém, Cava-se o Próprio Túmulo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-87"
+          },
+          {
+            "number": 88,
+            "title": "Estilo Vento: Rasen Shuriken!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-88"
+          },
+          {
+            "number": 89,
+            "title": "O Preço do Poder",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-89"
+          },
+          {
+            "number": 90,
+            "title": "A Determinação de Um Shinobi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-90"
+          },
+          {
+            "number": 91,
+            "title": "O Esconderijo de Orochimaru É Descoberto!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-91"
+          },
+          {
+            "number": 92,
+            "title": "Encontro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-92"
+          },
+          {
+            "number": 93,
+            "title": "Conectando Corações",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-93"
+          },
+          {
+            "number": 94,
+            "title": "Uma Noite Chuvosa",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-94"
+          },
+          {
+            "number": 95,
+            "title": "Os Dois Amuletos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-95"
+          },
+          {
+            "number": 96,
+            "title": "O Inimigo Invisível",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-96"
+          },
+          {
+            "number": 97,
+            "title": "O Labirinto dos Reflexos Distorcidos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-97"
+          },
+          {
+            "number": 98,
+            "title": "O Alvo é Revelado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-98"
+          },
+          {
+            "number": 99,
+            "title": "A Besta de Cauda Barulhenta",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-99"
+          },
+          {
+            "number": 100,
+            "title": "Dentro do Nevoeiro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-100"
+          },
+          {
+            "number": 101,
+            "title": "Os Sentimentos de Cada Um",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-101"
+          },
+          {
+            "number": 102,
+            "title": "Reagrupando!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-102"
+          },
+          {
+            "number": 103,
+            "title": "A Barreira de Selamento de Quatro Pontas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-103"
+          },
+          {
+            "number": 104,
+            "title": "Quebrando o Estilo Cristal",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-104"
+          },
+          {
+            "number": 105,
+            "title": "A Batalha Pela Barreira",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-105"
+          },
+          {
+            "number": 106,
+            "title": "A Camélia Vermelha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-106"
+          },
+          {
+            "number": 107,
+            "title": "Estranhos Companheiros",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-107"
+          },
+          {
+            "number": 108,
+            "title": "O Caminho das Camélias",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-108"
+          },
+          {
+            "number": 109,
+            "title": "O Contra-Ataque da Marca da Maldição",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-109"
+          },
+          {
+            "number": 110,
+            "title": "Consciência Culpada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-110"
+          },
+          {
+            "number": 111,
+            "title": "A Promessa Quebrada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-111"
+          },
+          {
+            "number": 112,
+            "title": "Um Lugar Para Retornar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-112"
+          },
+          {
+            "number": 113,
+            "title": "O Discípulo da Serpente",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-113"
+          },
+          {
+            "number": 114,
+            "title": "Olho de Falcão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-114"
+          },
+          {
+            "number": 115,
+            "title": "A Espada de Zabuza",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-115"
+          },
+          {
+            "number": 116,
+            "title": "Guardiã da Muralha de Aço",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-116"
+          },
+          {
+            "number": 117,
+            "title": "Juugo do Esconderijo Norte",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-117"
+          },
+          {
+            "number": 118,
+            "title": "Formação!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-118"
+          },
+          {
+            "number": 119,
+            "title": "Crônicas de Kakashi: A Vida de Um Menino no Campo de Batalha - Parte 1",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-119"
+          },
+          {
+            "number": 120,
+            "title": "Crônicas de Kakashi: A Vida de Um Menino no Campo de Batalha - Parte 2",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-120"
+          },
+          {
+            "number": 121,
+            "title": "Reunir",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-121"
+          },
+          {
+            "number": 122,
+            "title": "A Caçada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-122"
+          },
+          {
+            "number": 123,
+            "title": "Colisão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-123"
+          },
+          {
+            "number": 124,
+            "title": "Arte",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-124"
+          },
+          {
+            "number": 125,
+            "title": "Desaparecimento",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-125"
+          },
+          {
+            "number": 126,
+            "title": "Crepúsculo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-126"
+          },
+          {
+            "number": 127,
+            "title": "Contos de um Ninja Corajoso: Pergaminhos Ninja de Jiraiya - Parte 1",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-127"
+          },
+          {
+            "number": 128,
+            "title": "Contos de um Ninja Corajoso: Pergaminhos Ninja de Jiraiya - Parte 2",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-128"
+          },
+          {
+            "number": 129,
+            "title": "Infiltração! A Vila Oculta da Chuva",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-129"
+          },
+          {
+            "number": 130,
+            "title": "O Homem que Virou Deus",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-130"
+          },
+          {
+            "number": 131,
+            "title": "Ativar! Modo Sábio",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-131"
+          },
+          {
+            "number": 132,
+            "title": "Apresentando: Os Seis Caminhos de Pain",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-132"
+          },
+          {
+            "number": 133,
+            "title": "O Conto do Valente Jiraiya",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-133"
+          },
+          {
+            "number": 134,
+            "title": "Convite Para o Banquete",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-134"
+          },
+          {
+            "number": 135,
+            "title": "O Momento Mais Longo . . .",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-135"
+          },
+          {
+            "number": 136,
+            "title": "Crepúsculo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-136"
+          },
+          {
+            "number": 137,
+            "title": "Reino das Chamas Infernais",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-137"
+          },
+          {
+            "number": 138,
+            "title": "O Fim",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-138"
+          },
+          {
+            "number": 139,
+            "title": "O Mistério de Tobi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-139"
+          },
+          {
+            "number": 140,
+            "title": "Destino",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-140"
+          },
+          {
+            "number": 141,
+            "title": "Verdade",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-141"
+          },
+          {
+            "number": 142,
+            "title": "A Batalha no Desfiladeiro do Trovão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-142"
+          },
+          {
+            "number": 143,
+            "title": "Oito Caudas Versus Sasuke",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-143"
+          },
+          {
+            "number": 144,
+            "title": "Andarilho",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-144"
+          },
+          {
+            "number": 145,
+            "title": "Sucessora do Jutsu Proibido",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-145"
+          },
+          {
+            "number": 146,
+            "title": "O Desejo da Sucessora",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-146"
+          },
+          {
+            "number": 147,
+            "title": "O Passado do Ninja Renegado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-147"
+          },
+          {
+            "number": 148,
+            "title": "Herdeira da Escuridão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-148"
+          },
+          {
+            "number": 149,
+            "title": "Separação",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-149"
+          },
+          {
+            "number": 150,
+            "title": "Jutsu Proibido Liberado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-150"
+          },
+          {
+            "number": 151,
+            "title": "Mestre e Aluno",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-151"
+          },
+          {
+            "number": 152,
+            "title": "Notícias Sombrias",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-152"
+          },
+          {
+            "number": 153,
+            "title": "Seguindo a Sombra do Mestre",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-153"
+          },
+          {
+            "number": 154,
+            "title": "Decodificação",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-154"
+          },
+          {
+            "number": 155,
+            "title": "O Primeiro Desafio",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-155"
+          },
+          {
+            "number": 156,
+            "title": "Superando o Mestre",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-156"
+          },
+          {
+            "number": 157,
+            "title": "Ataque à Vila Oculta da Folha!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-157"
+          },
+          {
+            "number": 158,
+            "title": "O Poder de Acreditar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-158"
+          },
+          {
+            "number": 159,
+            "title": "Pain Versus Kakashi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-159"
+          },
+          {
+            "number": 160,
+            "title": "O Mistério de Pain",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-160"
+          },
+          {
+            "number": 161,
+            "title": "Sobrenome, Sarutobi! Nome, Konohamaru!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-161"
+          },
+          {
+            "number": 162,
+            "title": "Dor ao Mundo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-162"
+          },
+          {
+            "number": 163,
+            "title": "Explosão! Modo Sábio",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-163"
+          },
+          {
+            "number": 164,
+            "title": "Perigo! Limite do Modo Sábio Atingido",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-164"
+          },
+          {
+            "number": 165,
+            "title": "Nove Caudas Capturado!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-165"
+          },
+          {
+            "number": 166,
+            "title": "Confissões",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-166"
+          },
+          {
+            "number": 167,
+            "title": "Devastação Planetária",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-167"
+          },
+          {
+            "number": 168,
+            "title": "Quarto Hokage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-168"
+          },
+          {
+            "number": 169,
+            "title": "Os Dois Discípulos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-169"
+          },
+          {
+            "number": 170,
+            "title": "Grande Aventura! Em Busca do Legado do Quarto Hokage — Parte 1",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-170"
+          },
+          {
+            "number": 171,
+            "title": "Grande Aventura! Em Busca do Legado do Quarto Hokage — Parte 2",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-171"
+          },
+          {
+            "number": 172,
+            "title": "Encontro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-172"
+          },
+          {
+            "number": 173,
+            "title": "A Origem de Pain",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-173"
+          },
+          {
+            "number": 174,
+            "title": "A História de Uzumaki Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-174"
+          },
+          {
+            "number": 175,
+            "title": "O Herói da Folha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-175"
+          },
+          {
+            "number": 176,
+            "title": "Crônicas da Folha: O Novo Instrutor, Iruka",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-176"
+          },
+          {
+            "number": 177,
+            "title": "Crônicas da Folha: A Provação de Iruka",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-177"
+          },
+          {
+            "number": 178,
+            "title": "Crônicas da Folha: A Decisão de Iruka",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-178"
+          },
+          {
+            "number": 179,
+            "title": "Crônicas da Folha: Hatake Kakashi, o Jounin Encarregado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-179"
+          },
+          {
+            "number": 180,
+            "title": "Crônicas da Folha: A Coragem de Inari Colocada à Prova",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-180"
+          },
+          {
+            "number": 181,
+            "title": "Crônicas da Folha: A Escola de Vingança de Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-181"
+          },
+          {
+            "number": 182,
+            "title": "Crônicas da Folha: Os Laços de Gaara",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-182"
+          },
+          {
+            "number": 183,
+            "title": "Crônicas da Folha: Narutodemia!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-183"
+          },
+          {
+            "number": 184,
+            "title": "Crônicas da Folha: Time Tenten: Em Missão!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-184"
+          },
+          {
+            "number": 185,
+            "title": "Crônicas da Folha: Distrito Animal",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-185"
+          },
+          {
+            "number": 186,
+            "title": "Crônicas da Folha: Ah, o Remédio da Juventude!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-186"
+          },
+          {
+            "number": 187,
+            "title": "Crônicas da Folha: O Mestre Corajoso e Seu Discípulo - Treinamento -",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-187"
+          },
+          {
+            "number": 188,
+            "title": "Crônicas da Folha: Memórias de Um Mestre Corajoso e Seu Discípulo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-188"
+          },
+          {
+            "number": 189,
+            "title": "Crônicas da Folha: A Enciclopédia de Patas de Sasuke",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-189"
+          },
+          {
+            "number": 190,
+            "title": "Crônicas da Folha: Naruto e o Velho Soldado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-190"
+          },
+          {
+            "number": 191,
+            "title": "Crônicas da Folha: A Canção de Amor de Kakashi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-191"
+          },
+          {
+            "number": 192,
+            "title": "Crônicas da Folha: A História de Neji",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-192"
+          },
+          {
+            "number": 193,
+            "title": "Crônicas da Folha: O Homem que Morreu Duas Vezes",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-193"
+          },
+          {
+            "number": 194,
+            "title": "Crônicas da Folha: A Pior Corrida de Três Pernas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-194"
+          },
+          {
+            "number": 195,
+            "title": "Crônicas da Folha: O Trabalho em Equipe do Time 10",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-195"
+          },
+          {
+            "number": 196,
+            "title": "Crônicas da Folha: Vá Para a Escuridão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-196"
+          },
+          {
+            "number": 197,
+            "title": "Crônicas da Folha: O Mestre Corajoso e Seu Discípulo - Treinamento -",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-197"
+          },
+          {
+            "number": 198,
+            "title": "Véspera da Conferência dos Cinco Kage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-198"
+          },
+          {
+            "number": 199,
+            "title": "Que Entrem os Cincos Kage!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-199"
+          },
+          {
+            "number": 200,
+            "title": "O Pedido de Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-200"
+          },
+          {
+            "number": 201,
+            "title": "Decisão Dolorosa",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-201"
+          },
+          {
+            "number": 202,
+            "title": "Raio Ágil",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-202"
+          },
+          {
+            "number": 203,
+            "title": "O Jeito Ninja de Sasuke",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-203"
+          },
+          {
+            "number": 204,
+            "title": "O Poder dos Cinco Kage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-204"
+          },
+          {
+            "number": 205,
+            "title": "Guerra Declarada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-205"
+          },
+          {
+            "number": 206,
+            "title": "Os Sentimentos de Sakura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-206"
+          },
+          {
+            "number": 207,
+            "title": "Besta de Caudas Contra Besta Sem Cauda",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-207"
+          },
+          {
+            "number": 208,
+            "title": "Como Um Amigo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-208"
+          },
+          {
+            "number": 209,
+            "title": "O Braço Direito de Danzou",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-209"
+          },
+          {
+            "number": 210,
+            "title": "O Jutsu Ocular Proibido",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-210"
+          },
+          {
+            "number": 211,
+            "title": "Shimura Danzou",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-211"
+          },
+          {
+            "number": 212,
+            "title": "A Determinação de Sakura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-212"
+          },
+          {
+            "number": 213,
+            "title": "Laços Desfeitos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-213"
+          },
+          {
+            "number": 214,
+            "title": "O Fardo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-214"
+          },
+          {
+            "number": 215,
+            "title": "Dois Destinos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-215"
+          },
+          {
+            "number": 216,
+            "title": "Ninjas de Alto Nível",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-216"
+          },
+          {
+            "number": 217,
+            "title": "O Infiltrado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-217"
+          },
+          {
+            "number": 218,
+            "title": "As Cinco Grandes Nações se Mobilizam",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-218"
+          },
+          {
+            "number": 219,
+            "title": "Hatake Kakashi, o Hokage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-219"
+          },
+          {
+            "number": 220,
+            "title": "A Profecia do Grande Sábio",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-220"
+          },
+          {
+            "number": 221,
+            "title": "Armazém",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-221"
+          },
+          {
+            "number": 222,
+            "title": "A Decisão dos Cinco Kage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-222"
+          },
+          {
+            "number": 223,
+            "title": "O Jovem e o Mar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-223"
+          },
+          {
+            "number": 224,
+            "title": "O Ninja de Benisu",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-224"
+          },
+          {
+            "number": 225,
+            "title": "O Navio Fantasma",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-225"
+          },
+          {
+            "number": 226,
+            "title": "A Ilha do Navio de Guerra",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-226"
+          },
+          {
+            "number": 227,
+            "title": "A Ilha Esquecida",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-227"
+          },
+          {
+            "number": 228,
+            "title": "Lute! Rock Lee!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-228"
+          },
+          {
+            "number": 229,
+            "title": "Coma ou Morra! Cogumelos do Inferno",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-229"
+          },
+          {
+            "number": 230,
+            "title": "A Revolta dos Clones",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-230"
+          },
+          {
+            "number": 231,
+            "title": "A Rota Fechada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-231"
+          },
+          {
+            "number": 232,
+            "title": "As Meninas se Reúnem",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-232"
+          },
+          {
+            "number": 233,
+            "title": "O Naruto Impostor",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-233"
+          },
+          {
+            "number": 234,
+            "title": "O Aluno Favorito de Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-234"
+          },
+          {
+            "number": 235,
+            "title": "A Ninja da Vila Nadeshiko",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-235"
+          },
+          {
+            "number": 236,
+            "title": "Amigos Em Quem Confiar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-236"
+          },
+          {
+            "number": 237,
+            "title": "Ah, Minha Heroína, Tsunade",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-237"
+          },
+          {
+            "number": 238,
+            "title": "O Dia de Folga de Sai",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-238"
+          },
+          {
+            "number": 239,
+            "title": "O Lendário Ino-Shika-Cho",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-239"
+          },
+          {
+            "number": 240,
+            "title": "A Determinação de Kiba",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-240"
+          },
+          {
+            "number": 241,
+            "title": "Kakashi, Meu Eterno Rival!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-241"
+          },
+          {
+            "number": 242,
+            "title": "O Voto de Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-242"
+          },
+          {
+            "number": 243,
+            "title": "Terra à Vista! Será Essa a Ilha Paradisíaca?",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-243"
+          },
+          {
+            "number": 244,
+            "title": "Killer Bee e Motoi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-244"
+          },
+          {
+            "number": 245,
+            "title": "Próximo Desafio! Naruto Versus Nove Caudas!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-245"
+          },
+          {
+            "number": 246,
+            "title": "O Brilho Laranja",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-246"
+          },
+          {
+            "number": 247,
+            "title": "Alvo: O Nove Caudas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-247"
+          },
+          {
+            "number": 248,
+            "title": "A Batalha Mortal do Quarto!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-248"
+          },
+          {
+            "number": 249,
+            "title": "\"Obrigada\"",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-249"
+          },
+          {
+            "number": 250,
+            "title": "Batalha no Paraíso! Besta Esquisita Versus O Monstro!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-250"
+          },
+          {
+            "number": 251,
+            "title": "O Homem Chamado Kisame",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-251"
+          },
+          {
+            "number": 252,
+            "title": "O Anjo que Traz a Morte",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-252"
+          },
+          {
+            "number": 253,
+            "title": "A Ponte Para a Paz",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-253"
+          },
+          {
+            "number": 254,
+            "title": "Missão Rank-S Ultra Secreta",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-254"
+          },
+          {
+            "number": 255,
+            "title": "O Retorno do Artista",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-255"
+          },
+          {
+            "number": 256,
+            "title": "Reúnam-se! A Aliança Ninja!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-256"
+          },
+          {
+            "number": 257,
+            "title": "Encontro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-257"
+          },
+          {
+            "number": 258,
+            "title": "Rivais",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-258"
+          },
+          {
+            "number": 259,
+            "title": "Rachaduras",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-259"
+          },
+          {
+            "number": 260,
+            "title": "Separação",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-260"
+          },
+          {
+            "number": 261,
+            "title": "Pelo Meu Amigo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-261"
+          },
+          {
+            "number": 262,
+            "title": "Começa a Guerra!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-262"
+          },
+          {
+            "number": 263,
+            "title": "Sai e Shin",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-263"
+          },
+          {
+            "number": 264,
+            "title": "Os Segredos da Reencarnação Impura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-264"
+          },
+          {
+            "number": 265,
+            "title": "O Retorno de um Antigo Inimigo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-265"
+          },
+          {
+            "number": 266,
+            "title": "O Primeiro e O Último Adversário",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-266"
+          },
+          {
+            "number": 267,
+            "title": "O Brilhante Conselheiro Estrategista de Folha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-267"
+          },
+          {
+            "number": 268,
+            "title": "Campo de Batalha!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-268"
+          },
+          {
+            "number": 269,
+            "title": "Palavras Proibidas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-269"
+          },
+          {
+            "number": 270,
+            "title": "Laços Dourados",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-270"
+          },
+          {
+            "number": 271,
+            "title": "O Caminho de Sakura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-271"
+          },
+          {
+            "number": 272,
+            "title": "Mifune Versus Hanzou",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-272"
+          },
+          {
+            "number": 273,
+            "title": "A Verdadeira Gentileza",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-273"
+          },
+          {
+            "number": 274,
+            "title": "Formação Ino-Shika-Cho Completa!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-274"
+          },
+          {
+            "number": 275,
+            "title": "Uma Mensagem do Coração",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-275"
+          },
+          {
+            "number": 276,
+            "title": "O Ataque da Estátua Gedo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-276"
+          },
+          {
+            "number": 277,
+            "title": "Selo de União",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-277"
+          },
+          {
+            "number": 278,
+            "title": "Ninjas Médicos em Perigo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-278"
+          },
+          {
+            "number": 279,
+            "title": "Armadilha do Zetsu Branco",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-279"
+          },
+          {
+            "number": 280,
+            "title": "A Estética do Artista",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-280"
+          },
+          {
+            "number": 281,
+            "title": "Aliança Materna!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-281"
+          },
+          {
+            "number": 282,
+            "title": "A Origem Secreta da Dupla Mais Forte",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-282"
+          },
+          {
+            "number": 283,
+            "title": "Dois Sóis",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-283"
+          },
+          {
+            "number": 284,
+            "title": "O Destruidor de Elmos: Akebino Jinin!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-284"
+          },
+          {
+            "number": 285,
+            "title": "Usuária do Estilo das Chamas: Pakura da Areia!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-285"
+          },
+          {
+            "number": 286,
+            "title": "Aquilo que Não Podemos Recuperar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-286"
+          },
+          {
+            "number": 287,
+            "title": "Alguém em Quem se Pode Apostar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-287"
+          },
+          {
+            "number": 288,
+            "title": "Perigo: Jinpachi e Kushimaru!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-288"
+          },
+          {
+            "number": 289,
+            "title": "As Espadas dos Raios: Ringo Ameyuri!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-289"
+          },
+          {
+            "number": 290,
+            "title": "Força - Episódio 1",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-290"
+          },
+          {
+            "number": 291,
+            "title": "Força - Episódio 2",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-291"
+          },
+          {
+            "number": 292,
+            "title": "Força - Episódio 3",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-292"
+          },
+          {
+            "number": 293,
+            "title": "Força - Episódio 4",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-293"
+          },
+          {
+            "number": 294,
+            "title": "Força - Episódio 5",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-294"
+          },
+          {
+            "number": 295,
+            "title": "Força - Episódio Final",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-295"
+          },
+          {
+            "number": 296,
+            "title": "Naruto Entra na Batalha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-296"
+          },
+          {
+            "number": 297,
+            "title": "A Esperança de um Pai, O Amor de uma Mãe",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-297"
+          },
+          {
+            "number": 298,
+            "title": "Contato! Naruto Contra Itachi!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-298"
+          },
+          {
+            "number": 299,
+            "title": "O Reconhecido",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-299"
+          },
+          {
+            "number": 300,
+            "title": "O Mizukage, o Molusco Gigante e a Miragem",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-300"
+          },
+          {
+            "number": 301,
+            "title": "Paradoxo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-301"
+          },
+          {
+            "number": 302,
+            "title": "Terror: O Demônio do Vapor",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-302"
+          },
+          {
+            "number": 303,
+            "title": "Fantasmas do Passado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-303"
+          },
+          {
+            "number": 304,
+            "title": "O Jutsu de Viagem ao Submundo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-304"
+          },
+          {
+            "number": 305,
+            "title": "Os Vingativos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-305"
+          },
+          {
+            "number": 306,
+            "title": "O Coração dos Olhos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-306"
+          },
+          {
+            "number": 307,
+            "title": "Desaparecendo no Luar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-307"
+          },
+          {
+            "number": 308,
+            "title": "A Noite da Lua Crescente",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-308"
+          },
+          {
+            "number": 309,
+            "title": "Missão Rank A: Batalha de Comida!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-309"
+          },
+          {
+            "number": 310,
+            "title": "O Castelo Decaído",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-310"
+          },
+          {
+            "number": 311,
+            "title": "Prólogo do Caminho do Ninja",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-311"
+          },
+          {
+            "number": 312,
+            "title": "O Antigo Mestre e o Olho de Dragão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-312"
+          },
+          {
+            "number": 313,
+            "title": "Chuva Seguida por Neve com Alguns Relâmpagos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-313"
+          },
+          {
+            "number": 314,
+            "title": "O Triste Banho Ensolarado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-314"
+          },
+          {
+            "number": 315,
+            "title": "Vagarosa Neve",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-315"
+          },
+          {
+            "number": 316,
+            "title": "As Forças Aliadas Reencarnadas!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-316"
+          },
+          {
+            "number": 317,
+            "title": "Shino vs. Torune",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-317"
+          },
+          {
+            "number": 318,
+            "title": "Um Buraco no Coração: O Outro Jinshuuriki",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-318"
+          },
+          {
+            "number": 319,
+            "title": "A Alma que Habita a Marionete",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-319"
+          },
+          {
+            "number": 320,
+            "title": "Corra, Omoi!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-320"
+          },
+          {
+            "number": 321,
+            "title": "Reforços Chegam",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-321"
+          },
+          {
+            "number": 322,
+            "title": "Uchiha Madara",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-322"
+          },
+          {
+            "number": 323,
+            "title": "Os Cinco Kages se Reúnem",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-323"
+          },
+          {
+            "number": 324,
+            "title": "A Máscara Inquebrável e a Bolha Destruída",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-324"
+          },
+          {
+            "number": 325,
+            "title": "Jinchuuriki vs Jinchuuriki!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-325"
+          },
+          {
+            "number": 326,
+            "title": "Quatro Caudas, o Rei dos Macacos Sábios",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-326"
+          },
+          {
+            "number": 327,
+            "title": "Nove Caudas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-327"
+          },
+          {
+            "number": 328,
+            "title": "Kurama",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-328"
+          },
+          {
+            "number": 329,
+            "title": "Time de Dois",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-329"
+          },
+          {
+            "number": 330,
+            "title": "Promessa de Vitória",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-330"
+          },
+          {
+            "number": 331,
+            "title": "Os Olhos que Enxergam na Escuridão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-331"
+          },
+          {
+            "number": 332,
+            "title": "O Desejo da Pedra",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-332"
+          },
+          {
+            "number": 333,
+            "title": "Os Riscos da Reencarnação Impura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-333"
+          },
+          {
+            "number": 334,
+            "title": "Time de Irmãos!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-334"
+          },
+          {
+            "number": 335,
+            "title": "A Folha de Cada Um",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-335"
+          },
+          {
+            "number": 336,
+            "title": "Yakushi Kabuto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-336"
+          },
+          {
+            "number": 337,
+            "title": "Izanami Ativado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-337"
+          },
+          {
+            "number": 338,
+            "title": "Izanagi e Izanami",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-338"
+          },
+          {
+            "number": 339,
+            "title": "Eu Sempre Vou te Amar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-339"
+          },
+          {
+            "number": 340,
+            "title": "Reencarnação Impura: Liberar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-340"
+          },
+          {
+            "number": 341,
+            "title": "O Retorno de Orochimaru!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-341"
+          },
+          {
+            "number": 342,
+            "title": "O Segredo da Técnica de Transportação",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-342"
+          },
+          {
+            "number": 343,
+            "title": "Quem é você?",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-343"
+          },
+          {
+            "number": 344,
+            "title": "Obito e Madara",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-344"
+          },
+          {
+            "number": 345,
+            "title": "Estou no Inferno",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-345"
+          },
+          {
+            "number": 346,
+            "title": "Mundo dos Sonhos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-346"
+          },
+          {
+            "number": 347,
+            "title": "Sombras Arrepiantes",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-347"
+          },
+          {
+            "number": 348,
+            "title": "A Nova Akatsuki",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-348"
+          },
+          {
+            "number": 349,
+            "title": "Uma Máscara que Esconde o Coração",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-349"
+          },
+          {
+            "number": 350,
+            "title": "A Morte de Minato",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-350"
+          },
+          {
+            "number": 351,
+            "title": "Células de Hashirama",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-351"
+          },
+          {
+            "number": 352,
+            "title": "O Ninja Renegado, Orochimaru",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-352"
+          },
+          {
+            "number": 353,
+            "title": "O Objeto de Pesquisa de Orochimaru",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-353"
+          },
+          {
+            "number": 354,
+            "title": "Seus Próprios Caminhos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-354"
+          },
+          {
+            "number": 355,
+            "title": "O Alvo, Sharingan",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-355"
+          },
+          {
+            "number": 356,
+            "title": "Um Ninja da Folha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-356"
+          },
+          {
+            "number": 357,
+            "title": "Um ANBU Uchiha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-357"
+          },
+          {
+            "number": 358,
+            "title": "Golpe de Estado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-358"
+          },
+          {
+            "number": 359,
+            "title": "A Noite da Tragédia",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-359"
+          },
+          {
+            "number": 360,
+            "title": "Líder Jounin",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-360"
+          },
+          {
+            "number": 361,
+            "title": "Time Sete",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-361"
+          },
+          {
+            "number": 362,
+            "title": "A Determinação de Kakashi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-362"
+          },
+          {
+            "number": 363,
+            "title": "O Jutsu das Forças Aliadas Ninja!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-363"
+          },
+          {
+            "number": 364,
+            "title": "Os Laços que Formam Vínculos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-364"
+          },
+          {
+            "number": 365,
+            "title": "Aqueles que Dançam nas Sombras",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-365"
+          },
+          {
+            "number": 366,
+            "title": "Aqueles que Tudo Sabem",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-366"
+          },
+          {
+            "number": 367,
+            "title": "Hashirama e Madara",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-367"
+          },
+          {
+            "number": 368,
+            "title": "A Era dos Estados em Guerra",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-368"
+          },
+          {
+            "number": 369,
+            "title": "Meu Verdadeiro Sonho",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-369"
+          },
+          {
+            "number": 370,
+            "title": "A Resposta de Sasuke",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-370"
+          },
+          {
+            "number": 371,
+            "title": "Buraco",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-371"
+          },
+          {
+            "number": 372,
+            "title": "Algo Para Preencher o Buraco",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-372"
+          },
+          {
+            "number": 373,
+            "title": "Time 7, Reunir!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-373"
+          },
+          {
+            "number": 374,
+            "title": "O Novo Trio do Impasse Mortal",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-374"
+          },
+          {
+            "number": 375,
+            "title": "Kakashi vs. Obito",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-375"
+          },
+          {
+            "number": 376,
+            "title": "Edição Extra: Instruções Para Capturar o Nove Caudas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-376"
+          },
+          {
+            "number": 377,
+            "title": "Edição Extra: Naruto Contra Naruto Robô",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-377"
+          },
+          {
+            "number": 378,
+            "title": "O Jinchuuriki do Dez Caudas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-378"
+          },
+          {
+            "number": 379,
+            "title": "Uma Abertura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-379"
+          },
+          {
+            "number": 380,
+            "title": "O Dia em Que Naruto Nasceu",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-380"
+          },
+          {
+            "number": 381,
+            "title": "A Árvore Divina",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-381"
+          },
+          {
+            "number": 382,
+            "title": "O Sonho de Um Ninja",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-382"
+          },
+          {
+            "number": 383,
+            "title": "Perseguindo a Esperança",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-383"
+          },
+          {
+            "number": 384,
+            "title": "Um Coração Cheio de Companheiros",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-384"
+          },
+          {
+            "number": 385,
+            "title": "Uchiha Obito",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-385"
+          },
+          {
+            "number": 386,
+            "title": "Estou Sempre Te Observando",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-386"
+          },
+          {
+            "number": 387,
+            "title": "A Promessa Que Foi Mantida",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-387"
+          },
+          {
+            "number": 388,
+            "title": "Meu Primeiro Amigo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-388"
+          },
+          {
+            "number": 389,
+            "title": "A Adorada Irmã Mais Velha",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-389"
+          },
+          {
+            "number": 390,
+            "title": "A Decisão de Hanabi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-390"
+          },
+          {
+            "number": 391,
+            "title": "A Ascensão de Uchiha Madara",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-391"
+          },
+          {
+            "number": 392,
+            "title": "O Coração Escondido",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-392"
+          },
+          {
+            "number": 393,
+            "title": "Um Verdadeiro Fim",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-393"
+          },
+          {
+            "number": 394,
+            "title": "Os Novos Exames Chuunin",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-394"
+          },
+          {
+            "number": 395,
+            "title": "Começam os Exames Chuunin!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-395"
+          },
+          {
+            "number": 396,
+            "title": "As Três Questões",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-396"
+          },
+          {
+            "number": 397,
+            "title": "Alguém Digno de Ser Líder",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-397"
+          },
+          {
+            "number": 398,
+            "title": "A Noite Antes do Segundo Exame",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-398"
+          },
+          {
+            "number": 399,
+            "title": "Sobrevivência no Deserto Infernal",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-399"
+          },
+          {
+            "number": 400,
+            "title": "Como um Usuário de Taijutsu...",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-400"
+          },
+          {
+            "number": 401,
+            "title": "O Final",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-401"
+          },
+          {
+            "number": 402,
+            "title": "Fuga e Perseguição",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-402"
+          },
+          {
+            "number": 403,
+            "title": "Coragem Sem Limites",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-403"
+          },
+          {
+            "number": 404,
+            "title": "Os Problemas de Tenten",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-404"
+          },
+          {
+            "number": 405,
+            "title": "A Dupla Encarcerada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-405"
+          },
+          {
+            "number": 406,
+            "title": "O Meu Lugar",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-406"
+          },
+          {
+            "number": 407,
+            "title": "O Ninjutsu Secreto do Clã Yamanaka",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-407"
+          },
+          {
+            "number": 408,
+            "title": "A Marionete Amaldiçoada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-408"
+          },
+          {
+            "number": 409,
+            "title": "Sua Retaguarda",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-409"
+          },
+          {
+            "number": 410,
+            "title": "O Início do Plano Secreto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-410"
+          },
+          {
+            "number": 411,
+            "title": "A Almejada Besta de Caudas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-411"
+          },
+          {
+            "number": 412,
+            "title": "A Decisão de Neji",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-412"
+          },
+          {
+            "number": 413,
+            "title": "Esperanças Para o Futuro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-413"
+          },
+          {
+            "number": 414,
+            "title": "À Beira da Morte",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-414"
+          },
+          {
+            "number": 415,
+            "title": "Os Dois Mangekyou",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-415"
+          },
+          {
+            "number": 416,
+            "title": "A Formação do Time Minato",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-416"
+          },
+          {
+            "number": 417,
+            "title": "Você Será Meu Reserva",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-417"
+          },
+          {
+            "number": 418,
+            "title": "A Besta Verde Contra os Seis Caminhos de Madara",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-418"
+          },
+          {
+            "number": 419,
+            "title": "A Juventude do Papai",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-419"
+          },
+          {
+            "number": 420,
+            "title": "A Formação dos Oito Portões Internos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-420"
+          },
+          {
+            "number": 421,
+            "title": "O Sábio dos Seis Caminhos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-421"
+          },
+          {
+            "number": 422,
+            "title": "Aqueles Que Herdarão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-422"
+          },
+          {
+            "number": 423,
+            "title": "O Rival de Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-423"
+          },
+          {
+            "number": 424,
+            "title": "Elevação",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-424"
+          },
+          {
+            "number": 425,
+            "title": "O Sonho Infinito",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-425"
+          },
+          {
+            "number": 426,
+            "title": "O Reino do Pesadelo Infinito",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-426"
+          },
+          {
+            "number": 427,
+            "title": "O Mundo dos Sonhos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-427"
+          },
+          {
+            "number": 428,
+            "title": "O Lugar de Tenten",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-428"
+          },
+          {
+            "number": 429,
+            "title": "Killer Bee Rappuuden: Parte 1",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-429"
+          },
+          {
+            "number": 430,
+            "title": "Killer Bee Rappuuden: Parte 2",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-430"
+          },
+          {
+            "number": 431,
+            "title": "Para Ver Aquele Sorriso, Só Mais Uma Vez",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-431"
+          },
+          {
+            "number": 432,
+            "title": "O Ninja Perdedor",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-432"
+          },
+          {
+            "number": 433,
+            "title": "A Missão de Busca",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-433"
+          },
+          {
+            "number": 434,
+            "title": "Time Jiraiya",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-434"
+          },
+          {
+            "number": 435,
+            "title": "Prioridades",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-435"
+          },
+          {
+            "number": 436,
+            "title": "O Homem Mascarado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-436"
+          },
+          {
+            "number": 437,
+            "title": "O Poder Selado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-437"
+          },
+          {
+            "number": 438,
+            "title": "As Regras ou Os Companheiros?",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-438"
+          },
+          {
+            "number": 439,
+            "title": "O Menino da Profecia",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-439"
+          },
+          {
+            "number": 440,
+            "title": "O Pássaro Engaiolado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-440"
+          },
+          {
+            "number": 441,
+            "title": "Voltando Para Casa",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-441"
+          },
+          {
+            "number": 442,
+            "title": "O Caminho Mútuo",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-442"
+          },
+          {
+            "number": 443,
+            "title": "A Diferença em Poder",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-443"
+          },
+          {
+            "number": 444,
+            "title": "Saindo da Vila",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-444"
+          },
+          {
+            "number": 445,
+            "title": "Perseguidores",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-445"
+          },
+          {
+            "number": 446,
+            "title": "Conflito",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-446"
+          },
+          {
+            "number": 447,
+            "title": "Outra Lua",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-447"
+          },
+          {
+            "number": 448,
+            "title": "Companheiro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-448"
+          },
+          {
+            "number": 449,
+            "title": "Os Ninjas se Unem",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-449"
+          },
+          {
+            "number": 450,
+            "title": "Rivais",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-450"
+          },
+          {
+            "number": 451,
+            "title": "Vida que Surge, Vida que se Vai",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-451"
+          },
+          {
+            "number": 452,
+            "title": "O Gênio",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-452"
+          },
+          {
+            "number": 453,
+            "title": "A Dor de Viver",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-453"
+          },
+          {
+            "number": 454,
+            "title": "O Pedido de Shisui",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-454"
+          },
+          {
+            "number": 455,
+            "title": "Noite de Lua",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-455"
+          },
+          {
+            "number": 456,
+            "title": "A Escuridão da Akatsuki",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-456"
+          },
+          {
+            "number": 457,
+            "title": "Parceiro",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-457"
+          },
+          {
+            "number": 458,
+            "title": "Verdade",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-458"
+          },
+          {
+            "number": 459,
+            "title": "A Deusa dos Primórdios",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-459"
+          },
+          {
+            "number": 460,
+            "title": "Otsutsuki Kaguya",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-460"
+          },
+          {
+            "number": 461,
+            "title": "Hagoromo e Hamura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-461"
+          },
+          {
+            "number": 462,
+            "title": "Um Passado Fabricado",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-462"
+          },
+          {
+            "number": 463,
+            "title": "O Ninja Mais Imprevisível do Mundo!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-463"
+          },
+          {
+            "number": 464,
+            "title": "O Credo Ninja",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-464"
+          },
+          {
+            "number": 465,
+            "title": "Ashura e Indra",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-465"
+          },
+          {
+            "number": 466,
+            "title": "A Tumultuosa Jornada",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-466"
+          },
+          {
+            "number": 467,
+            "title": "A Decisão de Ashura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-467"
+          },
+          {
+            "number": 468,
+            "title": "O Sucessor",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-468"
+          },
+          {
+            "number": 469,
+            "title": "Uma Missão Especial",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-469"
+          },
+          {
+            "number": 470,
+            "title": "Pensamentos Conexos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-470"
+          },
+          {
+            "number": 471,
+            "title": "Aqueles Dois... Sempre",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-471"
+          },
+          {
+            "number": 472,
+            "title": "É Melhor Você...",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-472"
+          },
+          {
+            "number": 473,
+            "title": "O Sharingan Revivido",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-473"
+          },
+          {
+            "number": 474,
+            "title": "Parabéns",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-474"
+          },
+          {
+            "number": 475,
+            "title": "O Vale do Fim",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-475"
+          },
+          {
+            "number": 476,
+            "title": "A Batalha Final",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-476"
+          },
+          {
+            "number": 477,
+            "title": "Naruto e Sasuke",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-477"
+          },
+          {
+            "number": 478,
+            "title": "O Símbolo da União",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-478"
+          },
+          {
+            "number": 479,
+            "title": "Uzumaki Naruto!!",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-479"
+          },
+          {
+            "number": 480,
+            "title": "Naruto - Hinata",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-480"
+          },
+          {
+            "number": 481,
+            "title": "Sasuke - Sakura",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-481"
+          },
+          {
+            "number": 482,
+            "title": "Gaara - Shikamaru",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-482"
+          },
+          {
+            "number": 483,
+            "title": "Jiraiya - Kakashi",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-483"
+          },
+          {
+            "number": 484,
+            "title": "A História do Sasuke: Nascer do Sol - Parte 1: Os Humanos Explosivos",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-484"
+          },
+          {
+            "number": 485,
+            "title": "A História do Sasuke: Nascer do Sol - Parte 2: Coliseu",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-485"
+          },
+          {
+            "number": 486,
+            "title": "A História do Sasuke: Nascer do Sol - Parte 3: Fuushin",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-486"
+          },
+          {
+            "number": 487,
+            "title": "A História do Sasuke: Nascer do Sol - Parte 4: O Ketsuryugan",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-487"
+          },
+          {
+            "number": 488,
+            "title": "A História do Sasuke: Nascer do Sol - Parte 5: O Último",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-488"
+          },
+          {
+            "number": 489,
+            "title": "História do Shikamaru: Uma Nuvem Vagando Pelo Tácito Escuro - Parte 1: O Estado dos Negócios",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-489"
+          },
+          {
+            "number": 490,
+            "title": "História do Shikamaru: Uma Nuvem Vagando Pelo Tácito Escuro - Parte 2: Nuvens Negras",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-490"
+          },
+          {
+            "number": 491,
+            "title": "História do Shikamaru: Uma Nuvem Vagando Pelo Tácito Escuro - Parte 3: Imprudência",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-491"
+          },
+          {
+            "number": 492,
+            "title": "História do Shikamaru: Uma Nuvem Vagando Pelo Tácito Escuro - Parte 4: Uma Nuvem de Suspeitas",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-492"
+          },
+          {
+            "number": 493,
+            "title": "História do Shikamaru: Uma Nuvem Vagando Pelo Tácito Escuro - Parte 5: Alvorecer",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-493"
+          },
+          {
+            "number": 494,
+            "title": "História da Vila da Folha: O Dia Perfeito Para um Casamento - Parte 1: O Casamento do Naruto",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-494"
+          },
+          {
+            "number": 495,
+            "title": "História da Vila da Folha: O Dia Perfeito Para um Casamento - Parte 2: Um Presente de Casamento Todo Poderoso",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-495"
+          },
+          {
+            "number": 496,
+            "title": "História da Vila da Folha: O Dia Perfeito Para um Casamento - Parte 3: Vapor e Pílulas de Comida",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-496"
+          },
+          {
+            "number": 497,
+            "title": "História da Vila da Folha: O Dia Perfeito Para um Casamento - Parte 4: O Presente de Casamento do Kazekage",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-497"
+          },
+          {
+            "number": 498,
+            "title": "História da Vila da Folha: O Dia Perfeito Para um Casamento - Parte 5: A Última Missão",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-498"
+          },
+          {
+            "number": 499,
+            "title": "História da Vila da Folha: O Dia Perfeito Para um Casamento - Parte 6: O Resultado da Missão Secreta",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-499"
+          },
+          {
+            "number": 500,
+            "title": "História da Vila da Folha: O Dia Perfeito Para um Casamento - Parte 7: A Mensagem",
+            "url": "https://animesonline.cloud/episodio/naruto-shippuden-episodio-500"
+          }
+        ],
+        "totalEpisodes": 500,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

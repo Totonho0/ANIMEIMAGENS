@@ -109,7 +109,7 @@
       }
     },
     "maou-sama-retry": {
-      "at": 1780667367515,
+      "at": 1780684392708,
       "data": {
         "slug": "maou-sama-retry",
         "title": "Maou-sama, Retry! 2 - Todos os Episódios",
@@ -12018,7 +12018,7 @@
       }
     },
     "otaku-ni-yasashii-gal-wa-inai": {
-      "at": 1780631601768,
+      "at": 1780684395963,
       "data": {
         "slug": "otaku-ni-yasashii-gal-wa-inai",
         "title": "Otaku ni Yasashii Gal wa Inai!?",
@@ -15313,6 +15313,65 @@
           }
         ],
         "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kanojo-okarishimasu-5th-season": {
+      "at": 1780684394093,
+      "data": {
+        "slug": "kanojo-okarishimasu-5th-season",
+        "title": "Kanojo Okarishimasu 5th Season",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bGxmeTk4U1Rrbm8xMXJER2k0NFNLNmxsd3guanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Minha ex-namorada, Nanami Mami",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Namorada de aluguel",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Fim da Namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Clímax e Namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Namorada legítima",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 -Faz muito tempo que não tenho namorada.",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Dia dos Namorados e Namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Investigação e namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Sutiã e namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
         "kind": "anime",
         "provider": "aoc"
       }

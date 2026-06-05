@@ -14075,6 +14075,80 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "zero-no-tsukaima-futatsuki-no-kishi": {
+      "at": 1780643015355,
+      "data": {
+        "slug": "zero-no-tsukaima-futatsuki-no-kishi",
+        "title": "Zero no Tsukaima Futatsuki No Kishi - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC90bzJncFVveGVOUWxiamZzd0k4bVhsZGFxbDAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Sua Majestade, o Zero da Rainha",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Juramento Do Vento E Da Água",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - A Espada do Paladino",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - As Três Irmãs Vallières",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Selo Do Espião",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - As Férias Da Rainha",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Documento Secreto Subterrâneo",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Crise do Instituto Mágico",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O Terror Das Chamas",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - O Inimigo Nos Alpes Nevados",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - O Pentecostes de Prata",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - A Cerimônia De Casamento De Despedida",
+            "url": "https://animesonline.cloud/episodio/zero-no-tsukaima-futatsuki-no-kishi-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

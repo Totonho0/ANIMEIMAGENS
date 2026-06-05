@@ -14247,6 +14247,30 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "yumemiru-otome": {
+      "at": 1780643334381,
+      "data": {
+        "slug": "yumemiru-otome",
+        "title": "Yumemiru Otome",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91U0cyMzdkQVdhalVzWW44VGhNV2RHRVdCWEIuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/yumemiru-otome-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/yumemiru-otome-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

@@ -1295,10 +1295,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780631306636,
-      "lastAlertAt": 1780631306636,
+      "lastAlertAt": 1780631648822,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:c9e32bdf0598d966": {
       "userKey": "ip:c9e32bdf0598d966",

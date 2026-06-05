@@ -14460,6 +14460,122 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "furueru-kuchibiru": {
+      "at": 1780643353984,
+      "data": {
+        "slug": "furueru-kuchibiru",
+        "title": "Furueru Kuchibiru",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94VmlKSDhXbzMwZ2o3RWVVTjFNV01qYURmbjMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Lábios peludos 1",
+            "url": "https://animesonline.cloud/episodio/furueru-kuchibiru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Lábios peludos 0",
+            "url": "https://animesonline.cloud/episodio/furueru-kuchibiru-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "shoukoujo-the-animation": {
+      "at": 1780643355360,
+      "data": {
+        "slug": "shoukoujo-the-animation",
+        "title": "Shoukoujo The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xOFNOY1FCcTRBbE90MVNhNG8xenRNWkFHaUouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Ayane e seu irmão / Yuzu e seu irmão",
+            "url": "https://animesonline.cloud/episodio/shoukoujo-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Experiência pervertida com meu tutor",
+            "url": "https://animesonline.cloud/episodio/shoukoujo-the-animation-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "boku-no-pico": {
+      "at": 1780643356615,
+      "data": {
+        "slug": "boku-no-pico",
+        "title": "Boku no Pico",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xYXRHSWZmS2FkQ2FSNGxpbU4wcFlVeG84eEMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/boku-no-pico-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/boku-no-pico-episodio-03"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "bible-black": {
+      "at": 1780643358760,
+      "data": {
+        "slug": "bible-black",
+        "title": "Bible Black",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94MkFFNkxlaTl2SkloUzZjeExPaERGb3JBNjMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Escola de Magia Negra",
+            "url": "https://animesonline.cloud/episodio/bible-black-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Ritual Negro",
+            "url": "https://animesonline.cloud/episodio/bible-black-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Sacrifício Negro",
+            "url": "https://animesonline.cloud/episodio/bible-black-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Carícias Negras",
+            "url": "https://animesonline.cloud/episodio/bible-black-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Jantar Negro",
+            "url": "https://animesonline.cloud/episodio/bible-black-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Descendência Negra",
+            "url": "https://animesonline.cloud/episodio/bible-black-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

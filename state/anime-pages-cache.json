@@ -14991,6 +14991,64 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "yume-kui-tsurumiku-shiki-game-seisaku": {
+      "at": 1780643715156,
+      "data": {
+        "slug": "yume-kui-tsurumiku-shiki-game-seisaku",
+        "title": "Yume Kui: Tsurumiku Shiki Game Seisaku",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wYVVTbnJNdFF6Zk5lUTlIZkp1alRaeTVDWDcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Kuzuha Rumi: Arco de Treinamento",
+            "url": "https://animesonline.cloud/episodio/yume-kui-tsurumiku-shiki-game-seisaku-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Kuzuha Yumi: Arco da Exploração",
+            "url": "https://animesonline.cloud/episodio/yume-kui-tsurumiku-shiki-game-seisaku-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "resort-boin": {
+      "at": 1780643716427,
+      "data": {
+        "slug": "resort-boin",
+        "title": "Resort Boin",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9iY0NtOGZGWWxxU0g2ODNXcGw4dUhycHhTNmQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/resort-boin-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/resort-boin-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/resort-boin-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/resort-boin-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

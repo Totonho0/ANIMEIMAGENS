@@ -18241,7 +18241,44 @@
         "hasMore": true
       },
       "at": 1780521572364
+    },
+    "todos|1|s|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
+            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "url": "https://animesonline.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Stranger Things: Histórias de 85 Dublado",
+            "slug": "stranger-things-historias-de-85-dublado",
+            "url": "https://animesonline.cloud/anime/stranger-things-historias-de-85-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
+            "rating": "7.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shunkashuutou Daikousha: Haru no Mai Dublado",
+            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+            "url": "https://animesonline.cloud/anime/shunkashuutou-daikousha-haru-no-mai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/8djjRBlmadmJkb6pmPY4orxLwml-185x278.jpg",
+            "rating": "7.71",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 1,
+        "hasMore": false
+      },
+      "at": 1780642947992
     }
   },
-  "updatedAt": 1780641802814
+  "updatedAt": 1780642947992
 }

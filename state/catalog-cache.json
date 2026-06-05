@@ -13015,6 +13015,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node",
+            "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node",
+            "url": "https://animesonline.cloud/anime/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/nH6Ch1q5rwdRs56bYTA9wuOhfbL-185x278.jpg",
+            "rating": "8.455",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Eris no Seihai",
+            "slug": "eris-no-seihai",
+            "url": "https://animesonline.cloud/anime/eris-no-seihai",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/ifxEzlA8UWr1ZKHjYHKz59LzO9g-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
             "slug": "toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari",
             "url": "https://animesonline.cloud/anime/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari",
@@ -13157,31 +13175,13 @@
             "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Osananajimi to wa Love Come ni Naranai",
-            "slug": "osananajimi-to-wa-love-come-ni-naranai",
-            "url": "https://animesonline.cloud/anime/osananajimi-to-wa-love-come-ni-naranai",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/rMoMsLOTbEKCWFEzgbxryoXUgRe-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "My Hero Academia: Vigilantes 2 Dublado",
-            "slug": "my-hero-academia-vigilantes-2-dublado",
-            "url": "https://animesonline.cloud/anime/my-hero-academia-vigilantes-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
-            "rating": "7.12",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 7,
         "hasMore": true
       },
-      "at": 1780522076947
+      "at": 1780631607573
     },
     "todos|8||24": {
       "data": {
@@ -18243,5 +18243,5 @@
       "at": 1780521572364
     }
   },
-  "updatedAt": 1780631604167
+  "updatedAt": 1780631607573
 }

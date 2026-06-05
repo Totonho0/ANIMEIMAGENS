@@ -4636,10 +4636,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780656526592,
-      "lastAlertAt": 1780656526592,
+      "lastAlertAt": 1780656849088,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

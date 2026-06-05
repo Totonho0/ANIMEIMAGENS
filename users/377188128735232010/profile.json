@@ -199,6 +199,9 @@
     ],
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       1
+    ],
+    "uzumaki": [
+      1
     ]
   },
   "started": {
@@ -283,9 +286,14 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "uzumaki",
+      "ep": 1,
+      "at": 1780681372469
+    },
+    {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780681315170
+      "at": 1780681372469
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -314,5 +322,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780681328187
+  "updatedAt": 1780681374297
 }

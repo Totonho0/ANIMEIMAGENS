@@ -148,5 +148,17 @@
     "oauthAccessExpiresAt": 1781246514512,
     "hentaiAccess": true,
     "hentaiAccessCheckedAt": 1780642536030
+  },
+  "bba73568-385d-428a-bc3f-97fa28312a44": {
+    "createdAt": 1780643298219,
+    "user": {
+      "id": "736671123311165632",
+      "username": "Kuruma",
+      "avatar": "https://cdn.discordapp.com/avatars/736671123311165632/ef475357918151f02665c93f21a24583.png?size=256"
+    },
+    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.tYwcNggt43P02ur6tPdZ1cvmnvDqeq",
+    "oauthAccessExpiresAt": 1781248098219,
+    "hentaiAccess": true,
+    "hentaiAccessCheckedAt": 1780643298434
   }
 }

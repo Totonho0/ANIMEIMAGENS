@@ -14344,6 +14344,50 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "tsundero": {
+      "at": 1780643342454,
+      "data": {
+        "slug": "tsundero",
+        "title": "Tsundero",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xUU5pS09VUkZUTlNJS1pzZEdnUDZkbjZERzEuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/tsundero-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/tsundero-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/tsundero-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/tsundero-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/tsundero-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animesonline.cloud/episodio/tsundero-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

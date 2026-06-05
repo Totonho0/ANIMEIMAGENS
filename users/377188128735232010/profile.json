@@ -283,14 +283,14 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+      "ep": 1,
+      "at": 1780681315170
+    },
+    {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
       "ep": 1,
       "at": 1780667357718
-    },
-    {
-      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-      "ep": 1,
-      "at": 1780661049608
     },
     {
       "slug": "jujutsu-kaisen-2-dublado",
@@ -314,5 +314,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780667371927
+  "updatedAt": 1780681328187
 }

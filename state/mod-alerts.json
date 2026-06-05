@@ -4610,10 +4610,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780645438832,
-      "lastAlertAt": 1780645438832,
+      "lastAlertAt": 1780645749040,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

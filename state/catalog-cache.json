@@ -12729,7 +12729,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1780596345746
+      "at": 1780631602901
     },
     "todos|6||24": {
       "data": {
@@ -12785,6 +12785,24 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sousou no Friere 2",
+            "slug": "sousou-no-friere-2",
+            "url": "https://animesonline.cloud/anime/sousou-no-friere-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
+            "rating": "8.921",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Prism Rondo",
+            "slug": "prism-rondo",
+            "url": "https://animesonline.cloud/anime/prism-rondo",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/rB3RQpjQAnzl9NH3r8HzPkofgH8-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -12931,31 +12949,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Dark Moon: The Blood Altar",
-            "slug": "dark-moon-the-blood-altar",
-            "url": "https://animesonline.cloud/anime/dark-moon-the-blood-altar",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/3xMrv5JDbgy1AUj6GURBaTv8sNt-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Douse Koishite Shimaunda. 2",
-            "slug": "douse-koishite-shimaunda-2nd-season",
-            "url": "https://animesonline.cloud/anime/douse-koishite-shimaunda-2nd-season",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/9BBFppXKkZWVNEkYv4dHxElUaa9-185x278.jpg",
-            "rating": "6,67",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 6,
         "hasMore": true
       },
-      "at": 1780522074857
+      "at": 1780631604167
     },
     "todos|7||24": {
       "data": {
@@ -18243,5 +18243,5 @@
       "at": 1780521572364
     }
   },
-  "updatedAt": 1780631601282
+  "updatedAt": 1780631604167
 }

@@ -210,6 +210,12 @@
       "title": "Ace of the Diamond Act II Season 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kZkVtbUUzUkpoM09ZeHlxT0ZEQnQwcU1TMEUuanBn",
       "kind": "anime"
+    },
+    "kanojo-okarishimasu-5th-season": {
+      "slug": "kanojo-okarishimasu-5th-season",
+      "title": "Kanojo Okarishimasu 5th Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bGxmeTk4U1Rrbm8xMXJER2k0NFNLNmxsd3guanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -334,28 +340,31 @@
     ],
     "ace-of-the-diamond-act-ii-season-2": [
       1
+    ],
+    "kanojo-okarishimasu-5th-season": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780685530357
+      "at": 1780686706295
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780685530357
+      "at": 1780686706295
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780685530357
+      "at": 1780686706295
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780685530357
+      "at": 1780686706295
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -384,5 +393,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780685560321
+  "updatedAt": 1780686714754
 }

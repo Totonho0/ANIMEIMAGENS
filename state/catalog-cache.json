@@ -12100,6 +12100,15 @@
             "provider": "aoc"
           },
           {
+            "title": "NIPPON SANGOKU Dublado",
+            "slug": "nippon-sangoku-dublado",
+            "url": "https://animesonline.cloud/anime/nippon-sangoku-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Star Wars: Maul – Lorde das Sombras",
             "slug": "star-wars-maul-lorde-das-sombras",
             "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras",
@@ -12251,22 +12260,13 @@
             "rating": "7.7",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku",
-            "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-            "url": "https://animesonline.cloud/anime/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/ayhpfFHm1MtgPgLw3yN0euOUxsp-185x278.jpg",
-            "rating": "6.96",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 3,
         "hasMore": true
       },
-      "at": 1780680394221
+      "at": 1780682958159
     },
     "todos|4||24": {
       "data": {
@@ -18324,5 +18324,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780682837364
+  "updatedAt": 1780682958159
 }

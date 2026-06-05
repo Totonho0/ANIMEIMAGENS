@@ -14412,6 +14412,30 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "master-piece-the-animation": {
+      "at": 1780643346737,
+      "data": {
+        "slug": "master-piece-the-animation",
+        "title": "Master Piece The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93YjJwQVBJRThJdURrc283VWtnM3Nydm1SS2guanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/master-piece-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/master-piece-the-animation-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

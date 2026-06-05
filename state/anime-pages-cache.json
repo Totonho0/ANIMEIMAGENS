@@ -14751,6 +14751,60 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "overflow-dublado": {
+      "at": 1780643690284,
+      "data": {
+        "slug": "overflow-dublado",
+        "title": "Overflow Dublado - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sYk1lbmMzbUlxeG5FeFVzZENZUWlDMkJvemwuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Irmãs suaves e banho",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Garota Sonhadora ao Meu Lado",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Aproximando-se de dois corações",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Quente, incomodado e fora de controle",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Escondidos juntos, corações acelerados",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Derramando meu coração para você",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - A Sedução do Avental",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Para sempre louca por duas irmãs",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

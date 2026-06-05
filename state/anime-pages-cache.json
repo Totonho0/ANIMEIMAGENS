@@ -14913,6 +14913,60 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "papa-datte-shitai": {
+      "at": 1780643707906,
+      "data": {
+        "slug": "papa-datte-shitai",
+        "title": "Papa datte, Shitai",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96OVZnSU1hUXR1RXUxY2FvcG5rcm9hZlJKSzcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animesonline.cloud/episodio/papa-datte-shitai-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

@@ -14149,6 +14149,80 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "koi-wa-futago-de-warikirenai": {
+      "at": 1780643021872,
+      "data": {
+        "slug": "koi-wa-futago-de-warikirenai",
+        "title": "Koi wa Futago de Warikirenai - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tc0NVODk1TGdWWTg2cUsxZ1lRUmxHMk10N1UuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 2",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 3",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O que você quiser",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 7",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Final",
+            "url": "https://animesonline.cloud/episodio/koi-wa-futago-de-warikirenai-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

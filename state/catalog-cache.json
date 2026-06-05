@@ -16777,6 +16777,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Kuroneko to Majo no Kyoushitsu",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "url": "https://animesonline.cloud/anime/kuroneko-to-majo-no-kyoushitsu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/pcXzTpEwnIkAU9QcJ6UzaAeUzx3-185x278.jpg",
+            "rating": "6.91",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Hokuto no Ken: Fist of the North Star Dublado",
             "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
             "url": "https://animesonline.cloud/anime/hokuto-no-ken-fist-of-the-north-star-dublado",
@@ -16982,22 +16991,13 @@
             "rating": "7.7",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "NIPPON SANGOKU Dublado",
-            "slug": "nippon-sangoku-dublado",
-            "url": "https://animesonline.cloud/anime/nippon-sangoku-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780661049963
+      "at": 1780683108465
     },
     "offline|2||24": {
       "data": {
@@ -18324,5 +18324,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780683100713
+  "updatedAt": 1780683108465
 }

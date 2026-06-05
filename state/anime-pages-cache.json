@@ -14967,6 +14967,30 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "shoujo-kara-shoujo-e": {
+      "at": 1780643711372,
+      "data": {
+        "slug": "shoujo-kara-shoujo-e",
+        "title": "Shoujo kara Shoujo e...",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC90NG43UmM3bWhLeWt3OXdLVUNiSFhYdUVKU1MuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/shoujo-kara-shoujo-e-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/shoujo-kara-shoujo-e-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

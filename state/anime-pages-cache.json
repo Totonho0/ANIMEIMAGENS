@@ -14722,6 +14722,35 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "shounen-ga-otona-ni-natta-natsu": {
+      "at": 1780643679483,
+      "data": {
+        "slug": "shounen-ga-otona-ni-natta-natsu",
+        "title": "Shounen ga Otona ni Natta Natsu",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvU2hvdW5lbi1nYS1PdG9uYS1uaS1OYXR0YS1OYXRzdS1BbmltZS1Ecml2ZS5wbmc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-03"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

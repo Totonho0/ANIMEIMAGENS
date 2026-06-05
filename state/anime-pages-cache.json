@@ -15151,6 +15151,25 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "mujin-eki-the-animation": {
+      "at": 1780643924121,
+      "data": {
+        "slug": "mujin-eki-the-animation",
+        "title": "Mujin Eki The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDkvaHUyTnMyU3BjUDVmRU5ObW1XSlJNZHdPTUJ5LmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/mujin-eki-the-animation-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

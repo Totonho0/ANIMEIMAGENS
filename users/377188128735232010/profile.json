@@ -173,6 +173,12 @@
       "title": "Eren the Southpaw",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80bGZiZmlOWXlpTTI3VTZCd1Q5NHRheW5YWEguanBn",
       "kind": "anime"
+    },
+    "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado": {
+      "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+      "title": "The Beginning After the End Season 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94aUZ1MjZyZWxDUHhmME9wVTZnTHN3ZDUxbWouanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -270,18 +276,21 @@
     ],
     "hidarikiki-no-eren": [
       1
+    ],
+    "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
+      "slug": "aishiteru-game-wo-owarasetai-dublado",
+      "ep": 1,
+      "at": 1780667357718
+    },
+    {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
       "at": 1780661049608
-    },
-    {
-      "slug": "aishiteru-game-wo-owarasetai-dublado",
-      "ep": 1,
-      "at": 1780496841480
     },
     {
       "slug": "jujutsu-kaisen-2-dublado",
@@ -305,5 +314,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780661050249
+  "updatedAt": 1780667371927
 }

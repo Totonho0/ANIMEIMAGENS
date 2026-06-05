@@ -167,6 +167,12 @@
       "title": "Jujutsu Kaisen 2 Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wckpjdlE1dVJ1cW8yVW0xbG9CYnFvS295QlMuanBn",
       "kind": "anime"
+    },
+    "hidarikiki-no-eren": {
+      "slug": "hidarikiki-no-eren",
+      "title": "Eren the Southpaw",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80bGZiZmlOWXlpTTI3VTZCd1Q5NHRheW5YWEguanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -258,6 +264,9 @@
     ],
     "jujutsu-kaisen-2-dublado": [
       1
+    ],
+    "hidarikiki-no-eren": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -288,5 +297,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780641820377
+  "updatedAt": 1780642640444
 }

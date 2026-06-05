@@ -14859,6 +14859,60 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "modaete-yo-adam-kun": {
+      "at": 1780643696265,
+      "data": {
+        "slug": "modaete-yo-adam-kun",
+        "title": "Modaete yo, Adam-kun",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9iTTRuQ3luT1NBNW9DTnFMc3FiMUZvNTZzWlEuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Se você quer simpatizar comigo, você precisa sofrer também!",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Deixe que o professor acalme as coisas!",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Parei de Esconder Isso",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Encontrando um noivo",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Então, temos um acordo?",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - O \"Príncipe\" que Ama Ler",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Três no Chuveiro",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Tenha certeza de que você me escolheu",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

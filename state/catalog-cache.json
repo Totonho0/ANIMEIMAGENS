@@ -11116,6 +11116,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Bocchi the Rock! Season 2",
+            "slug": "bocchi-the-rock-season-2",
+            "url": "https://animesonline.cloud/anime/bocchi-the-rock-season-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
+            "rating": "8.363",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Kagurabachi",
             "slug": "kagurabachi",
             "url": "https://animesonline.cloud/anime/kagurabachi",
@@ -11267,26 +11276,149 @@
             "rating": "7.1",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Shunkashuutou Daikousha: Haru no Mai Dublado",
-            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
-            "url": "https://animesonline.cloud/anime/shunkashuutou-daikousha-haru-no-mai-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/8djjRBlmadmJkb6pmPY4orxLwml-185x278.jpg",
-            "rating": "7.71",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780670026263
+      "at": 1780682836751
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "bocchi-the-rock",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/odJlSJvQxDRvrqNAgkLb5U7D7WK-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5NK8Ikn7XFemvzTdclgPaW6eqC9-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "hokuto-no-ken-fist-of-the-north-star",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wRCHwS1dCW8gnBACYJCvmuREIgb-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "snowball-earth",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/snowball-earth-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5Jhaxj3sBDGB5oLj9snBz2bdqBG-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "kami-no-shizuku",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/7PnyUkxtev78AWAoQT8YOGXpJUj-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "kami-no-shizuku",
+            "episode": 8,
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-08",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/1rDjFDAHatG33A42TkY6675x74X-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/yPo1H6sjKhb94Ci2FGj2SjUHNKJ-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/SKBSyB2igTmnRMa8g3DyiDKFEu-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gazMo7DAUaAC0P0wMJDPxmEL22u-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wsRwYb0i3jwJF2laghbmxs5fkLl-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "awajima-hyakkei",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/n08iOU0oDEv6gFD7NMutxXdSVrW-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/m31a5LsNWlHmvRnlRyveCzEXQPc-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 10",
             "epTitle": "Episódio 10",
@@ -11396,156 +11528,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/pDSOH2WrgwlHLQqWc6OSXolmaO4-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/jVegACTj9btQwqmA0qMBUbkOn2Z-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5KEViLghOip5dBttmC2z2k2vl9j-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9ZCyZUxy0VHxBhl44BullDU3SP5-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "kanojo-okarishimasu-5th-season",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/qhAiiCvMnJ96ziu5JKQB1HqzPRF-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
-            "episode": 13,
-            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-episodio-13",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/to13ELuiblIykpL4GQbRdpS0FmX-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 8",
-            "epTitle": "Episódio 8",
-            "slug": "yowayowa-sensei",
-            "episode": 8,
-            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-08",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/tL5a29JlAxeXGNUPNu8E8iAltHm-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "marriagetoxin-dublado",
-            "episode": 6,
-            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-06",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/bUIuE94npSGXize6U9F9Ae6TpkJ-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 5",
-            "epTitle": "Episódio 5",
-            "slug": "aishiteru-game-wo-owarasetai-dublado",
-            "episode": 5,
-            "url": "https://animesonline.cloud/episodio/aishiteru-game-wo-owarasetai-dublado-episodio-05",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/tbivtMww7FQP53wGTMQPASf3N8Y-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hsicxJVRIyFAaREJGvZbPUG5Zjx-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "tadaima-ojamasaremasu",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/tadaima-ojamasaremasu-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/oVcXKkbmuAsjDkEDnnJHvNEvkTN-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "hidarikiki-no-eren",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/hidarikiki-no-eren-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/50Dud8ukKNJHRRhLxOhS4AieLQa-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 8",
-            "epTitle": "Episódio 8",
-            "slug": "aishiteru-game-wo-owarasetai",
-            "episode": 8,
-            "url": "https://animesonline.cloud/episodio/aishiteru-game-wo-owarasetai-episodio-08",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/ipLaqpmaDGekHLYiwew7Ck7Ikmo-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780670026336
+      "at": 1780682837364
     },
     "todos|2||24": {
       "data": {
@@ -18335,5 +18324,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780680396626
+  "updatedAt": 1780682837364
 }

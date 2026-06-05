@@ -2530,10 +2530,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780676735104,
-      "lastAlertAt": 1780676696556,
+      "lastAlertAt": 1780677117241,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:9fa90f0f30309594": {
       "userKey": "ip:9fa90f0f30309594",

@@ -12326,6 +12326,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Dr. Stone: Science Future 3",
+            "slug": "dr-stone-science-future-3",
+            "url": "https://animesonline.cloud/anime/dr-stone-science-future-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/yc9JysUW2JOyKdWVMllSA7HmzUq-185x278.jpg",
+            "rating": "8.564",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Ganbare! Nakamura-kun!! Dublado",
             "slug": "ganbare-nakamura-kun-dublado",
             "url": "https://animesonline.cloud/anime/ganbare-nakamura-kun-dublado",
@@ -12477,22 +12486,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
-            "slug": "meu-anjo-de-vizinha-me-mima-demais",
-            "url": "https://animesonline.cloud/anime/meu-anjo-de-vizinha-me-mima-demais",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/hXhtuSNOpOrLV734jPsTRhiuu2C-185x278.jpg",
-            "rating": "7.7",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true
       },
-      "at": 1780680396626
+      "at": 1780682994982
     },
     "todos|5||24": {
       "data": {
@@ -18324,5 +18324,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780682993287
+  "updatedAt": 1780682994982
 }

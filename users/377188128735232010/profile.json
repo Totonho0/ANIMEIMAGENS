@@ -198,6 +198,12 @@
       "title": "Ichijouma Mankitsugurashi",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sVVlSTG1KSEp5Vnp3d0pVSVBJSkh4WlI2VEUuanBn",
       "kind": "anime"
+    },
+    "kami-no-niwatsuki-kusunoki-tei": {
+      "slug": "kami-no-niwatsuki-kusunoki-tei",
+      "title": "Kami no Niwatsuki Kusunoki-tei",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jWFBhV1dvbGFjakhIS1l2TGxwT1EwajhvMFguanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -310,6 +316,9 @@
     ],
     "ichijouma-mankitsugurashi": [
       1
+    ],
+    "kami-no-niwatsuki-kusunoki-tei": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -350,5 +359,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780684590870
+  "updatedAt": 1780684645770
 }

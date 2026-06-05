@@ -14668,6 +14668,60 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "yatara-yarashii-fukami-kun": {
+      "at": 1780643669209,
+      "data": {
+        "slug": "yatara-yarashii-fukami-kun",
+        "title": "Yatara Yarashii Fukami-kun",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xbThDQjV1b1FjMFI0d1JyWlVTZ1VaSWJmejAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Um cara que combina com o Sr. Perfeito",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Qual é o seu jogo, Zero?!",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Fukami e... uma garota?!",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Diga meu nome",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Não vou pegar leve com você!",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Desculpe, estou resfriado",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Não pude deixar de me sentir atraído",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - É tão ruim se eu me apaixonar?",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

@@ -18287,7 +18287,53 @@
         "hasMore": false
       },
       "at": 1780642949810
+    },
+    "todos|3|s|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Star Wars: Maul – Lorde das Sombras",
+            "slug": "star-wars-maul-lorde-das-sombras",
+            "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
+            "rating": "7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Star Wars: Maul – Lorde das Sombras Dublado",
+            "slug": "star-wars-maul-lorde-das-sombras-dublado",
+            "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
+            "rating": "7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Snowball Earth Dublado",
+            "slug": "snowball-earth-dublado",
+            "url": "https://animesonline.cloud/anime/snowball-earth-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/61E9aXjYUGPfrO5CW2cTutu0jX3-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Snowball Earth",
+            "slug": "snowball-earth",
+            "url": "https://animesonline.cloud/anime/snowball-earth",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/61E9aXjYUGPfrO5CW2cTutu0jX3-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 3,
+        "hasMore": false
+      },
+      "at": 1780642951555
     }
   },
-  "updatedAt": 1780642949810
+  "updatedAt": 1780642951555
 }

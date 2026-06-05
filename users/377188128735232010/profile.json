@@ -204,6 +204,12 @@
       "title": "Kami no Niwatsuki Kusunoki-tei",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jWFBhV1dvbGFjakhIS1l2TGxwT1EwajhvMFguanBn",
       "kind": "anime"
+    },
+    "ace-of-the-diamond-act-ii-season-2": {
+      "slug": "ace-of-the-diamond-act-ii-season-2",
+      "title": "Ace of the Diamond Act II Season 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kZkVtbUUzUkpoM09ZeHlxT0ZEQnQwcU1TMEUuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -325,28 +331,31 @@
     ],
     "kami-no-niwatsuki-kusunoki-tei": [
       1
+    ],
+    "ace-of-the-diamond-act-ii-season-2": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780684919790
+      "at": 1780685530357
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780684919790
+      "at": 1780685530357
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780684919790
+      "at": 1780685530357
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780684919790
+      "at": 1780685530357
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -375,5 +384,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780684922260
+  "updatedAt": 1780685542511
 }

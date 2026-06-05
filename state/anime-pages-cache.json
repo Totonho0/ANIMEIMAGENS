@@ -15170,6 +15170,19 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "kagurabachi": {
+      "at": 1780666613936,
+      "data": {
+        "slug": "kagurabachi",
+        "title": "Kagurabachi",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mUjJ3bkFEd0t4UzJ1V0RSeFdrSnpsZkFXZHQuanBn",
+        "synopsis": "",
+        "episodes": [],
+        "totalEpisodes": 0,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

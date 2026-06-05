@@ -11831,6 +11831,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Kagurabachi",
+            "slug": "kagurabachi",
+            "url": "https://animesonline.cloud/anime/kagurabachi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vYE38d5dcyD0oAGgbtC5slERvM3-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Haikyuu!! Second Season Dublado",
+            "slug": "haikyuu-second-season-dublado",
+            "url": "https://animesonline.cloud/anime/haikyuu-second-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wkQX0xwqXTtOtMXfwCf1Ad1ZfCv-185x278.jpg",
+            "rating": "8.607",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Haikyuu!! Second Season",
             "slug": "haikyuu-second-season",
             "url": "https://animesonline.cloud/anime/haikyuu-second-season",
@@ -12027,31 +12045,13 @@
             "rating": "6.91",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Hokuto no Ken: Fist of the North Star Dublado",
-            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
-            "url": "https://animesonline.cloud/anime/hokuto-no-ken-fist-of-the-north-star-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/wCkjQpPocTL3eeYMuLwDBxQZWUb-185x278.jpg",
-            "rating": "8.6",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kill Ao",
-            "slug": "kill-blue",
-            "url": "https://animesonline.cloud/anime/kill-blue",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780521519291
+      "at": 1780661050015
     },
     "todos|3||24": {
       "data": {
@@ -16788,6 +16788,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Hokuto no Ken: Fist of the North Star Dublado",
+            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
+            "url": "https://animesonline.cloud/anime/hokuto-no-ken-fist-of-the-north-star-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/wCkjQpPocTL3eeYMuLwDBxQZWUb-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kill Ao",
+            "slug": "kill-blue",
+            "url": "https://animesonline.cloud/anime/kill-blue",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Ichijouma Mankitsugurashi",
             "slug": "ichijouma-mankitsugurashi",
             "url": "https://animesonline.cloud/anime/ichijouma-mankitsugurashi",
@@ -16984,31 +17002,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Star Wars: Maul – Lorde das Sombras",
-            "slug": "star-wars-maul-lorde-das-sombras",
-            "url": "https://animesonline.cloud/anime/star-wars-maul-lorde-das-sombras",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/4WWy87Ne5CCaFXXhyxDuuglVzvY-185x278.jpg",
-            "rating": "7",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Ingoku Danchi",
-            "slug": "ingoku-danchi",
-            "url": "https://animesonline.cloud/anime/ingoku-danchi",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/1EcpjQHYMjEfZkLnj42UYYJhoLn-185x278.jpg",
-            "rating": "8",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780514306731
+      "at": 1780661049963
     },
     "offline|2||24": {
       "data": {
@@ -18335,5 +18335,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780659431097
+  "updatedAt": 1780661050015
 }

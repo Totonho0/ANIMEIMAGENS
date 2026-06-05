@@ -1294,11 +1294,11 @@
       "ip": "85.137.57.233",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780651131325,
+      "lastSeenAt": 1780651702020,
       "lastAlertAt": 1780651449070,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:c9e32bdf0598d966": {
       "userKey": "ip:c9e32bdf0598d966",

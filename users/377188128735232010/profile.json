@@ -11,6 +11,7 @@
     "stranger-things-historias-de-85-dublado",
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado"
   ],
+  "mangaFavorites": [],
   "library": {
     "kill-ao-dublado": {
       "slug": "kill-ao-dublado",
@@ -179,6 +180,12 @@
       "title": "The Beginning After the End Season 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94aUZ1MjZyZWxDUHhmME9wVTZnTHN3ZDUxbWouanBn",
       "kind": "anime"
+    },
+    "kanojo-okarishimasu-5th-season-dublado": {
+      "slug": "kanojo-okarishimasu-5th-season-dublado",
+      "title": "Kanojo Okarishimasu 5th Season Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bGxmeTk4U1Rrbm8xMXJER2k0NFNLNmxsd3guanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -282,18 +289,21 @@
     ],
     "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado": [
       1
+    ],
+    "kanojo-okarishimasu-5th-season-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780681372469
+      "at": 1780683030461
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780681372469
+      "at": 1780683030461
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -322,5 +332,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780681374297
+  "updatedAt": 1780683158554
 }

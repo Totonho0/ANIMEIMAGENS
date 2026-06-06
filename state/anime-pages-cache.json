@@ -6346,7 +6346,7 @@
       }
     },
     "dandelion-dublado": {
-      "at": 1780706908577,
+      "at": 1780708014675,
       "data": {
         "slug": "dandelion-dublado",
         "title": "Dandelion Dublado",
@@ -18116,6 +18116,25 @@
           }
         ],
         "totalEpisodes": 500,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "dandelion": {
+      "at": 1780708015853,
+      "data": {
+        "slug": "dandelion",
+        "title": "Dandelion",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93QlQxcGtCa1prOWpreXRieFVnaElEV0VxOFQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 7,
+            "title": "Episódio 07 - Faça o que só pode ser feito agora!",
+            "url": "https://animesonline.cloud/episodio/dandelion-episodio-07"
+          }
+        ],
+        "totalEpisodes": 1,
         "kind": "anime",
         "provider": "aoc"
       }

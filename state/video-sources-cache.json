@@ -579,6 +579,31 @@
         "poster": "https://image.tmdb.org/t/p/w780/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/uzumaki-episodio-01"
       }
+    },
+    "anime:uzumaki:2": {
+      "at": 1780745031377,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-U/Uzumaki/02.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-U%2FUzumaki%2F02.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://cld.pt/dl/download/7eda3150-4891-4df3-9446-b9a4bf5a0f0c/Uzumaki – Episódio 2.mp4",
+            "label": "HD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2F7eda3150-4891-4df3-9446-b9a4bf5a0f0c%2FUzumaki%20%E2%80%93%20Epis%C3%B3dio%202.mp4&ref=aoc"
+          }
+        ],
+        "episode": 2,
+        "slug": "uzumaki",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/uzumaki-episodio-02"
+      }
     }
   }
 }

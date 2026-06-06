@@ -927,6 +927,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-1157"
       }
+    },
+    "anime:one-piece:1158": {
+      "at": 1780746986296,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-O/One-Piece/1158/playlist.m3u8&e=1843566837&t=8e3b543859194fa7d47880f08ca1b90bf1f62104120e459321eb97c382bac7a2",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-O%2FOne-Piece%2F1158%2Fplaylist.m3u8%26e%3D1843566837%26t%3D8e3b543859194fa7d47880f08ca1b90bf1f62104120e459321eb97c382bac7a2&ref=aoc"
+          }
+        ],
+        "episode": 1158,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-1158"
+      }
     }
   }
 }

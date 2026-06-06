@@ -1351,6 +1351,31 @@
         "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/Shounen-ga-Otona-ni-Natta-Natsu-Anime-Drive.png",
         "episodeUrl": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
       }
+    },
+    "anime:tensei-kizoku-kantei-skill-de-nariagaru-2:1": {
+      "at": 1780783382860,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-T/Tensei Kizoku Kantei Skill de Nariagaru 2/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-T%2FTensei%20Kizoku%20Kantei%20Skill%20de%20Nariagaru%202%2F01.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://cld.pt/dl/download/48093367-32c9-413a-91a3-5f935490dc93/Tensei Kizoku, Kantei Skill de Nariagaru 2 - Episódio 1.-HD.mp4",
+            "label": "HD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2F48093367-32c9-413a-91a3-5f935490dc93%2FTensei%20Kizoku%2C%20Kantei%20Skill%20de%20Nariagaru%202%20-%20Epis%C3%B3dio%201.-HD.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-01"
+      }
     }
   }
 }

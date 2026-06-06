@@ -5,6 +5,7 @@
   "banner": "/placeholder.svg",
   "favorites": [],
   "watchLater": [],
+  "mangaFavorites": [],
   "library": {
     "devil-may-cry-2026-dublado": {
       "slug": "devil-may-cry-2026-dublado",
@@ -51,14 +52,14 @@
     {
       "slug": "shounen-ga-otona-ni-natta-natsu",
       "ep": 1,
-      "at": 1780431761438
+      "at": 1780762653325
     },
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
-      "at": 1780431672886
+      "at": 1780762653325
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780431762155
+  "updatedAt": 1780762672434
 }

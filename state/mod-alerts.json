@@ -5104,10 +5104,10 @@
       "discordId": "377188128735232010",
       "username": "Totonho",
       "lastSeenAt": 1780750018462,
-      "lastAlertAt": 1780749562898,
+      "lastAlertAt": 1780750442852,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:a38398ad782bb284": {
       "userKey": "ip:a38398ad782bb284",
@@ -5168,7 +5168,7 @@
       "ip": "45.169.184.221",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780750416268,
+      "lastSeenAt": 1780750444683,
       "lastAlertAt": 1780750412879,
       "viaBot": true,
       "componentsOk": true,

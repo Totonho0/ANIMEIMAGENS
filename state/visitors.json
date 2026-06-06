@@ -170,6 +170,18 @@
       "createdAt": 1780756686304,
       "lastSeenAt": 1780756686304,
       "lastIp": "177.54.157.16"
+    },
+    "6e250cc9-f3e5-4e68-a7e0-e86f8484b978": {
+      "id": "6e250cc9-f3e5-4e68-a7e0-e86f8484b978",
+      "displayName": "Visitante #6E250CC9",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1780756880968,
+      "lastSeenAt": 1780756880968,
+      "lastIp": "::ffff:100.64.0.2"
     }
   }
 }

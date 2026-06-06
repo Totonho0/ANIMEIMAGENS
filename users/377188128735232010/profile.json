@@ -362,6 +362,9 @@
     ],
     "akane-banashi": [
       1
+    ],
+    "stranger-things-historias-de-85-dublado": [
+      1
     ]
   },
   "started": {
@@ -518,39 +521,44 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "stranger-things-historias-de-85-dublado",
+      "ep": 1,
+      "at": 1780746901759
+    },
+    {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780746349341
+      "at": 1780746901759
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780746349341
+      "at": 1780746901759
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780746349341
+      "at": 1780746901759
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780746349341
+      "at": 1780746901759
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780746349341
+      "at": 1780746901759
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780746349341
+      "at": 1780746901759
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780746349341
+      "at": 1780746901759
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -579,5 +587,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780746628192
+  "updatedAt": 1780746902553
 }

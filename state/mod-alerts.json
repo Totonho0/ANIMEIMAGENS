@@ -1515,11 +1515,11 @@
       "ip": "162.158.95.230",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780515490451,
-      "lastAlertAt": 1780515840597,
+      "lastSeenAt": 1780724139371,
+      "lastAlertAt": 1780724139371,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:2878a913b7340d5f": {
       "userKey": "ip:2878a913b7340d5f",

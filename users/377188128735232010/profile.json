@@ -276,6 +276,12 @@
       "title": "Honzuki no Gekokujou 4",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BajRNUW50NlF0V2xvakU5RmNBWDlqWkF2TEwuanBn",
       "kind": "anime"
+    },
+    "a-hundred-scenes-of-awajima": {
+      "slug": "a-hundred-scenes-of-awajima",
+      "title": "A Hundred Scenes of AWAJIMA",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xRUY0RE5MbXMxaTFoU1JQTEVDUU5WdnM1VDYuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -442,6 +448,9 @@
     ],
     "honzuki-no-gekokujou-4": [
       1
+    ],
+    "a-hundred-scenes-of-awajima": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -502,5 +511,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780745892930
+  "updatedAt": 1780745904878
 }

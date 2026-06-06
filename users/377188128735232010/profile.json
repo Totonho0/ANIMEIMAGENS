@@ -360,6 +360,12 @@
       "title": "The Boys",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS8yem1UbmduMXRZQzFBdmZuckZMaHhlRDgyaHouanBn",
       "kind": "serie"
+    },
+    "11761-": {
+      "slug": "11761-",
+      "title": "Mantis 사마귀",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci82MS84YWVjZjE1YTI5MTQ1YzBmMDczNmEzZTVlZDI0MTYuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -577,48 +583,51 @@
     ],
     "serie/assistir-the-boys-online": [
       1
+    ],
+    "11761-": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780749925111
+      "at": 1780750021800
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -647,5 +656,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780749933321
+  "updatedAt": 1780750032589
 }

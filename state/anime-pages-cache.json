@@ -25434,6 +25434,215 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "metalder-o-homem-maquina": {
+      "at": 1780783403344,
+      "data": {
+        "slug": "metalder-o-homem-maquina",
+        "title": "Metalder O Homem Máquina",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tTm9aOFpHVGtEVXZLOWFrUFJ0Wk8yOXd6YUUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Portal de Neroz",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Eu sou o Universo",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Homem-máquina",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Metalder versus Torpedo",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Assassino Profissional",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Pugilista em ação",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - As chamas do desafio",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - A Despedida de Barlock",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O Sonho e a Esperança",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - O Robô Filarmônico",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Caça ao Ex-alfa",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O Cerco dos Ninjas",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - O Fugitivo",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - A Guerreira Madonna",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - Amor de Mãe",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - O Motoqueiro Rival",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - O Desertor",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Informações Secretas",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - A Volta Triunfal de Top Gunder",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - A Tropa Mecanol em Combate",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - O Mistério do vaga-lume",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - A Guerra sobre Patins",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - As Olimpíadas do Colosso",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - O Confronto dos Bruxos",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 - Reencontro Inesperado",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-25"
+          },
+          {
+            "number": 26,
+            "title": "Episódio 26 - Jovens Imbatíveis",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-26"
+          },
+          {
+            "number": 27,
+            "title": "Episódio 27 - O Diário de um Fugitivo",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-27"
+          },
+          {
+            "number": 28,
+            "title": "Episódio 28 - A Pantera Vermelha",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-28"
+          },
+          {
+            "number": 29,
+            "title": "Episódio 29 - A triste história de um vira-lata",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-29"
+          },
+          {
+            "number": 30,
+            "title": "Episódio 30 - Silvercaps em Perigo",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-30"
+          },
+          {
+            "number": 31,
+            "title": "Episódio 31 - Instante Fatal",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-31"
+          },
+          {
+            "number": 32,
+            "title": "Episódio 32 - Flor Amaldiçoada",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-32"
+          },
+          {
+            "number": 33,
+            "title": "Episódio 33 - Amizade em Risco",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-33"
+          },
+          {
+            "number": 34,
+            "title": "Episódio 34 - As Mil e uma Faces de Neroz",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-34"
+          },
+          {
+            "number": 35,
+            "title": "Episódio 35 - O Império do mal",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-35"
+          },
+          {
+            "number": 36,
+            "title": "Episódio 36 - A Missão da Unidade Cibernética",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-36"
+          },
+          {
+            "number": 37,
+            "title": "Episódio 37 - A Ruína do Colosso",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-37"
+          },
+          {
+            "number": 38,
+            "title": "Episódio 38 - Contra-ataque Sangrento",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-38"
+          },
+          {
+            "number": 39,
+            "title": "Episódio 39 - Eternamente Metalder",
+            "url": "https://animesonline.cloud/episodio/metalder-o-homem-maquina-episodio-39"
+          }
+        ],
+        "totalEpisodes": 39,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

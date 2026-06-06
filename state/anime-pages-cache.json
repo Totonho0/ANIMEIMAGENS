@@ -1,7 +1,7 @@
 {
   "entries": {
     "uzumaki": {
-      "at": 1780746271066,
+      "at": 1780746395701,
       "data": {
         "slug": "uzumaki",
         "title": "Uzumaki - Todos os Episódios",
@@ -35,7 +35,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1780746272037,
+      "at": 1780746395730,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -109,7 +109,7 @@
       }
     },
     "maou-sama-retry": {
-      "at": 1780746273725,
+      "at": 1780746395720,
       "data": {
         "slug": "maou-sama-retry",
         "title": "Maou-sama, Retry! 2 - Todos os Episódios",
@@ -183,7 +183,7 @@
       }
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
-      "at": 1780746273739,
+      "at": 1780746395712,
       "data": {
         "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
         "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
@@ -394,7 +394,7 @@
       }
     },
     "one-piece": {
-      "at": 1780746272008,
+      "at": 1780746395684,
       "data": {
         "slug": "one-piece",
         "title": "One Piece - Todos os Episodios",
@@ -6208,7 +6208,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1780746270594,
+      "at": 1780746395692,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
@@ -12851,7 +12851,7 @@
       }
     },
     "haikyuu-second-season-dublado": {
-      "at": 1780746301926,
+      "at": 1780746396743,
       "data": {
         "slug": "haikyuu-second-season-dublado",
         "title": "Haikyuu!! Second Season Dublado",
@@ -15217,7 +15217,7 @@
       }
     },
     "kagurabachi": {
-      "at": 1780746301972,
+      "at": 1780746396668,
       "data": {
         "slug": "kagurabachi",
         "title": "Kagurabachi",
@@ -18224,7 +18224,7 @@
       }
     },
     "bocchi-the-rock": {
-      "at": 1780708721085,
+      "at": 1780746397361,
       "data": {
         "slug": "bocchi-the-rock",
         "title": "Bocchi the Rock!",
@@ -20542,6 +20542,30 @@
           }
         ],
         "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "quanzhi-fashi-7": {
+      "at": 1780746396146,
+      "data": {
+        "slug": "quanzhi-fashi-7",
+        "title": "Quanzhi Fashi 7",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85Zk9WSzNlM1NYUWdralBrQ3RFTjVTUmRwRWcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Um tapa na cara! Mo Fan dá uma surra no instrutor",
+            "url": "https://animesonline.cloud/episodio/quanzhi-fashi-7-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Batalha do Palácio Nacional, Mo Fan vs. Mochizuki Chixun",
+            "url": "https://animesonline.cloud/episodio/quanzhi-fashi-7-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
         "kind": "anime",
         "provider": "aoc"
       }

@@ -286,6 +286,37 @@
         "poster": "https://image.tmdb.org/t/p/w780/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/chainsaw-man-dublado-episodio-04"
       }
+    },
+    "anime:chainsaw-man-dublado:5": {
+      "at": 1780719093926,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://cld.pt/dl/download/64b264ec-bd0f-4b8b-84ef-f37e29672735/05.mp4",
+            "label": "HD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2F64b264ec-bd0f-4b8b-84ef-f37e29672735%2F05.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man/Dub/05.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Ftityos.feralhosting.com%2Fkkurodax%2FC%2FChainsaw-Man%2FDub%2F05.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-C/Chainsaw-Man/Dub/05.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-C%2FChainsaw-Man%2FDub%2F05.mp4&ref=aoc"
+          }
+        ],
+        "episode": 5,
+        "slug": "chainsaw-man-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/chainsaw-man-dublado-episodio-05"
+      }
     }
   }
 }

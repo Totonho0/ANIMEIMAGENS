@@ -10923,7 +10923,7 @@
       }
     },
     "deserted-place": {
-      "at": 1780743887806,
+      "at": 1780745129683,
       "data": {
         "id": "deserted-place",
         "titleId": "deserted-place",
@@ -12010,7 +12010,7 @@
       }
     },
     "happy-massacre-ending": {
-      "at": 1780744672882,
+      "at": 1780745130890,
       "data": {
         "id": "happy-massacre-ending",
         "titleId": "happy-massacre-ending",
@@ -12091,7 +12091,7 @@
       }
     },
     "harukaze-mound": {
-      "at": 1780744672573,
+      "at": 1780745129963,
       "data": {
         "id": "harukaze-mound",
         "titleId": "harukaze-mound",
@@ -13545,6 +13545,31 @@
             "subTitle": "Capitulo 139 Final",
             "title": "Capitulo 139 Final",
             "url": "https://mangalivre.to/manga/attack-on-titan/capitulo-139-final/"
+          }
+        ]
+      }
+    },
+    "gal-to-honya": {
+      "at": 1780745131981,
+      "data": {
+        "id": "gal-to-honya",
+        "titleId": "gal-to-honya",
+        "slug": "gal-to-honya",
+        "title": "Gal to Honya",
+        "author": "Aka",
+        "poster": "https://mangalivre.to/wp-content/uploads/2025/07/Gal-to-Honya-193x278.webp",
+        "language": "PT",
+        "provider": "mangalivre",
+        "kind": "manga",
+        "synopsis": "Naquele dia, a moça com um sorriso encantador… era funcionária de uma livraria! Chegou uma comédia sobre o local de trabalho em uma livraria! Será que essa garota conseguirá salvar essa pequena livraria? Se você está procurando Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken para ler em português, o Manga Livre é a melhor opção. O site oferece capítulos atualizados, com tradução de qualidade e leitura rápida e fluida. A experiência é otimizada para fãs que desejam acompanhar todos os detalhes dessa obra lendária no idioma local, com conforto e facilidade. No Manga Livre, você encontra os melhores mangás online grátis, atualizados diariamente e com leitura em português. Seja fã de One Piece, Kimetsu no Yaiba, Solo Leveling ou Tokyo Revengers, aqui você pode ler mangás online com alta qualidade e organização por gênero, popularidade ou data de atualização. Nosso time é formado por fãs apaixonados que acompanham o universo dos mangás há anos, garantindo traduções precisas, experiência de leitura otimizada e navegação segura.",
+        "chapters": [
+          {
+            "id": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhbC10by1ob255YS9jYXBpdHVsby0xLw",
+            "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhbC10by1ob255YS9jYXBpdHVsby0xLw",
+            "name": "Capitulo 1",
+            "subTitle": "Capitulo 1",
+            "title": "Capitulo 1",
+            "url": "https://mangalivre.to/manga/gal-to-honya/capitulo-1/"
           }
         ]
       }

@@ -631,11 +631,11 @@
       "ip": "172.71.184.166",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780699354922,
-      "lastAlertAt": 1780699768248,
+      "lastSeenAt": 1780707889754,
+      "lastAlertAt": 1780707889754,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:9830a099ece3c72d": {
       "userKey": "ip:9830a099ece3c72d",

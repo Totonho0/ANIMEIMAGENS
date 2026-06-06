@@ -1256,6 +1256,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/6dErjmx17e8kZn5zHAqLrbcTesV.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/trigun-stampede-dublado-episodio-01"
       }
+    },
+    "anime:kujima-utaeba-ie-hororo:1": {
+      "at": 1780760069068,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-K/Kujima-Utaeba-Ie-Hororo/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-K%2FKujima-Utaeba-Ie-Hororo%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "kujima-utaeba-ie-hororo",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/kyOjRDlph64ObGEL1WRbY6G5dO9.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-01"
+      }
     }
   }
 }

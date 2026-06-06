@@ -38,6 +38,9 @@
     ],
     "shounen-ga-otona-ni-natta-natsu": [
       1
+    ],
+    "uzumaki": [
+      1
     ]
   },
   "started": {
@@ -56,6 +59,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "uzumaki",
+      "ep": 1,
+      "at": 1780762825667
+    },
+    {
       "slug": "shounen-ga-otona-ni-natta-natsu",
       "ep": 1,
       "at": 1780762712297
@@ -67,5 +75,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780762728985
+  "updatedAt": 1780762826451
 }

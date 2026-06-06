@@ -324,6 +324,12 @@
       "title": "Loki",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9hOS9kYzlmYTk5MjVlZjk3ZTE4N2Y5OTVhNDMzNThiZmEuanBn",
       "kind": "serie"
+    },
+    "7721-amp-house-massacre": {
+      "slug": "7721-amp-house-massacre",
+      "title": "Reality de Horror - Influencers em Pânico! Amp House Massacre",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci80Zi8xMzEwN2IwZWVkZWM3NGYyYmNhNjZlN2U2MzBjNmIuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -523,48 +529,51 @@
     ],
     "11832-": [
       1
+    ],
+    "7721-amp-house-massacre": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780747054900
+      "at": 1780748564193
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -593,5 +602,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780747056326
+  "updatedAt": 1780748677098
 }

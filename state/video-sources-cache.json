@@ -965,6 +965,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-1164"
       }
+    },
+    "anime:one-piece:1159": {
+      "at": 1780746999562,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-O/One-Piece/1159/playlist.m3u8&e=1843566899&t=cc9d261e19f94deb7aa3b64983c02279270591b370d1dcfc4d1512c485fadef3",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-O%2FOne-Piece%2F1159%2Fplaylist.m3u8%26e%3D1843566899%26t%3Dcc9d261e19f94deb7aa3b64983c02279270591b370d1dcfc4d1512c485fadef3&ref=aoc"
+          }
+        ],
+        "episode": 1159,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-1159"
+      }
     }
   }
 }

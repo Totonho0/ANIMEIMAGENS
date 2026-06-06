@@ -1332,6 +1332,25 @@
         "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/Shounen-ga-Otona-ni-Natta-Natsu-Anime-Drive.png",
         "episodeUrl": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
       }
+    },
+    "anime:shounen-ga-otona-ni-natta-natsu:2": {
+      "at": 1780762696959,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-S/Shounen ga Otona ni Natta Natsu/02.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-S%2FShounen%20ga%20Otona%20ni%20Natta%20Natsu%2F02.mp4&ref=aoc"
+          }
+        ],
+        "episode": 2,
+        "slug": "shounen-ga-otona-ni-natta-natsu",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/Shounen-ga-Otona-ni-Natta-Natsu-Anime-Drive.png",
+        "episodeUrl": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
+      }
     }
   }
 }

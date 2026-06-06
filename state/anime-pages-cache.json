@@ -18992,6 +18992,19 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "chainsaw-man-movie-reze-hen": {
+      "at": 1780714422439,
+      "data": {
+        "slug": "chainsaw-man-movie-reze-hen",
+        "title": "Chainsaw Man Movie: Reze-hen",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92c041MkdEV0lFbzR5YkVsYUdpU2hzcWVKWTcuanBn",
+        "synopsis": "",
+        "episodes": [],
+        "totalEpisodes": 0,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

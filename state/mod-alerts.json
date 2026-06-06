@@ -4778,11 +4778,11 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1780740430226,
+      "lastSeenAt": 1780741056084,
       "lastAlertAt": 1780740851736,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:2ced9a8328a16373": {
       "userKey": "ip:2ced9a8328a16373",
@@ -5108,19 +5108,6 @@
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": false
-    },
-    "ip:551f30caccebc94f": {
-      "userKey": "ip:551f30caccebc94f",
-      "messageId": "1512762267240763432",
-      "channelId": "1510739162116915371",
-      "ip": "54.89.198.138",
-      "discordId": "",
-      "username": "",
-      "lastSeenAt": 1780741030414,
-      "lastAlertAt": 1780741030167,
-      "viaBot": true,
-      "componentsOk": true,
-      "embedOnlineStatus": true
     }
   },
   "links": {

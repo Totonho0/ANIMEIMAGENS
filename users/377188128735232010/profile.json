@@ -222,6 +222,12 @@
       "title": "Kill Ao",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92ZVZwVTkxVklUa0xzdWE5RW5ScXRnTmJ5VlUuanBn",
       "kind": "anime"
+    },
+    "hokuto-no-ken-fist-of-the-north-star-dublado": {
+      "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
+      "title": "Hokuto no Ken: Fist of the North Star Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lbFZ4MFFYNHBZZ1M2U3AzZFg4c0haaVg2OU4uanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -358,38 +364,41 @@
     ],
     "kill-blue": [
       1
+    ],
+    "hokuto-no-ken-fist-of-the-north-star-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780707997340
+      "at": 1780708531096
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780707997340
+      "at": 1780708531096
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780707997340
+      "at": 1780708531096
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780707997340
+      "at": 1780708531096
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780707997340
+      "at": 1780708531096
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780707997340
+      "at": 1780708531096
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -418,5 +427,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780708004414
+  "updatedAt": 1780708540355
 }

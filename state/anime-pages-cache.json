@@ -9527,7 +9527,7 @@
       }
     },
     "marika-chan-no-koukando-wa-bukkowareteiru": {
-      "at": 1780596339227,
+      "at": 1780710528116,
       "data": {
         "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
         "title": "Marika-chan no Koukando wa Bukkowareteiru",
@@ -13240,7 +13240,7 @@
       }
     },
     "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi": {
-      "at": 1780596341429,
+      "at": 1780710529304,
       "data": {
         "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
         "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
@@ -18278,6 +18278,271 @@
           }
         ],
         "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "nippon-sangoku-dublado": {
+      "at": 1780710526593,
+      "data": {
+        "slug": "nippon-sangoku-dublado",
+        "title": "NIPPON SANGOKU Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zRFUwTk9PY2dobmpTQXBQelAxNHlqTWVDd1cuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Um Voto de Paz",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 03 - Conselho Imperial",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-02-2"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Conselho Imperial",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Golpe de Estado em Seii",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - A Marcha das Tropas do General",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Véspera da Guerra",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Ataque Noturno de Kanazawa",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Dragão contra Tigre",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Lágrimas por Yayakichi",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "ingoku-danchi": {
+      "at": 1780710526674,
+      "data": {
+        "slug": "ingoku-danchi",
+        "title": "Ingoku Danchi",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oaGk0ZWI0Ung4Z3dVY1RYYkZuZUZ5S0s3VkcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/ingoku-danchi-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "star-wars-maul-lorde-das-sombras": {
+      "at": 1780710527124,
+      "data": {
+        "slug": "star-wars-maul-lorde-das-sombras",
+        "title": "Star Wars: Maul - Lorde das Sombras",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qRkVkME9uQUNaUlhWUU9TZjlrbGdJcE9KZHAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A vingança sombria",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Esquemas sinistros",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Sussurros no Desconhecido",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Orgulho e Vingança",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Inquisição",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Noite de Caça",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Chamado ao Esquecimento",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Medo Crescente",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Aliados Inusitados",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - O Senhor das Trevas",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-10"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "star-wars-maul-lorde-das-sombras-dublado": {
+      "at": 1780710527351,
+      "data": {
+        "slug": "star-wars-maul-lorde-das-sombras-dublado",
+        "title": "Star Wars: Maul - Lorde das Sombras Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qRkVkME9uQUNaUlhWUU9TZjlrbGdJcE9KZHAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A vingança sombria",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Esquemas sinistros",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Sussurros no Desconhecido",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Orgulho e Vingança",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Inquisição",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Noite de Caça",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Chamado ao Esquecimento",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Medo Crescente",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Aliados Inusitados",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - O Senhor das Trevas",
+            "url": "https://animesonline.cloud/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-10"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "nippon-sangoku": {
+      "at": 1780710529165,
+      "data": {
+        "slug": "nippon-sangoku",
+        "title": "NIPPON SANGOKU",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zRFUwTk9PY2dobmpTQXBQelAxNHlqTWVDd1cuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Um Voto de Paz",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Toryumon",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Conselho Imperial",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Golpe de Estado em Seii",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - A Marcha das Tropas do General",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Véspera da Guerra",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Ataque Noturno de Kanazawa",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Dragão contra Tigre",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Lágrimas por Yayakichi",
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-09"
+          }
+        ],
+        "totalEpisodes": 9,
         "kind": "anime",
         "provider": "aoc"
       }

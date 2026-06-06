@@ -661,6 +661,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/Aj4MQnt6QtWlojE9FcAX9jZAvLL.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/honzuki-no-gekokujou-4-episodio-03"
       }
+    },
+    "anime:honzuki-no-gekokujou-4:1": {
+      "at": 1780745371629,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-H/Honzuki-no-Gekokujou-4/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-H%2FHonzuki-no-Gekokujou-4%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "honzuki-no-gekokujou-4",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/Aj4MQnt6QtWlojE9FcAX9jZAvLL.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/honzuki-no-gekokujou-4-episodio-01"
+      }
     }
   }
 }

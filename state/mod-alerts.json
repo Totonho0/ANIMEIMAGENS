@@ -4922,10 +4922,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780748375168,
-      "lastAlertAt": 1780748375168,
+      "lastAlertAt": 1780748699431,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:7ce142a463396883": {
       "userKey": "ip:7ce142a463396883",

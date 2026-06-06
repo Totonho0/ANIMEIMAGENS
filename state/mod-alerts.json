@@ -4921,11 +4921,11 @@
       "ip": "162.158.111.98",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780746817929,
-      "lastAlertAt": 1780747118794,
+      "lastSeenAt": 1780748375168,
+      "lastAlertAt": 1780748375168,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:7ce142a463396883": {
       "userKey": "ip:7ce142a463396883",

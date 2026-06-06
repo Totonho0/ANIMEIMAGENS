@@ -246,6 +246,12 @@
       "title": "Akane-banashi Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95VUVYamdGRnFxUks0M2xkWGJ3aGE4c3ZRWFYuanBn",
       "kind": "anime"
+    },
+    "acro-trip": {
+      "slug": "acro-trip",
+      "title": "Acro Trip",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lRTg1ZThSQzA3Q0xOeFg5aG9EaVRIMm1OMGIuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -394,38 +400,41 @@
     ],
     "akane-banashi-dublado": [
       1
+    ],
+    "acro-trip": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780740431730
+      "at": 1780743771394
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780740431730
+      "at": 1780743771394
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780740431730
+      "at": 1780743771394
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780740431730
+      "at": 1780743771394
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780740431730
+      "at": 1780743771394
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780740431730
+      "at": 1780743771394
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -454,5 +463,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780740442488
+  "updatedAt": 1780743782608
 }

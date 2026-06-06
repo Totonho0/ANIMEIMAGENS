@@ -24833,6 +24833,25 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "fullmetal-alchemist-the-conqueror-of-shamballa": {
+      "at": 1780757343991,
+      "data": {
+        "slug": "fullmetal-alchemist-the-conqueror-of-shamballa",
+        "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81Z1hsTHF5UHlLeW95MnBLbEs3ZXZ3VE0wRTguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Filme completo",
+            "url": null
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "filme",
+        "provider": "aoc"
+      }
     }
   }
 }

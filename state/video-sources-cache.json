@@ -1,0 +1,23 @@
+{
+  "entries": {
+    "anime:otaku-ni-yasashii-gal-wa-inai:1": {
+      "at": 1780709502046,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-O/Otaku-ni-Yasashii-Gal-wa-Inai/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-O%2FOtaku-ni-Yasashii-Gal-wa-Inai%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "otaku-ni-yasashii-gal-wa-inai",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-01"
+      }
+    }
+  }
+}

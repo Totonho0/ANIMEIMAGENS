@@ -254,6 +254,9 @@
     ],
     "haikyuu-dublado": [
       1
+    ],
+    "marriagetoxin-dublado": [
+      1
     ]
   },
   "started": {
@@ -359,29 +362,34 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "marriagetoxin-dublado",
+      "ep": 1,
+      "at": 1780707997340
+    },
+    {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780707820170
+      "at": 1780707997340
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780707820170
+      "at": 1780707997340
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780707820170
+      "at": 1780707997340
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780707820170
+      "at": 1780707997340
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780707820170
+      "at": 1780707997340
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -410,5 +418,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780707840854
+  "updatedAt": 1780707998435
 }

@@ -24223,6 +24223,125 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "gnosia-dublado": {
+      "at": 1780750927359,
+      "data": {
+        "slug": "gnosia-dublado",
+        "title": "Gnosia Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80UXd4UEJPb2hTUVgzblBGTjZwYjZ1Qm9zTWQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Ponto de partida",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Loops",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Novos Tripulantes",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Chave Prateada",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Intuição Selvagem",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Uma coroa de flores para você, minha querida amiga.",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Entender?",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Cuidar de uma casa",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O Mundo da Gnosia",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Cidadão Slime",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - 511",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Aracosia",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Interlúdio",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Reunião de 15 pessoas",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - O Problema Final",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Verdade",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - Erro",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Um mundo com futuro",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - Epílogo",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Para o Mundo das Estrelas",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - Ponto Final e Ponto de Partida",
+            "url": "https://animesonline.cloud/episodio/gnosia-dublado-episodio-21"
+          }
+        ],
+        "totalEpisodes": 21,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

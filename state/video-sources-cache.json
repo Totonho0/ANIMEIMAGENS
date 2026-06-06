@@ -441,6 +441,56 @@
         "poster": "https://image.tmdb.org/t/p/w780/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/chainsaw-man-dublado-episodio-09"
       }
+    },
+    "anime:hitoribocchi-no-isekai-kouryaku:1": {
+      "at": 1780738791938,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://cld.pt/dl/download/5cec823f-34b9-4a9b-9beb-77232fcd38cd/Hitoribocchi no Isekai Kouryaku – Episódio 01.mp4",
+            "label": "HD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2F5cec823f-34b9-4a9b-9beb-77232fcd38cd%2FHitoribocchi%20no%20Isekai%20Kouryaku%20%E2%80%93%20Epis%C3%B3dio%2001.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-H/Hitoribocchi no Isekai Kouryaku/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-H%2FHitoribocchi%20no%20Isekai%20Kouryaku%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "hitoribocchi-no-isekai-kouryaku",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/vnsxkdFd0WREclAWlyXQJ1oYsVS.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/hitoribocchi-no-isekai-kouryaku-episodio-01"
+      }
+    },
+    "anime:hitoribocchi-no-isekai-kouryaku:4": {
+      "at": 1780738790559,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://cld.pt/dl/download/52b85946-74ca-4e19-9505-13ea0a0fd30d/Hitoribocchi no Isekai Kouryaku - Episódio 4.mp4",
+            "label": "HD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2F52b85946-74ca-4e19-9505-13ea0a0fd30d%2FHitoribocchi%20no%20Isekai%20Kouryaku%20-%20Epis%C3%B3dio%204.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-H/Hitoribocchi no Isekai Kouryaku/04.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-H%2FHitoribocchi%20no%20Isekai%20Kouryaku%2F04.mp4&ref=aoc"
+          }
+        ],
+        "episode": 4,
+        "slug": "hitoribocchi-no-isekai-kouryaku",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/vnsxkdFd0WREclAWlyXQJ1oYsVS.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/hitoribocchi-no-isekai-kouryaku-episodio-04"
+      }
     }
   }
 }

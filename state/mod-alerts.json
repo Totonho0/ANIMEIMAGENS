@@ -1022,10 +1022,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780726621852,
-      "lastAlertAt": 1780726621852,
+      "lastAlertAt": 1780726930404,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:871c62be2abe2773": {
       "userKey": "ip:871c62be2abe2773",

@@ -1,0 +1,45 @@
+{
+  "entries": {
+    "blue-ursus": {
+      "at": 1780742795023,
+      "data": {
+        "id": "blue-ursus",
+        "titleId": "blue-ursus",
+        "slug": "blue-ursus",
+        "title": "Blue Ursus",
+        "author": "Sandrovich Yabako",
+        "poster": "https://mangalivre.to/wp-content/uploads/2025/07/Blue-Ursus-193x278.webp",
+        "language": "PT",
+        "provider": "mangalivre",
+        "kind": "manga",
+        "synopsis": "Garotas delinquentes X Pro wrestling X SNS – um entretenimento ianque exclusivo que cria uma nova reação química!!",
+        "chapters": [
+          {
+            "id": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JsdWUtdXJzdXMvY2FwaXR1bG8tMDEv",
+            "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JsdWUtdXJzdXMvY2FwaXR1bG8tMDEv",
+            "name": "Capitulo 01",
+            "subTitle": "Capitulo 01",
+            "title": "Capitulo 01",
+            "url": "https://mangalivre.to/manga/blue-ursus/capitulo-01/"
+          },
+          {
+            "id": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JsdWUtdXJzdXMvY2FwaXR1bG8tMDIv",
+            "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JsdWUtdXJzdXMvY2FwaXR1bG8tMDIv",
+            "name": "Capitulo 02",
+            "subTitle": "Capitulo 02",
+            "title": "Capitulo 02",
+            "url": "https://mangalivre.to/manga/blue-ursus/capitulo-02/"
+          },
+          {
+            "id": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JsdWUtdXJzdXMvY2FwaXR1bG8tMDMv",
+            "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2JsdWUtdXJzdXMvY2FwaXR1bG8tMDMv",
+            "name": "Capitulo 03",
+            "subTitle": "Capitulo 03",
+            "title": "Capitulo 03",
+            "url": "https://mangalivre.to/manga/blue-ursus/capitulo-03/"
+          }
+        ]
+      }
+    }
+  }
+}

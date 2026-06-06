@@ -228,6 +228,12 @@
       "title": "Hokuto no Ken: Fist of the North Star Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lbFZ4MFFYNHBZZ1M2U3AzZFg4c0haaVg2OU4uanBn",
       "kind": "anime"
+    },
+    "ballpark-de-tsukamaete": {
+      "slug": "ballpark-de-tsukamaete",
+      "title": "Ballpark de Tsukamaete!",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDQvQTRyT1o3eUlnQkxNc2pCR3FqcVoyYmF1cmhKLTE4NXgyNzguanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -367,38 +373,41 @@
     ],
     "hokuto-no-ken-fist-of-the-north-star-dublado": [
       1
+    ],
+    "ballpark-de-tsukamaete": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780708531096
+      "at": 1780709245590
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780708531096
+      "at": 1780709245590
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780708531096
+      "at": 1780709245590
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780708531096
+      "at": 1780709245590
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780708531096
+      "at": 1780709245590
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780708531096
+      "at": 1780709245590
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -427,5 +436,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780708540355
+  "updatedAt": 1780709270146
 }

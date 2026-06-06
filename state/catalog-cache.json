@@ -558,7 +558,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1780754696272
+      "at": 1780756884592
     },
     "todos|2||48": {
       "data": {
@@ -838,11 +838,33 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1780754696102
+      "at": 1780756884183
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "mairimashita-iruma-kun-4",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/mWDgDneX7wlSoYRfEQKouWdFs0q-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "mahou-no-shimai-lulutto-lilly",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/mahou-no-shimai-lulutto-lilly-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/x9GMNvlzrcK7QGMxZoGKMgYgyCn-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 10",
             "epTitle": "Episódio 10",
@@ -1062,35 +1084,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
-            "episode": 7,
-            "url": "https://animesonline.cloud/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado-episodio-07",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1Uu88RQ8va2rlEd6NokfKPbMs85-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "ganbare-nakamura-kun",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5IXNxiCJnnPwH0bkBQKoKlJIP3x-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780753666307
+      "at": 1780756885725
     },
     "todos|2||24": {
       "data": {
@@ -3296,5 +3296,5 @@
       "at": 1780750926663
     }
   },
-  "updatedAt": 1780755571440
+  "updatedAt": 1780756885725
 }

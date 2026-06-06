@@ -96,7 +96,16 @@
       "discordId": "",
       "discordUsername": "",
       "createdAt": 1780755417327,
-      "lastSeenAt": 1780755418066,
+      "lastSeenAt": 1780755423798,
+      "lastIp": "152.255.96.151"
+    },
+    "272f294a-99e1-4ca0-97e6-2deeb735e971": {
+      "id": "272f294a-99e1-4ca0-97e6-2deeb735e971",
+      "displayName": "Visitante #272F294A",
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1780755422329,
+      "lastSeenAt": 1780755422328,
       "lastIp": "152.255.96.151"
     }
   }

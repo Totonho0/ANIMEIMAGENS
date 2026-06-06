@@ -6424,7 +6424,7 @@
       }
     },
     "kanan-sama-wa-akumade-choroi": {
-      "at": 1780596342511,
+      "at": 1780710534350,
       "data": {
         "slug": "kanan-sama-wa-akumade-choroi",
         "title": "Kanan-sama wa Akumade Choroi",
@@ -7025,7 +7025,7 @@
       }
     },
     "mairimashita-iruma-kun-4-dublado": {
-      "at": 1780596341294,
+      "at": 1780710532502,
       "data": {
         "slug": "mairimashita-iruma-kun-4-dublado",
         "title": "Mairimashita! Iruma-kun 4 Dublado",
@@ -12294,7 +12294,7 @@
       }
     },
     "honzuki-no-gekokujou-4": {
-      "at": 1780522073687,
+      "at": 1780710534504,
       "data": {
         "slug": "honzuki-no-gekokujou-4",
         "title": "Honzuki no Gekokujou 4",
@@ -13186,7 +13186,7 @@
       }
     },
     "ghost-concert-missing-songs": {
-      "at": 1780641804780,
+      "at": 1780710531705,
       "data": {
         "slug": "ghost-concert-missing-songs",
         "title": "GHOST CONCERT: missing Songs",
@@ -13299,7 +13299,7 @@
       }
     },
     "needy-girl-overdose": {
-      "at": 1780684643573,
+      "at": 1780710533734,
       "data": {
         "slug": "needy-girl-overdose",
         "title": "Needy Girl Overdose",
@@ -13358,7 +13358,7 @@
       }
     },
     "mao": {
-      "at": 1780596343299,
+      "at": 1780710533297,
       "data": {
         "slug": "mao",
         "title": "Mao",
@@ -15215,7 +15215,7 @@
       }
     },
     "ace-of-the-diamond-act-ii-season-2": {
-      "at": 1780683748405,
+      "at": 1780710531719,
       "data": {
         "slug": "ace-of-the-diamond-act-ii-season-2",
         "title": "Ace of the Diamond Act II Season 2",
@@ -15407,7 +15407,7 @@
       }
     },
     "akane-banashi": {
-      "at": 1780684642145,
+      "at": 1780710533883,
       "data": {
         "slug": "akane-banashi",
         "title": "Akane-banashi",
@@ -15446,7 +15446,7 @@
       }
     },
     "kami-no-niwatsuki-kusunoki-tei": {
-      "at": 1780684644966,
+      "at": 1780710533274,
       "data": {
         "slug": "kami-no-niwatsuki-kusunoki-tei",
         "title": "Kami no Niwatsuki Kusunoki-tei",
@@ -18543,6 +18543,50 @@
           }
         ],
         "totalEpisodes": 9,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "yomi-no-tsugai-dublado": {
+      "at": 1780710532689,
+      "data": {
+        "slug": "yomi-no-tsugai-dublado",
+        "title": "Daemons of the Shadow Realm",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82YmdwQ2U0NmhYV044aGxvRFRRQTZCaHNTU1UuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Asa e Yuru",
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Direita e Esquerda",
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Dera e Hana",
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Jin e Yuru",
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Lebre e Tartaruga",
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Família Kagemori e os Invasores Misteriosos",
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
         "kind": "anime",
         "provider": "aoc"
       }

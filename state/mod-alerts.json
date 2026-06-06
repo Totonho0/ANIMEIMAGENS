@@ -1620,10 +1620,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780751493989,
-      "lastAlertAt": 1780751493989,
+      "lastAlertAt": 1780751942872,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:584cf294133327ed": {
       "userKey": "ip:584cf294133327ed",

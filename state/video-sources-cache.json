@@ -1142,6 +1142,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/ullfy98STkno11rDGi44SK6llwx.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-02"
       }
+    },
+    "anime:ace-of-the-diamond-act-ii-season-2:1": {
+      "at": 1780757006966,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-D/Diamond-no-Ace-2/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-D%2FDiamond-no-Ace-2%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "ace-of-the-diamond-act-ii-season-2",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-01"
+      }
     }
   }
 }

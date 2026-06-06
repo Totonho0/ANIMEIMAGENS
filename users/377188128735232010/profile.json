@@ -282,6 +282,12 @@
       "title": "A Hundred Scenes of AWAJIMA",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xRUY0RE5MbXMxaTFoU1JQTEVDUU5WdnM1VDYuanBn",
       "kind": "anime"
+    },
+    "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado": {
+      "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+      "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92akF3SlFFYzRVQURreXUzbXF2OHZSUW1vWDAuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -451,6 +457,9 @@
     ],
     "a-hundred-scenes-of-awajima": [
       1
+    ],
+    "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -511,5 +520,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780745904878
+  "updatedAt": 1780745988261
 }

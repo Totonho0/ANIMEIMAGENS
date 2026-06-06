@@ -240,6 +240,12 @@
       "title": "Vitória",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9kMi9kZjA1ZmNmZDE4NzIxYWIxOGViZGZjMWNkNTUxY2YuanBn",
       "kind": "filme"
+    },
+    "akane-banashi-dublado": {
+      "slug": "akane-banashi-dublado",
+      "title": "Akane-banashi Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95VUVYamdGRnFxUks0M2xkWGJ3aGE4c3ZRWFYuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -385,38 +391,41 @@
     ],
     "11743-": [
       1
+    ],
+    "akane-banashi-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780738847093
+      "at": 1780740431730
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780738847093
+      "at": 1780740431730
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780738847093
+      "at": 1780740431730
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780738847093
+      "at": 1780740431730
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780738847093
+      "at": 1780740431730
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780738847093
+      "at": 1780740431730
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -445,5 +454,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780738924795
+  "updatedAt": 1780740442488
 }

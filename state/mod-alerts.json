@@ -7808,6 +7808,21 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "v:ebdaf793-54f0-432b-abba-f89de689ca9f": {
+      "userKey": "v:ebdaf793-54f0-432b-abba-f89de689ca9f",
+      "messageId": "1512822611619483749",
+      "channelId": "1510739162116915371",
+      "ip": "152.255.96.151",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #EBDAF793",
+      "visitorShortId": "EBDAF793",
+      "lastSeenAt": 1780755417328,
+      "lastAlertAt": 1780755417328,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

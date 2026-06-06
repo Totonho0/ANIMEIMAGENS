@@ -252,6 +252,12 @@
       "title": "Acro Trip",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lRTg1ZThSQzA3Q0xOeFg5aG9EaVRIMm1OMGIuanBn",
       "kind": "anime"
+    },
+    "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu": {
+      "slug": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
+      "title": "A-Rank Party wo Ridatsu shita Ore wa Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvYVBKSnd2MTlLZlRvZXpURkszRldzNElSV21wLTE4NXgyNzguanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -406,38 +412,41 @@
     ],
     "dr-stone-science-future-4-part-3-dublado": [
       10
+    ],
+    "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780743771394
+      "at": 1780743806755
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780743771394
+      "at": 1780743806755
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780743771394
+      "at": 1780743806755
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780743771394
+      "at": 1780743806755
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780743771394
+      "at": 1780743806755
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780743771394
+      "at": 1780743806755
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -466,5 +475,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780743797436
+  "updatedAt": 1780743854786
 }

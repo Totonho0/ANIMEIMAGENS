@@ -4401,11 +4401,11 @@
       "ip": "177.1.250.164",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780619471156,
-      "lastAlertAt": 1780619798430,
+      "lastSeenAt": 1780710867616,
+      "lastAlertAt": 1780710867616,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:2dd5dd7524732da0": {
       "userKey": "ip:2dd5dd7524732da0",

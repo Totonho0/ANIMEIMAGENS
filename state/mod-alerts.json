@@ -4168,13 +4168,13 @@
       "ip": "190.89.243.21",
       "discordId": "1003147802139955240",
       "username": "Ntzin",
-      "lastSeenAt": 1780431809745,
-      "lastAlertAt": 1780432192599,
+      "lastSeenAt": 1780762652921,
+      "lastAlertAt": 1780762651131,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "",
-      "visitorShortId": "",
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #1184C1FB",
+      "visitorShortId": "1184C1FB",
       "viewingKind": "",
       "viewingTitle": "",
       "viewingDetail": "",
@@ -7971,6 +7971,7 @@
     "ip:1fb2cad23d7216cc": "d:1029383978265882664",
     "ip:3a76dda2412fcb84": "d:736671123311165632",
     "d:736671123311165632": "ip:3a76dda2412fcb84",
-    "ip:b3f7d10708b04060": "d:377188128735232010"
+    "ip:b3f7d10708b04060": "d:377188128735232010",
+    "v:1184c1fb-180f-4fe9-bfa2-7aa79b88fc7c": "d:1003147802139955240"
   }
 }

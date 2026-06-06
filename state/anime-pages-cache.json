@@ -19133,6 +19133,60 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "tatsuki-fujimoto-17-26": {
+      "at": 1780714431339,
+      "data": {
+        "slug": "tatsuki-fujimoto-17-26",
+        "title": "Tatsuki Fujimoto 17-26",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80WXJZbUJ4MjZXWmdJVEtsY2NlYUl6NzR2ajMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Duas Galinhas Galinhando",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Sasaki Parou Uma Bala",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Amor é Cego",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Shikaku",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - A Rapsódia das Sereias",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Síndrome do \"Acordei Como Menina\"",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Nayuta da Profecia",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Irmãs",
+            "url": "https://animesonline.cloud/episodio/tatsuki-fujimoto-17-26-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
     }
   }
 }

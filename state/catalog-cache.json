@@ -12492,7 +12492,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1780682994982
+      "at": 1780706779273
     },
     "todos|5||24": {
       "data": {
@@ -12548,6 +12548,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Invencível 4 Dublado",
+            "slug": "invencivel-4-dublado",
+            "url": "https://animesonline.cloud/anime/invencivel-4-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/2wnNxpeAHxhGVKj3PCyxskRhkbB-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -12703,22 +12712,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node Dublado",
-            "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
-            "url": "https://animesonline.cloud/anime/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/nH6Ch1q5rwdRs56bYTA9wuOhfbL-185x278.jpg",
-            "rating": "8.455",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 5,
         "hasMore": true
       },
-      "at": 1780631602901
+      "at": 1780706780480
     },
     "todos|6||24": {
       "data": {
@@ -18324,5 +18324,5 @@
       "at": 1780642951555
     }
   },
-  "updatedAt": 1780706777732
+  "updatedAt": 1780706780480
 }

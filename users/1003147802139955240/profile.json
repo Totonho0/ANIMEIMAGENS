@@ -24,6 +24,12 @@
       "title": "Shounen ga Otona ni Natta Natsu",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvU2hvdW5lbi1nYS1PdG9uYS1uaS1OYXR0YS1OYXRzdS1BbmltZS1Ecml2ZS5wbmc",
       "kind": "anime"
+    },
+    "uzumaki": {
+      "slug": "uzumaki",
+      "title": "Uzumaki - Todos os Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -43,6 +49,9 @@
     ],
     "overflow-dublado": [
       1
+    ],
+    "uzumaki": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -58,5 +67,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780762713002
+  "updatedAt": 1780762728985
 }

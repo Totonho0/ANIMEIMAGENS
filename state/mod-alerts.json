@@ -255,10 +255,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780719410434,
-      "lastAlertAt": 1780719410434,
+      "lastAlertAt": 1780719730241,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "d:1335061693088399476": {
       "userKey": "d:1335061693088399476",
@@ -4935,10 +4935,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780719342023,
-      "lastAlertAt": 1780719342023,
+      "lastAlertAt": 1780719730241,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

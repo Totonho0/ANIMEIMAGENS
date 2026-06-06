@@ -1237,6 +1237,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/5gXlLqyPyKyoy2pKlK7evwTM0E8.jpg",
         "episodeUrl": "https://animesonline.cloud/filme/fullmetal-alchemist-the-conqueror-of-shamballa"
       }
+    },
+    "anime:trigun-stargaze-dublado:1": {
+      "at": 1780760045691,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-T/Trigun-Stargaze/Dub/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-T%2FTrigun-Stargaze%2FDub%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "trigun-stargaze-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/6dErjmx17e8kZn5zHAqLrbcTesV.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/trigun-stampede-dublado-episodio-01"
+      }
     }
   }
 }

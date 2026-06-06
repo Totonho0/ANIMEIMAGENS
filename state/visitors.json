@@ -15,7 +15,7 @@
       "discordId": "",
       "discordUsername": "",
       "createdAt": 1780754706579,
-      "lastSeenAt": 1780755408285,
+      "lastSeenAt": 1780755468287,
       "lastIp": "177.54.157.16"
     },
     "3e656a5c-65d0-4511-8a05-92a8d4eddba3": {
@@ -96,7 +96,7 @@
       "discordId": "",
       "discordUsername": "",
       "createdAt": 1780755417327,
-      "lastSeenAt": 1780755423798,
+      "lastSeenAt": 1780755424684,
       "lastIp": "152.255.96.151"
     },
     "272f294a-99e1-4ca0-97e6-2deeb735e971": {
@@ -107,6 +107,15 @@
       "createdAt": 1780755422329,
       "lastSeenAt": 1780755422328,
       "lastIp": "152.255.96.151"
+    },
+    "c7c1bf36-07f1-4512-b3df-bfcc36f244fb": {
+      "id": "c7c1bf36-07f1-4512-b3df-bfcc36f244fb",
+      "displayName": "Visitante #C7C1BF36",
+      "discordId": "377188128735232010",
+      "discordUsername": "Totonho",
+      "createdAt": 1780755497763,
+      "lastSeenAt": 1780755498662,
+      "lastIp": "37.29.200.104"
     }
   }
 }

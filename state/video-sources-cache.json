@@ -75,6 +75,31 @@
         "poster": "https://image.tmdb.org/t/p/w780/go1x4QdXk90i2pHHBfodsOBKn0X.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-02"
       }
+    },
+    "filme:chainsaw-man-o-filme-arco-da-reze-dublado:1": {
+      "at": 1780711261258,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://tityos.feralhosting.com/kkurodax/C/Chainsaw-Man-Movie/Dub/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Ftityos.feralhosting.com%2Fkkurodax%2FC%2FChainsaw-Man-Movie%2FDub%2F01.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-C/Chainsaw-Man-Movie/Dub/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-C%2FChainsaw-Man-Movie%2FDub%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "chainsaw-man-o-filme-arco-da-reze-dublado",
+        "kind": "filme",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+        "episodeUrl": "https://animesonline.cloud/filme/chainsaw-man-o-filme-arco-da-reze-dublado"
+      }
     }
   }
 }

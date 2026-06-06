@@ -7846,6 +7846,21 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "v:bcde89dd-10f0-4cf3-9d17-da02dfc7ea15": {
+      "userKey": "v:bcde89dd-10f0-4cf3-9d17-da02dfc7ea15",
+      "messageId": "1512830551122509895",
+      "channelId": "1510739162116915371",
+      "ip": "189.32.35.48",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #BCDE89DD",
+      "visitorShortId": "BCDE89DD",
+      "lastSeenAt": 1780757310379,
+      "lastAlertAt": 1780757310379,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

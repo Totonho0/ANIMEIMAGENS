@@ -29,9 +29,6 @@
   "watched": {
     "devil-may-cry-2026-dublado": [
       1
-    ],
-    "shounen-ga-otona-ni-natta-natsu": [
-      1
     ]
   },
   "started": {
@@ -43,17 +40,9 @@
     ],
     "overflow-dublado": [
       1
-    ],
-    "shounen-ga-otona-ni-natta-natsu": [
-      1
     ]
   },
   "watchHistoryLog": [
-    {
-      "slug": "shounen-ga-otona-ni-natta-natsu",
-      "ep": 1,
-      "at": 1780762653325
-    },
     {
       "slug": "devil-may-cry-2026-dublado",
       "ep": 1,
@@ -63,5 +52,5 @@
   "watchHistoryHidden": [
     "shounen-ga-otona-ni-natta-natsu::1"
   ],
-  "updatedAt": 1780762697066
+  "updatedAt": 1780762708619
 }

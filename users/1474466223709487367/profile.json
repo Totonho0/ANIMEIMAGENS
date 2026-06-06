@@ -5,6 +5,7 @@
   "banner": "/placeholder.svg",
   "favorites": [],
   "watchLater": [],
+  "mangaFavorites": [],
   "library": {
     "tsue-to-tsurugi-no-wistoria-2": {
       "slug": "tsue-to-tsurugi-no-wistoria-2",
@@ -35,6 +36,12 @@
       "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91MUNvTWsyWXFzOXJiWTVMQVBTekRHb2dMWEkuanBn",
       "kind": "anime"
+    },
+    "tensei-kizoku-kantei-skill-de-nariagaru-2": {
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvcE1MaXRLN3VDS29GMjVkTm41WGFpMFJ1RnJhLmpwZw",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -51,15 +58,18 @@
     ],
     "haikyuu-dublado": [
       1
+    ],
+    "tensei-kizoku-kantei-skill-de-nariagaru-2": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen",
       "ep": 1,
-      "at": 1780585674782
+      "at": 1780783331127
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780585675107
+  "updatedAt": 1780783369174
 }

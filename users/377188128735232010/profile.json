@@ -336,6 +336,12 @@
       "title": "Michael",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yNi9iZDJhN2RhYWI4MjEyZDM1MjAzZjdhMjY3YTUxMGEuanBn",
       "kind": "filme"
+    },
+    "19479-scary-movie-whats-up": {
+      "slug": "19479-scary-movie-whats-up",
+      "title": "Scary Movie: What's Up?",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yNC8wMzNhZjdjMjljN2FjMThhN2QyMWRkYWViNDY0ZWUuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -541,6 +547,9 @@
     ],
     "18036-michael": [
       1
+    ],
+    "19479-scary-movie-whats-up": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -611,5 +620,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780748769283
+  "updatedAt": 1780748863638
 }

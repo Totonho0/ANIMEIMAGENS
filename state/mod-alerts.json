@@ -709,11 +709,11 @@
       "ip": "34.123.170.104",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780365324171,
-      "lastAlertAt": 1780365685349,
+      "lastSeenAt": 1780719755390,
+      "lastAlertAt": 1780719755390,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:3acb57bc81ee0aa4": {
       "userKey": "ip:3acb57bc81ee0aa4",

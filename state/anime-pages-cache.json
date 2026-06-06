@@ -18912,7 +18912,7 @@
       }
     },
     "chainsaw-man-dublado": {
-      "at": 1780714556828,
+      "at": 1780750908958,
       "data": {
         "slug": "chainsaw-man-dublado",
         "title": "Chainsaw Man Dublado",
@@ -18986,7 +18986,7 @@
       }
     },
     "chainsaw-man-o-filme-arco-da-reze": {
-      "at": 1780714420660,
+      "at": 1780750908948,
       "data": {
         "slug": "chainsaw-man-o-filme-arco-da-reze",
         "title": "Chainsaw Man – O Filme: Arco da Reze",
@@ -19362,7 +19362,7 @@
       }
     },
     "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta": {
-      "at": 1780746264254,
+      "at": 1780750909323,
       "data": {
         "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
         "title": "I Made Friends with the Second Prettiest Girl in My Class",
@@ -24146,6 +24146,80 @@
           }
         ],
         "totalEpisodes": 13,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "cengjing-you-yongshi": {
+      "at": 1780750909839,
+      "data": {
+        "slug": "cengjing-you-yongshi",
+        "title": "Cengjing You Yongshi",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9hVG1WbHE2MzNRM3lTaHpTUzRXTGVLbVppUkUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Último Guerreiro",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Um Treinamento Especial para um Guerreiro",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Primeiro dia de trabalho",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Aqui está o segundo dos quatros Guardiões",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Candidatos a Guerreiros",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Chalé que Compartilhamos",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Destino do Guerreiro",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Uma Festa de Primeiro Aniversário Perfeita",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Depressão do Pai Que Fica em Casa",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Vingança",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Família",
+            "url": "https://animesonline.cloud/episodio/cengjing-you-yongshi-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
         "kind": "anime",
         "provider": "aoc"
       }

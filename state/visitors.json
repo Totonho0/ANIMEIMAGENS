@@ -634,8 +634,24 @@
       "discordId": "1003147802139955240",
       "discordUsername": "Ntzin",
       "createdAt": 1780762651130,
-      "lastSeenAt": 1780762652482,
+      "lastSeenAt": 1780762654690,
       "lastIp": "190.89.243.21"
+    },
+    "571104d5-5384-4926-b1e7-9e857aeaec0b": {
+      "id": "571104d5-5384-4926-b1e7-9e857aeaec0b",
+      "displayName": "Visitante #571104D5",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "favorites": [],
+      "watchLater": [],
+      "mangaFavorites": [],
+      "library": {},
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1780762655519,
+      "lastSeenAt": 1780762655519,
+      "lastIp": "104.23.221.155"
     }
   }
 }

@@ -1009,6 +1009,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-01"
       }
+    },
+    "anime:nageki-no-bourei-wa-intai-shitai:1": {
+      "at": 1780747061653,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-N/Nageki no Bourei wa Intai shitai/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-N%2FNageki%20no%20Bourei%20wa%20Intai%20shitai%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "nageki-no-bourei-wa-intai-shitai",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/nageki-no-bourei-wa-intai-shitai-episodio-01"
+      }
     }
   }
 }

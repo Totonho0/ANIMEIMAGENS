@@ -288,6 +288,12 @@
       "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92akF3SlFFYzRVQURreXUzbXF2OHZSUW1vWDAuanBn",
       "kind": "anime"
+    },
+    "akane-banashi": {
+      "slug": "akane-banashi",
+      "title": "Akane-banashi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95VUVYamdGRnFxUks0M2xkWGJ3aGE4c3ZRWFYuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -460,38 +466,41 @@
     ],
     "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado": [
       1
+    ],
+    "akane-banashi": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780745854959
+      "at": 1780746258362
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780745854959
+      "at": 1780746258362
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780745854959
+      "at": 1780746258362
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780745854959
+      "at": 1780746258362
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780745854959
+      "at": 1780746258362
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780745854959
+      "at": 1780746258362
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -520,5 +529,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780745988261
+  "updatedAt": 1780746263560
 }

@@ -1218,6 +1218,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/6lWCb5xI09KkcYdTg7St8i8q7XF.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/aishiteru-game-wo-owarasetai-dublado-episodio-02"
       }
+    },
+    "filme:fullmetal-alchemist-the-conqueror-of-shamballa:1": {
+      "at": 1780757347590,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Filmes/Letra-F/Fullmetal Alchemist: The Conqueror of Shamballa/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FFilmes%2FLetra-F%2FFullmetal%20Alchemist%3A%20The%20Conqueror%20of%20Shamballa%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "fullmetal-alchemist-the-conqueror-of-shamballa",
+        "kind": "filme",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/5gXlLqyPyKyoy2pKlK7evwTM0E8.jpg",
+        "episodeUrl": "https://animesonline.cloud/filme/fullmetal-alchemist-the-conqueror-of-shamballa"
+      }
     }
   }
 }

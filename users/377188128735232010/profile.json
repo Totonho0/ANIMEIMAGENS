@@ -348,6 +348,12 @@
       "title": "Harry Potter e o Cálice de Fogo",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS81b1dCM2hqenlFQ1JCQWpnV2ttWmlueGw5cUEuanBn",
       "kind": "filme"
+    },
+    "filme/assistir-a-saga-crepusculo-eclipse-online": {
+      "slug": "filme/assistir-a-saga-crepusculo-eclipse-online",
+      "title": "A Saga Crepúsculo: Eclipse",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9jQVFzanhZZGZremhyRFp3VkREdE1rc1MzNHUuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -559,6 +565,9 @@
     ],
     "filme/assistir-harry-potter-e-o-calice-de-fogo-online": [
       1
+    ],
+    "filme/assistir-a-saga-crepusculo-eclipse-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -629,5 +638,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780749242784
+  "updatedAt": 1780749510214
 }

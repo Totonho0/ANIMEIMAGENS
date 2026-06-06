@@ -943,11 +943,11 @@
       "ip": "104.23.223.139",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780740800174,
-      "lastAlertAt": 1780741179020,
+      "lastSeenAt": 1780742240668,
+      "lastAlertAt": 1780742240668,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:5fbe425f4bd89e52": {
       "userKey": "ip:5fbe425f4bd89e52",

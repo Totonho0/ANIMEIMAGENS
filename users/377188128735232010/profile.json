@@ -330,6 +330,12 @@
       "title": "Reality de Horror - Influencers em Pânico! Amp House Massacre",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci80Zi8xMzEwN2IwZWVkZWM3NGYyYmNhNjZlN2U2MzBjNmIuanBn",
       "kind": "filme"
+    },
+    "18036-michael": {
+      "slug": "18036-michael",
+      "title": "Michael",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yNi9iZDJhN2RhYWI4MjEyZDM1MjAzZjdhMjY3YTUxMGEuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -532,6 +538,9 @@
     ],
     "7721-amp-house-massacre": [
       1
+    ],
+    "18036-michael": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -602,5 +611,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780748677098
+  "updatedAt": 1780748769283
 }

@@ -502,10 +502,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780708504427,
-      "lastAlertAt": 1780708501395,
+      "lastAlertAt": 1780708823056,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:d2fdfd55632e8695": {
       "userKey": "ip:d2fdfd55632e8695",

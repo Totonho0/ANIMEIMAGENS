@@ -1313,6 +1313,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/riRJGnbb18zVBEXpov8GJKnBczj.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/bocchi-the-rock-episodio-12"
       }
+    },
+    "anime:shounen-ga-otona-ni-natta-natsu:1": {
+      "at": 1780762678797,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-S/Shounen ga Otona ni Natta Natsu/01.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-S%2FShounen%20ga%20Otona%20ni%20Natta%20Natsu%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "shounen-ga-otona-ni-natta-natsu",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/Shounen-ga-Otona-ni-Natta-Natsu-Anime-Drive.png",
+        "episodeUrl": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
+      }
     }
   }
 }

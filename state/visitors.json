@@ -15,7 +15,7 @@
       "discordId": "",
       "discordUsername": "",
       "createdAt": 1780754706579,
-      "lastSeenAt": 1780757201649,
+      "lastSeenAt": 1780757300243,
       "lastIp": "177.54.157.16",
       "bio": "",
       "avatar": "/logo.png",
@@ -245,6 +245,18 @@
       "createdAt": 1780757200530,
       "lastSeenAt": 1780757200530,
       "lastIp": "177.54.157.16"
+    },
+    "bcde89dd-10f0-4cf3-9d17-da02dfc7ea15": {
+      "id": "bcde89dd-10f0-4cf3-9d17-da02dfc7ea15",
+      "displayName": "Visitante #BCDE89DD",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1780757310378,
+      "lastSeenAt": 1780757310978,
+      "lastIp": "189.32.35.48"
     }
   }
 }

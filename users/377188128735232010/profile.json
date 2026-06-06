@@ -300,6 +300,12 @@
       "title": "Jigokuraku 2 Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96bUxwRDZjbTNnbHdnWVFGcmtLYnl6eDNJbkIuanBn",
       "kind": "anime"
+    },
+    "bocchi-the-rock-season-2": {
+      "slug": "bocchi-the-rock-season-2",
+      "title": "Bocchi the Rock! Season 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9yaVJKR25iYjE4elZCRVhwb3Y4R0pLbkJjemouanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -546,5 +552,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780746350262
+  "updatedAt": 1780746362066
 }

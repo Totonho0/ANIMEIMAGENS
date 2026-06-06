@@ -234,6 +234,12 @@
       "title": "Ballpark de Tsukamaete!",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDQvQTRyT1o3eUlnQkxNc2pCR3FqcVoyYmF1cmhKLTE4NXgyNzguanBn",
       "kind": "anime"
+    },
+    "11743-": {
+      "slug": "11743-",
+      "title": "Vitória",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9kMi9kZjA1ZmNmZDE4NzIxYWIxOGViZGZjMWNkNTUxY2YuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -376,6 +382,9 @@
     ],
     "ballpark-de-tsukamaete": [
       1
+    ],
+    "11743-": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -436,5 +445,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780709486900
+  "updatedAt": 1780709686206
 }

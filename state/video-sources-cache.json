@@ -870,6 +870,63 @@
         "poster": "https://image.tmdb.org/t/p/w780/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/stranger-things-historias-de-85-dublado-episodio-03"
       }
+    },
+    "anime:one-piece:1163": {
+      "at": 1780746978704,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-O/One-Piece/1163/playlist.m3u8&e=1843568362&t=c1c8d7f49c3ad6f75252ce29e9d93bd7cc6e1b9c107951409784a3daaee93b9b",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-O%2FOne-Piece%2F1163%2Fplaylist.m3u8%26e%3D1843568362%26t%3Dc1c8d7f49c3ad6f75252ce29e9d93bd7cc6e1b9c107951409784a3daaee93b9b&ref=aoc"
+          }
+        ],
+        "episode": 1163,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-1163"
+      }
+    },
+    "anime:one-piece:1161": {
+      "at": 1780746977741,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-O/One-Piece/1161/playlist.m3u8&e=1843568398&t=12ed1d95a3a661121c6dcd55f8b39773b41b11519fb116dd6fa721d0399628d8",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-O%2FOne-Piece%2F1161%2Fplaylist.m3u8%26e%3D1843568398%26t%3D12ed1d95a3a661121c6dcd55f8b39773b41b11519fb116dd6fa721d0399628d8&ref=aoc"
+          }
+        ],
+        "episode": 1161,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-1161"
+      }
+    },
+    "anime:one-piece:1157": {
+      "at": 1780746978312,
+      "data": {
+        "sources": [
+          {
+            "type": "hls",
+            "src": "https://ccdn.xyz/stream.php?f=Letra-O/One-Piece/1157/playlist.m3u8&e=1843566756&t=9e52a24631043015fbdd7ef961a32c4ff146ee3ce21e756a402a3022cfeb4c8c",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fccdn.xyz%2Fstream.php%3Ff%3DLetra-O%2FOne-Piece%2F1157%2Fplaylist.m3u8%26e%3D1843566756%26t%3D9e52a24631043015fbdd7ef961a32c4ff146ee3ce21e756a402a3022cfeb4c8c&ref=aoc"
+          }
+        ],
+        "episode": 1157,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-1157"
+      }
     }
   }
 }

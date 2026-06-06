@@ -407,6 +407,9 @@
     ],
     "stranger-things-historias-de-85-dublado": [
       1
+    ],
+    "11761-": [
+      1
     ]
   },
   "started": {
@@ -590,6 +593,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "11761-",
+      "ep": 1,
+      "at": 1780750092306
+    },
+    {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
       "at": 1780750021800
@@ -656,5 +664,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780750032589
+  "updatedAt": 1780750093064
 }

@@ -251,6 +251,9 @@
     ],
     "kami-no-niwatsuki-kusunoki-tei": [
       1
+    ],
+    "haikyuu-dublado": [
+      1
     ]
   },
   "started": {
@@ -356,24 +359,29 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "haikyuu-dublado",
+      "ep": 1,
+      "at": 1780707592583
+    },
+    {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780706826569
+      "at": 1780707592582
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780706826569
+      "at": 1780707592582
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780706826569
+      "at": 1780707592582
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780706826569
+      "at": 1780707592582
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -402,5 +410,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780706896575
+  "updatedAt": 1780707593543
 }

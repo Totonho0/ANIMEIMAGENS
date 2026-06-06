@@ -475,11 +475,11 @@
       "ip": "172.71.184.167",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780712184999,
-      "lastAlertAt": 1780712530113,
+      "lastSeenAt": 1780724844547,
+      "lastAlertAt": 1780724844547,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:3b45639ca24532a5": {
       "userKey": "ip:3b45639ca24532a5",

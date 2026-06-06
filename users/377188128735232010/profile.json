@@ -264,6 +264,12 @@
       "title": "Amaama to Inazuma – Todos os Episódios",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvaTZMTTBoVE5HY0ZZNUlKR2EzUjRNVWdLRmJqLmpwZw",
       "kind": "anime"
+    },
+    "rezero-kara-hajimeru-isekai-seikatsu-4th-season": {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9haThiVlM4U3V2dTRFckJobWdCdnRFU2lyQlkuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -424,6 +430,9 @@
     ],
     "amaama-to-inazuma": [
       1
+    ],
+    "rezero-kara-hajimeru-isekai-seikatsu-4th-season": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -484,5 +493,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780745018573
+  "updatedAt": 1780745045616
 }

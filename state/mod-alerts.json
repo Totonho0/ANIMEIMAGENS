@@ -4402,10 +4402,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780711214929,
-      "lastAlertAt": 1780710867616,
+      "lastAlertAt": 1780711630089,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "ip:2dd5dd7524732da0": {
       "userKey": "ip:2dd5dd7524732da0",

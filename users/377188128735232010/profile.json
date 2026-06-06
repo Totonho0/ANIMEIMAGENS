@@ -258,6 +258,12 @@
       "title": "A-Rank Party wo Ridatsu shita Ore wa Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvYVBKSnd2MTlLZlRvZXpURkszRldzNElSV21wLTE4NXgyNzguanBn",
       "kind": "anime"
+    },
+    "amaama-to-inazuma": {
+      "slug": "amaama-to-inazuma",
+      "title": "Amaama to Inazuma – Todos os Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvaTZMTTBoVE5HY0ZZNUlKR2EzUjRNVWdLRmJqLmpwZw",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -415,6 +421,9 @@
     ],
     "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu": [
       1
+    ],
+    "amaama-to-inazuma": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -475,5 +484,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780743854786
+  "updatedAt": 1780743867272
 }

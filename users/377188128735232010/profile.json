@@ -294,6 +294,12 @@
       "title": "Akane-banashi",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95VUVYamdGRnFxUks0M2xkWGJ3aGE4c3ZRWFYuanBn",
       "kind": "anime"
+    },
+    "jigokuraku-2-dublado": {
+      "slug": "jigokuraku-2-dublado",
+      "title": "Jigokuraku 2 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96bUxwRDZjbTNnbHdnWVFGcmtLYnl6eDNJbkIuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -469,6 +475,9 @@
     ],
     "akane-banashi": [
       1
+    ],
+    "jigokuraku-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -529,5 +538,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780746263560
+  "updatedAt": 1780746313443
 }

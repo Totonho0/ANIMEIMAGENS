@@ -318,6 +318,12 @@
       "title": "Novas Raízes – Escolhas do Futuro",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9iYS8wMDJmMDcyYjcyN2U2NWY3ODVhZDhkMzJhZmMyY2MuanBn",
       "kind": "filme"
+    },
+    "11832-": {
+      "slug": "11832-",
+      "title": "Loki",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9hOS9kYzlmYTk5MjVlZjk3ZTE4N2Y5OTVhNDMzNThiZmEuanBn",
+      "kind": "serie"
     }
   },
   "watched": {
@@ -505,6 +511,9 @@
     ],
     "11646-": [
       1
+    ],
+    "11832-": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -570,5 +579,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780746564522
+  "updatedAt": 1780746628192
 }

@@ -5384,13 +5384,13 @@
       "ip": "138.97.0.43",
       "discordId": "1474466223709487367",
       "username": "𝗖𝝝𝗙𝗙𝝨𝝨",
-      "lastSeenAt": 1780585721667,
-      "lastAlertAt": 1780586046482,
+      "lastSeenAt": 1780783331943,
+      "lastAlertAt": 1780783327805,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "",
-      "visitorShortId": "",
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #BE3F7CB6",
+      "visitorShortId": "BE3F7CB6",
       "viewingKind": "",
       "viewingTitle": "",
       "viewingDetail": "",
@@ -8215,6 +8215,7 @@
     "ip:3a76dda2412fcb84": "d:736671123311165632",
     "d:736671123311165632": "ip:3a76dda2412fcb84",
     "ip:b3f7d10708b04060": "d:377188128735232010",
-    "v:1184c1fb-180f-4fe9-bfa2-7aa79b88fc7c": "d:1003147802139955240"
+    "v:1184c1fb-180f-4fe9-bfa2-7aa79b88fc7c": "d:1003147802139955240",
+    "v:be3f7cb6-9a93-42ad-9336-516102b9ae63": "d:1474466223709487367"
   }
 }

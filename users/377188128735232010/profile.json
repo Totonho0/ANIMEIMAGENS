@@ -342,6 +342,12 @@
       "title": "Scary Movie: What's Up?",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yNC8wMzNhZjdjMjljN2FjMThhN2QyMWRkYWViNDY0ZWUuanBn",
       "kind": "filme"
+    },
+    "filme/assistir-harry-potter-e-o-calice-de-fogo-online": {
+      "slug": "filme/assistir-harry-potter-e-o-calice-de-fogo-online",
+      "title": "Harry Potter e o Cálice de Fogo",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS81b1dCM2hqenlFQ1JCQWpnV2ttWmlueGw5cUEuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -550,48 +556,51 @@
     ],
     "19479-scary-movie-whats-up": [
       1
+    ],
+    "filme/assistir-harry-potter-e-o-calice-de-fogo-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780748564193
+      "at": 1780749221148
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -620,5 +629,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780748924612
+  "updatedAt": 1780749242784
 }

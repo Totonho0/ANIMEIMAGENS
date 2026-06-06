@@ -7856,11 +7856,15 @@
       "username": "",
       "displayName": "Visitante #BCDE89DD",
       "visitorShortId": "BCDE89DD",
-      "lastSeenAt": 1780757313502,
-      "lastAlertAt": 1780757310379,
+      "lastSeenAt": 1780757347308,
+      "lastAlertAt": 1780757347308,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "filme",
+      "viewingTitle": "Fullmetal Alchemist: The Conqueror of Shamballa",
+      "viewingDetail": "Filme completo",
+      "viewingUpdatedAt": 1780757347308
     }
   },
   "links": {

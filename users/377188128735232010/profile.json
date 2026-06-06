@@ -335,6 +335,9 @@
     ],
     "marriagetoxin-dublado": [
       1
+    ],
+    "akane-banashi": [
+      1
     ]
   },
   "started": {
@@ -482,34 +485,39 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "akane-banashi",
+      "ep": 1,
+      "at": 1780746349341
+    },
+    {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780746258362
+      "at": 1780746349341
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780746258362
+      "at": 1780746349341
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780746258362
+      "at": 1780746349341
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780746258362
+      "at": 1780746349341
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780746258362
+      "at": 1780746349341
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780746258362
+      "at": 1780746349341
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -538,5 +546,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780746313443
+  "updatedAt": 1780746350262
 }

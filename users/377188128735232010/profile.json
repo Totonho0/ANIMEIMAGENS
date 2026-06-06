@@ -270,6 +270,12 @@
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9haThiVlM4U3V2dTRFckJobWdCdnRFU2lyQlkuanBn",
       "kind": "anime"
+    },
+    "honzuki-no-gekokujou-4": {
+      "slug": "honzuki-no-gekokujou-4",
+      "title": "Honzuki no Gekokujou 4",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BajRNUW50NlF0V2xvakU5RmNBWDlqWkF2TEwuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -433,38 +439,41 @@
     ],
     "rezero-kara-hajimeru-isekai-seikatsu-4th-season": [
       1
+    ],
+    "honzuki-no-gekokujou-4": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780745009917
+      "at": 1780745324938
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780745009917
+      "at": 1780745324938
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780745009917
+      "at": 1780745324938
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780745009917
+      "at": 1780745324938
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780745009917
+      "at": 1780745324938
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780745009917
+      "at": 1780745324938
     },
     {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -493,5 +502,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780745045616
+  "updatedAt": 1780745351687
 }

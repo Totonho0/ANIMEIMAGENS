@@ -3190,7 +3190,26 @@
         "hasMore": false
       },
       "at": 1780750900726
+    },
+    "todos|1|b|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Bocchi the Rock! Season 2",
+            "slug": "bocchi-the-rock-season-2",
+            "url": "https://animesonline.cloud/anime/bocchi-the-rock-season-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
+            "rating": "8.363",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 1,
+        "hasMore": false
+      },
+      "at": 1780750905117
     }
   },
-  "updatedAt": 1780750900726
+  "updatedAt": 1780750905117
 }

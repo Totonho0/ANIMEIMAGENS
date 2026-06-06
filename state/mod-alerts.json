@@ -4076,11 +4076,11 @@
       "ip": "104.23.239.16",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780687803725,
-      "lastAlertAt": 1780688217423,
+      "lastSeenAt": 1780716170743,
+      "lastAlertAt": 1780716170743,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false
+      "embedOnlineStatus": true
     },
     "ip:c900c25d9aa867f4": {
       "userKey": "ip:c900c25d9aa867f4",

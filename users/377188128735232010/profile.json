@@ -306,6 +306,12 @@
       "title": "Bocchi the Rock! Season 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9yaVJKR25iYjE4elZCRVhwb3Y4R0pLbkJjemouanBn",
       "kind": "anime"
+    },
+    "11109-weapons": {
+      "slug": "11109-weapons",
+      "title": "A Hora do Mal Weapons",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci85ZS9iMmE3ZmY2YjQzMWEzMzY0ZmU2YzA2ZjhmYWFiNjEuanBn",
+      "kind": "filme"
     }
   },
   "watched": {
@@ -487,6 +493,9 @@
     ],
     "jigokuraku-2-dublado": [
       1
+    ],
+    "11109-weapons": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -552,5 +561,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780746413171
+  "updatedAt": 1780746521893
 }

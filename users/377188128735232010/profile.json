@@ -354,6 +354,12 @@
       "title": "A Saga Crepúsculo: Eclipse",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9jQVFzanhZZGZremhyRFp3VkREdE1rc1MzNHUuanBn",
       "kind": "filme"
+    },
+    "serie/assistir-the-boys-online": {
+      "slug": "serie/assistir-the-boys-online",
+      "title": "The Boys",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS8yem1UbmduMXRZQzFBdmZuckZMaHhlRDgyaHouanBn",
+      "kind": "serie"
     }
   },
   "watched": {
@@ -568,6 +574,9 @@
     ],
     "filme/assistir-a-saga-crepusculo-eclipse-online": [
       1
+    ],
+    "serie/assistir-the-boys-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -638,5 +647,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780749510214
+  "updatedAt": 1780749708580
 }

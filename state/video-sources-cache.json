@@ -756,6 +756,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/zmLpD6cm3glwgYQFrkKbyzx3InB.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/jigokuraku-2-dublado-episodio-01"
       }
+    },
+    "anime:jigokuraku-2-dublado:2": {
+      "at": 1780746326027,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-J/Jigokuraku-2/Dub/02.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-J%2FJigokuraku-2%2FDub%2F02.mp4&ref=aoc"
+          }
+        ],
+        "episode": 2,
+        "slug": "jigokuraku-2-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/zmLpD6cm3glwgYQFrkKbyzx3InB.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/jigokuraku-2-dublado-episodio-02"
+      }
     }
   }
 }

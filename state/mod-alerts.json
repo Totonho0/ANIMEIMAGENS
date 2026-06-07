@@ -7835,17 +7835,17 @@
       "ip": "143.131.235.95",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1780837215799,
-      "lastAlertAt": 1780837210831,
+      "lastSeenAt": 1780837229772,
+      "lastAlertAt": 1780837229772,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
       "displayName": "Totonho",
       "visitorShortId": "0B6DB295",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
+      "viewingKind": "anime",
+      "viewingTitle": "Kujima: Why Sing When You Can Warble?",
+      "viewingDetail": "Episódio 01 - O primeiro Blin que você fizer será um caroço.",
+      "viewingUpdatedAt": 1780837229772
     },
     "v:bcde89dd-10f0-4cf3-9d17-da02dfc7ea15": {
       "userKey": "v:bcde89dd-10f0-4cf3-9d17-da02dfc7ea15",
@@ -10033,10 +10033,10 @@
       "displayName": "Visitante #BF300E3A",
       "visitorShortId": "BF300E3A",
       "lastSeenAt": 1780836837133,
-      "lastAlertAt": 1780836837133,
+      "lastAlertAt": 1780837229019,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

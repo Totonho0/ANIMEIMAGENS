@@ -10317,25 +10317,6 @@
       "viewingDetail": "Capitulo 1",
       "viewingUpdatedAt": 1780854117099
     },
-    "v:0b6db295-2edd-446c-b2fb-a9aba7624610": {
-      "userKey": "v:0b6db295-2edd-446c-b2fb-a9aba7624610",
-      "messageId": "1513237353978658878",
-      "channelId": "1510693609551171775",
-      "ip": "143.131.235.95",
-      "discordId": "",
-      "username": "",
-      "displayName": "Totonho",
-      "visitorShortId": "0B6DB295",
-      "lastSeenAt": 1780857228525,
-      "lastAlertAt": 1780857228525,
-      "viaBot": true,
-      "componentsOk": true,
-      "embedOnlineStatus": true,
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:b3c3e443-04be-486f-8545-3b6a71b0e880": {
       "userKey": "v:b3c3e443-04be-486f-8545-3b6a71b0e880",
       "messageId": "1513240579251765339",
@@ -10365,10 +10346,25 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "d:377188128735232010": {
+      "userKey": "d:377188128735232010",
+      "messageId": "1513249694329868449",
+      "channelId": "1510693609551171775",
+      "ip": "143.131.235.95",
+      "discordId": "377188128735232010",
+      "username": "Totonho",
+      "lastSeenAt": 1780857242039,
+      "lastAlertAt": 1780857241240,
+      "componentsOk": true,
+      "viaBot": true,
+      "embedOnlineStatus": true,
+      "displayName": "Totonho",
+      "visitorShortId": "0B6DB295"
     }
   },
   "links": {
-    "d:377188128735232010": "ip:b3f7d10708b04060",
+    "d:377188128735232010": "ip:84f757da9050388e",
     "ip:0364f613a90462fb": "d:1335061693088399476",
     "d:1335061693088399476": "ip:0364f613a90462fb",
     "ip:f081c8902731f82a": "d:1003147802139955240",
@@ -10382,6 +10378,8 @@
     "d:736671123311165632": "ip:3a76dda2412fcb84",
     "ip:b3f7d10708b04060": "d:377188128735232010",
     "v:1184c1fb-180f-4fe9-bfa2-7aa79b88fc7c": "d:1003147802139955240",
-    "v:be3f7cb6-9a93-42ad-9336-516102b9ae63": "d:1474466223709487367"
+    "v:be3f7cb6-9a93-42ad-9336-516102b9ae63": "d:1474466223709487367",
+    "v:0b6db295-2edd-446c-b2fb-a9aba7624610": "d:377188128735232010",
+    "ip:84f757da9050388e": "d:377188128735232010"
   }
 }

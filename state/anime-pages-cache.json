@@ -1757,7 +1757,7 @@
       }
     },
     "one-piece": {
-      "at": 1780844362119,
+      "at": 1780853071350,
       "data": {
         "slug": "one-piece",
         "title": "One Piece - Todos os Episodios",
@@ -7563,9 +7563,14 @@
             "number": 1164,
             "title": "Episódio 1164 - A Resolução de Saul - A Vontade Herdada de Ohara",
             "url": "https://animeplay.cloud/episodio/one-piece-episodio-1164"
+          },
+          {
+            "number": 1165,
+            "title": "Episódio 1165 - Uma recepção com xícaras de amigos e intrusos à procura de Loki",
+            "url": "https://animeplay.cloud/episodio/one-piece-episodio-1165"
           }
         ],
-        "totalEpisodes": 1160,
+        "totalEpisodes": 1161,
         "kind": "anime",
         "provider": "animeplay"
       }

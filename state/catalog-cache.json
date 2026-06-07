@@ -558,7 +558,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1780834599210
+      "at": 1780854211490
     },
     "todos|2||48": {
       "data": {
@@ -838,11 +838,154 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1780834598598
+      "at": 1780854211858
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 1165",
+            "epTitle": "Episódio 1165",
+            "slug": "one-piece",
+            "episode": 1165,
+            "url": "https://animesonline.cloud/episodio/one-piece-episodio-1165",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/xWaLwC1HBREnGx82q3aqFWCeXlk-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "maid-san-wa-taberu-dake",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/maid-san-wa-taberu-dake-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/aFUPlkgCxHpMAJkwV2dSD5eHGCi-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8uRI0phVoWDdJUweG3sf0VbYu3Y-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "ghost-concert-missing-songs",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/ghost-concert-missing-songs-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/at3JNo0bw0VMANkHqaEy1bM5JoM-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 5",
+            "epTitle": "Episódio 5",
+            "slug": "akane-banashi-dublado",
+            "episode": 5,
+            "url": "https://animesonline.cloud/episodio/akane-banashi-dublado-episodio-05",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/v9sDlKbbRQMdlMGO48eEEnBryFn-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/cQ3Oa83pQWkgJk0HSMf1UVl8jHy-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+            "episode": 8,
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-08",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/aBnhJUHJlkKykKl97uF9afv1hUs-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 7",
+            "epTitle": "Episódio 7",
+            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+            "episode": 7,
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-07",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9UoCV8PT6XhgLQIePYUA3i0ii1T-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "nippon-sangoku",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1PtkWIb0iMtCrBUCFwjmPyrwuyZ-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 34",
+            "epTitle": "Episódio 34",
+            "slug": "digimon-beatbreak",
+            "episode": 34,
+            "url": "https://animesonline.cloud/episodio/digimon-beatbreak-episodio-34",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hfOYnZSmDzfPO6Aa8uWqDZRtVdS-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/yozakura-san-chi-no-daisakusen-2-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hD93Y4uoYR21HXt727Zoo1lubyM-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/lAniGriJtY09MTnKtZyn4m7Eq3n-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/7FG6nfOXKE1gz3sIu24GquT2EaE-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 21",
             "epTitle": "Episódio 21",
@@ -963,156 +1106,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-dublado-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/qKi5caHhZZIlLq0Dk8gCL36dvGQ-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "ganbare-nakamura-kun-dublado",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5IXNxiCJnnPwH0bkBQKoKlJIP3x-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
-            "episode": 6,
-            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-06",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/27GSNADh5MnmkTwHC8pmi3SOW7G-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "koori-no-jouheki-dublado",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/koori-no-jouheki-dublado-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wXHZw8ODtjzToUJgWDUlqzABOm0-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
-            "episode": 7,
-            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-07",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/b6MZPbEHlJCBjmjLCBzf8SL4lQX-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 6",
-            "epTitle": "Episódio 6",
-            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
-            "episode": 6,
-            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-06",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/eE4fKimn3Vd1pHgEFaz5xXiPDkb-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "snowball-earth-dublado",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/snowball-earth-dublado-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5Jhaxj3sBDGB5oLj9snBz2bdqBG-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/cROJ6A6HpuhgWxoTjP3GiEAjMvZ-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "yowayowa-sensei",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/dTrs5fMuy0Z0BJRcX6j1oOOHqMK-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "honzuki-no-gekokujou-4",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/honzuki-no-gekokujou-4-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/Ai5jMAxEpUPPZJ5Jn2ZAoQv3Ai5-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "mairimashita-iruma-kun-4",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/mWDgDneX7wlSoYRfEQKouWdFs0q-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "mahou-no-shimai-lulutto-lilly",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/mahou-no-shimai-lulutto-lilly-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/x9GMNvlzrcK7QGMxZoGKMgYgyCn-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "dr-stone-science-future-4-part-3-dublado",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-dublado-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/kjhQOhCkYNGxHEuSPYhd8MlkzRO-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780834607850
+      "at": 1780854212755
     },
     "todos|2||24": {
       "data": {
@@ -3587,5 +3587,5 @@
       "at": 1780783391331
     }
   },
-  "updatedAt": 1780835129311
+  "updatedAt": 1780854212755
 }

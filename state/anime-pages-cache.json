@@ -9972,7 +9972,7 @@
       }
     },
     "ghost-concert-missing-songs": {
-      "at": 1780838806936,
+      "at": 1780839107792,
       "data": {
         "slug": "ghost-concert-missing-songs",
         "title": "GHOST CONCERT: missing Songs",
@@ -10709,6 +10709,247 @@
           }
         ],
         "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "ganbare-nakamura-kun-dublado": {
+      "at": 1780839107743,
+      "data": {
+        "slug": "ganbare-nakamura-kun-dublado",
+        "title": "Ganbare! Nakamura-kun!! Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nbzF4NFFkWGs5MGkycEhIQmZvZHNPQktuMFguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Força! Nakamura-kun! / Aula de culinária super emocionante!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Pânico! Bíblia Secreta!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Espere, será que isto é amor?!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A Água Benta Milagrosa e Mágica!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Que coisa irritante! Será que eles estão juntos?!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Quero ser seu amigo(a)!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Fantasma! Histórias de fantasmas na escola?!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-07"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Pursuit! Um Festival Cultural em uma Noite Estrelada!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Uma nova descoberta! Uma sessão de estudos depois da aula!! / Super emocionante! Sessão de autógrafos do Almoços Adoráveis",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Aproveite! A Corrida pelos Presentes! / Transformação? O Desafio do Corte de Cabelo!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-11"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "gavan-infinity": {
+      "at": 1780839107771,
+      "data": {
+        "slug": "gavan-infinity",
+        "title": "Chou Uchuu Keiji Gavan Infinity",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xc25WMHJKUGJXT1VlaVRaSFpUTEVyYldDc1kuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Gavan Vermelho",
+            "url": "https://animeplay.cloud/episodio/gavan-infinity-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Duas Espadas",
+            "url": "https://animeplay.cloud/episodio/gavan-infinity-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Kiki e Koto",
+            "url": "https://animeplay.cloud/episodio/gavan-infinity-episodio-03"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "go-for-it-nakamura-kun": {
+      "at": 1780839107799,
+      "data": {
+        "slug": "go-for-it-nakamura-kun",
+        "title": "Ganbare! Nakamura-kun!!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nbzF4NFFkWGs5MGkycEhIQmZvZHNPQktuMFguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Força! Nakamura-kun! / Aula de culinária super emocionante!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Pânico! Bíblia Secreta!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Espere, será que isto é amor?!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A Água Benta Milagrosa e Mágica!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Que coisa irritante! Será que eles estão juntos?!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Quero ser seu amigo(a)!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Fantasma! Histórias de fantasmas na escola?!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Crise! Um rival aparece?!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Pursuit! Um Festival Cultural em uma Noite Estrelada!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Uma nova descoberta! Uma sessão de estudos depois da aula!! / Super emocionante! Sessão de autógrafos do Almoços Adoráveis",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Aproveite! A Corrida pelos Presentes! / Transformação? O Desafio do Corte de Cabelo!!",
+            "url": "https://animeplay.cloud/episodio/ganbare-nakamura-kun-episodio-11"
+          }
+        ],
+        "totalEpisodes": 11,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "golden-kamuy-saishuushou": {
+      "at": 1780839107823,
+      "data": {
+        "slug": "golden-kamuy-saishuushou",
+        "title": "Golden Kamuy Final Season",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94NDlEZHRFSk9sdVhXVjVoRjBhR01yRlplT1IuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Cidade das Reuniões",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Soltando Fogos",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Número um de Tokushirou-san",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Criar uma Terra Natal",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Osso do Mindinho",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Raiz de Todo o Mal",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Ipopte",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - História de amor em Tóquio",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Tiro de partida da determinação",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Nosso Kamuy",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Batalha de Goryoukaku",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Bushido",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Filha de Wilk",
+            "url": "https://animeplay.cloud/episodio/golden-kamuy-saishuushou-episodio-13"
+          }
+        ],
+        "totalEpisodes": 13,
         "kind": "anime",
         "provider": "animeplay"
       }

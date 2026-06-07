@@ -143,7 +143,7 @@
       }
     },
     "akane-banashi-dublado": {
-      "at": 1780830462875,
+      "at": 1780830527060,
       "data": {
         "slug": "akane-banashi-dublado",
         "title": "Akane-banashi Dublado",
@@ -251,7 +251,7 @@
       }
     },
     "aishiteru-game-wo-owarasetai-dublado": {
-      "at": 1780830463366,
+      "at": 1780830527058,
       "data": {
         "slug": "aishiteru-game-wo-owarasetai-dublado",
         "title": "Aishiteru Game wo Owarasetai Dublado",
@@ -1191,7 +1191,7 @@
       }
     },
     "bocchi-the-rock-season-2": {
-      "at": 1780830469469,
+      "at": 1780830525986,
       "data": {
         "slug": "bocchi-the-rock-season-2",
         "title": "Bocchi the Rock! Season 2",
@@ -7902,6 +7902,376 @@
           }
         ],
         "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "dandelion-dublado": {
+      "at": 1780830527459,
+      "data": {
+        "slug": "dandelion-dublado",
+        "title": "Dandelion Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93QlQxcGtCa1prOWpreXRieFVnaElEV0VxOFQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 7,
+            "title": "Episódio 07 - Faça o que só pode ser feito agora!",
+            "url": "https://animesonline.cloud/episodio/dandelion-dublado-episodio-07"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "dandelion": {
+      "at": 1780830527789,
+      "data": {
+        "slug": "dandelion",
+        "title": "Dandelion",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93QlQxcGtCa1prOWpreXRieFVnaElEV0VxOFQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 7,
+            "title": "Episódio 07 - Faça o que só pode ser feito agora!",
+            "url": "https://animesonline.cloud/episodio/dandelion-episodio-07"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "haikyuu-dublado": {
+      "at": 1780830527809,
+      "data": {
+        "slug": "haikyuu-dublado",
+        "title": "Haikyuu!! Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O fim e o começo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Clube de Voleibol da Escola Karasuno",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Aliado Formidável",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A vista do topo da cúpula",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - A ansiedade de um covarde",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Uma equipe interessante",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Contra o Grande Rei",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Aquele que é chamado de \"Ás\"",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Um lançamento para o Ás",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Anseio",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Decisão",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O reencontro Neko-Karasu",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Rival",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Adversários Formidáveis",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - Renascimento",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Vencedores e Perdedores",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - A Muralha de Ferro",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Protegendo suas costas",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - Condutores",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Oikawa Toru não é um gênio",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - As verdadeiras habilidades do Senpai",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - Evolução",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - O ponto que muda o ímpeto",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - Removendo o Rei Solitário",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 - O Terceiro Dia",
+            "url": "https://animesonline.cloud/episodio/haikyuu-dublado-episodio-25"
+          }
+        ],
+        "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "haikyuu": {
+      "at": 1780830528197,
+      "data": {
+        "slug": "haikyuu",
+        "title": "Haikyuu!!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O fim e o começo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Clube de Voleibol do Colégio Karasuno",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Um aliado formidável",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A visão do topo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - A ansiedade do covarde",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Um time interessante",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Contra o Grande Rei",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O dito \"Ace\"",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Um toque pro Ace",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Admiração",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Decisão",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O reencontro Neko-Karasu",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Rival",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Adversários formidáveis",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - Renascimento",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Vencedores e perdedores",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - A Muralha de Ferro",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Protegendo as costas",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - Maestros",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Oikawa Tooru não é um prodígio",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - A verdadeira força do senpai",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - Progresso",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - O ponto que muda o ritmo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - Ex-rei solitário",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 - O terceiro dia",
+            "url": "https://animesonline.cloud/episodio/haikyuu-episodio-25"
+          }
+        ],
+        "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "devil-may-cry-2026-dublado": {
+      "at": 1780830528219,
+      "data": {
+        "slug": "devil-may-cry-2026-dublado",
+        "title": "Devil May Cry 2 (2026) Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uTHlYWElETXBESHZVZ3hjaGV6eHVob0o0RWouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Os Caídos",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Sombras",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - A Pantera, O Leão, O Lobo",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Um Poço de Serpentes",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Jardim dos Pecados Mortais",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Purgatório",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - À Cidade do Lamento",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Os estandartes do rei saem do inferno",
+            "url": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
         "kind": "anime",
         "provider": "aoc"
       }

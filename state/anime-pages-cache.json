@@ -10648,6 +10648,70 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "kami-no-niwatsuki-kusunoki-tei": {
+      "at": 1780837167975,
+      "data": {
+        "slug": "kami-no-niwatsuki-kusunoki-tei",
+        "title": "Kami no Niwatsuki Kusunoki-tei",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9jWFBhV1dvbGFjakhIS1l2TGxwT1EwajhvMFguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Um Deus da Montanha Visita o Jardim dos Deuses",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Santuário na Montanha e a Árvore Sagrada no Jardim",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Treine no reino sagrado para dominar o poder do vento",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Partindo para o Outro Mundo para Exorcizar o Espírito Maligno",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Reino Kami da Deusa e o Poder de Selar Coisas",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Venha e desfrute do jardim da primavera",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - A chave para desbloquear o poder está nas memórias.",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Conexão ancestral com a montanha vizinha",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Visitantes indesejados durante um passeio pela cidade",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Treinamento não solicitado com um Deus furioso",
+            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-10"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

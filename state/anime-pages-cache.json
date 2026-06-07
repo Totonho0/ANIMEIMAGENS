@@ -50,7 +50,7 @@
       }
     },
     "uzumaki": {
-      "at": 1780830462384,
+      "at": 1780835065635,
       "data": {
         "slug": "uzumaki",
         "title": "Uzumaki - Todos os Episódios",
@@ -143,7 +143,7 @@
       }
     },
     "akane-banashi-dublado": {
-      "at": 1780830527060,
+      "at": 1780835069580,
       "data": {
         "slug": "akane-banashi-dublado",
         "title": "Akane-banashi Dublado",
@@ -251,7 +251,7 @@
       }
     },
     "aishiteru-game-wo-owarasetai-dublado": {
-      "at": 1780830527058,
+      "at": 1780835070075,
       "data": {
         "slug": "aishiteru-game-wo-owarasetai-dublado",
         "title": "Aishiteru Game wo Owarasetai Dublado",
@@ -1792,7 +1792,7 @@
       }
     },
     "one-piece": {
-      "at": 1780830472180,
+      "at": 1780835067774,
       "data": {
         "slug": "one-piece",
         "title": "One Piece - Todos os Episodios",
@@ -7606,7 +7606,7 @@
       }
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
-      "at": 1780830472661,
+      "at": 1780835066853,
       "data": {
         "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
         "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
@@ -7680,7 +7680,7 @@
       }
     },
     "maou-sama-retry": {
-      "at": 1780830473016,
+      "at": 1780835069640,
       "data": {
         "slug": "maou-sama-retry",
         "title": "Maou-sama, Retry! 2 - Todos os Episódios",
@@ -7754,7 +7754,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1780830473047,
+      "at": 1780835067649,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
@@ -7833,7 +7833,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1780830473225,
+      "at": 1780835067061,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -7945,7 +7945,7 @@
       }
     },
     "haikyuu-dublado": {
-      "at": 1780830527809,
+      "at": 1780835070245,
       "data": {
         "slug": "haikyuu-dublado",
         "title": "Haikyuu!! Dublado",
@@ -8084,7 +8084,7 @@
       }
     },
     "haikyuu": {
-      "at": 1780830528197,
+      "at": 1780835070709,
       "data": {
         "slug": "haikyuu",
         "title": "Haikyuu!!",
@@ -8223,7 +8223,7 @@
       }
     },
     "devil-may-cry-2026-dublado": {
-      "at": 1780830528219,
+      "at": 1780835069956,
       "data": {
         "slug": "devil-may-cry-2026-dublado",
         "title": "Devil May Cry 2 (2026) Dublado",
@@ -8272,6 +8272,538 @@
           }
         ],
         "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kanojo-okarishimasu-5th-season-dublado": {
+      "at": 1780835067431,
+      "data": {
+        "slug": "kanojo-okarishimasu-5th-season-dublado",
+        "title": "Kanojo Okarishimasu 5th Season Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bGxmeTk4U1Rrbm8xMXJER2k0NFNLNmxsd3guanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Minha ex-namorada, Nanami Mami",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Namorada de aluguel",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Fim da Namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Clímax e Namorada",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Namorada legítima",
+            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-05"
+          }
+        ],
+        "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "haikyuu-second-season": {
+      "at": 1780835068169,
+      "data": {
+        "slug": "haikyuu-second-season",
+        "title": "Haikyuu!! Second Season",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vamos para Tóquio!!",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Luz solar direta",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Morador da cidade B",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Centro Ace",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Ambição",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Tempo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Nascer da Lua",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Herói Ilusório",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - VS \"Guarda-chuva\"",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Engrenagens",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Acima",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Que os jogos comecem!",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Uma força simples e pura",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Ainda em crescimento",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - Lugar para brincar",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Próximo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - A batalha sem força de vontade",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Os Perdedores",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - A Muralha de Ferro Pode Ser Reconstruída Inúmeras Vezes",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Eliminando",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - O Destruidor",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - A Luta do Antigo Covarde",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - Equipe",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - O interruptor de limite absoluto",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 - Declaração de Guerra",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-episodio-25"
+          }
+        ],
+        "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "needy-girl-overdose-dublado": {
+      "at": 1780835068389,
+      "data": {
+        "slug": "needy-girl-overdose-dublado",
+        "title": "Needy Girl Overdose Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kb3QxTkk2RjVJckxjazh4V0lPbjc0aWVhREguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Ela é uma Rainha Assassina",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Só nós dois",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - SOBREDOSE DE INTERNET",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Chamada de Londres",
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "haikyuu-second-season-dublado": {
+      "at": 1780835068775,
+      "data": {
+        "slug": "haikyuu-second-season-dublado",
+        "title": "Haikyuu!! Second Season Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vamos para Tóquio!!",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Luz solar direta",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Morador da cidade B",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Centro Ace",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Ambição",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Tempo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Nascer da Lua",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Herói Ilusório",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - VS \"Guarda-chuva\"",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Engrenagens",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Acima",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Que os jogos comecem!",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Uma força simples e pura",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Ainda em crescimento",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - Lugar para brincar",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Próximo",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - A batalha sem força de vontade",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Os Perdedores",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - A Muralha de Ferro Pode Ser Reconstruída Inúmeras Vezes",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Eliminando",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-20"
+          },
+          {
+            "number": 21,
+            "title": "Episódio 21 - O Destruidor",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-21"
+          },
+          {
+            "number": 22,
+            "title": "Episódio 22 - A Luta do Antigo Covarde",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-22"
+          },
+          {
+            "number": 23,
+            "title": "Episódio 23 - Equipe",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-23"
+          },
+          {
+            "number": 24,
+            "title": "Episódio 24 - O interruptor de limite absoluto",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-24"
+          },
+          {
+            "number": 25,
+            "title": "Episódio 25 - Declaração de Guerra",
+            "url": "https://animesonline.cloud/episodio/haikyuu-second-season-dublado-episodio-25"
+          }
+        ],
+        "totalEpisodes": 25,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "tensei-shitara-slime-datta-ken-4th-season-dublado": {
+      "at": 1780835069365,
+      "data": {
+        "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+        "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94empaRHlxVW9idUp0a0JsamhnTEg0RmRueWUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Novos dias",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Evolução da Masmorra",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - É formada a Equipe Avatar",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Convite",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O primeiro passo",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - O Conselho do Ocidente",
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
+      "at": 1780835069854,
+      "data": {
+        "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nVDFrVjF1dGVZVE9iV1JIcWpNbFhIR1pzUGwuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Assassino da Sala Branca",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Contrato e Pagamento",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Determinação de um Líder",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A quem a lâmina se volta",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Homem dos 20 Milhões de Ienes",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Uma batalha turbulenta pelo recrutamento",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Planejando",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Assunto do Olhar dos Dragões",
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "tsue-to-tsurugi-no-wistoria-2-dublado": {
+      "at": 1780835070469,
+      "data": {
+        "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+        "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vU3lCbkdiN3RrY2J2NGpkQkpYNVRZRnY4bTMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Dia da Barreira",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Festa do Inferno Começa",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Um Único Feitiço",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - E a História Começa",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O Dia da Partida",
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-05"
+          }
+        ],
+        "totalEpisodes": 5,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "marriagetoxin-dublado": {
+      "at": 1780835070493,
+      "data": {
+        "slug": "marriagetoxin-dublado",
+        "title": "Marriagetoxin Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - A Busca do Mestre dos Venenos por uma Noiva",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Afinal, o que é \"charme\"?",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Meu Primeiro",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Mestre do Som",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Senhor Chladni",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Juntos comigo",
+            "url": "https://animesonline.cloud/episodio/marriagetoxin-dublado-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
         "kind": "anime",
         "provider": "aoc"
       }

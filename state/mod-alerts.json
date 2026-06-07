@@ -9900,13 +9900,17 @@
       "ip": "43.159.136.201",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #5BB2392C",
-      "visitorShortId": "5BB2392C",
       "lastSeenAt": 1780833197313,
       "lastAlertAt": 1780833609507,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "viaBot": true,
+      "embedOnlineStatus": false,
+      "displayName": "Visitante #5BB2392C",
+      "visitorShortId": "5BB2392C",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

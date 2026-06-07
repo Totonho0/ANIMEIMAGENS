@@ -9880,7 +9880,7 @@
       }
     },
     "cool-de-m": {
-      "at": 1780839103271,
+      "at": 1780859180759,
       "data": {
         "slug": "cool-de-m",
         "title": "Cool de M",
@@ -9890,17 +9890,17 @@
           {
             "number": 1,
             "title": "Episódio 01 - Uma mulher que não perde a compostura",
-            "url": "https://animeplay.cloud/episodio/cool-de-m-episodio-01"
+            "url": "https://animesonline.cloud/episodio/cool-de-m-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - A mulher que nunca vacila",
-            "url": "https://animeplay.cloud/episodio/cool-de-m-episodio-02"
+            "url": "https://animesonline.cloud/episodio/cool-de-m-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "animeplay"
+        "provider": "aoc"
       }
     },
     "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi": {
@@ -11081,6 +11081,536 @@
         "totalEpisodes": 21,
         "kind": "anime",
         "provider": "animeplay"
+      }
+    },
+    "overflow-dublado": {
+      "at": 1780859179017,
+      "data": {
+        "slug": "overflow-dublado",
+        "title": "Overflow Dublado - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sYk1lbmMzbUlxeG5FeFVzZENZUWlDMkJvemwuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Irmãs suaves e banho",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Garota Sonhadora ao Meu Lado",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Aproximando-se de dois corações",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Quente, incomodado e fora de controle",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Escondidos juntos, corações acelerados",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Derramando meu coração para você",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - A Sedução do Avental",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Para sempre louca por duas irmãs",
+            "url": "https://animesonline.cloud/episodio/overflow-dublado-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "mujin-eki-the-animation": {
+      "at": 1780859182205,
+      "data": {
+        "slug": "mujin-eki-the-animation",
+        "title": "Mujin Eki The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDkvaHUyTnMyU3BjUDVmRU5ObW1XSlJNZHdPTUJ5LmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/mujin-eki-the-animation-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "no-waifu-no-life": {
+      "at": 1780859182190,
+      "data": {
+        "slug": "no-waifu-no-life",
+        "title": "No Waifu No Life!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvTm8tV2FpZnUtTm8tTGlmZS5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episodio 01",
+            "url": "https://animesonline.cloud/episodio/no-waifu-no-life-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episodio 02",
+            "url": "https://animesonline.cloud/episodio/no-waifu-no-life-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "yatara-yarashii-fukami-kun": {
+      "at": 1780859182146,
+      "data": {
+        "slug": "yatara-yarashii-fukami-kun",
+        "title": "Yatara Yarashii Fukami-kun",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xbThDQjV1b1FjMFI0d1JyWlVTZ1VaSWJmejAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Um cara que combina com o Sr. Perfeito",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Qual é o seu jogo, Zero?!",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Fukami e... uma garota?!",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Diga meu nome",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Não vou pegar leve com você!",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Desculpe, estou resfriado",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Não pude deixar de me sentir atraído",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - É tão ruim se eu me apaixonar?",
+            "url": "https://animesonline.cloud/episodio/yatara-yarashii-fukami-kun-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "ito-wo-yoru": {
+      "at": 1780859182176,
+      "data": {
+        "slug": "ito-wo-yoru",
+        "title": "Ito wo Yoru",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvSXRvLXdvLVlvcnUtMTg1eDI2MS0xLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episodio 01",
+            "url": "https://animesonline.cloud/episodio/ito-wo-yoru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episodio 02",
+            "url": "https://animesonline.cloud/episodio/ito-wo-yoru-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "yarichin-bitch-club": {
+      "at": 1780859179838,
+      "data": {
+        "slug": "yarichin-bitch-club",
+        "title": "Yarichin Bitch Club",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sVEdUUTAyQmNpNlNJbmNxRTFhbGp1eTNOSzcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/yarichin-bitch-club-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/yarichin-bitch-club-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "oni-chichi-harem": {
+      "at": 1780859182162,
+      "data": {
+        "slug": "oni-chichi-harem",
+        "title": "Oni Chichi Harem",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEveTd3OVZZamE0R3hERVFuTklHTDYwRW5SYWExLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episode 01",
+            "url": "https://animesonline.cloud/episodio/oni-chichi-harem-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "yoasobi-gurashi": {
+      "at": 1780859180247,
+      "data": {
+        "slug": "yoasobi-gurashi",
+        "title": "Yoasobi Gurashi!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvd3h2b3NsMWd3Yko4MHVYQ2hSb2paczNSUDZJLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animesonline.cloud/episodio/yoasobi-gurashi-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu": {
+      "at": 1780859180667,
+      "data": {
+        "slug": "ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu",
+        "title": "Ateuma Chara No Kuse Shite Supadari Ouji Ni Choai Sareteimasu",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9rS000MTViZnYzbjBzMzZHWHJRSUtEVlZ5SUguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 2,
+            "title": "Episódio 02 - Vamos recriar a magia de ontem",
+            "url": "https://animesonline.cloud/episodio/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Não importa quais segredos você tenha...",
+            "url": "https://animesonline.cloud/episodio/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Esse amor é uma ilusão?",
+            "url": "https://animesonline.cloud/episodio/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Eu quero te amar, de manhã até a noite, para sempre.",
+            "url": "https://animesonline.cloud/episodio/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Obrigado por me ensinar a amar",
+            "url": "https://animesonline.cloud/episodio/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Das profundezas dos nossos seres",
+            "url": "https://animesonline.cloud/episodio/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Eu te adoro, Loneal",
+            "url": "https://animesonline.cloud/episodio/ateuma-chara-no-kuse-shite-supadari-ouji-ni-choai-sareteimasu-episodio-08"
+          }
+        ],
+        "totalEpisodes": 7,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "shounen-ga-otona-ni-natta-natsu": {
+      "at": 1780859182293,
+      "data": {
+        "slug": "shounen-ga-otona-ni-natta-natsu",
+        "title": "Shounen ga Otona ni Natta Natsu",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvU2hvdW5lbi1nYS1PdG9uYS1uaS1OYXR0YS1OYXRzdS1BbmltZS1Ecml2ZS5wbmc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-03"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "taishou-itsuwari-bridal": {
+      "at": 1780859181100,
+      "data": {
+        "slug": "taishou-itsuwari-bridal",
+        "title": "Taishou Itsuwari Bridal",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvYWRMdVJVYUl6eTQ0blVFeFlqVWl4MlpLanFNLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animesonline.cloud/episodio/taishou-itsuwari-bridal-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "yumemiru-otome": {
+      "at": 1780859181509,
+      "data": {
+        "slug": "yumemiru-otome",
+        "title": "Yumemiru Otome",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91U0cyMzdkQVdhalVzWW44VGhNV2RHRVdCWEIuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/yumemiru-otome-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/yumemiru-otome-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "kuro-gal-a-la-carte": {
+      "at": 1780859182221,
+      "data": {
+        "slug": "kuro-gal-a-la-carte",
+        "title": "Kuro Gal a La Carte",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC80aDRwTmRJZkxBb0NzaTVMcHhNekxBWjd2NjYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Teddy Steady / Teddy Steady Mais um!!",
+            "url": "https://animesonline.cloud/episodio/kuro-gal-a-la-carte-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Oohata-san wa Risou no Gal / Gal no Kawaii Mieppari",
+            "url": "https://animesonline.cloud/episodio/kuro-gal-a-la-carte-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "modaete-yo-adam-kun": {
+      "at": 1780859181778,
+      "data": {
+        "slug": "modaete-yo-adam-kun",
+        "title": "Modaete yo, Adam-kun",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9iTTRuQ3luT1NBNW9DTnFMc3FiMUZvNTZzWlEuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Se você quer simpatizar comigo, você precisa sofrer também!",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Deixe que o professor acalme as coisas!",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Parei de Esconder Isso",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Encontrando um noivo",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Então, temos um acordo?",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - O \"Príncipe\" que Ama Ler",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Três no Chuveiro",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Tenha certeza de que você me escolheu",
+            "url": "https://animesonline.cloud/episodio/modaete-yo-adam-kun-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "aoc"
+      }
+    },
+    "ikumonogakari-the-animation": {
+      "at": 1780859182040,
+      "data": {
+        "slug": "ikumonogakari-the-animation",
+        "title": "Ikumonogakari The Animation - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sU1NVS0tkUk40QWhFQnNROHlJcU1jY1RFcXouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animesonline.cloud/episodio/ikumonogakari-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animesonline.cloud/episodio/ikumonogakari-the-animation-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "aoc"
       }
     }
   }

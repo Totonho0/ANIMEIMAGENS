@@ -1,7 +1,7 @@
 {
   "entries": {
     "uzumaki": {
-      "at": 1780793775925,
+      "at": 1780818870761,
       "data": {
         "slug": "uzumaki",
         "title": "Uzumaki - Todos os Episódios",
@@ -394,7 +394,7 @@
       }
     },
     "one-piece": {
-      "at": 1780793776708,
+      "at": 1780818870364,
       "data": {
         "slug": "one-piece",
         "title": "One Piece - Todos os Episodios",
@@ -6922,7 +6922,7 @@
       }
     },
     "yowayowa-sensei": {
-      "at": 1780793787102,
+      "at": 1780818868814,
       "data": {
         "slug": "yowayowa-sensei",
         "title": "Yowayowa Sensei",
@@ -6968,9 +6968,14 @@
             "number": 8,
             "title": "Episódio 08 - Um Campo de Treinamento de Fotografia Fraco e Medroso (2)",
             "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Um espetáculo de fogos de artifício",
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-09"
           }
         ],
-        "totalEpisodes": 8,
+        "totalEpisodes": 9,
         "kind": "anime",
         "provider": "aoc"
       }

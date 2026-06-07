@@ -10326,11 +10326,15 @@
       "username": "",
       "displayName": "Visitante #AFA7B3A7",
       "visitorShortId": "AFA7B3A7",
-      "lastSeenAt": 1780854100836,
-      "lastAlertAt": 1780854098693,
+      "lastSeenAt": 1780854117099,
+      "lastAlertAt": 1780854117099,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "manga",
+      "viewingTitle": "Kimetsu no Yaiba",
+      "viewingDetail": "Capitulo 1",
+      "viewingUpdatedAt": 1780854117099
     }
   },
   "links": {

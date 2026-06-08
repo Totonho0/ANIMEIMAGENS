@@ -402,9 +402,6 @@
     "uzumaki": [
       1
     ],
-    "haikyuu-second-season": [
-      1
-    ],
     "stranger-things-historias-de-85-dublado": [
       1
     ],
@@ -494,9 +491,6 @@
       1
     ],
     "kanojo-okarishimasu-5th-season-dublado": [
-      1
-    ],
-    "haikyuu-second-season": [
       1
     ],
     "otaku-ni-yasashii-gal-wa-inai": [
@@ -604,11 +598,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "haikyuu-second-season",
-      "ep": 1,
-      "at": 1780957499771
-    },
-    {
       "slug": "uzumaki",
       "ep": 1,
       "at": 1780957499771
@@ -660,5 +649,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780957789343
+  "updatedAt": 1780957790633
 }

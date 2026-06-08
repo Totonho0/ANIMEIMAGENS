@@ -304,7 +304,7 @@
     "bocchi-the-rock-season-2": {
       "slug": "bocchi-the-rock-season-2",
       "title": "Bocchi the Rock! Season 2",
-      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9yaVJKR25iYjE4elZCRVhwb3Y4R0pLbkJjemouanBn",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvaHd3bUg4TklObGNDMW5xNm9iTDNhdHoySERZLTE4NXgyNzguanBn",
       "kind": "anime"
     },
     "11109-weapons": {
@@ -589,46 +589,49 @@
     ],
     "11761-": [
       1
+    ],
+    "bocchi-the-rock-season-2": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
-      "slug": "stranger-things-historias-de-85-dublado",
-      "ep": 1,
-      "at": 1780750618313
-    },
-    {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780750618313
+      "at": 1780949778644
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780750618313
+      "at": 1780949778644
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780750618313
+      "at": 1780949778644
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780750618313
+      "at": 1780949778644
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780750618313
+      "at": 1780949778644
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780750618313
+      "at": 1780949778644
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+      "ep": 1,
+      "at": 1780949778644
+    },
+    {
+      "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
       "at": 1780750618313
     },
@@ -664,5 +667,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780750776216
+  "updatedAt": 1780951572718
 }

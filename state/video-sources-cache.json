@@ -1433,6 +1433,44 @@
         "poster": "https://image.tmdb.org/t/p/w780/1EF4DNLms1i1hSRPLECQNVvs5T6.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-03"
       }
+    },
+    "anime:invencivel-4-dublado:1": {
+      "at": 1780951731462,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-I%2FInvencivel-4%2FDub%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "invencivel-4-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/invencivel-4-dublado-episodio-01"
+      }
+    },
+    "anime:invencivel-4-dublado:3": {
+      "at": 1780951731665,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/03.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-I%2FInvencivel-4%2FDub%2F03.mp4&ref=aoc"
+          }
+        ],
+        "episode": 3,
+        "slug": "invencivel-4-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/invencivel-4-dublado-episodio-03"
+      }
     }
   }
 }

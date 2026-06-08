@@ -408,9 +408,6 @@
     "kami-no-niwatsuki-kusunoki-tei": [
       1
     ],
-    "haikyuu-dublado": [
-      1
-    ],
     "stranger-things-historias-de-85-dublado": [
       1
     ],
@@ -427,9 +424,6 @@
       2
     ],
     "haikyuu": [
-      1
-    ],
-    "haikyuu-dublado": [
       1
     ],
     "tsue-to-tsurugi-no-wistoria-2-dublado": [
@@ -616,11 +610,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "haikyuu-dublado",
-      "ep": 1,
-      "at": 1780957499771
-    },
-    {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
       "at": 1780957499771
@@ -682,5 +671,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780957787007
+  "updatedAt": 1780957788087
 }

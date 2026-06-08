@@ -378,6 +378,13 @@
       "title": "Todo no Tsumari",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94ektRemNBNkkwRWh1NDhOcFFBQWV2ZTk1WmkuanBn",
       "kind": "anime"
+    },
+    "medalist-2-dublado": {
+      "slug": "medalist-2-dublado",
+      "title": "Medalist 2nd Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tZ0JZR0laZFFmdE5xUkpGNEhUSE5KZGZVQmQuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -609,43 +616,46 @@
     ],
     "liar-game": [
       10
+    ],
+    "medalist-2-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780957796094
+      "at": 1780958462873
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780957796094
+      "at": 1780958462873
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780957796094
+      "at": 1780958462873
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780957796094
+      "at": 1780958462873
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780957796094
+      "at": 1780958462873
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780957796094
+      "at": 1780958462873
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780957796094
+      "at": 1780958462873
     },
     {
       "slug": "invencivel-4-dublado",
@@ -689,5 +699,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780957795852
+  "updatedAt": 1780958532702
 }

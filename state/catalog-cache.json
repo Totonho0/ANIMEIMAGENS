@@ -846,6 +846,17 @@
           {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
+            "slug": "jewelry-the-animation",
+            "episode": 1,
+            "url": "https://animesonline.cloud/episodio/jewelry-the-animation-episodio-01",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/eTwpAMo9jrqjp2ERqRQumyDplE9-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 1",
+            "epTitle": "Episódio 1",
             "slug": "mark-your-kiss-the-animation",
             "episode": 1,
             "url": "https://animesonline.cloud/episodio/mark-your-kiss-the-animation-episodio-01",
@@ -1051,35 +1062,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 21",
-            "epTitle": "Episódio 21",
-            "slug": "yuusha-no-kuzu",
-            "episode": 21,
-            "url": "https://animesonline.cloud/episodio/yuusha-no-kuzu-episodio-21",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nvaH8Y1q65V3o2rnsBSPa6FEycz-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "ichijouma-mankitsugurashi",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wQPzCKazmKBa1aNrZJrBzzRL9fv-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780944572017
+      "at": 1780949782040
     },
     "todos|2||24": {
       "data": {
@@ -1135,6 +1124,24 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Stranger Things: Histórias de 85 Dublado",
+            "slug": "stranger-things-historias-de-85-dublado",
+            "url": "https://animesonline.cloud/anime/stranger-things-historias-de-85-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
+            "rating": "7.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shunkashuutou Daikousha: Haru no Mai Dublado",
+            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+            "url": "https://animesonline.cloud/anime/shunkashuutou-daikousha-haru-no-mai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/8djjRBlmadmJkb6pmPY4orxLwml-185x278.jpg",
+            "rating": "7.71",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -1281,31 +1288,13 @@
             "rating": "8.2",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kujima Utaeba Ie Hororo",
-            "slug": "kujima-utaeba-ie-hororo",
-            "url": "https://animesonline.cloud/anime/kujima-utaeba-ie-hororo",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/agXbnHcwfL0kfh46mjaZbBxKlXQ-185x278.jpg",
-            "rating": "7.1",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Re:Zero kara Hajimeru Isekai Seikatsu Dublado 4th Season",
-            "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
-            "url": "https://animesonline.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/lyEb7V91L2P1Q8SLDbmteAv2YXk-185x278.jpg",
-            "rating": "8.65",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780944572705
+      "at": 1780949782941
     },
     "todos|1||24": {
       "data": {
@@ -1361,6 +1350,24 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jewelry The Animation",
+            "slug": "jewelry-the-animation",
+            "url": "https://animesonline.cloud/anime/jewelry-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/k6o2BKQkVQwYK3XCtKO9R4paJB0-185x278.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+            "slug": "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
+            "url": "https://animesonline.cloud/anime/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -1507,31 +1514,13 @@
             "rating": "8.607",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Haikyuu!!",
-            "slug": "haikyuu",
-            "url": "https://animesonline.cloud/anime/haikyuu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/6GvKbKG4hYyUE2P0QXdRCcgW4A8-185x278.jpg",
-            "rating": "8.607",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kanojo Okarishimasu 5th Season Dublado",
-            "slug": "kanojo-okarishimasu-5th-season-dublado",
-            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu-5th-season-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/w3o5wpqScVw1J3txAq8DfKv0vpR-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780944570000
+      "at": 1780949781129
     },
     "todos|3||24": {
       "data": {
@@ -3994,5 +3983,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780944572705
+  "updatedAt": 1780949782941
 }

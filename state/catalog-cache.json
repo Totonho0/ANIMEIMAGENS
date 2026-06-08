@@ -846,6 +846,17 @@
           {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
+            "slug": "todo-no-tsumari",
+            "episode": 1,
+            "url": "https://animesonline.cloud/episodio/todo-no-tsumari-episodio-01",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/thC8pq8cyC6Ms7vnp4cFGTKLFg7-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 1",
+            "epTitle": "Episódio 1",
             "slug": "jewelry-the-animation",
             "episode": 1,
             "url": "https://animesonline.cloud/episodio/jewelry-the-animation-episodio-01",
@@ -1051,24 +1062,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "ace-of-the-diamond-act-ii-season-2",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/7FG6nfOXKE1gz3sIu24GquT2EaE-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780949782040
+      "at": 1780951664525
     },
     "todos|2||24": {
       "data": {
@@ -1124,6 +1124,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "url": "https://animesonline.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/2F7zlgOtk9z0FGn2EjOFWDjGcBP-185x278.jpg",
+            "rating": "6.85",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -1279,22 +1288,13 @@
             "rating": "7.4",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Himekishi wa Barbaroi no Yome",
-            "slug": "himekishi-wa-barbaroi-no-yome",
-            "url": "https://animesonline.cloud/anime/himekishi-wa-barbaroi-no-yome",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/dBTihfaorYtEz8fnT8nMITYmQwa-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780949782941
+      "at": 1780951665696
     },
     "todos|1||24": {
       "data": {
@@ -3983,5 +3983,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780951662433
+  "updatedAt": 1780951665696
 }

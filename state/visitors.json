@@ -18828,6 +18828,22 @@
       "createdAt": 1780956972146,
       "lastSeenAt": 1780956972146,
       "lastIp": "143.131.235.95"
+    },
+    "485e01d9-4d8a-4fbd-bb08-205d9889af90": {
+      "id": "485e01d9-4d8a-4fbd-bb08-205d9889af90",
+      "displayName": "Visitante #485E01D9",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "favorites": [],
+      "watchLater": [],
+      "mangaFavorites": [],
+      "library": {},
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1780957121090,
+      "lastSeenAt": 1780957121090,
+      "lastIp": "::ffff:100.64.0.2"
     }
   }
 }

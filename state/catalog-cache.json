@@ -1128,6 +1128,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
+            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "url": "https://animesonline.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
             "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
             "url": "https://animesonline.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
@@ -1279,22 +1288,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Awajima Hyakkei",
-            "slug": "a-hundred-scenes-of-awajima",
-            "url": "https://animesonline.cloud/anime/a-hundred-scenes-of-awajima",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
-            "rating": "7.4",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780951665696
+      "at": 1780956977747
     },
     "todos|1||24": {
       "data": {
@@ -3983,5 +3983,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780956975898
+  "updatedAt": 1780956977747
 }

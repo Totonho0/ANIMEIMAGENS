@@ -425,9 +425,6 @@
     ],
     "invencivel-4-dublado": [
       1
-    ],
-    "todo-no-tsumari": [
-      1
     ]
   },
   "started": {
@@ -617,9 +614,6 @@
     "mark-your-kiss-the-animation": [
       1
     ],
-    "todo-no-tsumari": [
-      1
-    ],
     "jewelry-the-animation": [
       1
     ],
@@ -631,11 +625,6 @@
     ]
   },
   "watchHistoryLog": [
-    {
-      "slug": "todo-no-tsumari",
-      "ep": 1,
-      "at": 1780957499771
-    },
     {
       "slug": "akane-banashi",
       "ep": 1,
@@ -713,5 +702,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780957499538
+  "updatedAt": 1780957783753
 }

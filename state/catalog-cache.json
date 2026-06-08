@@ -1227,60 +1227,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Seishidouin no Oshigoto",
-            "slug": "seishidouin-no-oshigoto",
-            "url": "https://animesonline.cloud/anime/seishidouin-no-oshigoto",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vUwUCE6THUAuJHiS8h7mOBE8zrF-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Todo no Tsumari",
-            "slug": "todo-no-tsumari",
-            "url": "https://animesonline.cloud/anime/todo-no-tsumari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rhnMK81jRjMK1HysXSIvCWGOB0T-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Jewelry The Animation",
-            "slug": "jewelry-the-animation",
-            "url": "https://animesonline.cloud/anime/jewelry-the-animation",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/k6o2BKQkVQwYK3XCtKO9R4paJB0-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "slug": "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
-            "url": "https://animesonline.cloud/anime/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Mark Your Kiss The Animation",
-            "slug": "mark-your-kiss-the-animation",
-            "url": "https://animesonline.cloud/anime/mark-your-kiss-the-animation",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/berY82xA9wu85fIhG531GgkWv3l-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Maple Colors",
-            "slug": "maple-colors",
-            "url": "https://animesonline.cloud/anime/maple-colors",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rqDHw5TldnMcEhvn7HpOyYLjCQe-185x278.jpg",
-            "rating": "10",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari",
             "slug": "smoking-behind-the-supermarket-with-you",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you",
@@ -1378,22 +1324,13 @@
             "rating": "7.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Tsue to Tsurugi no Wistoria 2 Dublado",
-            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
-            "url": "https://animesonline.cloud/anime/tsue-to-tsurugi-no-wistoria-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
-            "rating": "7.77",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780956975898
+      "at": 1780958869375
     },
     "todos|3||24": {
       "data": {
@@ -3856,5 +3793,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780958714866
+  "updatedAt": 1780958869375
 }

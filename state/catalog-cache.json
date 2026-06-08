@@ -1354,6 +1354,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Todo no Tsumari",
+            "slug": "todo-no-tsumari",
+            "url": "https://animesonline.cloud/anime/todo-no-tsumari",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rhnMK81jRjMK1HysXSIvCWGOB0T-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Jewelry The Animation",
             "slug": "jewelry-the-animation",
             "url": "https://animesonline.cloud/anime/jewelry-the-animation",
@@ -1505,22 +1514,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Haikyuu!! Dublado",
-            "slug": "haikyuu-dublado",
-            "url": "https://animesonline.cloud/anime/haikyuu-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/sfrmkzwoHCnla2Tmgui3B5FFB4S-185x278.jpg",
-            "rating": "8.607",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780949781129
+      "at": 1780951662433
     },
     "todos|3||24": {
       "data": {
@@ -3983,5 +3983,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780951576942
+  "updatedAt": 1780951662433
 }

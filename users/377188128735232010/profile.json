@@ -399,6 +399,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvbVZhWFlvU3ZjTVd3YmJKWEt2a1pUUGRXUmtSLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "kami-no-shizuku": {
+      "slug": "kami-no-shizuku",
+      "title": "Kami no Shizuku",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91Zk1aSUdIaFNsNURVeHY1S20yakxma3ZFVzUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -639,43 +646,46 @@
     ],
     "chainsmoker-cat": [
       1
+    ],
+    "kami-no-shizuku": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780958747469
+      "at": 1780959537890
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780958747469
+      "at": 1780959537890
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780958747469
+      "at": 1780959537890
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780958747469
+      "at": 1780959537890
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780958747469
+      "at": 1780959537890
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780958747469
+      "at": 1780959537890
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780958747469
+      "at": 1780959537890
     },
     {
       "slug": "invencivel-4-dublado",
@@ -719,5 +729,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780958788418
+  "updatedAt": 1780959545508
 }

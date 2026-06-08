@@ -366,6 +366,12 @@
       "title": "Mantis 사마귀",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci82MS84YWVjZjE1YTI5MTQ1YzBmMDczNmEzZTVlZDI0MTYuanBn",
       "kind": "filme"
+    },
+    "invencivel-4-dublado": {
+      "slug": "invencivel-4-dublado",
+      "title": "Invencível 4 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kZm1QYnllWlpTejNiZWtlRVN2TUphSDkxZ1MuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -592,6 +598,9 @@
     ],
     "bocchi-the-rock-season-2": [
       1
+    ],
+    "invencivel-4-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -667,5 +676,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780951572718
+  "updatedAt": 1780951717349
 }

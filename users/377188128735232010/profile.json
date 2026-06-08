@@ -385,6 +385,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tZ0JZR0laZFFmdE5xUkpGNEhUSE5KZGZVQmQuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "kamiina-botan-yoeru-sugata-wa-yuri-no-hana": {
+      "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+      "title": "Kamiina Botan Yoeru Sugata wa Yuri no Hana",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9odlhESE5mdkRUTXdRY1hGa1JKM05EbmxTZ3IuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -619,43 +626,46 @@
     ],
     "medalist-2-dublado": [
       1
+    ],
+    "kamiina-botan-yoeru-sugata-wa-yuri-no-hana": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780958462873
+      "at": 1780958747469
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780958462873
+      "at": 1780958747469
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780958462873
+      "at": 1780958747469
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780958462873
+      "at": 1780958747469
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780958462873
+      "at": 1780958747469
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780958462873
+      "at": 1780958747469
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780958462873
+      "at": 1780958747469
     },
     {
       "slug": "invencivel-4-dublado",
@@ -699,5 +709,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780958532702
+  "updatedAt": 1780958753163
 }

@@ -10696,7 +10696,7 @@
       }
     },
     "snowball-earth-dublado": {
-      "at": 1780839158396,
+      "at": 1780958405958,
       "data": {
         "slug": "snowball-earth-dublado",
         "title": "Snowball Earth Dublado",
@@ -12353,7 +12353,7 @@
       }
     },
     "kirio-fanclub": {
-      "at": 1780951704031,
+      "at": 1780958406383,
       "data": {
         "slug": "kirio-fanclub",
         "title": "Kirio Fanclub",
@@ -12363,52 +12363,52 @@
           {
             "number": 1,
             "title": "Episódio 01 - Caro Kirio-kun",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-01"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Quando vi suas lágrimas naquele dia",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-02"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - Dragão Kirio",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-03"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Momentos Preciosos",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-04"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - Posse Ser Fã de Vocês?",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-05"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06 - Segredos",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-06"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07 - A Magia da Viagem Escolar",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-07"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08 - Uma noite escaldante",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-08"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 09 - Não posso dizer, não vou dizer.",
-            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-09"
+            "url": "https://animeplay.cloud/episodio/kirio-fanclub-episodio-09"
           }
         ],
         "totalEpisodes": 9,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2": {
@@ -14305,6 +14305,65 @@
           }
         ],
         "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "koori-no-jouheki-dublado": {
+      "at": 1780958406145,
+      "data": {
+        "slug": "koori-no-jouheki-dublado",
+        "title": "Koori no Jouheki Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nMXA0dzFETllqV2hubXdVaUtyVzgwZ1ZDTVouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Linhas e Paredes",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Chaveiro",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - 3+(←)1",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Impenetrável",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Mudar",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-05"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Solidão e isolamento",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Igual à média",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Autoconhecimento",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Primavera",
+            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-10"
+          }
+        ],
+        "totalEpisodes": 9,
         "kind": "anime",
         "provider": "animeplay"
       }

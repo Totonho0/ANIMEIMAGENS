@@ -1471,6 +1471,44 @@
         "poster": "https://image.tmdb.org/t/p/w780/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/invencivel-4-dublado-episodio-03"
       }
+    },
+    "anime:invencivel-4-dublado:6": {
+      "at": 1780951734303,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/06.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-I%2FInvencivel-4%2FDub%2F06.mp4&ref=aoc"
+          }
+        ],
+        "episode": 6,
+        "slug": "invencivel-4-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/invencivel-4-dublado-episodio-06"
+      }
+    },
+    "anime:invencivel-4-dublado:5": {
+      "at": 1780951735098,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/005.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-I%2FInvencivel-4%2FDub%2F005.mp4&ref=aoc"
+          }
+        ],
+        "episode": 5,
+        "slug": "invencivel-4-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/invencivel-4-dublado-episodio-05"
+      }
     }
   }
 }

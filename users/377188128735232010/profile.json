@@ -411,9 +411,6 @@
     "haikyuu-dublado": [
       1
     ],
-    "marriagetoxin-dublado": [
-      1
-    ],
     "stranger-things-historias-de-85-dublado": [
       1
     ],
@@ -482,7 +479,6 @@
       1
     ],
     "marriagetoxin-dublado": [
-      1,
       9
     ],
     "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado": [
@@ -620,11 +616,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "marriagetoxin-dublado",
-      "ep": 1,
-      "at": 1780957499771
-    },
-    {
       "slug": "haikyuu-dublado",
       "ep": 1,
       "at": 1780957499771
@@ -691,5 +682,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780957785743
+  "updatedAt": 1780957787007
 }

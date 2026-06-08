@@ -1001,6 +1001,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "url": "https://animesonline.cloud/anime/tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/eboMISzbfsu9bAp4GYVa6nzDma1-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
             "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
             "url": "https://animesonline.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
@@ -1152,22 +1161,13 @@
             "rating": "7.0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Cool de M",
-            "slug": "cool-de-m",
-            "url": "https://animesonline.cloud/anime/cool-de-m",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zrcUzIRiWL0XBjiqTTJxjiX118R-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780956977747
+      "at": 1780959540753
     },
     "todos|1||24": {
       "data": {
@@ -3793,5 +3793,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780958869375
+  "updatedAt": 1780959540753
 }

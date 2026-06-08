@@ -1547,6 +1547,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/xzKQzcA6I0Ehu48NpQAAeve95Zi.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/todo-no-tsumari-episodio-01"
       }
+    },
+    "anime:kamiina-botan-yoeru-sugata-wa-yuri-no-hana:1": {
+      "at": 1780958772708,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-K/Kamiina-Botan-Yoeru-Sugata-wa-Yuri-no-Hana/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-K%2FKamiina-Botan-Yoeru-Sugata-wa-Yuri-no-Hana%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/hvXDHNfvDTMwQcXFkRJ3NDnlSgr.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-01"
+      }
     }
   }
 }

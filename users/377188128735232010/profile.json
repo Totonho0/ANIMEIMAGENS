@@ -425,6 +425,9 @@
     ],
     "invencivel-4-dublado": [
       1
+    ],
+    "todo-no-tsumari": [
+      1
     ]
   },
   "started": {
@@ -629,39 +632,44 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "todo-no-tsumari",
+      "ep": 1,
+      "at": 1780957499771
+    },
+    {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780957159833
+      "at": 1780957499771
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780957159833
+      "at": 1780957499771
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780957159833
+      "at": 1780957499771
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780957159833
+      "at": 1780957499771
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780957159833
+      "at": 1780957499771
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780957159833
+      "at": 1780957499771
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780957159833
+      "at": 1780957499771
     },
     {
       "slug": "invencivel-4-dublado",
@@ -705,5 +713,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780957171732
+  "updatedAt": 1780957499538
 }

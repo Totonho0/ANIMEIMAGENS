@@ -416,6 +416,9 @@
     ],
     "11761-": [
       1
+    ],
+    "invencivel-4-dublado": [
+      1
     ]
   },
   "started": {
@@ -601,43 +604,51 @@
     ],
     "invencivel-4-dublado": [
       1
+    ],
+    "mark-your-kiss-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
+      "slug": "invencivel-4-dublado",
+      "ep": 1,
+      "at": 1780956559732
+    },
+    {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1780949778644
+      "at": 1780956559732
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1780949778644
+      "at": 1780956559732
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1780949778644
+      "at": 1780956559732
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1780949778644
+      "at": 1780956559732
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1780949778644
+      "at": 1780956559732
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1780949778644
+      "at": 1780956559732
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1780949778644
+      "at": 1780956559732
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
@@ -676,5 +687,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780951717349
+  "updatedAt": 1780956584916
 }

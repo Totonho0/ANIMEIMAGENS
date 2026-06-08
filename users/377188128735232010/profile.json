@@ -414,9 +414,6 @@
     "marriagetoxin-dublado": [
       1
     ],
-    "akane-banashi": [
-      1
-    ],
     "stranger-things-historias-de-85-dublado": [
       1
     ],
@@ -569,9 +566,6 @@
     "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado": [
       1
     ],
-    "akane-banashi": [
-      1
-    ],
     "jigokuraku-2-dublado": [
       1
     ],
@@ -625,11 +619,6 @@
     ]
   },
   "watchHistoryLog": [
-    {
-      "slug": "akane-banashi",
-      "ep": 1,
-      "at": 1780957499771
-    },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
@@ -702,5 +691,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780957783753
+  "updatedAt": 1780957785743
 }

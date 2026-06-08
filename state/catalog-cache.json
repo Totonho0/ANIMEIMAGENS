@@ -338,6 +338,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Seishidouin no Oshigoto",
+            "slug": "seishidouin-no-oshigoto",
+            "url": "https://animesonline.cloud/anime/seishidouin-no-oshigoto",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vUwUCE6THUAuJHiS8h7mOBE8zrF-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Todo no Tsumari",
             "slug": "todo-no-tsumari",
             "url": "https://animesonline.cloud/anime/todo-no-tsumari",
@@ -543,22 +552,13 @@
             "rating": "8.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
-            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
-            "url": "https://animesonline.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780951576942
+      "at": 1780956904763
     },
     "todos|2||48": {
       "data": {
@@ -614,6 +614,87 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
+            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "url": "https://animesonline.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
+            "rating": "7.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "url": "https://animesonline.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/2F7zlgOtk9z0FGn2EjOFWDjGcBP-185x278.jpg",
+            "rating": "6.85",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Stranger Things: Histórias de 85 Dublado",
+            "slug": "stranger-things-historias-de-85-dublado",
+            "url": "https://animesonline.cloud/anime/stranger-things-historias-de-85-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
+            "rating": "7.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shunkashuutou Daikousha: Haru no Mai Dublado",
+            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+            "url": "https://animesonline.cloud/anime/shunkashuutou-daikousha-haru-no-mai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/8djjRBlmadmJkb6pmPY4orxLwml-185x278.jpg",
+            "rating": "7.71",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kill Ao Dublado",
+            "slug": "kill-ao-dublado",
+            "url": "https://animesonline.cloud/anime/kill-ao-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/i1RaaFQUSGfx48CavoBRqeloLYb-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dandelion Dublado",
+            "slug": "dandelion-dublado",
+            "url": "https://animesonline.cloud/anime/dandelion-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/r5Cq5wax0sQ1ModcZXWKyXF1xpy-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Dandelion",
+            "slug": "dandelion",
+            "url": "https://animesonline.cloud/anime/dandelion",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/ol5mLd4a7oEPEQD6PtaonILToow-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tsue to Tsurugi no Wistoria 2",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "url": "https://animesonline.cloud/anime/tsue-to-tsurugi-no-wistoria-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
+            "rating": "7.77",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Yozakura-san Chi no Daisakusen 2",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "url": "https://animesonline.cloud/anime/yozakura-san-chi-no-daisakusen-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/3SE2zjysB2gssErhW2QJ6Lenq5V-185x278.jpg",
+            "rating": "7.5",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -751,98 +832,28 @@
             "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Otaku ni Yasashii Gal wa Inai!?",
-            "slug": "otaku-ni-yasashii-gal-wa-inai",
-            "url": "https://animesonline.cloud/anime/otaku-ni-yasashii-gal-wa-inai",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/bUZFEgXZFe26OhGqrsjGNrTxbmf-185x278.jpg",
-            "rating": "7.6",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Hidarikiki no Eren",
-            "slug": "hidarikiki-no-eren",
-            "url": "https://animesonline.cloud/anime/hidarikiki-no-eren",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/v2ghoZFANzSNbH4ObmHrI9kVVdp-185x278.jpg",
-            "rating": "8.2",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”",
-            "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-            "url": "https://animesonline.cloud/anime/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/2cZEw2ntVk1lbcs1hqDjudKMzJr-185x278.jpg",
-            "rating": "7.7",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Tadaima, Ojamasaremasu!",
-            "slug": "tadaima-ojamasaremasu",
-            "url": "https://animesonline.cloud/anime/tadaima-ojamasaremasu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/u0kcMz9QiDRX4hrcowBxPpbOW4b-185x278.jpg",
-            "rating": "6.9",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Replica datte Koi wo Suru",
-            "slug": "replica-datte-koi-wo-suru",
-            "url": "https://animesonline.cloud/anime/replica-datte-koi-wo-suru",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/rt3qJO775blT8zOj0vDknZG1aQt-185x278.jpg",
-            "rating": "7.0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Marriagetoxin",
-            "slug": "marriagetoxin",
-            "url": "https://animesonline.cloud/anime/marriagetoxin",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/bHCm3vz7Mg60wEO6HTm9g2g8IEH-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-            "url": "https://animesonline.cloud/anime/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/smk2wgVAfdDDLr3NKW4uYlRoIWr-185x278.jpg",
-            "rating": "7.1",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Tongari Boushi no Atelier Dublado",
-            "slug": "tongari-boushi-no-atelier-dublado",
-            "url": "https://animesonline.cloud/anime/tongari-boushi-no-atelier-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/l7EMuIU0xpqlV4NEYMgrvZDRHQq-185x278.jpg",
-            "rating": "8.564",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "LIAR GAME",
-            "slug": "liar-game",
-            "url": "https://animesonline.cloud/anime/liar-game",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/tGNeNhXzjNFJ6zaBqV3TKHtZpWy-185x278.jpg",
-            "rating": "7.7",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780862634811
+      "at": 1780956903722
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 1",
+            "epTitle": "Episódio 1",
+            "slug": "seishidouin-no-oshigoto",
+            "episode": 1,
+            "url": "https://animesonline.cloud/episodio/seishidouin-no-oshigoto-episodio-01",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9AWeQ8DXsEV9JXKERyjjuGF9Qyc-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
@@ -1051,24 +1062,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "tsue-to-tsurugi-no-wistoria-2",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/lAniGriJtY09MTnKtZyn4m7Eq3n-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780951664525
+      "at": 1780956905691
     },
     "todos|2||24": {
       "data": {
@@ -3983,5 +3983,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780951758350
+  "updatedAt": 1780956905691
 }

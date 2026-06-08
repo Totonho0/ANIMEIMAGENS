@@ -338,60 +338,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Seishidouin no Oshigoto",
-            "slug": "seishidouin-no-oshigoto",
-            "url": "https://animesonline.cloud/anime/seishidouin-no-oshigoto",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vUwUCE6THUAuJHiS8h7mOBE8zrF-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Todo no Tsumari",
-            "slug": "todo-no-tsumari",
-            "url": "https://animesonline.cloud/anime/todo-no-tsumari",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rhnMK81jRjMK1HysXSIvCWGOB0T-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Jewelry The Animation",
-            "slug": "jewelry-the-animation",
-            "url": "https://animesonline.cloud/anime/jewelry-the-animation",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/k6o2BKQkVQwYK3XCtKO9R4paJB0-185x278.jpg",
-            "rating": "5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "slug": "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
-            "url": "https://animesonline.cloud/anime/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Mark Your Kiss The Animation",
-            "slug": "mark-your-kiss-the-animation",
-            "url": "https://animesonline.cloud/anime/mark-your-kiss-the-animation",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/berY82xA9wu85fIhG531GgkWv3l-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Maple Colors",
-            "slug": "maple-colors",
-            "url": "https://animesonline.cloud/anime/maple-colors",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rqDHw5TldnMcEhvn7HpOyYLjCQe-185x278.jpg",
-            "rating": "10",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari",
             "slug": "smoking-behind-the-supermarket-with-you",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you",
@@ -543,22 +489,13 @@
             "rating": "7.5",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
-            "url": "https://animesonline.cloud/anime/tensei-shitara-slime-datta-ken-4th-season-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/eboMISzbfsu9bAp4GYVa6nzDma1-185x278.jpg",
-            "rating": "8.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780956904763
+      "at": 1780958713621
     },
     "todos|2||48": {
       "data": {
@@ -614,6 +551,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "url": "https://animesonline.cloud/anime/tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/eboMISzbfsu9bAp4GYVa6nzDma1-185x278.jpg",
+            "rating": "8.5",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -771,15 +717,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Cool de M",
-            "slug": "cool-de-m",
-            "url": "https://animesonline.cloud/anime/cool-de-m",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zrcUzIRiWL0XBjiqTTJxjiX118R-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Awajima Hyakkei",
             "slug": "a-hundred-scenes-of-awajima",
             "url": "https://animesonline.cloud/anime/a-hundred-scenes-of-awajima",
@@ -823,77 +760,24 @@
             "rating": "8.65",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kanojo Okarishimasu 5th Season",
-            "slug": "kanojo-okarishimasu-5th-season",
-            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu-5th-season",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/nEe6wAxGLgS638FaurerSmA3XUa-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780956903722
+      "at": 1780958713985
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
           {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "seishidouin-no-oshigoto",
-            "episode": 1,
-            "url": "https://animesonline.cloud/episodio/seishidouin-no-oshigoto-episodio-01",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9AWeQ8DXsEV9JXKERyjjuGF9Qyc-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "todo-no-tsumari",
-            "episode": 1,
-            "url": "https://animesonline.cloud/episodio/todo-no-tsumari-episodio-01",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/thC8pq8cyC6Ms7vnp4cFGTKLFg7-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "jewelry-the-animation",
-            "episode": 1,
-            "url": "https://animesonline.cloud/episodio/jewelry-the-animation-episodio-01",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/eTwpAMo9jrqjp2ERqRQumyDplE9-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "mark-your-kiss-the-animation",
-            "episode": 1,
-            "url": "https://animesonline.cloud/episodio/mark-your-kiss-the-animation-episodio-01",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1e8ZDB0BZf7hsWgZvz1XZniNXXp-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
             "title": "Episódio 2",
             "epTitle": "Episódio 2",
-            "slug": "maple-colors",
+            "slug": "cleavage",
             "episode": 2,
-            "url": "https://animesonline.cloud/episodio/maple-colors-episodio-02",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/89A8YQtov8pLITJGN9kvJGASC3d-300x170.jpg",
+            "url": "https://animesonline.cloud/episodio/cleavage-episodio-02",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/82Sn4C5SkD88dEXUCkQKUYl8Jze-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
@@ -1051,24 +935,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "yozakura-san-chi-no-daisakusen-2",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/yozakura-san-chi-no-daisakusen-2-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hD93Y4uoYR21HXt727Zoo1lubyM-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780956905691
+      "at": 1780958714866
     },
     "todos|2||24": {
       "data": {
@@ -3983,5 +3856,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780958047627
+  "updatedAt": 1780958714866
 }

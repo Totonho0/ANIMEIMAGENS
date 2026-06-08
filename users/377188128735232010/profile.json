@@ -392,6 +392,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9odlhESE5mdkRUTXdRY1hGa1JKM05EbmxTZ3IuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "chainsmoker-cat": {
+      "slug": "chainsmoker-cat",
+      "title": "Yani Neko",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvbVZhWFlvU3ZjTVd3YmJKWEt2a1pUUGRXUmtSLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -629,6 +636,9 @@
     ],
     "kamiina-botan-yoeru-sugata-wa-yuri-no-hana": [
       1
+    ],
+    "chainsmoker-cat": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -709,5 +719,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780958753163
+  "updatedAt": 1780958788418
 }

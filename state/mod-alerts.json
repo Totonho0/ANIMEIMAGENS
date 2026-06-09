@@ -19320,6 +19320,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:bbb29821-c9e5-41a2-a94e-fb6e8b029dda": {
+      "userKey": "v:bbb29821-c9e5-41a2-a94e-fb6e8b029dda",
+      "messageId": "1513797520445407282",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.221.159",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #BBB29821",
+      "visitorShortId": "BBB29821",
+      "lastSeenAt": 1780987853748,
+      "lastAlertAt": 1780987853748,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -765,17 +765,6 @@
           {
             "title": "Episódio 2",
             "epTitle": "Episódio 2",
-            "slug": "heart-mark-oome",
-            "episode": 2,
-            "url": "https://animesonline.cloud/episodio/heart-mark-oome-episodio-02",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/4CrN4QGuyPG9KQOlC5yIbnoNlg4-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 2",
-            "epTitle": "Episódio 2",
             "slug": "cleavage",
             "episode": 2,
             "url": "https://animesonline.cloud/episodio/cleavage-episodio-02",
@@ -921,7 +910,7 @@
         "page": 1,
         "hasMore": false
       },
-      "at": 1780993028587
+      "at": 1781011540781
     },
     "todos|2||24": {
       "data": {
@@ -1147,7 +1136,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1780993029574
+      "at": 1781011541742
     },
     "todos|1||24": {
       "data": {
@@ -3764,5 +3753,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1781011536096
+  "updatedAt": 1781011541742
 }

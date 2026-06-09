@@ -18078,10 +18078,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1780993091655,
-      "lastAlertAt": 1780993091655,
+      "lastAlertAt": 1780993538937,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #C7C1BF36",
       "visitorShortId": "C7C1BF36",
       "viewingKind": "",
@@ -19526,10 +19526,10 @@
       "displayName": "Visitante #04B0F910",
       "visitorShortId": "04B0F910",
       "lastSeenAt": 1780993185226,
-      "lastAlertAt": 1780993185226,
+      "lastAlertAt": 1780993538937,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:7af76461-d3a8-484c-9aca-751b6bb3cb69": {
       "userKey": "v:7af76461-d3a8-484c-9aca-751b6bb3cb69",

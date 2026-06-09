@@ -338,6 +338,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animesonline.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Tenmaku no Jaadugar",
             "slug": "tenmaku-no-jaadugar",
             "url": "https://animesonline.cloud/anime/tenmaku-no-jaadugar",
@@ -471,22 +480,13 @@
             "rating": "8.06",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Devil May Cry 2 (2026) Dublado",
-            "slug": "devil-may-cry-2026-dublado",
-            "url": "https://animesonline.cloud/anime/devil-may-cry-2026-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/dpBhVJXHWm6ApO013ZdHcINnHU8-185x278.jpg",
-            "rating": "8.3",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1781020666999
+      "at": 1781037215429
     },
     "todos|2||48": {
       "data": {
@@ -3698,5 +3698,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1781037169000
+  "updatedAt": 1781037215429
 }

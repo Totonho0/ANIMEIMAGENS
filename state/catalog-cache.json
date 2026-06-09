@@ -1225,15 +1225,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Heart Mark Oome",
-            "slug": "heart-mark-oome",
-            "url": "https://animesonline.cloud/anime/heart-mark-oome",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1t3qSpXZ9KZySk25Ua0InZiXTWR-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Super no Ura de Yani Suu Futari",
             "slug": "smoking-behind-the-supermarket-with-you",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you",
@@ -1310,7 +1301,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1780993027529
+      "at": 1781011536096
     },
     "todos|3||24": {
       "data": {
@@ -3773,5 +3764,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780993110150
+  "updatedAt": 1781011536096
 }

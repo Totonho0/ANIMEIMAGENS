@@ -774,6 +774,17 @@
           {
             "title": "Episódio 2",
             "epTitle": "Episódio 2",
+            "slug": "heart-mark-oome",
+            "episode": 2,
+            "url": "https://animesonline.cloud/episodio/heart-mark-oome-episodio-02",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/4CrN4QGuyPG9KQOlC5yIbnoNlg4-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 2",
+            "epTitle": "Episódio 2",
             "slug": "cleavage",
             "episode": 2,
             "url": "https://animesonline.cloud/episodio/cleavage-episodio-02",
@@ -913,35 +924,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "nippon-sangoku",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1PtkWIb0iMtCrBUCFwjmPyrwuyZ-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 34",
-            "epTitle": "Episódio 34",
-            "slug": "digimon-beatbreak",
-            "episode": 34,
-            "url": "https://animesonline.cloud/episodio/digimon-beatbreak-episodio-34",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hfOYnZSmDzfPO6Aa8uWqDZRtVdS-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": false
       },
-      "at": 1780958714866
+      "at": 1780993028587
     },
     "todos|2||24": {
       "data": {
@@ -997,6 +986,33 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Haikyuu!!",
+            "slug": "haikyuu",
+            "url": "https://animesonline.cloud/anime/haikyuu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/6GvKbKG4hYyUE2P0QXdRCcgW4A8-185x278.jpg",
+            "rating": "8.607",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kanojo Okarishimasu 5th Season Dublado",
+            "slug": "kanojo-okarishimasu-5th-season-dublado",
+            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu-5th-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/w3o5wpqScVw1J3txAq8DfKv0vpR-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Marriagetoxin Dublado",
+            "slug": "marriagetoxin-dublado",
+            "url": "https://animesonline.cloud/anime/marriagetoxin-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/wXyOAIxNUFTEk9Mpj7Ca4jCibMf-185x278.jpg",
+            "rating": "7.5",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -1134,40 +1150,13 @@
             "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Hokuto no Ken: Fist of the North Star",
-            "slug": "fist-of-the-north-star-hokuto-no-ken",
-            "url": "https://animesonline.cloud/anime/fist-of-the-north-star-hokuto-no-ken",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/8SRwvqBl3yzhy6PwvZVXy1A14rd-185x278.jpg",
-            "rating": "8.6",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kami no Shizuku",
-            "slug": "kami-no-shizuku",
-            "url": "https://animesonline.cloud/anime/kami-no-shizuku",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/eJngpqzGzppVkR5XoM9uuPFOukn-185x278.jpg",
-            "rating": "8.1",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kamiina Botan Yoeru Sugata wa Yuri no Hana",
-            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "url": "https://animesonline.cloud/anime/kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/6qIzYYAMgFdlcHYy4IfJG3VuVlq-185x278.jpg",
-            "rating": "7.0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1780959540753
+      "at": 1780993029574
     },
     "todos|1||24": {
       "data": {
@@ -1223,6 +1212,33 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Blue Lock 3",
+            "slug": "blue-lock-3",
+            "url": "https://animesonline.cloud/anime/blue-lock-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
+            "rating": "8.045",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animesonline.cloud/anime/koukaku-kidouta",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Heart Mark Oome",
+            "slug": "heart-mark-oome",
+            "url": "https://animesonline.cloud/anime/heart-mark-oome",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1t3qSpXZ9KZySk25Ua0InZiXTWR-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -1297,40 +1313,13 @@
             "rating": "8.06",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Devil May Cry 2 (2026) Dublado",
-            "slug": "devil-may-cry-2026-dublado",
-            "url": "https://animesonline.cloud/anime/devil-may-cry-2026-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/dpBhVJXHWm6ApO013ZdHcINnHU8-185x278.jpg",
-            "rating": "8.3",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "url": "https://animesonline.cloud/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/6lNOqksJZAE4LzUs2yaqBpnZVm5-185x278.jpg",
-            "rating": "8.506",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Aishiteru Game wo Owarasetai Dublado",
-            "slug": "aishiteru-game-wo-owarasetai-dublado",
-            "url": "https://animesonline.cloud/anime/aishiteru-game-wo-owarasetai-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/kK7T8DcXKWcYfR6Kvy0ouCBjMnU-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780958869375
+      "at": 1780993027529
     },
     "todos|3||24": {
       "data": {
@@ -3793,5 +3782,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780959540753
+  "updatedAt": 1780993029574
 }

@@ -413,6 +413,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS90SWY5YVV5TmxqZGE5TUcxcGpsT0xIQ1ozYjAuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-harry-potter-e-o-enigma-do-principe-online": {
+      "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
+      "title": "Harry Potter e o Enigma do Príncipe",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9yc3NHeHVxa0IyVEFYOWcyVnNiQmlVWklWem0uanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -662,6 +669,9 @@
     ],
     "filme/assistir-harry-potter-e-a-ordem-da-fenix-online": [
       1
+    ],
+    "filme/assistir-harry-potter-e-o-enigma-do-principe-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -747,5 +757,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781011710601
+  "updatedAt": 1781020648053
 }

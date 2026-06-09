@@ -338,6 +338,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Blue Lock 3",
+            "slug": "blue-lock-3",
+            "url": "https://animesonline.cloud/anime/blue-lock-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
+            "rating": "8.045",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animesonline.cloud/anime/koukaku-kidouta",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Super no Ura de Yani Suu Futari",
             "slug": "smoking-behind-the-supermarket-with-you",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you",
@@ -462,40 +480,13 @@
             "rating": "8.607",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Haikyuu!!",
-            "slug": "haikyuu",
-            "url": "https://animesonline.cloud/anime/haikyuu",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/6GvKbKG4hYyUE2P0QXdRCcgW4A8-185x278.jpg",
-            "rating": "8.607",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kanojo Okarishimasu 5th Season Dublado",
-            "slug": "kanojo-okarishimasu-5th-season-dublado",
-            "url": "https://animesonline.cloud/anime/kanojo-okarishimasu-5th-season-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/w3o5wpqScVw1J3txAq8DfKv0vpR-185x278.jpg",
-            "rating": "8.4",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Marriagetoxin Dublado",
-            "slug": "marriagetoxin-dublado",
-            "url": "https://animesonline.cloud/anime/marriagetoxin-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/wXyOAIxNUFTEk9Mpj7Ca4jCibMf-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1780958713621
+      "at": 1780993094458
     },
     "todos|2||48": {
       "data": {
@@ -3782,5 +3773,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780993053816
+  "updatedAt": 1780993094458
 }

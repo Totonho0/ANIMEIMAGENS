@@ -18633,6 +18633,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:cba75fca-9ce8-4d4b-a4a7-b87f4681359e": {
+      "userKey": "v:cba75fca-9ce8-4d4b-a4a7-b87f4681359e",
+      "messageId": "1513702808740823070",
+      "channelId": "1510739162116915371",
+      "ip": "172.68.10.41",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #CBA75FCA",
+      "visitorShortId": "CBA75FCA",
+      "lastSeenAt": 1780965272733,
+      "lastAlertAt": 1780965272733,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

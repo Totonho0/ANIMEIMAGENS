@@ -470,6 +470,9 @@
     ],
     "filme/assistir-harry-potter-e-a-ordem-da-fenix-online": [
       1
+    ],
+    "filme/assistir-harry-potter-e-o-enigma-do-principe-online": [
+      1
     ]
   },
   "started": {
@@ -676,6 +679,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
+      "ep": 1,
+      "at": 1781020709185
+    },
+    {
       "slug": "filme/assistir-harry-potter-e-a-ordem-da-fenix-online",
       "ep": 1,
       "at": 1781011711236
@@ -757,5 +765,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781020648053
+  "updatedAt": 1781020708250
 }

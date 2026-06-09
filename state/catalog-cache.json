@@ -1596,6 +1596,33 @@
             "provider": "aoc"
           },
           {
+            "title": "Mao",
+            "slug": "mao",
+            "url": "https://animesonline.cloud/anime/mao",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/kdti4Dm7XPV0Os2Jjzd188AWTQ3-185x278.jpg",
+            "rating": "7.18",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kami no Niwatsuki Kusunoki-tei",
+            "slug": "kami-no-niwatsuki-kusunoki-tei",
+            "url": "https://animesonline.cloud/anime/kami-no-niwatsuki-kusunoki-tei",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Needy Girl Overdose",
+            "slug": "needy-girl-overdose",
+            "url": "https://animesonline.cloud/anime/needy-girl-overdose",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/jl79CIc8yL0m5VKR2X1qkoAsre0-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Akane-banashi",
             "slug": "akane-banashi",
             "url": "https://animesonline.cloud/anime/akane-banashi",
@@ -1729,40 +1756,13 @@
             "rating": "6.56",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-            "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-            "url": "https://animesonline.cloud/anime/mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/qiLz090XoM4MDkbNmRwNxtQdXZd-185x278.jpg",
-            "rating": "6.58",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-            "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
-            "url": "https://animesonline.cloud/anime/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/1D9htdBwuSQRL0jhoDty5TOSvBT-185x278.jpg",
-            "rating": "7.8",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-            "url": "https://animesonline.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 4,
         "hasMore": true
       },
-      "at": 1780958047627
+      "at": 1780993110150
     },
     "todos|5||24": {
       "data": {
@@ -3773,5 +3773,5 @@
       "at": 1780859178747
     }
   },
-  "updatedAt": 1780993094458
+  "updatedAt": 1780993110150
 }

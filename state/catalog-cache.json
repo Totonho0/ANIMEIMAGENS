@@ -691,6 +691,28 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/c1zwaBh8219SMXsK9e4SV4LC5b2-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/7IKEqEczuXjBV9QLJHUAH6r8ROs-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 11",
             "epTitle": "Episódio 11",
             "slug": "tongari-boushi-no-atelier-dublado",
@@ -757,17 +779,6 @@
             "isRelease": true
           },
           {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/7IKEqEczuXjBV9QLJHUAH6r8ROs-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
             "title": "Episódio 10",
             "epTitle": "Episódio 10",
             "slug": "hidarikiki-no-eren",
@@ -785,17 +796,6 @@
             "episode": 10,
             "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-episodio-10",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/lfCIzsNzlGJG1SzWYqPZOBLATjO-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/c1zwaBh8219SMXsK9e4SV4LC5b2-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
@@ -893,7 +893,7 @@
         "page": 1,
         "hasMore": false
       },
-      "at": 1781119609394
+      "at": 1781127742337
     },
     "todos|2||24": {
       "data": {
@@ -1273,7 +1273,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1781119608172
+      "at": 1781127741757
     },
     "todos|3||24": {
       "data": {
@@ -3953,5 +3953,5 @@
       "at": 1781119609805
     }
   },
-  "updatedAt": 1781119967100
+  "updatedAt": 1781127742337
 }

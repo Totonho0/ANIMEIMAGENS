@@ -22900,6 +22900,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:738b1f4e-eb14-4ab9-bc05-0a254b2998aa": {
+      "userKey": "v:738b1f4e-eb14-4ab9-bc05-0a254b2998aa",
+      "messageId": "1514223161628164156",
+      "channelId": "1510739162116915371",
+      "ip": "172.70.248.29",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #738B1F4E",
+      "visitorShortId": "738B1F4E",
+      "lastSeenAt": 1781089334242,
+      "lastAlertAt": 1781089334242,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

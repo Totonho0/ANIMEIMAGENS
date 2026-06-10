@@ -1642,6 +1642,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-10"
       }
+    },
+    "anime:devil-may-cry-2026-dublado:1": {
+      "at": 1781128871360,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/stream.php?f=Letra-D/Devil-May-Cry-2/Dub/01.mp4&e=1841889082&t=4f2a94c413751c0acb86e881504b11e78e1c541663febcf9e7129b52f493f6d3",
+            "label": "FHD - HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2Fstream.php%3Ff%3DLetra-D%2FDevil-May-Cry-2%2FDub%2F01.mp4%26e%3D1841889082%26t%3D4f2a94c413751c0acb86e881504b11e78e1c541663febcf9e7129b52f493f6d3&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "devil-may-cry-2026-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-01"
+      }
     }
   }
 }

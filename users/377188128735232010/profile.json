@@ -59,7 +59,8 @@
       "slug": "one-piece",
       "title": "One Piece - Todos os Episodios",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ycm1LN21uY2h3OVhyM1hkaVRGU3hUVExYcXYuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "haikyuu-second-season": {
       "slug": "haikyuu-second-season",
@@ -679,6 +680,41 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "akane-banashi",
+      "ep": 1,
+      "at": 1781128484332
+    },
+    {
+      "slug": "marriagetoxin-dublado",
+      "ep": 1,
+      "at": 1781128484332
+    },
+    {
+      "slug": "haikyuu-dublado",
+      "ep": 1,
+      "at": 1781128484332
+    },
+    {
+      "slug": "kami-no-niwatsuki-kusunoki-tei",
+      "ep": 1,
+      "at": 1781128484332
+    },
+    {
+      "slug": "haikyuu-second-season",
+      "ep": 1,
+      "at": 1781128484332
+    },
+    {
+      "slug": "uzumaki",
+      "ep": 1,
+      "at": 1781128484332
+    },
+    {
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+      "ep": 1,
+      "at": 1781128484332
+    },
+    {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
       "ep": 1,
       "at": 1781020709185
@@ -687,41 +723,6 @@
       "slug": "filme/assistir-harry-potter-e-a-ordem-da-fenix-online",
       "ep": 1,
       "at": 1781011711236
-    },
-    {
-      "slug": "akane-banashi",
-      "ep": 1,
-      "at": 1781011534574
-    },
-    {
-      "slug": "marriagetoxin-dublado",
-      "ep": 1,
-      "at": 1781011534574
-    },
-    {
-      "slug": "haikyuu-dublado",
-      "ep": 1,
-      "at": 1781011534573
-    },
-    {
-      "slug": "kami-no-niwatsuki-kusunoki-tei",
-      "ep": 1,
-      "at": 1781011534573
-    },
-    {
-      "slug": "haikyuu-second-season",
-      "ep": 1,
-      "at": 1781011534573
-    },
-    {
-      "slug": "uzumaki",
-      "ep": 1,
-      "at": 1781011534573
-    },
-    {
-      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-      "ep": 1,
-      "at": 1781011534573
     },
     {
       "slug": "invencivel-4-dublado",
@@ -765,5 +766,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781020708250
+  "updatedAt": 1781129519221
 }

@@ -23620,6 +23620,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:d1929a27-e3ec-4610-a541-d22c37c504da": {
+      "userKey": "v:d1929a27-e3ec-4610-a541-d22c37c504da",
+      "messageId": "1514310604830150757",
+      "channelId": "1510739162116915371",
+      "ip": "172.70.247.172",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #D1929A27",
+      "visitorShortId": "D1929A27",
+      "lastSeenAt": 1781110182345,
+      "lastAlertAt": 1781110182345,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

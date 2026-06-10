@@ -24408,6 +24408,63 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": true
+    },
+    "v:fd023751-831d-4221-bff1-e3ec77623c8e": {
+      "userKey": "v:fd023751-831d-4221-bff1-e3ec77623c8e",
+      "messageId": "1514388811633655859",
+      "channelId": "1510739162116915371",
+      "ip": "66.249.85.44",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #FD023751",
+      "visitorShortId": "FD023751",
+      "lastSeenAt": 1781128828540,
+      "lastAlertAt": 1781128828540,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:dcb651f2-64fd-4348-a0f5-cd811dd46740": {
+      "userKey": "v:dcb651f2-64fd-4348-a0f5-cd811dd46740",
+      "messageId": "1514388813407850637",
+      "channelId": "1510739162116915371",
+      "ip": "74.125.213.11",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #DCB651F2",
+      "visitorShortId": "DCB651F2",
+      "lastSeenAt": 1781128829016,
+      "lastAlertAt": 1781128829016,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:61ce41ca-e519-4b35-9431-dd8b409fe74f": {
+      "userKey": "v:61ce41ca-e519-4b35-9431-dd8b409fe74f",
+      "messageId": "",
+      "channelId": "",
+      "ip": "74.125.213.11",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #61CE41CA",
+      "visitorShortId": "61CE41CA",
+      "lastSeenAt": 1781128829227,
+      "lastAlertAt": 0
+    },
+    "v:abd400e9-eca0-4522-8a73-908176fff119": {
+      "userKey": "v:abd400e9-eca0-4522-8a73-908176fff119",
+      "messageId": "1514388818013454457",
+      "channelId": "1510739162116915371",
+      "ip": "179.190.108.9",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #ABD400E9",
+      "visitorShortId": "ABD400E9",
+      "lastSeenAt": 1781128830146,
+      "lastAlertAt": 1781128830146,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

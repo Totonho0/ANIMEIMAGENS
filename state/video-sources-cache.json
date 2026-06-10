@@ -1718,6 +1718,81 @@
         "poster": "https://image.tmdb.org/t/p/w780/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-03"
       }
+    },
+    "anime:one-piece:163": {
+      "at": 1781129329893,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/163.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F163.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/163.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F163.mp4&ref=aoc"
+          }
+        ],
+        "episode": 163,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-163"
+      }
+    },
+    "anime:one-piece:161": {
+      "at": 1781129330575,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/161.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F161.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/161.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F161.mp4&ref=aoc"
+          }
+        ],
+        "episode": 161,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-161"
+      }
+    },
+    "anime:one-piece:2": {
+      "at": 1781129331268,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/02.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F02.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/002.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F002.mp4&ref=aoc"
+          }
+        ],
+        "episode": 2,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-02"
+      }
     }
   }
 }

@@ -22120,6 +22120,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:eadcc265-c08e-4286-8538-f729ee3e43f7": {
+      "userKey": "v:eadcc265-c08e-4286-8538-f729ee3e43f7",
+      "messageId": "1514145501790863431",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.221.154",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #EADCC265",
+      "visitorShortId": "EADCC265",
+      "lastSeenAt": 1781070818656,
+      "lastAlertAt": 1781070818656,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -986,7 +986,7 @@
       }
     },
     "anime:one-piece:1": {
-      "at": 1781129327966,
+      "at": 1781129332770,
       "data": {
         "sources": [
           {
@@ -1792,6 +1792,156 @@
         "provider": "aoc",
         "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-02"
+      }
+    },
+    "anime:one-piece:162": {
+      "at": 1781129332912,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/162.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F162.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/162.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F162.mp4&ref=aoc"
+          }
+        ],
+        "episode": 162,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-162"
+      }
+    },
+    "anime:one-piece:172": {
+      "at": 1781129333737,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/172.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F172.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/172.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F172.mp4&ref=aoc"
+          }
+        ],
+        "episode": 172,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-172"
+      }
+    },
+    "anime:one-piece:182": {
+      "at": 1781129334450,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/182.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F182.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/182.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F182.mp4&ref=aoc"
+          }
+        ],
+        "episode": 182,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-182"
+      }
+    },
+    "anime:one-piece:184": {
+      "at": 1781129335345,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/184.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F184.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/184.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F184.mp4&ref=aoc"
+          }
+        ],
+        "episode": 184,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-184"
+      }
+    },
+    "anime:one-piece:185": {
+      "at": 1781129336070,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/185.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F185.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/185.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F185.mp4&ref=aoc"
+          }
+        ],
+        "episode": 185,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-185"
+      }
+    },
+    "anime:one-piece:181": {
+      "at": 1781129336728,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/181.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F181.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/181.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F181.mp4&ref=aoc"
+          }
+        ],
+        "episode": 181,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-181"
       }
     }
   }

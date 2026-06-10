@@ -15,7 +15,7 @@
       "discordId": "377188128735232010",
       "discordUsername": "Totonho",
       "createdAt": 1780754706579,
-      "lastSeenAt": 1781128842838,
+      "lastSeenAt": 1781128932834,
       "lastIp": "143.131.235.95",
       "bio": "",
       "avatar": "/logo.png",
@@ -26538,7 +26538,7 @@
       "discordId": "",
       "discordUsername": "",
       "createdAt": 1781128704111,
-      "lastSeenAt": 1781128851587,
+      "lastSeenAt": 1781128937467,
       "lastIp": "186.243.25.102"
     },
     "8945ba79-6aea-4377-8cac-b2fb6cc963d4": {
@@ -26659,14 +26659,23 @@
       "bio": "",
       "avatar": "/logo.png",
       "banner": "/placeholder.svg",
-      "favorites": [],
+      "favorites": [
+        "devil-may-cry-2026-dublado"
+      ],
       "watchLater": [],
       "mangaFavorites": [],
-      "library": {},
+      "library": {
+        "devil-may-cry-2026-dublado": {
+          "slug": "devil-may-cry-2026-dublado",
+          "title": "Devil May Cry 2 (2026) Dublado",
+          "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uTHlYWElETXBESHZVZ3hjaGV6eHVob0o0RWouanBn",
+          "kind": "anime"
+        }
+      },
       "discordId": "",
       "discordUsername": "",
       "createdAt": 1781128853822,
-      "lastSeenAt": 1781128857569,
+      "lastSeenAt": 1781128938669,
       "lastIp": "191.0.104.8"
     },
     "18170e44-6f16-47ea-bbc5-4922ac0c23d5": {

@@ -24369,11 +24369,15 @@
       "username": "",
       "displayName": "Visitante #A935924B",
       "visitorShortId": "A935924B",
-      "lastSeenAt": 1781128782147,
-      "lastAlertAt": 1781128704117,
+      "lastSeenAt": 1781128804040,
+      "lastAlertAt": 1781128804040,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "anime",
+      "viewingTitle": "Episódio 10",
+      "viewingDetail": "Episódio 10",
+      "viewingUpdatedAt": 1781128804040
     },
     "v:8453e669-7b82-45bc-9832-30a209f6c300": {
       "userKey": "v:8453e669-7b82-45bc-9832-30a209f6c300",

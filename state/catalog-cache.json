@@ -3970,7 +3970,35 @@
         "hasMore": false
       },
       "at": 1781128287264
+    },
+    "todos|2|n|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Needy Girl Overdose Dublado",
+            "slug": "needy-girl-overdose-dublado",
+            "url": "https://animesonline.cloud/anime/needy-girl-overdose-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/bC6by4FdWsjG3ZesalPHRwPykeR-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 2,
+        "hasMore": false
+      },
+      "at": 1781128290326
     }
   },
-  "updatedAt": 1781128287264
+  "updatedAt": 1781128290326
 }

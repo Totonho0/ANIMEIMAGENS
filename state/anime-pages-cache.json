@@ -15937,6 +15937,25 @@
         "kind": "anime",
         "provider": "aoc"
       }
+    },
+    "saint-seiya-tenkai-hen-josou-overture-dublado": {
+      "at": 1781128538757,
+      "data": {
+        "slug": "saint-seiya-tenkai-hen-josou-overture-dublado",
+        "title": "Saint Seiya: Tenkai-hen Josou - Overture Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zdGJ5YjFaWkFvRmw3VGl1ZldYMTVoUUJZVHMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Filme completo",
+            "url": null
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "filme",
+        "provider": "aoc"
+      }
     }
   }
 }

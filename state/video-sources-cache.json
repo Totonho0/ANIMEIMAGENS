@@ -2075,6 +2075,31 @@
         "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-862"
       }
+    },
+    "anime:one-piece:452": {
+      "at": 1781129531798,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/OnePiece/452.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOnePiece%2F452.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-O/One Piece Dublado/452.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-O%2FOne%20Piece%20Dublado%2F452.mp4&ref=aoc"
+          }
+        ],
+        "episode": 452,
+        "slug": "one-piece",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/one-piece-episodio-452"
+      }
     }
   }
 }

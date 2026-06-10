@@ -3951,7 +3951,26 @@
         "hasMore": true
       },
       "at": 1781119609805
+    },
+    "todos|1|n|24": {
+      "data": {
+        "items": [
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 1,
+        "hasMore": false
+      },
+      "at": 1781128287264
     }
   },
-  "updatedAt": 1781127830255
+  "updatedAt": 1781128287264
 }

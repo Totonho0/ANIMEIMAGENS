@@ -1680,6 +1680,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-02"
       }
+    },
+    "anime:devil-may-cry-2026-dublado:8": {
+      "at": 1781128921523,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/stream.php?f=/Letra-D/Devil-May-Cry-2/Dub/08.mp4&e=1841930392&t=2b1b01e4be6fd75165230d316a87118e374fe6a87ccb10703a8c67459c780e9b",
+            "label": "FHD - HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2Fstream.php%3Ff%3D%2FLetra-D%2FDevil-May-Cry-2%2FDub%2F08.mp4%26e%3D1841930392%26t%3D2b1b01e4be6fd75165230d316a87118e374fe6a87ccb10703a8c67459c780e9b&ref=aoc"
+          }
+        ],
+        "episode": 8,
+        "slug": "devil-may-cry-2026-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/devil-may-cry-2-2026-dublado-episodio-08"
+      }
     }
   }
 }

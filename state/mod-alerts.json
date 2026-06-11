@@ -25695,10 +25695,10 @@
       "displayName": "Visitante #D3BAF7D4",
       "visitorShortId": "D3BAF7D4",
       "lastSeenAt": 1781169225471,
-      "lastAlertAt": 1781169225471,
+      "lastAlertAt": 1781169652545,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:8ae28a45-c2ad-4f2b-89ff-f638745a3138": {
       "userKey": "v:8ae28a45-c2ad-4f2b-89ff-f638745a3138",
@@ -25710,10 +25710,10 @@
       "displayName": "Visitante #8AE28A45",
       "visitorShortId": "8AE28A45",
       "lastSeenAt": 1781169225673,
-      "lastAlertAt": 1781169225673,
+      "lastAlertAt": 1781169652545,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:5f074c22-837b-488e-a936-060c24c3eb23": {
       "userKey": "v:5f074c22-837b-488e-a936-060c24c3eb23",
@@ -25725,10 +25725,10 @@
       "displayName": "Visitante #5F074C22",
       "visitorShortId": "5F074C22",
       "lastSeenAt": 1781169229000,
-      "lastAlertAt": 1781169229000,
+      "lastAlertAt": 1781169652545,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

@@ -26761,6 +26761,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:10dab448-6a4d-4ae8-b83f-cb4c80d9115c": {
+      "userKey": "v:10dab448-6a4d-4ae8-b83f-cb4c80d9115c",
+      "messageId": "1514681379932213268",
+      "channelId": "1510739162116915371",
+      "ip": "172.70.242.39",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #10DAB448",
+      "visitorShortId": "10DAB448",
+      "lastSeenAt": 1781198581969,
+      "lastAlertAt": 1781198581969,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

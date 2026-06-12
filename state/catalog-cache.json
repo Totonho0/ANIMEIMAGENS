@@ -1809,6 +1809,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Kirio Fanclub",
+            "slug": "kirio-fanclub",
+            "url": "https://animesonline.cloud/anime/kirio-fanclub",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/yy9gsBKHX9PHq17mJhhm2yVKh8g-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Haibara-kun no Tsuyokute Seishun New Game",
+            "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
+            "url": "https://animesonline.cloud/anime/haibara-kun-no-tsuyokute-seishun-new-game",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/3Bxl4kYXdGMMIoZXgDGzo26OiGH-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Reincarnation no Kaben",
             "slug": "reincarnation-no-kaben",
             "url": "https://animesonline.cloud/anime/reincarnation-no-kaben",
@@ -1951,31 +1969,13 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Isekai Nonbiri Nouka 2",
-            "slug": "isekai-nonbiri-nouka-2",
-            "url": "https://animesonline.cloud/anime/isekai-nonbiri-nouka-2",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/9xpmB050xiiG1OD51Qf7SyUz6MC-185x278.jpg",
-            "rating": "7.585",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Isekai Nonbiri Nouka",
-            "slug": "isekai-nonbiri-nouka",
-            "url": "https://animesonline.cloud/anime/isekai-nonbiri-nouka",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/03/mE4pE6NOV3AbvTUE3MkFMlfs12n-185x278.jpg",
-            "rating": "7.585",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 5,
         "hasMore": true
       },
-      "at": 1781128961500
+      "at": 1781304376280
     },
     "todos|6||24": {
       "data": {
@@ -4711,5 +4711,5 @@
       "at": 1781128997792
     }
   },
-  "updatedAt": 1781304372979
+  "updatedAt": 1781304376280
 }

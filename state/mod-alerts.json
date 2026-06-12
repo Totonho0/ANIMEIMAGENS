@@ -29185,6 +29185,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:a79e9090-2020-479e-b572-8d0119155f72": {
+      "userKey": "v:a79e9090-2020-479e-b572-8d0119155f72",
+      "messageId": "1514970033527455774",
+      "channelId": "1510739162116915371",
+      "ip": "109.243.146.23",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #A79E9090",
+      "visitorShortId": "A79E9090",
+      "lastSeenAt": 1781267402663,
+      "lastAlertAt": 1781267402663,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

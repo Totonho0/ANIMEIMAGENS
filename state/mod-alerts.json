@@ -29800,6 +29800,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:4198b55b-8d0a-49f5-a42f-bb18035fb79b": {
+      "userKey": "v:4198b55b-8d0a-49f5-a42f-bb18035fb79b",
+      "messageId": "1515062642044309544",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.239.17",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #4198B55B",
+      "visitorShortId": "4198B55B",
+      "lastSeenAt": 1781289481943,
+      "lastAlertAt": 1781289481943,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

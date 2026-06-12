@@ -1366,6 +1366,24 @@
             "provider": "aoc"
           },
           {
+            "title": "Kill Ao",
+            "slug": "kill-blue",
+            "url": "https://animesonline.cloud/anime/kill-blue",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ichijouma Mankitsugurashi",
+            "slug": "ichijouma-mankitsugurashi",
+            "url": "https://animesonline.cloud/anime/ichijouma-mankitsugurashi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/xvZh4RscGoAb0ht2oKSXqJ9GGTj-185x278.jpg",
+            "rating": "6.58",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Yowayowa Sensei",
             "slug": "yowayowa-sensei",
             "url": "https://animesonline.cloud/anime/yowayowa-sensei",
@@ -1442,7 +1460,7 @@
             "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
             "url": "https://animesonline.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-4th-season",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/lKFhN97i9Ty1ypmXvB3lcZCBOzi-185x278.jpg",
-            "rating": "8.65",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -1499,31 +1517,13 @@
             "rating": "7.0",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Marriagetoxin",
-            "slug": "marriagetoxin",
-            "url": "https://animesonline.cloud/anime/marriagetoxin",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/bHCm3vz7Mg60wEO6HTm9g2g8IEH-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-            "url": "https://animesonline.cloud/anime/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/smk2wgVAfdDDLr3NKW4uYlRoIWr-185x278.jpg",
-            "rating": "7.1",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 3,
         "hasMore": true
       },
-      "at": 1781132323675
+      "at": 1781304368846
     },
     "todos|4||24": {
       "data": {
@@ -4711,5 +4711,5 @@
       "at": 1781128997792
     }
   },
-  "updatedAt": 1781304362046
+  "updatedAt": 1781304368846
 }

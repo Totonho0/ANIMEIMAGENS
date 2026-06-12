@@ -28410,7 +28410,22 @@
       "displayName": "Visitante #1A8FDC6A",
       "visitorShortId": "1A8FDC6A",
       "lastSeenAt": 1781244996565,
-      "lastAlertAt": 1781244996565,
+      "lastAlertAt": 1781245406024,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": false
+    },
+    "v:b34ee4eb-8025-4558-aeae-2b5782c86aa3": {
+      "userKey": "v:b34ee4eb-8025-4558-aeae-2b5782c86aa3",
+      "messageId": "1514877774031093841",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.223.138",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #B34EE4EB",
+      "visitorShortId": "B34EE4EB",
+      "lastSeenAt": 1781245406320,
+      "lastAlertAt": 1781245406320,
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": true

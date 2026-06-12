@@ -29950,6 +29950,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:8acfe7e0-82e1-4000-bd76-38aa3ecc7ceb": {
+      "userKey": "v:8acfe7e0-82e1-4000-bd76-38aa3ecc7ceb",
+      "messageId": "1515088614646878400",
+      "channelId": "1510739162116915371",
+      "ip": "172.71.178.123",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #8ACFE7E0",
+      "visitorShortId": "8ACFE7E0",
+      "lastSeenAt": 1781295674609,
+      "lastAlertAt": 1781295674609,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -421,6 +421,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9yc3NHeHVxa0IyVEFYOWcyVnNiQmlVWklWem0uanBn",
       "kind": "filme",
       "adult": false
+    },
+    "18842-obsession-a-felicidade-é-relativa": {
+      "slug": "18842-obsession-a-felicidade-é-relativa",
+      "title": "Obsession: A Felicidade é Relativa",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yYi9lZjQxZmQ5MzYzZjZjYjBiNTA4Y2UzM2U1N2JjMTkuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -677,43 +684,46 @@
     ],
     "filme/assistir-harry-potter-e-o-enigma-do-principe-online": [
       1
+    ],
+    "18842-obsession-a-felicidade-é-relativa": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781128484332
+      "at": 1781359085130
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781128484332
+      "at": 1781359085130
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781128484332
+      "at": 1781359085130
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781128484332
+      "at": 1781359085130
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781128484332
+      "at": 1781359085130
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781128484332
+      "at": 1781359085130
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781128484332
+      "at": 1781359085130
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -767,5 +777,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781129522390
+  "updatedAt": 1781359105662
 }

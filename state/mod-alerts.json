@@ -31690,6 +31690,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:f42ea6d3-3099-4c9e-90e1-217b1fa90450": {
+      "userKey": "v:f42ea6d3-3099-4c9e-90e1-217b1fa90450",
+      "messageId": "1515346907864502433",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.217.56",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #F42EA6D3",
+      "visitorShortId": "F42EA6D3",
+      "lastSeenAt": 1781357256546,
+      "lastAlertAt": 1781357256546,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -31810,6 +31810,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:2706d4fb-a63b-46de-a40d-518cec3bc41e": {
+      "userKey": "v:2706d4fb-a63b-46de-a40d-518cec3bc41e",
+      "messageId": "1515360395198595116",
+      "channelId": "1510739162116915371",
+      "ip": "172.68.183.57",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #2706D4FB",
+      "visitorShortId": "2706D4FB",
+      "lastSeenAt": 1781360471911,
+      "lastAlertAt": 1781360471911,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

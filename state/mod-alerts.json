@@ -31750,6 +31750,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:ea3bef09-447e-4d64-b87c-b637d61db89d": {
+      "userKey": "v:ea3bef09-447e-4d64-b87c-b637d61db89d",
+      "messageId": "1515351969034801153",
+      "channelId": "1510739162116915371",
+      "ip": "216.73.217.17",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #EA3BEF09",
+      "visitorShortId": "EA3BEF09",
+      "lastSeenAt": 1781358463132,
+      "lastAlertAt": 1781358463132,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

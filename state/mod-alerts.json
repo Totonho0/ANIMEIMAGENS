@@ -31420,6 +31420,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:9713d51b-12b5-45c2-bf1c-749182b02872": {
+      "userKey": "v:9713d51b-12b5-45c2-bf1c-749182b02872",
+      "messageId": "1515303007183568947",
+      "channelId": "1510739162116915371",
+      "ip": "172.68.183.57",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #9713D51B",
+      "visitorShortId": "9713D51B",
+      "lastSeenAt": 1781346789464,
+      "lastAlertAt": 1781346789464,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

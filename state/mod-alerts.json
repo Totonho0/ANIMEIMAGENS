@@ -31630,6 +31630,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:2261503a-851e-45f9-838c-20d69009553f": {
+      "userKey": "v:2261503a-851e-45f9-838c-20d69009553f",
+      "messageId": "1515336541621453010",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.223.139",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #2261503A",
+      "visitorShortId": "2261503A",
+      "lastSeenAt": 1781354784995,
+      "lastAlertAt": 1781354784995,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

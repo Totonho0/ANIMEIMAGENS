@@ -514,9 +514,6 @@
     ],
     "filme/assistir-harry-potter-e-o-enigma-do-principe-online": [
       1
-    ],
-    "marriagetoxin-dublado": [
-      1
     ]
   },
   "started": {
@@ -724,11 +721,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "marriagetoxin-dublado",
-      "ep": 1,
-      "at": 1781431810702
-    },
-    {
       "slug": "haikyuu-dublado",
       "ep": 1,
       "at": 1781431810702
@@ -765,5 +757,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431889306
+  "updatedAt": 1781431892075
 }

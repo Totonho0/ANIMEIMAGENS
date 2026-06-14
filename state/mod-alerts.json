@@ -1715,6 +1715,21 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "v:350f285c-de64-4ec4-89f2-724384470a9c": {
+      "userKey": "v:350f285c-de64-4ec4-89f2-724384470a9c",
+      "messageId": "1515721741975163001",
+      "channelId": "1510739162116915371",
+      "ip": "177.71.29.207",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #350F285C",
+      "visitorShortId": "350F285C",
+      "lastSeenAt": 1781446625433,
+      "lastAlertAt": 1781446623926,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

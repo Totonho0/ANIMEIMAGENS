@@ -506,9 +506,6 @@
     "kami-no-niwatsuki-kusunoki-tei": [
       1
     ],
-    "haikyuu-dublado": [
-      1
-    ],
     "filme/assistir-harry-potter-e-a-ordem-da-fenix-online": [
       1
     ],
@@ -721,11 +718,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "haikyuu-dublado",
-      "ep": 1,
-      "at": 1781431810702
-    },
-    {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
       "at": 1781431810702
@@ -757,5 +749,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431892075
+  "updatedAt": 1781431893963
 }

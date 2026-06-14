@@ -538,9 +538,6 @@
     ],
     "marriagetoxin-dublado": [
       1
-    ],
-    "akane-banashi": [
-      1
     ]
   },
   "started": {
@@ -754,11 +751,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "akane-banashi",
-      "ep": 1,
-      "at": 1781433214392
-    },
-    {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
       "at": 1781433214392
@@ -800,5 +792,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781433271918
+  "updatedAt": 1781433337091
 }

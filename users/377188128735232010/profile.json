@@ -494,9 +494,6 @@
     }
   },
   "watched": {
-    "devil-may-cry-2026-dublado": [
-      1
-    ],
     "hitoribocchi-no-isekai-kouryaku": [
       1
     ],
@@ -584,9 +581,6 @@
       1
     ],
     "fuufu-ijou-koibito-miman-dublado": [
-      1
-    ],
-    "devil-may-cry-2026-dublado": [
       1
     ],
     "aishiteru-game-wo-owarasetai-dublado": [
@@ -834,13 +828,8 @@
       "slug": "hitoribocchi-no-isekai-kouryaku",
       "ep": 1,
       "at": 1780495298860
-    },
-    {
-      "slug": "devil-may-cry-2026-dublado",
-      "ep": 1,
-      "at": 1780495298860
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431875653
+  "updatedAt": 1781431877131
 }

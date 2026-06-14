@@ -505,6 +505,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNS9BbmVqaXJ1X2NhcGEuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "ha-aikagi-the-animation": {
+      "slug": "ha-aikagi-the-animation",
+      "title": "Aikagi The Animation-Todos Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNS9BaWthZ2ktVGhlLUFuaW1hdGlvbi1jYXBhLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -743,6 +750,9 @@
     ],
     "ha-anejiru-todos-episodios": [
       2
+    ],
+    "ha-aikagi-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -793,5 +803,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781433216048
+  "updatedAt": 1781433230831
 }

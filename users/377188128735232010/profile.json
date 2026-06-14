@@ -494,9 +494,6 @@
     }
   },
   "watched": {
-    "aishiteru-game-wo-owarasetai-dublado": [
-      1
-    ],
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       1
     ],
@@ -572,9 +569,6 @@
       1
     ],
     "fuufu-ijou-koibito-miman-dublado": [
-      1
-    ],
-    "aishiteru-game-wo-owarasetai-dublado": [
       1
     ],
     "marriagetoxin-dublado": [
@@ -801,13 +795,8 @@
       "slug": "11761-",
       "ep": 1,
       "at": 1780750092306
-    },
-    {
-      "slug": "aishiteru-game-wo-owarasetai-dublado",
-      "ep": 1,
-      "at": 1780667357718
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431884083
+  "updatedAt": 1781431885363
 }

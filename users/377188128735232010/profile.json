@@ -679,9 +679,6 @@
     ],
     "kami-no-niwatsuki-kusunoki-tei": [
       1
-    ],
-    "haikyuu-dublado": [
-      1
     ]
   },
   "started": {
@@ -926,11 +923,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "haikyuu-dublado",
-      "ep": 1,
-      "at": 1781436229373
-    },
-    {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
       "at": 1781436229373
@@ -962,5 +954,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436497587
+  "updatedAt": 1781436501118
 }

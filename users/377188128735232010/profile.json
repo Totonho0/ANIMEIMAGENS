@@ -518,7 +518,7 @@
       "title": "Akebi no Hana: Maho",
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9Ba2ViaS1uby1IYW5hLU1haG8tY2FwYS5qcGc",
       "kind": "anime",
-      "adult": true
+      "adult": false
     }
   },
   "watched": {
@@ -758,43 +758,46 @@
     "ha-anejiru-todos-episodios": [
       1,
       2
+    ],
+    "ha-akebi-no-hana-maho-todos-episodios": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781433868169
+      "at": 1781434289616
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781433868169
+      "at": 1781434289616
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781433868169
+      "at": 1781434289616
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781433868169
+      "at": 1781434289616
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781433868169
+      "at": 1781434289616
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781433868169
+      "at": 1781434289616
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781433868168
+      "at": 1781434289616
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -808,5 +811,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781433925462
+  "updatedAt": 1781434295352
 }

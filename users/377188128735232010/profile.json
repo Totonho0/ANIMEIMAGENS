@@ -449,6 +449,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xWnhWdWpPazYxUjAwZ2xtOGFTVTFoeVBxcDcuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "furueru-kuchibiru": {
+      "slug": "furueru-kuchibiru",
+      "title": "Furueru Kuchibiru",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94VmlKSDhXbzMwZ2o3RWVVTjFNV01qYURmbjMuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -717,6 +724,9 @@
     ],
     "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": [
       1
+    ],
+    "furueru-kuchibiru": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -807,5 +817,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781429587802
+  "updatedAt": 1781429620318
 }

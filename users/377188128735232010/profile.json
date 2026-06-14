@@ -482,7 +482,7 @@
     "yoasobi-gurashi": {
       "slug": "yoasobi-gurashi",
       "title": "Yoasobi Gurashi!",
-      "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/wxvosl1gwbJ80uXChRojZs3RP6I.jpg",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvd3h2b3NsMWd3Yko4MHVYQ2hSb2paczNSUDZJLmpwZw",
       "kind": "anime"
     },
     "lovely-day-boku-to-kanojo-no-nana-nichikan": {
@@ -671,8 +671,7 @@
       "slug": "niwatori-fighter-dublado",
       "title": "Niwatori Fighter Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vc3hWd2tDY3ZLeUE5TWFncGRzcEpLYnVMTFcuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     }
   },
   "watched": {
@@ -704,6 +703,9 @@
       1
     ],
     "stranger-things-historias-de-85-dublado": [
+      1
+    ],
+    "niwatori-fighter-dublado": [
       1
     ]
   },
@@ -958,44 +960,49 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "niwatori-fighter-dublado",
+      "ep": 1,
+      "at": 1781446136827
+    },
+    {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781445923456
+      "at": 1781446136826
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1009,5 +1016,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781445958893
+  "updatedAt": 1781446137745
 }

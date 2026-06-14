@@ -676,9 +676,6 @@
     ],
     "haikyuu-second-season": [
       1
-    ],
-    "kami-no-niwatsuki-kusunoki-tei": [
-      1
     ]
   },
   "started": {
@@ -923,11 +920,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "kami-no-niwatsuki-kusunoki-tei",
-      "ep": 1,
-      "at": 1781436229373
-    },
-    {
       "slug": "haikyuu-second-season",
       "ep": 1,
       "at": 1781436229373
@@ -954,5 +946,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436501118
+  "updatedAt": 1781436503010
 }

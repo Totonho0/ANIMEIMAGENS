@@ -624,6 +624,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL2FpYmV5YS10aGUtYW5pbWF0aW9uLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "ah-aki-sora": {
+      "slug": "ah-aki-sora",
+      "title": "Aki-Sora",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL0FraVNvcmEuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -887,43 +894,46 @@
     ],
     "ah-aibeya-the-animation": [
       1
+    ],
+    "ah-aki-sora": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781436047241
+      "at": 1781436229373
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781436047241
+      "at": 1781436229373
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781436047241
+      "at": 1781436229373
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781436047241
+      "at": 1781436229373
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781436047241
+      "at": 1781436229373
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781436047241
+      "at": 1781436229373
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781436047241
+      "at": 1781436229373
     },
     {
       "slug": "ha-ane-koi-todos-episodios",
@@ -942,5 +952,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436048466
+  "updatedAt": 1781436241207
 }

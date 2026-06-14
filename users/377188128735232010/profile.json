@@ -617,6 +617,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL0FZWS5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "ah-aibeya-the-animation": {
+      "slug": "ah-aibeya-the-animation",
+      "title": "Aibeya The Animation",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL2FpYmV5YS10aGUtYW5pbWF0aW9uLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -877,6 +884,9 @@
     ],
     "ah-alignment-you-you-the-animation-online": [
       1
+    ],
+    "ah-aibeya-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -932,5 +942,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781435982068
+  "updatedAt": 1781436027268
 }

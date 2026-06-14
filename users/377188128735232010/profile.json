@@ -540,6 +540,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNS9Ba3Utbm8tT25uYS1LYW5idS1GdWxsLU1vb24tTmlnaHQtMS5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "ha-a-trip-with-my-sister": {
+      "slug": "ha-a-trip-with-my-sister",
+      "title": "A Trip With My Sister",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9BLVRyaXAtV2l0aC1NeS1TaXN0ZXItcG9zdGVyLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -832,5 +839,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434505082
+  "updatedAt": 1781434520630
 }

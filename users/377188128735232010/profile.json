@@ -494,9 +494,6 @@
     }
   },
   "watched": {
-    "hitoribocchi-no-isekai-kouryaku": [
-      1
-    ],
     "jujutsu-kaisen-2-dublado": [
       1
     ],
@@ -575,9 +572,6 @@
       1
     ],
     "tsue-to-tsurugi-no-wistoria-2": [
-      1
-    ],
-    "hitoribocchi-no-isekai-kouryaku": [
       1
     ],
     "fuufu-ijou-koibito-miman-dublado": [
@@ -823,13 +817,8 @@
       "slug": "jujutsu-kaisen-2-dublado",
       "ep": 1,
       "at": 1780495298860
-    },
-    {
-      "slug": "hitoribocchi-no-isekai-kouryaku",
-      "ep": 1,
-      "at": 1780495298860
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431877131
+  "updatedAt": 1781431878629
 }

@@ -102,7 +102,8 @@
       "slug": "ikumonogakari-the-animation",
       "title": "Ikumonogakari The Animation - Todos os Episódios",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sU1NVS0tkUk40QWhFQnNROHlJcU1jY1RFcXouanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": true
     },
     "nageki-no-bourei-wa-intai-shitai": {
       "slug": "nageki-no-bourei-wa-intai-shitai",
@@ -767,6 +768,9 @@
     ],
     "lovely-day-boku-to-kanojo-no-nana-nichikan": [
       1
+    ],
+    "ikumonogakari-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -857,5 +861,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431812038
+  "updatedAt": 1781431840822
 }

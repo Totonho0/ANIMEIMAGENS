@@ -684,6 +684,9 @@
     ],
     "akane-banashi": [
       1
+    ],
+    "ah-tokyo-requiem": [
+      1
     ]
   },
   "started": {
@@ -931,6 +934,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "ah-tokyo-requiem",
+      "ep": 1,
+      "at": 1781436420633
+    },
+    {
       "slug": "akane-banashi",
       "ep": 1,
       "at": 1781436229373
@@ -982,5 +990,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436360515
+  "updatedAt": 1781436421840
 }

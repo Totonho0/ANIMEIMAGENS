@@ -546,7 +546,7 @@
       "title": "A Trip With My Sister",
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9BLVRyaXAtV2l0aC1NeS1TaXN0ZXItcG9zdGVyLmpwZw",
       "kind": "anime",
-      "adult": true
+      "adult": false
     }
   },
   "watched": {
@@ -789,43 +789,46 @@
     ],
     "ha-akebi-no-hana-maho-todos-episodios": [
       1
+    ],
+    "ha-a-trip-with-my-sister": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781434495545
+      "at": 1781434859192
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781434495545
+      "at": 1781434859192
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781434495545
+      "at": 1781434859192
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781434495545
+      "at": 1781434859192
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781434495545
+      "at": 1781434859191
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781434495545
+      "at": 1781434859191
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781434495545
+      "at": 1781434859191
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -839,5 +842,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434520630
+  "updatedAt": 1781434865937
 }

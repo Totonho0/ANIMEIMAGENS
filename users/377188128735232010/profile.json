@@ -589,6 +589,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9Ba2liYS1HaXJscy1jYXBhLnBuZw",
       "kind": "anime",
       "adult": true
+    },
+    "ha-akogare-no-onna-joushi-ga-aibeya-shucchou-no-tonari-no-bed-de-zetsurin-otoko-ni-netorarete-iru-todos-os-episodios-online": {
+      "slug": "ha-akogare-no-onna-joushi-ga-aibeya-shucchou-no-tonari-no-bed-de-zetsurin-otoko-ni-netorarete-iru-todos-os-episodios-online",
+      "title": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wNi9ha29nYXJlLW5vLW9ubmEtam91c2hpLWdhLWFpYmV5YS1zaHVjY2hvdS1uby10b25hcmktbm8tYmVkLWRlLXpldHN1cmluLW90b2tvLW5pLW5ldG9yYXJldGUtaXJ1LXRvZG9zLWVwaXNvaWRvcy1vbmxpbmUtSGVudGFpLUFuaW1lcy5qcGVn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -843,48 +850,51 @@
     ],
     "ha-ane-koi-todos-episodios": [
       1
+    ],
+    "ha-akogare-no-onna-joushi-ga-aibeya-shucchou-no-tonari-no-bed-de-zetsurin-otoko-ni-netorarete-iru-todos-os-episodios-online": [
+      2
     ]
   },
   "watchHistoryLog": [
     {
-      "slug": "ha-ane-koi-todos-episodios",
-      "ep": 1,
-      "at": 1781435092537
-    },
-    {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781434859192
+      "at": 1781435446862
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781434859192
+      "at": 1781435446862
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781434859192
+      "at": 1781435446862
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781434859192
+      "at": 1781435446862
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781434859191
+      "at": 1781435446862
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781434859191
+      "at": 1781435446862
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781434859191
+      "at": 1781435446862
+    },
+    {
+      "slug": "ha-ane-koi-todos-episodios",
+      "ep": 1,
+      "at": 1781435092537
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -898,5 +908,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781435267524
+  "updatedAt": 1781435494148
 }

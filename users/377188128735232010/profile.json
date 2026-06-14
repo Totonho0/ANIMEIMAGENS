@@ -543,9 +543,6 @@
     ],
     "filme/assistir-harry-potter-e-o-enigma-do-principe-online": [
       1
-    ],
-    "yoasobi-gurashi": [
-      1
     ]
   },
   "started": {
@@ -768,19 +765,11 @@
     "angel-core-the-animation": [
       1
     ],
-    "yoasobi-gurashi": [
-      1
-    ],
     "lovely-day-boku-to-kanojo-no-nana-nichikan": [
       1
     ]
   },
   "watchHistoryLog": [
-    {
-      "slug": "yoasobi-gurashi",
-      "ep": 1,
-      "at": 1781431754768
-    },
     {
       "slug": "akane-banashi",
       "ep": 1,
@@ -868,5 +857,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431756108
+  "updatedAt": 1781431804813
 }

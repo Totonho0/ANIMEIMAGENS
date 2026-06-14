@@ -57,7 +57,7 @@
     },
     "one-piece": {
       "slug": "one-piece",
-      "title": "One Piece - Todos os Episodios",
+      "title": "One Piece",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ycm1LN21uY2h3OVhyM1hkaVRGU3hUVExYcXYuanBn",
       "kind": "anime",
       "adult": false
@@ -1024,5 +1024,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781447487659
+  "updatedAt": 1781447506293
 }

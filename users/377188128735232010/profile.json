@@ -568,6 +568,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNS90b2RvLW5vLXRzdW1hcmktcG9zdGVyLWhlbnRhaS1ub3Zvcy5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "ha-ane-koi-todos-episodios": {
+      "slug": "ha-ane-koi-todos-episodios",
+      "title": "Ane Koi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNS9BbmUtS29pLWNhcGEtMS5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -816,6 +823,9 @@
     ],
     "ha-aisai-nikk-todos-episodios": [
       1
+    ],
+    "ha-ane-koi-todos-episodios": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -866,5 +876,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434987665
+  "updatedAt": 1781435032264
 }

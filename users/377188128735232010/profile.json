@@ -470,6 +470,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91U0cyMzdkQVdhalVzWW44VGhNV2RHRVdCWEIuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "angel-core-the-animation": {
+      "slug": "angel-core-the-animation",
+      "title": "Angel Core The Animation",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qZ0F2OHVtaTlZR0ZJY2RhTzRueFFZNllPa2IuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -741,43 +748,46 @@
     ],
     "yumemiru-otome": [
       1
+    ],
+    "angel-core-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781429658673
+      "at": 1781430956022
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781429658673
+      "at": 1781430956022
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781429658673
+      "at": 1781430956022
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781429658673
+      "at": 1781430956022
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781429658673
+      "at": 1781430956022
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781429658673
+      "at": 1781430956022
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781429658673
+      "at": 1781430956022
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -831,5 +841,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781429711052
+  "updatedAt": 1781430994357
 }

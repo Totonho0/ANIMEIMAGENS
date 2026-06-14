@@ -84,7 +84,8 @@
       "slug": "stranger-things-historias-de-85-dublado",
       "title": "Stranger Things: Histórias de 85 Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
@@ -928,43 +929,46 @@
     ],
     "ah-wife-with-wife": [
       1
+    ],
+    "stranger-things-historias-de-85-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781436504706
+      "at": 1781445472383
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781436504706
+      "at": 1781445472383
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781436504706
+      "at": 1781445472383
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781436504706
+      "at": 1781445472383
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781436504706
+      "at": 1781445472383
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781436504706
+      "at": 1781445472383
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781436504706
+      "at": 1781445472383
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -978,5 +982,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436505900
+  "updatedAt": 1781445511951
 }

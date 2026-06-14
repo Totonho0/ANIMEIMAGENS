@@ -533,6 +533,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMi9TaGluc2VraS1Oby1Lby1Uby1PLVRvbWFyaS1EYS1LYXJhLXBvc3Rlci10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLUFuaW1lcy1oZW50YWkuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "ha-aku-no-onna-kanbu-full-moon-night-todos-episodios": {
+      "slug": "ha-aku-no-onna-kanbu-full-moon-night-todos-episodios",
+      "title": "Aku no Onna Kanbu: Full Moon Night",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNS9Ba3Utbm8tT25uYS1LYW5idS1GdWxsLU1vb24tTmlnaHQtMS5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -825,5 +832,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434458845
+  "updatedAt": 1781434475298
 }

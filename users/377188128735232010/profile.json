@@ -561,6 +561,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC9ob25leS1ibG9uZGUtMi1wb3N0ZXItaGVudGFpLWxhbmNhbWVudG9zLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "ha-todo-no-tsumari-todos-os-episodios-online": {
+      "slug": "ha-todo-no-tsumari-todos-os-episodios-online",
+      "title": "Todo no Tsumari",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNS90b2RvLW5vLXRzdW1hcmktcG9zdGVyLWhlbnRhaS1ub3Zvcy5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -859,5 +866,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434969564
+  "updatedAt": 1781434987665
 }

@@ -526,6 +526,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9hbmFsLW1hbmlhLW90YWt1LXRvLWFuYW5paS1kYWlzdWtpLW5hLW9qb3Utc2FtYS1wb3N0ZXItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1IZW50YWktbGFuY2FtZW50by5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "ha-shinseki-no-ko-to-o-tomari-da-kara-todos-os-episodios-online": {
+      "slug": "ha-shinseki-no-ko-to-o-tomari-da-kara-todos-os-episodios-online",
+      "title": "Shinseki No Ko To O Tomari Da Kara",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMi9TaGluc2VraS1Oby1Lby1Uby1PLVRvbWFyaS1EYS1LYXJhLXBvc3Rlci10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLUFuaW1lcy1oZW50YWkuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -818,5 +825,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434418863
+  "updatedAt": 1781434458845
 }

@@ -463,6 +463,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xVHRKUmxESXdXZHNtUlhEVG9tVWxhMUpCS0kuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "yumemiru-otome": {
+      "slug": "yumemiru-otome",
+      "title": "Yumemiru Otome",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91U0cyMzdkQVdhalVzWW44VGhNV2RHRVdCWEIuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -731,6 +738,9 @@
     ],
     "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": [
       1
+    ],
+    "yumemiru-otome": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -821,5 +831,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781429703438
+  "updatedAt": 1781429711052
 }

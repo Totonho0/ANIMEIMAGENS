@@ -653,6 +653,9 @@
     ],
     "ha-ane-koi-todos-episodios": [
       1
+    ],
+    "akane-banashi": [
+      1
     ]
   },
   "started": {
@@ -888,34 +891,39 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "akane-banashi",
+      "ep": 1,
+      "at": 1781436047241
+    },
+    {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781435961396
+      "at": 1781436047241
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781435961396
+      "at": 1781436047241
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781435961396
+      "at": 1781436047241
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781435961396
+      "at": 1781436047241
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781435961396
+      "at": 1781436047241
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781435961396
+      "at": 1781436047241
     },
     {
       "slug": "ha-ane-koi-todos-episodios",
@@ -934,5 +942,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436044896
+  "updatedAt": 1781436048466
 }

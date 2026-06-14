@@ -503,9 +503,6 @@
     "haikyuu-second-season": [
       1
     ],
-    "kami-no-niwatsuki-kusunoki-tei": [
-      1
-    ],
     "filme/assistir-harry-potter-e-a-ordem-da-fenix-online": [
       1
     ],
@@ -718,11 +715,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "kami-no-niwatsuki-kusunoki-tei",
-      "ep": 1,
-      "at": 1781431810702
-    },
-    {
       "slug": "haikyuu-second-season",
       "ep": 1,
       "at": 1781431810702
@@ -749,5 +741,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431893963
+  "updatedAt": 1781431896116
 }

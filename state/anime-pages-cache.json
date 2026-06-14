@@ -20201,6 +20201,413 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "nee-shiyo": {
+      "at": 1781429584523,
+      "data": {
+        "slug": "nee-shiyo",
+        "title": "Nee Shiyo",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xVHRKUmxESXdXZHNtUlhEVG9tVWxhMUpCS0kuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/nee-shiyo-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/nee-shiyo-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "shoujo-kara-shoujo-e": {
+      "at": 1781429584555,
+      "data": {
+        "slug": "shoujo-kara-shoujo-e",
+        "title": "Shoujo kara Shoujo e...",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC90NG43UmM3bWhLeWt3OXdLVUNiSFhYdUVKU1MuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/shoujo-kara-shoujo-e-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/shoujo-kara-shoujo-e-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "aki-sora": {
+      "at": 1781429584594,
+      "data": {
+        "slug": "aki-sora",
+        "title": "Aki Sora",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85UU56TUJzdmlsNTlBYTdzdDNkNFJZRUhZTjIuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/aki-sora-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/aki-sora-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Especial",
+            "url": "https://animeplay.cloud/episodio/aki-sora-episodio-03"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "boku-no-pico": {
+      "at": 1781429584613,
+      "data": {
+        "slug": "boku-no-pico",
+        "title": "Boku no Pico",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xYXRHSWZmS2FkQ2FSNGxpbU4wcFlVeG84eEMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/boku-no-pico-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animeplay.cloud/episodio/boku-no-pico-episodio-03"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "shoujo-ramune": {
+      "at": 1781429584680,
+      "data": {
+        "slug": "shoujo-ramune",
+        "title": "Shoujo Ramune",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xM3A4MmRlelJXNmtkSE9HYnFhMGdvTUcwdU8uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Chi-chan e o emprego secreto de meio período",
+            "url": "https://animeplay.cloud/episodio/shoujo-ramune-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A sessão de fotos de tirar o fôlego e o ABC do amor",
+            "url": "https://animeplay.cloud/episodio/shoujo-ramune-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Vestidos Yukata e fogos de artifício no Festival de Verão",
+            "url": "https://animeplay.cloud/episodio/shoujo-ramune-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - As férias de verão de todos",
+            "url": "https://animeplay.cloud/episodio/shoujo-ramune-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "papa-datte-shitai": {
+      "at": 1781429584690,
+      "data": {
+        "slug": "papa-datte-shitai",
+        "title": "Papa datte, Shitai",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96OVZnSU1hUXR1RXUxY2FvcG5rcm9hZlJKSzcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animeplay.cloud/episodio/papa-datte-shitai-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru": {
+      "at": 1781429584700,
+      "data": {
+        "slug": "kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru",
+        "title": "Kuroinu: Kedakaki Seijo Wa Hakudaku Ni Somaru",
+        "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/vjHOrQhzTDjuosSxpVFo4XveGVs.jpg",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Olga x Chloe: O Castelo Negro, Arco do Colapso",
+            "url": "https://animeplay.cloud/episodio/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Alicia x Prim: Resistência contra a Nação Militar",
+            "url": "https://animeplay.cloud/episodio/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Kaguya x Ru-Ru x Maia: Uma Noite de Insetos Se Contorcendo em Pele Macia e Feras Furiosas",
+            "url": "https://animeplay.cloud/episodio/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Claudia x Celestine: Seu relacionamento com o padrasto. A manhã em que a deusa cai...",
+            "url": "https://animeplay.cloud/episodio/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Uma orgia arrepiante: a ponta inchada penetra a pele branca e macia da nobre princesa cavaleira",
+            "url": "https://animeplay.cloud/episodio/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Uma tragédia chocante e macabra: a jovem princesa inocente e adorável fica cativada por um órgão genital negro e brilhante",
+            "url": "https://animeplay.cloud/episodio/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "implicity-the-animation": {
+      "at": 1781429584802,
+      "data": {
+        "slug": "implicity-the-animation",
+        "title": "Implicity The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xWTJEdkFRODVnZVZsYVF3bHpNWjRtQXY4Y0EuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/implicity-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/implicity-the-animation-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "yume-kui-tsurumiku-shiki-game-seisaku": {
+      "at": 1781429585402,
+      "data": {
+        "slug": "yume-kui-tsurumiku-shiki-game-seisaku",
+        "title": "Yume Kui: Tsurumiku Shiki Game Seisaku",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9wYVVTbnJNdFF6Zk5lUTlIZkp1alRaeTVDWDcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Kuzuha Rumi: Arco de Treinamento",
+            "url": "https://animeplay.cloud/episodio/yume-kui-tsurumiku-shiki-game-seisaku-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Kuzuha Yumi: Arco da Exploração",
+            "url": "https://animeplay.cloud/episodio/yume-kui-tsurumiku-shiki-game-seisaku-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "rape-gouhouka": {
+      "at": 1781429585456,
+      "data": {
+        "slug": "rape-gouhouka",
+        "title": "Rape Gouhouka!!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85d21vUGprZXBnTDY5aTRDS25OZGNqSlhZS1UuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/rape-gouhouka-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 2",
+            "url": "https://animeplay.cloud/episodio/rape-gouhouka-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "resort-boin": {
+      "at": 1781429585497,
+      "data": {
+        "slug": "resort-boin",
+        "title": "Resort Boin",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9iY0NtOGZGWWxxU0g2ODNXcGw4dUhycHhTNmQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/resort-boin-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/resort-boin-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animeplay.cloud/episodio/resort-boin-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animeplay.cloud/episodio/resort-boin-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "euphoria-the-animation": {
+      "at": 1781429585689,
+      "data": {
+        "slug": "euphoria-the-animation",
+        "title": "Euphoria The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zQ0hmTlhZSlk4NkppT0x6WXJKV2hZMVpPeTAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episodio 01 - Euforia ~ o jogo do inferno começa ~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episodio 02 - euforia ~Hokari Kanae: o fim do arco do paraíso~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episodio 03 - euforia ~Byakuya Rinne: o arco do ciclo da vida~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - euforia ~Makiba Rika, Aoi Natsuki: arco do retrato ressuscitado do inferno~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - euforia ~os jogos terríveis no porão, o inferno escatológico na superfície. o cérebro é... nosso amigo de infância?! arco~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - euforia ~o paraíso que desejamos está a apenas um ritual sagrado de distância. a mãe do salvador é... Byakuya Rinne?! arco~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "angel-core-the-animation": {
+      "at": 1781429585755,
+      "data": {
+        "slug": "angel-core-the-animation",
+        "title": "Angel Core The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qZ0F2OHVtaTlZR0ZJY2RhTzRueFFZNllPa2IuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vida dos Anjos, Parte 1",
+            "url": "https://animeplay.cloud/episodio/angel-core-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Vida dos Anjos, Parte 2",
+            "url": "https://animeplay.cloud/episodio/angel-core-the-animation-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

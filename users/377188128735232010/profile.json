@@ -672,6 +672,13 @@
       "title": "Niwatori Fighter Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vc3hWd2tDY3ZLeUE5TWFncGRzcEpLYnVMTFcuanBn",
       "kind": "anime"
+    },
+    "tongari-boushi-no-atelier-dublado": {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "title": "Tongari Boushi no Atelier Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BM0xXd2VBUmRtbWt5eTZkVGtuOUJ1WHZ3Q00uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -956,53 +963,56 @@
     ],
     "niwatori-fighter-dublado": [
       1
+    ],
+    "tongari-boushi-no-atelier-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781446136827
+      "at": 1781446731273
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781446136826
+      "at": 1781446731273
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1016,5 +1026,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781446137745
+  "updatedAt": 1781446852933
 }

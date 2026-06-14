@@ -532,9 +532,6 @@
     "haikyuu-dublado": [
       1
     ],
-    "marriagetoxin-dublado": [
-      1
-    ],
     "filme/assistir-harry-potter-e-a-ordem-da-fenix-online": [
       1
     ],
@@ -768,11 +765,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "marriagetoxin-dublado",
-      "ep": 1,
-      "at": 1781431754768
-    },
-    {
       "slug": "haikyuu-dublado",
       "ep": 1,
       "at": 1781431754768
@@ -849,5 +841,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431806059
+  "updatedAt": 1781431807387
 }

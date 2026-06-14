@@ -603,6 +603,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMS9uYXRzdS10by1oYWtvLXBvc3Rlci1oZW50YWktbGFuY2FtZW50b3MuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "ha-natsuzuma-todos-os-episodios-online": {
+      "slug": "ha-natsuzuma-todos-os-episodios-online",
+      "title": "Natsuzuma",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC9OYXRzdXp1bWEtcG9zdGVyLUhlbnRhaS1sYW5jYW1lbnRvcy5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -915,5 +922,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781435550692
+  "updatedAt": 1781435563121
 }

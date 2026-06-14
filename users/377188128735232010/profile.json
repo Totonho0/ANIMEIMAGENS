@@ -645,6 +645,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL3dpZG93LmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "ah-tokyo-requiem": {
+      "slug": "ah-tokyo-requiem",
+      "title": "Tokyo Requiem",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL3Rva3lvLXJlcXVpZW0uanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -917,6 +924,9 @@
     ],
     "ah-widow": [
       1
+    ],
+    "ah-tokyo-requiem": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -972,5 +982,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436338510
+  "updatedAt": 1781436360515
 }

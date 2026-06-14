@@ -7,7 +7,7 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1781447236713,
+      "lastSeenAt": 1781447249445,
       "lastAlertAt": 1781446869253,
       "componentsOk": true,
       "viaBot": true,
@@ -1723,13 +1723,17 @@
       "ip": "177.71.29.207",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #350F285C",
-      "visitorShortId": "350F285C",
       "lastSeenAt": 1781446625433,
       "lastAlertAt": 1781447027643,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "viaBot": true,
+      "embedOnlineStatus": false,
+      "displayName": "Visitante #350F285C",
+      "visitorShortId": "350F285C",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

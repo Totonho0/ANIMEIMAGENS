@@ -1619,11 +1619,15 @@
       "username": "",
       "displayName": "Visitante #61495E5C",
       "visitorShortId": "61495E5C",
-      "lastSeenAt": 1781444553721,
-      "lastAlertAt": 1781444551382,
+      "lastSeenAt": 1781444585313,
+      "lastAlertAt": 1781444585313,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

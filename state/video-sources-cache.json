@@ -2176,6 +2176,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/hhi4eb4Rx8gwUcTXbFneFyKK7VG.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/ingoku-danchi-episodio-01"
       }
+    },
+    "anime:niwatori-fighter-dublado:1": {
+      "at": 1781445961180,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-N/Niwatori-Fighter/Dub/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-N%2FNiwatori-Fighter%2FDub%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "niwatori-fighter-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/osxVwkCcvKyA9MagpdspJKbuLLW.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/niwatori-fighter-dublado-episodio-01"
+      }
     }
   }
 }

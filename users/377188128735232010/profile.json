@@ -554,6 +554,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9BaXNhaS1OaWtraS1jYXBhLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "ha-honey-blonde-2-todos-os-episodios-online": {
+      "slug": "ha-honey-blonde-2-todos-os-episodios-online",
+      "title": "Honey Blonde 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC9ob25leS1ibG9uZGUtMi1wb3N0ZXItaGVudGFpLWxhbmNhbWVudG9zLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -852,5 +859,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434902134
+  "updatedAt": 1781434969564
 }

@@ -456,6 +456,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94VmlKSDhXbzMwZ2o3RWVVTjFNV01qYURmbjMuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "nee-shiyo": {
+      "slug": "nee-shiyo",
+      "title": "Nee Shiyo",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xVHRKUmxESXdXZHNtUlhEVG9tVWxhMUpCS0kuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -724,6 +731,9 @@
     ],
     "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": [
       1
+    ],
+    "nee-shiyo": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -814,5 +824,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781429670838
+  "updatedAt": 1781429686286
 }

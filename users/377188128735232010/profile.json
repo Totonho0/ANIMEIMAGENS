@@ -638,6 +638,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL2Fuby1kYW5jaGktbm8tdHN1bWEtdGFjaGktd2EtdGhlLWFuaW1hdGlvbi5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "ah-widow": {
+      "slug": "ah-widow",
+      "title": "Widow",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL3dpZG93LmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -907,6 +914,9 @@
     ],
     "ah-ano-danchi-no-tsuma-tachi-wa-the-animation": [
       1
+    ],
+    "ah-widow": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -962,5 +972,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436260957
+  "updatedAt": 1781436338510
 }

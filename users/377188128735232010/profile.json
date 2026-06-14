@@ -442,6 +442,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xUU5pS09VUkZUTlNJS1pzZEdnUDZkbjZERzEuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": {
+      "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+      "title": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xWnhWdWpPazYxUjAwZ2xtOGFTVTFoeVBxcDcuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -707,6 +714,9 @@
     ],
     "tsundero": [
       1
+    ],
+    "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -797,5 +807,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781429568833
+  "updatedAt": 1781429587802
 }

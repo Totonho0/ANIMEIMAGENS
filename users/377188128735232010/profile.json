@@ -494,9 +494,6 @@
     }
   },
   "watched": {
-    "jujutsu-kaisen-2-dublado": [
-      1
-    ],
     "aishiteru-game-wo-owarasetai-dublado": [
       1
     ],
@@ -593,9 +590,6 @@
       1
     ],
     "sousou-no-friere-2-dublado": [
-      1
-    ],
-    "jujutsu-kaisen-2-dublado": [
       1
     ],
     "hidarikiki-no-eren": [
@@ -812,13 +806,8 @@
       "slug": "aishiteru-game-wo-owarasetai-dublado",
       "ep": 1,
       "at": 1780667357718
-    },
-    {
-      "slug": "jujutsu-kaisen-2-dublado",
-      "ep": 1,
-      "at": 1780495298860
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431878629
+  "updatedAt": 1781431884083
 }

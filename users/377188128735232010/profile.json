@@ -582,6 +582,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wMS9mdW5rYW4tZGFrZS1mdXJldGUtbW8taWkteW8tc2hhcmUtaG91c2Utbm8taGltaXRzdS1ydWxlLXBvc3Rlci10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLUhlbnRhaS1hbmltZXMud2VicA",
       "kind": "anime",
       "adult": true
+    },
+    "ha-akiba-girls-todos-episodios": {
+      "slug": "ha-akiba-girls-todos-episodios",
+      "title": "Akiba Girls",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9Ba2liYS1HaXJscy1jYXBhLnBuZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -891,5 +898,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781435251091
+  "updatedAt": 1781435267524
 }

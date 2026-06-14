@@ -610,6 +610,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMC9OYXRzdXp1bWEtcG9zdGVyLUhlbnRhaS1sYW5jYW1lbnRvcy5qcGc",
       "kind": "anime",
       "adult": true
+    },
+    "ah-alignment-you-you-the-animation-online": {
+      "slug": "ah-alignment-you-you-the-animation-online",
+      "title": "Alignment You! You! The Animation Online",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL0FZWS5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -867,43 +874,46 @@
     ],
     "ha-akogare-no-onna-joushi-ga-aibeya-shucchou-no-tonari-no-bed-de-zetsurin-otoko-ni-netorarete-iru-todos-os-episodios-online": [
       2
+    ],
+    "ah-alignment-you-you-the-animation-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781435446862
+      "at": 1781435961397
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781435446862
+      "at": 1781435961396
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781435446862
+      "at": 1781435961396
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781435446862
+      "at": 1781435961396
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781435446862
+      "at": 1781435961396
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781435446862
+      "at": 1781435961396
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781435446862
+      "at": 1781435961396
     },
     {
       "slug": "ha-ane-koi-todos-episodios",
@@ -922,5 +932,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781435563121
+  "updatedAt": 1781435982068
 }

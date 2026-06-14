@@ -631,6 +631,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAyL0FraVNvcmEuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "ah-ano-danchi-no-tsuma-tachi-wa-the-animation": {
+      "slug": "ah-ano-danchi-no-tsuma-tachi-wa-the-animation",
+      "title": "Ano Danchi No Tsuma-tachi Wa… The Animation",
+      "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzEyL2Fuby1kYW5jaGktbm8tdHN1bWEtdGFjaGktd2EtdGhlLWFuaW1hdGlvbi5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -897,6 +904,9 @@
     ],
     "ah-aki-sora": [
       1
+    ],
+    "ah-ano-danchi-no-tsuma-tachi-wa-the-animation": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -952,5 +962,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436241207
+  "updatedAt": 1781436260957
 }

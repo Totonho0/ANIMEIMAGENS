@@ -532,9 +532,6 @@
     ],
     "kami-no-niwatsuki-kusunoki-tei": [
       1
-    ],
-    "marriagetoxin-dublado": [
-      1
     ]
   },
   "started": {
@@ -748,11 +745,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "marriagetoxin-dublado",
-      "ep": 1,
-      "at": 1781433214392
-    },
-    {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
       "at": 1781433214392
@@ -784,5 +776,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781433338071
+  "updatedAt": 1781433340402
 }

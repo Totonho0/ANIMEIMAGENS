@@ -29,7 +29,7 @@
       "discordId": "377188128735232010",
       "discordUsername": "Totonho",
       "createdAt": 1781387225164,
-      "lastSeenAt": 1781435962383,
+      "lastSeenAt": 1781436230332,
       "lastIp": "143.131.235.95"
     },
     "ded17db6-dc41-4d5a-8d5f-3b344005b486": {
@@ -2687,6 +2687,22 @@
       "createdAt": 1781436220898,
       "lastSeenAt": 1781436220898,
       "lastIp": "::ffff:100.64.0.2"
+    },
+    "098b5abb-7f23-4179-ad3f-08065c350d4d": {
+      "id": "098b5abb-7f23-4179-ad3f-08065c350d4d",
+      "displayName": "Visitante #098B5ABB",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "favorites": [],
+      "watchLater": [],
+      "mangaFavorites": [],
+      "library": {},
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1781436229197,
+      "lastSeenAt": 1781436229197,
+      "lastIp": "143.131.235.95"
     }
   }
 }

@@ -519,6 +519,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9Ba2ViaS1uby1IYW5hLU1haG8tY2FwYS5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "ha-anal-mania-otaku-to-ananii-daisuki-na-ojou-sama-todos-os-episodios-online": {
+      "slug": "ha-anal-mania-otaku-to-ananii-daisuki-na-ojou-sama-todos-os-episodios-online",
+      "title": "Anal Mania Otaku to Ananii Daisuki na Ojou-sama",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9hbmFsLW1hbmlhLW90YWt1LXRvLWFuYW5paS1kYWlzdWtpLW5hLW9qb3Utc2FtYS1wb3N0ZXItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1IZW50YWktbGFuY2FtZW50by5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -811,5 +818,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434295352
+  "updatedAt": 1781434418863
 }

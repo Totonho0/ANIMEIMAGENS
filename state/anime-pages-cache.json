@@ -10116,7 +10116,7 @@
       }
     },
     "cool-de-m": {
-      "at": 1780859180759,
+      "at": 1781429554371,
       "data": {
         "slug": "cool-de-m",
         "title": "Cool de M",
@@ -10126,17 +10126,17 @@
           {
             "number": 1,
             "title": "Episódio 01 - Uma mulher que não perde a compostura",
-            "url": "https://animesonline.cloud/episodio/cool-de-m-episodio-01"
+            "url": "https://animeplay.cloud/episodio/cool-de-m-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - A mulher que nunca vacila",
-            "url": "https://animesonline.cloud/episodio/cool-de-m-episodio-02"
+            "url": "https://animeplay.cloud/episodio/cool-de-m-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi": {
@@ -11443,27 +11443,27 @@
       }
     },
     "no-waifu-no-life": {
-      "at": 1780859182190,
+      "at": 1781429554469,
       "data": {
         "slug": "no-waifu-no-life",
         "title": "No Waifu No Life!",
-        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvTm8tV2FpZnUtTm8tTGlmZS5qcGc",
+        "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/No-Waifu-No-Life.jpg",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
             "title": "Episodio 01",
-            "url": "https://animesonline.cloud/episodio/no-waifu-no-life-episodio-01"
+            "url": "https://animeplay.cloud/episodio/no-waifu-no-life-episodio-01"
           },
           {
             "number": 2,
             "title": "Episodio 02",
-            "url": "https://animesonline.cloud/episodio/no-waifu-no-life-episodio-02"
+            "url": "https://animeplay.cloud/episodio/no-waifu-no-life-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "yatara-yarashii-fukami-kun": {
@@ -11521,27 +11521,27 @@
       }
     },
     "ito-wo-yoru": {
-      "at": 1780859182176,
+      "at": 1781429554394,
       "data": {
         "slug": "ito-wo-yoru",
         "title": "Ito wo Yoru",
-        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvSXRvLXdvLVlvcnUtMTg1eDI2MS0xLmpwZw",
+        "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/Ito-wo-Yoru-185x261-1.jpg",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
             "title": "Episodio 01",
-            "url": "https://animesonline.cloud/episodio/ito-wo-yoru-episodio-01"
+            "url": "https://animeplay.cloud/episodio/ito-wo-yoru-episodio-01"
           },
           {
             "number": 2,
             "title": "Episodio 02",
-            "url": "https://animesonline.cloud/episodio/ito-wo-yoru-episodio-02"
+            "url": "https://animeplay.cloud/episodio/ito-wo-yoru-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "yarichin-bitch-club": {
@@ -11569,22 +11569,22 @@
       }
     },
     "oni-chichi-harem": {
-      "at": 1780859182162,
+      "at": 1781429555494,
       "data": {
         "slug": "oni-chichi-harem",
         "title": "Oni Chichi Harem",
-        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEveTd3OVZZamE0R3hERVFuTklHTDYwRW5SYWExLmpwZw",
+        "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/y7w9VYja4GxDEQnNIGL60EnRaa1.jpg",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
             "title": "Episode 01",
-            "url": "https://animesonline.cloud/episodio/oni-chichi-harem-episodio-01"
+            "url": "https://animeplay.cloud/episodio/oni-chichi-harem-episodio-01"
           }
         ],
         "totalEpisodes": 1,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "yoasobi-gurashi": {
@@ -11691,32 +11691,32 @@
       }
     },
     "shounen-ga-otona-ni-natta-natsu": {
-      "at": 1780859182293,
+      "at": 1781429554435,
       "data": {
         "slug": "shounen-ga-otona-ni-natta-natsu",
         "title": "Shounen ga Otona ni Natta Natsu",
-        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvU2hvdW5lbi1nYS1PdG9uYS1uaS1OYXR0YS1OYXRzdS1BbmltZS1Ecml2ZS5wbmc",
+        "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/Shounen-ga-Otona-ni-Natta-Natsu-Anime-Drive.png",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
             "title": "Episódio 01",
-            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
+            "url": "https://animeplay.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02",
-            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
+            "url": "https://animeplay.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03",
-            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-03"
+            "url": "https://animeplay.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-03"
           }
         ],
         "totalEpisodes": 3,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "taishou-itsuwari-bridal": {
@@ -11774,7 +11774,7 @@
       }
     },
     "yumemiru-otome": {
-      "at": 1780859181509,
+      "at": 1781429554495,
       "data": {
         "slug": "yumemiru-otome",
         "title": "Yumemiru Otome",
@@ -11784,21 +11784,21 @@
           {
             "number": 1,
             "title": "Episódio 01",
-            "url": "https://animesonline.cloud/episodio/yumemiru-otome-episodio-01"
+            "url": "https://animeplay.cloud/episodio/yumemiru-otome-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02",
-            "url": "https://animesonline.cloud/episodio/yumemiru-otome-episodio-02"
+            "url": "https://animeplay.cloud/episodio/yumemiru-otome-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "kuro-gal-a-la-carte": {
-      "at": 1780859182221,
+      "at": 1781429554457,
       "data": {
         "slug": "kuro-gal-a-la-carte",
         "title": "Kuro Gal a La Carte",
@@ -11808,17 +11808,17 @@
           {
             "number": 1,
             "title": "Episódio 01 - Teddy Steady / Teddy Steady Mais um!!",
-            "url": "https://animesonline.cloud/episodio/kuro-gal-a-la-carte-episodio-01"
+            "url": "https://animeplay.cloud/episodio/kuro-gal-a-la-carte-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Oohata-san wa Risou no Gal / Gal no Kawaii Mieppari",
-            "url": "https://animesonline.cloud/episodio/kuro-gal-a-la-carte-episodio-02"
+            "url": "https://animeplay.cloud/episodio/kuro-gal-a-la-carte-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "modaete-yo-adam-kun": {
@@ -19961,6 +19961,64 @@
           }
         ],
         "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii": {
+      "at": 1781429555759,
+      "data": {
+        "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+        "title": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xWnhWdWpPazYxUjAwZ2xtOGFTVTFoeVBxcDcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - É impossível resistir a estar cercado por garotas tão sensuais?",
+            "url": "https://animeplay.cloud/episodio/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - É o sonho de qualquer homem ir a uma fonte termal com garotas sensuais e ter um harém a quatro",
+            "url": "https://animeplay.cloud/episodio/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Bem, Hamasaki-san e os outros não vão se cansar disso mais cedo ou mais tarde?",
+            "url": "https://animeplay.cloud/episodio/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Ser dominado por uma mulher adulta também é bom",
+            "url": "https://animeplay.cloud/episodio/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "eroge-de-subete-wa-kaiketsu-dekiru": {
+      "at": 1781429556649,
+      "data": {
+        "slug": "eroge-de-subete-wa-kaiketsu-dekiru",
+        "title": "Eroge de Subete wa Kaiketsu Dekiru!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96b21Ja1FRNzRFYmxNRkxxOHhPOTUxbHd0MnguanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/eroge-de-subete-wa-kaiketsu-dekiru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/eroge-de-subete-wa-kaiketsu-dekiru-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
         "kind": "anime",
         "provider": "animeplay"
       }

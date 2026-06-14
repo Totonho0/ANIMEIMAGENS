@@ -3618,6 +3618,76 @@
       "data": {
         "items": [
           {
+            "title": "Tsundero",
+            "slug": "tsundero",
+            "url": "https://animesonline.cloud/anime/tsundero",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/ohfZzVD51alDHHGracqIjyRM141-185x278.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Goblin no Suana",
+            "slug": "goblin-no-suana",
+            "url": "https://animesonline.cloud/anime/goblin-no-suana",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/rPtGP0hXA5NcVuwxgsvuWZjml9D-185x278.jpg",
+            "rating": "6",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+            "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+            "url": "https://animesonline.cloud/anime/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/cIVz47FkSTguGwYaRi6x4H2ms0L-185x278.jpg",
+            "rating": "8.7",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Eroge de Subete wa Kaiketsu Dekiru!",
+            "slug": "eroge-de-subete-wa-kaiketsu-dekiru",
+            "url": "https://animesonline.cloud/anime/eroge-de-subete-wa-kaiketsu-dekiru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/07/xpA5XiSqXkJRzykj1axYdYzJxjA-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Onii-chan, Asa made Zutto Gyutte Shite!",
+            "slug": "onii-chan-asa-made-zutto-gyutte-shite",
+            "url": "https://animesonline.cloud/anime/onii-chan-asa-made-zutto-gyutte-shite",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/k9vWrMWYxIKWuets7ayQvpQnd44-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Aisei Tenshi Love Mary: Akusei Jutai The Animation",
+            "slug": "aisei-tenshi-love-mary-akusei-jutai-the-animation",
+            "url": "https://animesonline.cloud/anime/aisei-tenshi-love-mary-akusei-jutai-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/eit8VD15iZKimN5FHIFu2Oe4JHt-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Master Piece The Animation",
+            "slug": "master-piece-the-animation",
+            "url": "https://animesonline.cloud/anime/master-piece-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/rsyBljVavX6qDMkfu9Rsh4FzVhs-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
             "title": "Papa datte, Shitai",
             "slug": "papa-datte-shitai",
             "url": "https://animesonline.cloud/anime/papa-datte-shitai",
@@ -3708,6 +3778,16 @@
             "adult": true
           },
           {
+            "title": "Lovely Day: Boku to Kanojo no Nana Nichikan",
+            "slug": "lovely-day-boku-to-kanojo-no-nana-nichikan",
+            "url": "https://animesonline.cloud/anime/lovely-day-boku-to-kanojo-no-nana-nichikan",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rKGjTHfT8C5y0EHbZEW98uH7aAV-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
             "title": "Kuroinu: Kedakaki Seijo Wa Hakudaku Ni Somaru",
             "slug": "kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru",
             "url": "https://animesonline.cloud/anime/kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru",
@@ -3776,33 +3856,13 @@
             "kind": "anime",
             "provider": "aoc",
             "adult": true
-          },
-          {
-            "title": "Angel Core The Animation",
-            "slug": "angel-core-the-animation",
-            "url": "https://animesonline.cloud/anime/angel-core-the-animation",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/oOUkxQy3N7yyRAzOCfHD1BWVklt-185x278.jpg",
-            "rating": "7",
-            "kind": "anime",
-            "provider": "aoc",
-            "adult": true
-          },
-          {
-            "title": "Bible Black",
-            "slug": "bible-black",
-            "url": "https://animesonline.cloud/anime/bible-black",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/8vNt0y6tMwBeUUjoUhb8HEFLUKN-185x278.jpg",
-            "rating": "7.6",
-            "kind": "anime",
-            "provider": "aoc",
-            "adult": true
           }
         ],
         "category": "hentai",
         "page": 2,
-        "hasMore": false
+        "hasMore": true
       },
-      "at": 1780859178747
+      "at": 1781431575136
     },
     "offline|2||24": {
       "data": {
@@ -4756,5 +4816,5 @@
       "at": 1781128997792
     }
   },
-  "updatedAt": 1781431572721
+  "updatedAt": 1781431575136
 }

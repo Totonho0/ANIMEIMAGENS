@@ -428,6 +428,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci8yYi9lZjQxZmQ5MzYzZjZjYjBiNTA4Y2UzM2U1N2JjMTkuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "yowayowa-sensei": {
+      "slug": "yowayowa-sensei",
+      "title": "Yowayowa Sensei",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kS0E4eTFIeEVxMDlNMTFwODk2aEJrWnNrdTEuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -687,43 +694,46 @@
     ],
     "18842-obsession-a-felicidade-é-relativa": [
       1
+    ],
+    "yowayowa-sensei": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781359085130
+      "at": 1781429352228
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781359085130
+      "at": 1781429352228
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781359085130
+      "at": 1781429352228
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781359085130
+      "at": 1781429352228
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781359085130
+      "at": 1781429352228
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781359085130
+      "at": 1781429352228
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781359085130
+      "at": 1781429352228
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -777,5 +787,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781359105662
+  "updatedAt": 1781429411217
 }

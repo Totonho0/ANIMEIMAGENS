@@ -533,9 +533,6 @@
     "kami-no-niwatsuki-kusunoki-tei": [
       1
     ],
-    "haikyuu-dublado": [
-      1
-    ],
     "marriagetoxin-dublado": [
       1
     ]
@@ -756,11 +753,6 @@
       "at": 1781433214392
     },
     {
-      "slug": "haikyuu-dublado",
-      "ep": 1,
-      "at": 1781433214392
-    },
-    {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
       "at": 1781433214392
@@ -792,5 +784,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781433337091
+  "updatedAt": 1781433338071
 }

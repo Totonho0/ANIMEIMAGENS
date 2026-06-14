@@ -711,9 +711,6 @@
     ],
     "stranger-things-historias-de-85-dublado": [
       1
-    ],
-    "niwatori-fighter-dublado": [
-      1
     ]
   },
   "started": {
@@ -961,19 +958,11 @@
     "ingoku-danchi": [
       1
     ],
-    "niwatori-fighter-dublado": [
-      1
-    ],
     "tongari-boushi-no-atelier-dublado": [
       1
     ]
   },
   "watchHistoryLog": [
-    {
-      "slug": "niwatori-fighter-dublado",
-      "ep": 1,
-      "at": 1781446731273
-    },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
@@ -1026,5 +1015,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781446852933
+  "updatedAt": 1781447266304
 }

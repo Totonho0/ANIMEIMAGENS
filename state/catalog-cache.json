@@ -691,6 +691,61 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 35",
+            "epTitle": "Episódio 35",
+            "slug": "digimon-beatbreak",
+            "episode": 35,
+            "url": "https://animesonline.cloud/episodio/digimon-beatbreak-episodio-35",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/j4MJcpN2tVgofTWJMoWLWT3UpUh-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/viOiOq1oDXBDRR6GQV7ra6l0m80-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/4k4HvBGKffyKEmhLNONhDFPeKiT-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "mao",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/mao-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/g9q2f9SgSx1NDS1PbwSgMyCUrZV-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "mao",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/mao-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8GnqDpBmUdbAlNcDUeBYS9KYsh5-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 11",
             "epTitle": "Episódio 11",
             "slug": "needy-girl-overdose",
@@ -898,35 +953,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 23",
-            "epTitle": "Episódio 23",
-            "slug": "hitori-no-shita-the-outcast-6",
-            "episode": 23,
-            "url": "https://animesonline.cloud/episodio/hitori-no-shita-the-outcast-6-episodio-23",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/didwJOghQCwM0gSBvKvJGtyERio-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 22",
-            "epTitle": "Episódio 22",
-            "slug": "hitori-no-shita-the-outcast-6",
-            "episode": 22,
-            "url": "https://animesonline.cloud/episodio/hitori-no-shita-the-outcast-6-episodio-22",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/cptvzhQCaaNEZEesCqsbyQJukQ-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
-        "hasMore": false
+        "hasMore": true
       },
-      "at": 1781446128953
+      "at": 1781447956679
     },
     "todos|2||24": {
       "data": {
@@ -1143,7 +1176,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1781446138175
+      "at": 1781447956730
     },
     "todos|1||24": {
       "data": {
@@ -6655,5 +6688,5 @@
       "at": 1781446940553
     }
   },
-  "updatedAt": 1781447733782
+  "updatedAt": 1781447956730
 }

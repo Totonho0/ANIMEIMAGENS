@@ -547,6 +547,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9BLVRyaXAtV2l0aC1NeS1TaXN0ZXItcG9zdGVyLmpwZw",
       "kind": "anime",
       "adult": false
+    },
+    "ha-aisai-nikk-todos-episodios": {
+      "slug": "ha-aisai-nikk-todos-episodios",
+      "title": "Aisai Nikk",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNC9BaXNhaS1OaWtraS1jYXBhLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -792,6 +799,9 @@
     ],
     "ha-a-trip-with-my-sister": [
       1
+    ],
+    "ha-aisai-nikk-todos-episodios": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -842,5 +852,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781434865937
+  "updatedAt": 1781434902134
 }

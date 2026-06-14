@@ -537,6 +537,12 @@
     ],
     "filme/assistir-harry-potter-e-o-enigma-do-principe-online": [
       1
+    ],
+    "marriagetoxin-dublado": [
+      1
+    ],
+    "akane-banashi": [
+      1
     ]
   },
   "started": {
@@ -765,29 +771,39 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "akane-banashi",
+      "ep": 1,
+      "at": 1781431810702
+    },
+    {
+      "slug": "marriagetoxin-dublado",
+      "ep": 1,
+      "at": 1781431810702
+    },
+    {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781431754768
+      "at": 1781431810702
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781431754768
+      "at": 1781431810702
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781431754768
+      "at": 1781431810702
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781431754768
+      "at": 1781431810702
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781431754768
+      "at": 1781431810702
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -841,5 +857,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431807387
+  "updatedAt": 1781431812038
 }

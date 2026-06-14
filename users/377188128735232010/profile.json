@@ -307,7 +307,8 @@
       "slug": "bocchi-the-rock-season-2",
       "title": "Bocchi the Rock! Season 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvaHd3bUg4TklObGNDMW5xNm9iTDNhdHoySERZLTE4NXgyNzguanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "11109-weapons": {
       "slug": "11109-weapons",
@@ -1023,5 +1024,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781447271123
+  "updatedAt": 1781447487659
 }

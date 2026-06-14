@@ -866,6 +866,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:3776baca-30c4-45a3-8505-81429dc41177": {
+      "userKey": "v:3776baca-30c4-45a3-8505-81429dc41177",
+      "messageId": "1515589731566751765",
+      "channelId": "1510739162116915371",
+      "ip": "172.71.184.42",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #3776BACA",
+      "visitorShortId": "3776BACA",
+      "lastSeenAt": 1781415150156,
+      "lastAlertAt": 1781415150156,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

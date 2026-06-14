@@ -477,6 +477,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qZ0F2OHVtaTlZR0ZJY2RhTzRueFFZNllPa2IuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "yoasobi-gurashi": {
+      "slug": "yoasobi-gurashi",
+      "title": "Yoasobi Gurashi!",
+      "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/wxvosl1gwbJ80uXChRojZs3RP6I.jpg",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -751,43 +758,46 @@
     ],
     "angel-core-the-animation": [
       1
+    ],
+    "yoasobi-gurashi": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781430956022
+      "at": 1781431571253
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781430956022
+      "at": 1781431571253
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781430956022
+      "at": 1781431571253
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781430956022
+      "at": 1781431571253
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781430956022
+      "at": 1781431571253
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781430956022
+      "at": 1781431571253
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781430956022
+      "at": 1781431571253
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -841,5 +851,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781430994357
+  "updatedAt": 1781431650042
 }

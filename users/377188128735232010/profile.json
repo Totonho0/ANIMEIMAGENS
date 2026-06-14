@@ -683,9 +683,6 @@
     "haikyuu-dublado": [
       1
     ],
-    "marriagetoxin-dublado": [
-      1
-    ],
     "ha-ane-koi-todos-episodios": [
       1
     ]
@@ -935,11 +932,6 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "marriagetoxin-dublado",
-      "ep": 1,
-      "at": 1781436229373
-    },
-    {
       "slug": "haikyuu-dublado",
       "ep": 1,
       "at": 1781436229373
@@ -981,5 +973,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781436491364
+  "updatedAt": 1781436492630
 }

@@ -20608,6 +20608,30 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "maro-no-kanja-wa-gatenkei": {
+      "at": 1781429590668,
+      "data": {
+        "slug": "maro-no-kanja-wa-gatenkei",
+        "title": "Maro no Kanja wa Gatenkei",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93YjQzQlBKYkhjZG5XNHhKd21vd3JxZ09FaDAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/maro-no-kanja-wa-gatenkei-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/maro-no-kanja-wa-gatenkei-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

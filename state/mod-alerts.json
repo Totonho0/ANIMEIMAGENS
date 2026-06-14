@@ -1600,11 +1600,15 @@
       "username": "",
       "displayName": "Visitante #F8894103",
       "visitorShortId": "F8894103",
-      "lastSeenAt": 1781444208076,
-      "lastAlertAt": 1781444195665,
+      "lastSeenAt": 1781444487593,
+      "lastAlertAt": 1781444487593,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

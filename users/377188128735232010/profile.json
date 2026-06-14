@@ -491,6 +491,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvcktHalRIZlQ4QzV5MEVIYlpFVzk4dUg3YUFWLmpwZw",
       "kind": "anime",
       "adult": true
+    },
+    "ha-buta-hime-sama": {
+      "slug": "ha-buta-hime-sama",
+      "title": "Buta Hime-sama – Todos os Episódios Online",
+      "poster": "/api/poster/r/aHR0cHM6Ly9oZW50YWlhbmltZS5jYy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNS9CdXRhLUhpbWUtc2FtYS5qcGc",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -723,43 +730,46 @@
     ],
     "ikumonogakari-the-animation": [
       1
+    ],
+    "ha-buta-hime-sama": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781431898456
+      "at": 1781432541055
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781431898456
+      "at": 1781432541055
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781431898456
+      "at": 1781432541055
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781431898456
+      "at": 1781432541055
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781431898456
+      "at": 1781432541054
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781431898456
+      "at": 1781432541054
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781431898456
+      "at": 1781432541054
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -773,5 +783,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431899798
+  "updatedAt": 1781432581071
 }

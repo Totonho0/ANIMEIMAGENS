@@ -666,6 +666,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oaGk0ZWI0Ung4Z3dVY1RYYkZuZUZ5S0s3VkcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "niwatori-fighter-dublado": {
+      "slug": "niwatori-fighter-dublado",
+      "title": "Niwatori Fighter Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vc3hWd2tDY3ZLeUE5TWFncGRzcEpLYnVMTFcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -944,6 +951,9 @@
     ],
     "ingoku-danchi": [
       1
+    ],
+    "niwatori-fighter-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -999,5 +1009,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781445940499
+  "updatedAt": 1781445958893
 }

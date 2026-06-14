@@ -2019,6 +2019,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:88301b4c-59de-43ca-bd04-20c97ed0b0fc": {
+      "userKey": "v:88301b4c-59de-43ca-bd04-20c97ed0b0fc",
+      "messageId": "1515804460126048476",
+      "channelId": "1510739162116915371",
+      "ip": "172.71.172.13",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #88301B4C",
+      "visitorShortId": "88301B4C",
+      "lastSeenAt": 1781466345477,
+      "lastAlertAt": 1781466345477,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

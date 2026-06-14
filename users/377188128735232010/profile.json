@@ -484,6 +484,13 @@
       "poster": "https://animeplay.cloud/wp-content/uploads/2025/01/wxvosl1gwbJ80uXChRojZs3RP6I.jpg",
       "kind": "anime",
       "adult": true
+    },
+    "lovely-day-boku-to-kanojo-no-nana-nichikan": {
+      "slug": "lovely-day-boku-to-kanojo-no-nana-nichikan",
+      "title": "Lovely Day: Boku to Kanojo no Nana Nichikan",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvcktHalRIZlQ4QzV5MEVIYlpFVzk4dUg3YUFWLmpwZw",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -761,6 +768,9 @@
     ],
     "yoasobi-gurashi": [
       1
+    ],
+    "lovely-day-boku-to-kanojo-no-nana-nichikan": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -851,5 +861,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781431650042
+  "updatedAt": 1781431704660
 }

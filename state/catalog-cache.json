@@ -266,6 +266,15 @@
             "provider": "aoc"
           },
           {
+            "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+            "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+            "url": "https://animesonline.cloud/anime/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/dRBV8LaKwLrIOpa8Ud3ShxWKRnn-185x278.jpg",
+            "rating": "6.74",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Hotaru no Yomeiri",
             "slug": "hotaru-no-yomeiri",
             "url": "https://animesonline.cloud/anime/hotaru-no-yomeiri",
@@ -414,7 +423,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1781450629971
+      "at": 1781557255578
     },
     "todos|2||48": {
       "data": {
@@ -6688,5 +6697,5 @@
       "at": 1781446940553
     }
   },
-  "updatedAt": 1781450791265
+  "updatedAt": 1781557255578
 }

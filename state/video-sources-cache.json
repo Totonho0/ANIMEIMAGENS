@@ -2271,6 +2271,31 @@
         "poster": "https://image.tmdb.org/t/p/w780/A3LWweARdmmkyy6dTkn9BuXvwCM.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-08"
       }
+    },
+    "anime:uzumaki:3": {
+      "at": 1781557891057,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-U/Uzumaki/03.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-U%2FUzumaki%2F03.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://cld.pt/dl/download/0bea5de9-7b94-4502-8ce1-4a1a20e5a7c5/Uzumaki%20%E2%80%93%20Epis%C3%B3dio%203.mp4",
+            "label": "HD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2F0bea5de9-7b94-4502-8ce1-4a1a20e5a7c5%2FUzumaki%2520%25E2%2580%2593%2520Epis%25C3%25B3dio%25203.mp4&ref=aoc"
+          }
+        ],
+        "episode": 3,
+        "slug": "uzumaki",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/uzumaki-episodio-03"
+      }
     }
   }
 }

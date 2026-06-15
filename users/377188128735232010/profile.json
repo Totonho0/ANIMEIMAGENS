@@ -134,7 +134,8 @@
       "slug": "devil-may-cry-2026-dublado",
       "title": "Devil May Cry 2 (2026) Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uTHlYWElETXBESHZVZ3hjaGV6eHVob0o0RWouanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "aishiteru-game-wo-owarasetai-dublado": {
       "slug": "aishiteru-game-wo-owarasetai-dublado",
@@ -1032,6 +1033,9 @@
     ],
     "blue-lock-3": [
       1
+    ],
+    "devil-may-cry-2026-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1097,5 +1101,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781559567254
+  "updatedAt": 1781559608072
 }

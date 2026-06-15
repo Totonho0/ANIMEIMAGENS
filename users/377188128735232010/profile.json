@@ -21,9 +21,10 @@
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
-      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvcE1MaXRLN3VDS29GMjVkTm41WGFpMFJ1RnJhLmpwZw",
-      "kind": "anime"
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvcE1MaXRLN3VDS29GMjVkTm41WGFpMFJ1RnJhLmpwZw",
+      "kind": "anime",
+      "adult": false
     },
     "haikyuu": {
       "slug": "haikyuu",
@@ -35,8 +36,7 @@
       "slug": "haikyuu-dublado",
       "title": "Haikyuu!! Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "maou-sama-retry": {
       "slug": "maou-sama-retry",
@@ -60,8 +60,7 @@
       "slug": "one-piece",
       "title": "One Piece",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ycm1LN21uY2h3OVhyM1hkaVRGU3hUVExYcXYuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "haikyuu-second-season": {
       "slug": "haikyuu-second-season",
@@ -84,10 +83,9 @@
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
-      "title": "Assistir Stranger Things: Histórias de 85 Dublado Online em HD - Todos os Episódios Atualizados",
+      "title": "Stranger Things: Histórias de 85 Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
@@ -1020,50 +1018,50 @@
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781558142172
-    },
-    {
-      "slug": "uzumaki",
-      "ep": 1,
-      "at": 1781558142172
+      "at": 1781558789080
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+      "ep": 1,
+      "at": 1781558789080
+    },
+    {
+      "slug": "uzumaki",
       "ep": 1,
       "at": 1781558142172
     },
@@ -1079,5 +1077,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781558270104
+  "updatedAt": 1781558795122
 }

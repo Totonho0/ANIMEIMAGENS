@@ -77,14 +77,14 @@
       "slug": "uzumaki",
       "title": "Uzumaki",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
-      "title": "Assistir Stranger Things: Histórias de 85 Dublado Online em HD - Todos os Episódios Atualizados",
+      "title": "Stranger Things: Histórias de 85 Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
@@ -1018,52 +1018,52 @@
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389709
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781559293278
+      "at": 1781559389708
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1077,5 +1077,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781559340372
+  "updatedAt": 1781559397778
 }

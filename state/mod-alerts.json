@@ -2598,6 +2598,69 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:c9467888-ddc1-46a0-bde9-9594158a1be4": {
+      "userKey": "v:c9467888-ddc1-46a0-bde9-9594158a1be4",
+      "messageId": "1515915085434851430",
+      "channelId": "1510739162116915371",
+      "ip": "34.162.106.204",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #C9467888",
+      "visitorShortId": "C9467888",
+      "lastSeenAt": 1781492720683,
+      "lastAlertAt": 1781492720683,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:8f762dc5-d8ed-41ff-89dc-7806e67a12bf": {
+      "userKey": "v:8f762dc5-d8ed-41ff-89dc-7806e67a12bf",
+      "messageId": "",
+      "channelId": "",
+      "ip": "34.162.106.204",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #8F762DC5",
+      "visitorShortId": "8F762DC5",
+      "lastSeenAt": 1781492720895,
+      "lastAlertAt": 0
+    },
+    "v:b2b288f9-3f67-4878-9d6f-63a59656c320": {
+      "userKey": "v:b2b288f9-3f67-4878-9d6f-63a59656c320",
+      "messageId": "",
+      "channelId": "",
+      "ip": "34.162.106.204",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #B2B288F9",
+      "visitorShortId": "B2B288F9",
+      "lastSeenAt": 1781492720896,
+      "lastAlertAt": 0
+    },
+    "v:66df1d30-f3d5-4b74-9810-957f9f104094": {
+      "userKey": "v:66df1d30-f3d5-4b74-9810-957f9f104094",
+      "messageId": "",
+      "channelId": "",
+      "ip": "34.162.106.204",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #66DF1D30",
+      "visitorShortId": "66DF1D30",
+      "lastSeenAt": 1781492720897,
+      "lastAlertAt": 0
+    },
+    "v:3595ebcd-02fe-400e-ae69-55ea4f9371ba": {
+      "userKey": "v:3595ebcd-02fe-400e-ae69-55ea4f9371ba",
+      "messageId": "",
+      "channelId": "",
+      "ip": "34.162.106.204",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #3595EBCD",
+      "visitorShortId": "3595EBCD",
+      "lastSeenAt": 1781492720909,
+      "lastAlertAt": 0
     }
   },
   "links": {

@@ -21,10 +21,9 @@
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2",
-      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvcE1MaXRLN3VDS29GMjVkTm41WGFpMFJ1RnJhLmpwZw",
-      "kind": "anime",
-      "adult": false
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvcE1MaXRLN3VDS29GMjVkTm41WGFpMFJ1RnJhLmpwZw",
+      "kind": "anime"
     },
     "haikyuu": {
       "slug": "haikyuu",
@@ -1018,47 +1017,47 @@
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781558789080
+      "at": 1781558904337
     },
     {
       "slug": "uzumaki",
@@ -1077,5 +1076,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781558795122
+  "updatedAt": 1781558907874
 }

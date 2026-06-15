@@ -80,7 +80,7 @@
       }
     },
     "uzumaki": {
-      "at": 1781557838183,
+      "at": 1781558142088,
       "data": {
         "slug": "uzumaki",
         "title": "Uzumaki - Todos os Episódios",
@@ -90,27 +90,27 @@
           {
             "number": 1,
             "title": "Episódio 01",
-            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-01"
+            "url": "https://animeplay.cloud/episodio/uzumaki-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02",
-            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-02"
+            "url": "https://animeplay.cloud/episodio/uzumaki-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03",
-            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-03"
+            "url": "https://animeplay.cloud/episodio/uzumaki-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04",
-            "url": "https://animesonline.cloud/episodio/uzumaki-episodio-04"
+            "url": "https://animeplay.cloud/episodio/uzumaki-episodio-04"
           }
         ],
         "totalEpisodes": 4,
         "kind": "anime",
-        "provider": "aoc"
+        "provider": "animeplay"
       }
     },
     "one-piece": {

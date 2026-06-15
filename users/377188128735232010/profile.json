@@ -35,7 +35,8 @@
       "slug": "haikyuu-dublado",
       "title": "Haikyuu!! Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "maou-sama-retry": {
       "slug": "maou-sama-retry",
@@ -1110,5 +1111,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781559813959
+  "updatedAt": 1781559844530
 }

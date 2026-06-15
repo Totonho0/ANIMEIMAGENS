@@ -2296,6 +2296,37 @@
         "poster": "https://image.tmdb.org/t/p/w780/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/uzumaki-episodio-03"
       }
+    },
+    "anime:uzumaki:4": {
+      "at": 1781557899882,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-U/Uzumaki/04.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-U%2FUzumaki%2F04.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://cldup.com/transcoded/deQDwVQFiU.mp4.mp4",
+            "label": "FHD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcldup.com%2Ftranscoded%2FdeQDwVQFiU.mp4.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://cld.pt/dl/download/baae387e-963a-4e50-b524-ceb8ac57e17b/Uzumaki – Episódio 4.mp4",
+            "label": "HD",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fcld.pt%2Fdl%2Fdownload%2Fbaae387e-963a-4e50-b524-ceb8ac57e17b%2FUzumaki%20%E2%80%93%20Epis%C3%B3dio%204.mp4&ref=aoc"
+          }
+        ],
+        "episode": 4,
+        "slug": "uzumaki",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/uzumaki-episodio-04"
+      }
     }
   }
 }

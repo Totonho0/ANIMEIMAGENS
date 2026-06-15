@@ -12838,6 +12838,80 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "chainsaw-man-dublado": {
+      "at": 1781559389566,
+      "data": {
+        "slug": "chainsaw-man-dublado",
+        "title": "Chainsaw Man Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81RFVNUEJTbkhPWnNiQnY4MUdGWFpYdkRwbzYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Cachorro e Motosserra",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Chegada em Tokyo",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Paradeiro de Miauzin",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Resgate",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Demônio da Arma",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Matem o Denji",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Sabor do Beijo",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Som do Disparo",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - De Kyoto",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Ainda Mais Podre",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Início do Plano",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Katana vs. Motosserra",
+            "url": "https://animeplay.cloud/episodio/chainsaw-man-dublado-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

@@ -60,7 +60,8 @@
       "slug": "one-piece",
       "title": "One Piece",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ycm1LN21uY2h3OVhyM1hkaVRGU3hUVExYcXYuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "haikyuu-second-season": {
       "slug": "haikyuu-second-season",
@@ -1077,5 +1078,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781558218743
+  "updatedAt": 1781558250584
 }

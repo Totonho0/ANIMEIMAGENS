@@ -1150,22 +1150,13 @@
             "rating": "8.4",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Marriagetoxin Dublado",
-            "slug": "marriagetoxin-dublado",
-            "url": "https://animesonline.cloud/anime/marriagetoxin-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/wXyOAIxNUFTEk9Mpj7Ca4jCibMf-185x278.jpg",
-            "rating": "7.5",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1781450791265
+      "at": 1781557394353
     },
     "todos|1||24": {
       "data": {
@@ -1221,6 +1212,15 @@
             "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+            "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+            "url": "https://animesonline.cloud/anime/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/dRBV8LaKwLrIOpa8Ud3ShxWKRnn-185x278.jpg",
+            "rating": "6.74",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -1373,7 +1373,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1781450658735
+      "at": 1781557394445
     },
     "todos|3||24": {
       "data": {
@@ -6677,5 +6677,5 @@
       "at": 1781446940553
     }
   },
-  "updatedAt": 1781557258845
+  "updatedAt": 1781557394445
 }

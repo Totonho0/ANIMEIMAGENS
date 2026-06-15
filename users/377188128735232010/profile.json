@@ -694,6 +694,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvc2RXTnF0Y1BKcHVkUEl0UEczekJkeUd5elRILTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "smoking-behind-the-supermarket-with-you": {
+      "slug": "smoking-behind-the-supermarket-with-you",
+      "title": "Super no Ura de Yani Suu Futari",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvblNkZ1g1MDdqQmxvbkdGQzkxVmUwVGZjTGpKLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -987,58 +994,61 @@
     ],
     "nageki-no-bourei-wa-intai-shitai": [
       1
+    ],
+    "smoking-behind-the-supermarket-with-you": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781554668266
+      "at": 1781554930619
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1052,5 +1062,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781554673021
+  "updatedAt": 1781554941863
 }

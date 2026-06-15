@@ -81,10 +81,9 @@
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
-      "title": "Assistir Stranger Things: Histórias de 85 Dublado Online em HD - Todos os Episódios Atualizados",
+      "title": "Stranger Things: Histórias de 85 Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
@@ -107,9 +106,10 @@
     },
     "nageki-no-bourei-wa-intai-shitai": {
       "slug": "nageki-no-bourei-wa-intai-shitai",
-      "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
+      "title": "Nageki no Bourei wa Intai shitai",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYlpENTVncFg3VURtUFRPM3JKS0ZVT2t3WDdBLmpwZw",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "tsue-to-tsurugi-no-wistoria-2": {
       "slug": "tsue-to-tsurugi-no-wistoria-2",
@@ -984,58 +984,61 @@
     ],
     "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den": [
       1
+    ],
+    "nageki-no-bourei-wa-intai-shitai": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781554394752
+      "at": 1781554668266
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1049,5 +1052,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781554404561
+  "updatedAt": 1781554673021
 }

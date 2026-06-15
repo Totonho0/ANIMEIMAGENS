@@ -686,6 +686,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96aDNQa3BwaEtMWVp6MGhsN29QVEZybkdoTm4uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den": {
+      "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvc2RXTnF0Y1BKcHVkUEl0UEczekJkeUd5elRILTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -973,58 +980,61 @@
     ],
     "tongari-boushi-no-atelier-dublado": [
       1
+    ],
+    "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781554170457
+      "at": 1781554202791
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1038,5 +1048,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781554178393
+  "updatedAt": 1781554319447
 }

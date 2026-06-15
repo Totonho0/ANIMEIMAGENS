@@ -81,9 +81,10 @@
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
-      "title": "Stranger Things: Histórias de 85 Dublado",
+      "title": "Assistir Stranger Things: Histórias de 85 Dublado Online em HD - Todos os Episódios Atualizados",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bEJHYXhxOUdtSmV4eUVPaTRYY2k3NGc2VnQuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado": {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
@@ -1086,5 +1087,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781559505838
+  "updatedAt": 1781559546699
 }

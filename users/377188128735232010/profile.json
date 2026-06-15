@@ -717,6 +717,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xTTh1VzhvNmZkRGFhM3pxbUJEMlVVS3UwVlouanBn",
       "kind": "anime",
       "adult": false
+    },
+    "blue-lock-3": {
+      "slug": "blue-lock-3",
+      "title": "Blue Lock 3",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvYTZpOGNWbGtJUWJIQnJ4b0dGZE9HNDd4dFp1LTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1022,6 +1029,9 @@
     ],
     "baki-dou": [
       1
+    ],
+    "blue-lock-3": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1087,5 +1097,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781559546699
+  "updatedAt": 1781559567254
 }

@@ -75,9 +75,10 @@
     },
     "uzumaki": {
       "slug": "uzumaki",
-      "title": "Uzumaki - Todos os Episódios",
+      "title": "Uzumaki",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
@@ -1062,5 +1063,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781554941863
+  "updatedAt": 1781554968768
 }

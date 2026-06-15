@@ -13203,6 +13203,164 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "city-the-animation": {
+      "at": 1781559585516,
+      "data": {
+        "slug": "city-the-animation",
+        "title": "City The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93NWdrOERzWmlWU1AycGdKMmNXemRsZERhZXcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Família Makabe",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - A 4° Corrida da Cidade",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Entrega Mequetrefe",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Bonjour a Todos",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Concurso de Fotos",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Final",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-episodio-13"
+          }
+        ],
+        "totalEpisodes": 13,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "city-the-animation-dublado": {
+      "at": 1781559587000,
+      "data": {
+        "slug": "city-the-animation-dublado",
+        "title": "City The Animation Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC93NWdrOERzWmlWU1AycGdKMmNXemRsZERhZXcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Família Makabe",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Crush de Tanabe",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - A 4° Corrida da Cidade",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Entrega Mequetrefe",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Bonjour a Todos",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Concurso de Fotos",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Final",
+            "url": "https://animeplay.cloud/episodio/city-the-animation-dublado-episodio-13"
+          }
+        ],
+        "totalEpisodes": 13,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

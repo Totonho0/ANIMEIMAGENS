@@ -10625,6 +10625,184 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "b-king": {
+      "at": 1781559360005,
+      "data": {
+        "slug": "b-king",
+        "title": "B.King",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vdkNYd1ZXOTVmYXE4dlFra3NoSWM3alB1MnUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Deus Criador Chega",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Sem dúvida, um ator talentoso.",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Que bela careca!",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Devolva-me o que eu fiz com você.",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Conhecer você foi meu destino",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Super Exibicionistas",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Uma família amorosa",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Vamos beber isto!",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18",
+            "url": "https://animeplay.cloud/episodio/b-king-episodio-18"
+          }
+        ],
+        "totalEpisodes": 18,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "badgirl": {
+      "at": 1781559360793,
+      "data": {
+        "slug": "badgirl",
+        "title": "Bad Girl",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lVUo3ZnVkZnJ6SXh4OFBKb2l0TnNtSzc0Y2UuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Sou uma garota má a partir de hoje ♡",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Eroísta nato / Clube secreto / Por favor, me conte!",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Eu te odeio / Ruu é fofo? / Primeiro beijo",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Assembleia do Comitê ADC",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Agora eu peguei vocês! Shijimi e Hotate / Bool!",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Tempos Violentos / Quatro Amores / Céu e Inferno",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Caos na troca de roupas / O inimigo está dentro da sala de aula / Bem-vindo ao Cafe Scramble!",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Uma coordenação baseada em vibrações / Confissão / Ela está aqui!",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Algo ruim / Outra montanha / Vou tentar você!",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Na sala de estudo particular / Agarrando em vez de agarrar / No meu quarto",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Um brinquedo muito divertido / Acampamento Yuri-Track / Wibutt",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Adeus / Vou te dar todos eles! / A garota má definitiva",
+            "url": "https://animeplay.cloud/episodio/bad-girl-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

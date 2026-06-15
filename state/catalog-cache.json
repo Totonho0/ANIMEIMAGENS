@@ -679,26 +679,193 @@
             "rating": "7.71",
             "kind": "anime",
             "provider": "aoc"
-          },
-          {
-            "title": "Kill Ao Dublado",
-            "slug": "kill-ao-dublado",
-            "url": "https://animesonline.cloud/anime/kill-ao-dublado",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/i1RaaFQUSGfx48CavoBRqeloLYb-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1781450630286
+      "at": 1781557258845
     },
     "lancamentos|1||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "isekai-nonbiri-nouka-2",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/isekai-nonbiri-nouka-2-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/j0Grl5NtYMSGV0cxin1qq0Y742Z-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "tongari-boushi-no-atelier",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/t3AbhAvDBvnMmhsUsDYSMd7tE9s-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/6uYjKFIA16uKBwrxO1gWHF1DhSF-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/yozakura-san-chi-no-daisakusen-2-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/fojvcwZqMw7N4wYWBQbrvyqmvDM-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 7",
+            "epTitle": "Episódio 7",
+            "slug": "needy-girl-overdose-dublado",
+            "episode": 7,
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-07",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8ZZTLQ2RJSIergj3gUdvhaLRxUq-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "needy-girl-overdose-dublado",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/aVZWcebyn1e36Hi8N2XhJOxLk3a-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 5",
+            "epTitle": "Episódio 5",
+            "slug": "needy-girl-overdose-dublado",
+            "episode": 5,
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-05",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/eDYu3KaoP05ySZ13bLc8ufxx8J3-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "akane-banashi-dublado",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/akane-banashi-dublado-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gcCur8f3edo24wFukeI4Gy825NO-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 6",
+            "epTitle": "Episódio 6",
+            "slug": "akane-banashi",
+            "episode": 6,
+            "url": "https://animesonline.cloud/episodio/akane-banashi-episodio-06",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/ukj2IesTO6EskPrEuxsj2QQg2b5-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "nippon-sangoku-dublado",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/05/ym5LdquhazicbgptLxIbjuFW1bX-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "nippon-sangoku-dublado",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-dublado-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/cXCZYpBBejDnRnjpaMBKQpsCpoq-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "nippon-sangoku",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/nippon-sangoku-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rrYxkJyideK9xtzLlLZby9AS0YA-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 1166",
+            "epTitle": "Episódio 1166",
+            "slug": "one-piece",
+            "episode": 1166,
+            "url": "https://animesonline.cloud/episodio/one-piece-episodio-1166",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/apFQ9N46pzLHy321qTCn7ZnFpgn-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "ghost-concert-missing-songs",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/ghost-concert-missing-songs-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/3wWPCz4UCmArOTGe5BZDvIGjnyw-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/tWI5LnX3C9PAhsxE7fqw0T9XUyo-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "maid-san-wa-taberu-dake",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/maid-san-wa-taberu-dake-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/i8R3EZLkYtLohMilq34PlTTppa5-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 35",
             "epTitle": "Episódio 35",
@@ -775,200 +942,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "ichijouma-mankitsugurashi",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/ichijouma-mankitsugurashi-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wQPzCKazmKBa1aNrZJrBzzRL9fv-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/if0r0ciEyOtXvZaSDmggOEq4ykI-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "shunkashuutou-daikousha-haru-no-mai",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/kemxKNbDP51U2NDbXgtdek2XPxd-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "kami-no-niwatsuki-kusunoki-tei",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/mQ9fwScxTdWxrqrWzXpKfz5gbvu-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "yomi-no-tsugai",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/4BBmxA0DlCq6sxpvGEamCVAMQ0Z-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 8",
-            "epTitle": "Episódio 8",
-            "slug": "yomi-no-tsugai-dublado",
-            "episode": 8,
-            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-08",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vWQaTQsbJfrHsMQZzUpvDyo66Bm-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "yowayowa-sensei",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8EWPdny7kuoJuT1nxuqhQFuTrMv-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/kIAoSAqY4cA86PENaa01EGdUJSI-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "mairimashita-iruma-kun-4",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/mairimashita-iruma-kun-4-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hlHjeQF6EkRRhI41rRvx7o1ZsFz-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "kanan-sama-wa-akumade-choroi",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/ybLcw5rMs6VFWKzOLWDZYlTlxEJ-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "kill-ao",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/kill-ao-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9AvP94SyBJD8tUPGaK2lRrRZbq0-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "honzuki-no-gekokujou-4",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/honzuki-no-gekokujou-4-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/kbcAT7fbpr561cT3OLJWB4RkB9x-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 18",
-            "epTitle": "Episódio 18",
-            "slug": "b-king",
-            "episode": 18,
-            "url": "https://animesonline.cloud/episodio/b-king-episodio-18",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9seYEUqsKU6v8JqNwuwehH6DwYC-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 17",
-            "epTitle": "Episódio 17",
-            "slug": "b-king",
-            "episode": 17,
-            "url": "https://animesonline.cloud/episodio/b-king-episodio-17",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/spzAFelMzostg4IlJk9O9RIyyZX-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 16",
-            "epTitle": "Episódio 16",
-            "slug": "b-king",
-            "episode": 16,
-            "url": "https://animesonline.cloud/episodio/b-king-episodio-16",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/zPHBATTi00zsFfqVSrofAk3IM24-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-dublado-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/r3ougsZl0wQq2ZIH4ukJwS7k0WS-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 24",
-            "epTitle": "Episódio 24",
-            "slug": "hitori-no-shita-the-outcast-6",
-            "episode": 24,
-            "url": "https://animesonline.cloud/episodio/hitori-no-shita-the-outcast-6-episodio-24",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/pY6lAQEC7zHStcmpgYlQ47Z9Ouo-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
-        "hasMore": true
+        "hasMore": false
       },
-      "at": 1781450630769
+      "at": 1781557257790
     },
     "todos|2||24": {
       "data": {
@@ -6697,5 +6677,5 @@
       "at": 1781446940553
     }
   },
-  "updatedAt": 1781557255578
+  "updatedAt": 1781557258845
 }

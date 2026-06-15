@@ -77,8 +77,7 @@
       "slug": "uzumaki",
       "title": "Uzumaki",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
@@ -284,7 +283,8 @@
       "slug": "a-hundred-scenes-of-awajima",
       "title": "A Hundred Scenes of AWAJIMA",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xRUY0RE5MbXMxaTFoU1JQTEVDUU5WdnM1VDYuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado": {
       "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
@@ -1015,54 +1015,54 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "uzumaki",
+      "ep": 1,
+      "at": 1781559293278
+    },
+    {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781558904337
+      "at": 1781559293278
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781558904337
-    },
-    {
-      "slug": "uzumaki",
-      "ep": 1,
-      "at": 1781558142172
+      "at": 1781559293278
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1076,5 +1076,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781558907874
+  "updatedAt": 1781559302830
 }

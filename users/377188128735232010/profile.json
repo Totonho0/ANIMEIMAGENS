@@ -59,8 +59,7 @@
       "slug": "one-piece",
       "title": "One Piece",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ycm1LN21uY2h3OVhyM1hkaVRGU3hUVExYcXYuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "haikyuu-second-season": {
       "slug": "haikyuu-second-season",
@@ -680,6 +679,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BM0xXd2VBUmRtbWt5eTZkVGtuOUJ1WHZ3Q00uanBn",
       "kind": "anime",
       "adult": false
+    },
+    "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season": {
+      "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+      "title": "Hell Mode: The Hardcore Gamer",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96aDNQa3BwaEtMWVp6MGhsN29QVEZybkdoTm4uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -973,52 +979,52 @@
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781447953565
+      "at": 1781554170457
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1032,5 +1038,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781447961979
+  "updatedAt": 1781554178393
 }

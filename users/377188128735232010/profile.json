@@ -75,9 +75,10 @@
     },
     "uzumaki": {
       "slug": "uzumaki",
-      "title": "Uzumaki - Todos os Episódios",
+      "title": "Uzumaki",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
@@ -1013,52 +1014,52 @@
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781557564151
+      "at": 1781557835886
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1072,5 +1073,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781557567570
+  "updatedAt": 1781557840247
 }

@@ -5570,6 +5570,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "d:736671123311165632": {
+      "userKey": "d:736671123311165632",
+      "messageId": "1516302581926723614",
+      "channelId": "1510693609551171775",
+      "ip": "177.192.10.70",
+      "discordId": "736671123311165632",
+      "username": "Kuruma",
+      "displayName": "Visitante #1572A7F0",
+      "visitorShortId": "1572A7F0",
+      "lastSeenAt": 1781585106946,
+      "lastAlertAt": 1781585106946,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {
@@ -5578,6 +5593,9 @@
     "ip:84f757da9050388e": "d:377188128735232010",
     "v:be3f7cb6-9a93-42ad-9336-516102b9ae63": "d:1474466223709487367",
     "d:1474466223709487367": "ip:c1fc513b1982f751",
-    "ip:c1fc513b1982f751": "d:1474466223709487367"
+    "ip:c1fc513b1982f751": "d:1474466223709487367",
+    "v:1572a7f0-cc15-456a-b6aa-d52e788fd634": "d:736671123311165632",
+    "d:736671123311165632": "ip:6341e28cd3662be4",
+    "ip:6341e28cd3662be4": "d:736671123311165632"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "name": "Kuruma",
+  "bio": "",
+  "avatar": "https://cdn.discordapp.com/avatars/736671123311165632/ef475357918151f02665c93f21a24583.png?size=256",
+  "banner": "/placeholder.svg",
+  "favorites": [],
+  "watchLater": [],
+  "mangaFavorites": [],
+  "library": {
+    "bleach": {
+      "slug": "bleach",
+      "title": "Bleach",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vME5zYmNJdnNsbGc2Q0pYMEZCRlk4d1dic24uanBn",
+      "kind": "anime",
+      "adult": false
+    }
+  },
+  "watched": {},
+  "started": {
+    "bleach": [
+      1
+    ]
+  },
+  "watchHistoryLog": [],
+  "watchHistoryHidden": [],
+  "updatedAt": 1781585194769
+}

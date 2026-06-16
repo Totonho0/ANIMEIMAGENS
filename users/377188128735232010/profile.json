@@ -731,6 +731,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zTlBhUDZGWE05Qnd3dHB6VDhGdFdYcjNsTFEuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "bleach-sennen-kessen-hen-soukoku-tan-dublado": {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+      "title": "Bleach: Sennen Kessen Hen - Soukoku Tan Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9rWlgwNWNkajhKcG9hMVpZMFpPTmkyMXZ2cTUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1045,6 +1052,9 @@
     ],
     "boku-no-hero-academia-4": [
       1
+    ],
+    "bleach-sennen-kessen-hen-soukoku-tan-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1110,5 +1120,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781609250399
+  "updatedAt": 1781609278825
 }

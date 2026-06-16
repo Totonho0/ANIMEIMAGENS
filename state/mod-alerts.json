@@ -5765,6 +5765,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:dffa1633-415c-4b9c-b6e1-59b3658d3999": {
+      "userKey": "v:dffa1633-415c-4b9c-b6e1-59b3658d3999",
+      "messageId": "1516402076438102026",
+      "channelId": "1510739162116915371",
+      "ip": "88.99.95.199",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #DFFA1633",
+      "visitorShortId": "DFFA1633",
+      "lastSeenAt": 1781608828280,
+      "lastAlertAt": 1781608828280,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

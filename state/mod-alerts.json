@@ -5555,6 +5555,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:3ae5b618-04c0-40dd-8ace-ce17c21c53a6": {
+      "userKey": "v:3ae5b618-04c0-40dd-8ace-ce17c21c53a6",
+      "messageId": "1516297962261708811",
+      "channelId": "1510739162116915371",
+      "ip": "172.71.184.43",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #3AE5B618",
+      "visitorShortId": "3AE5B618",
+      "lastSeenAt": 1781584005603,
+      "lastAlertAt": 1781584005603,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -772,6 +772,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvYjYyTVVIWDB2OGFWVnlxSDlQMHpsRVloZjluLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "dr-stone-science-future-3-dublado": {
+      "slug": "dr-stone-science-future-3-dublado",
+      "title": "Dr. Stone: Science Future 3 Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uRWUxM0gyZHplTUxac0tneG9aV3RNTHNONXkuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1104,6 +1111,9 @@
     ],
     "lv999-no-murabito": [
       1
+    ],
+    "dr-stone-science-future-3-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1169,5 +1179,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781738367511
+  "updatedAt": 1781738409312
 }

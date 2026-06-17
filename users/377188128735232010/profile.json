@@ -844,6 +844,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94VUM2bWRWRVN2Sk4ydW16OG1OeEtuODlIdGYuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken": {
+      "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
+      "title": "Always a Catch!",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9hazh0SG9NZ0NsdDFhS0ROdmUyR3pFNWRrSlUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1214,6 +1221,9 @@
     ],
     "yozakura-san-chi-no-daisakusen-2": [
       1
+    ],
+    "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1284,5 +1294,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781740644410
+  "updatedAt": 1781740680286
 }

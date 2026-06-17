@@ -755,6 +755,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvQTYybk5aS0hvMUVlOEFqWEhGQXU2eWtNNjZGLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "needy-girl-overdose-dublado": {
+      "slug": "needy-girl-overdose-dublado",
+      "title": "Assistir Needy Girl Overdose Dublado Online em HD - Todos os Episódios Atualizados",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kb3QxTkk2RjVJckxjazh4V0lPbjc0aWVhREguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1081,6 +1088,9 @@
     ],
     "tenmaku-no-jaadugar": [
       1
+    ],
+    "needy-girl-overdose-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1146,5 +1156,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781732629084
+  "updatedAt": 1781732636131
 }

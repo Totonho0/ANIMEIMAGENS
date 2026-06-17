@@ -17709,6 +17709,80 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "yoroi-shin-den-samurai-troopers": {
+      "at": 1781738656463,
+      "data": {
+        "slug": "yoroi-shin-den-samurai-troopers",
+        "title": "Samurai Warriors",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9maWt4NUZvZmdMak52eUdPUnhkQjRSMnd4c0UuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Prólogo",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Armor",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Link",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Combate",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Tristeza",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Recomeço",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Irrupção",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Sacrifício",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Retorno",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Epílogo",
+            "url": "https://animeplay.cloud/episodio/yoroi-shin-den-samurai-troopers-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

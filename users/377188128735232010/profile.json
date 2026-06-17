@@ -787,6 +787,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tRk14ak5JRGFjMzJFT21mblh5eGpnOUtXdTcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "arne-no-jikenbo": {
+      "slug": "arne-no-jikenbo",
+      "title": "Arne no Jikenbo",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC84ZnNWaTRQYVoxSDNyYVNTRlJxMkJmQ1NqSlMuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1125,6 +1132,9 @@
     ],
     "kaya-chan-wa-kowakunai": [
       1
+    ],
+    "arne-no-jikenbo": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1190,5 +1200,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781738539596
+  "updatedAt": 1781738648833
 }

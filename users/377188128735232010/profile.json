@@ -278,7 +278,8 @@
       "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9haThiVlM4U3V2dTRFckJobWdCdnRFU2lyQlkuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "honzuki-no-gekokujou-4": {
       "slug": "honzuki-no-gekokujou-4",
@@ -1120,47 +1121,47 @@
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781738357700
+      "at": 1781738440848
     },
     {
       "slug": "uzumaki",
@@ -1179,5 +1180,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781738409312
+  "updatedAt": 1781738446609
 }

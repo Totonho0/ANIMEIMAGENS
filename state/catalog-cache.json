@@ -7238,12 +7238,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -7255,6 +7256,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -7265,7 +7267,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739772609
+      "at": 1781739968745
     },
     "todos|2||120": {
       "data": {
@@ -7876,12 +7878,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -7893,6 +7896,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -7903,7 +7907,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739773871
+      "at": 1781739970013
     },
     "todos|3||120": {
       "data": {
@@ -8514,12 +8518,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -8531,6 +8536,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -8541,7 +8547,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739775040
+      "at": 1781739971256
     },
     "todos|4||120": {
       "data": {
@@ -9172,12 +9178,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -9189,6 +9196,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -9199,7 +9207,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739776256
+      "at": 1781739972525
     },
     "todos|5||120": {
       "data": {
@@ -9830,12 +9838,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -9847,6 +9856,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -9857,7 +9867,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739777683
+      "at": 1781739973718
     },
     "todos|6||120": {
       "data": {
@@ -10488,12 +10498,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -10505,6 +10516,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -10515,7 +10527,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739778843
+      "at": 1781739974969
     },
     "todos|7||120": {
       "data": {
@@ -11146,12 +11158,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -11163,6 +11176,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -11173,7 +11187,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739780006
+      "at": 1781739976235
     },
     "todos|8||120": {
       "data": {
@@ -11804,12 +11818,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -11821,6 +11836,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -11831,7 +11847,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739781224
+      "at": 1781739977468
     },
     "todos|9||120": {
       "data": {
@@ -12462,12 +12478,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -12479,6 +12496,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -12489,7 +12507,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739782471
+      "at": 1781739978718
     },
     "todos|10||120": {
       "data": {
@@ -13120,12 +13138,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -13137,6 +13156,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -13147,7 +13167,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739783601
+      "at": 1781739979898
     },
     "todos|11||120": {
       "data": {
@@ -13778,12 +13798,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -13795,6 +13816,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -13805,7 +13827,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739784793
+      "at": 1781739981131
     },
     "todos|12||120": {
       "data": {
@@ -14436,12 +14458,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -14453,6 +14476,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -14463,7 +14487,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739785946
+      "at": 1781739982382
     },
     "todos|13||120": {
       "data": {
@@ -15094,12 +15118,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -15111,6 +15136,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -15121,7 +15147,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739787112
+      "at": 1781739983605
     },
     "todos|14||120": {
       "data": {
@@ -15752,12 +15778,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -15769,6 +15796,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -15779,7 +15807,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739788367
+      "at": 1781739984883
     },
     "todos|15||120": {
       "data": {
@@ -16390,12 +16418,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -16407,6 +16436,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -16417,7 +16447,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739789704
+      "at": 1781739986127
     },
     "todos|16||120": {
       "data": {
@@ -17048,12 +17078,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -17065,6 +17096,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -17075,7 +17107,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739791174
+      "at": 1781739987629
     },
     "todos|17||120": {
       "data": {
@@ -17706,12 +17738,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -17723,6 +17756,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -17733,7 +17767,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739792604
+      "at": 1781739988916
     },
     "todos|18||120": {
       "data": {
@@ -18364,12 +18398,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -18381,6 +18416,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -18391,7 +18427,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739793974
+      "at": 1781739990160
     },
     "todos|19||120": {
       "data": {
@@ -19022,12 +19058,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -19039,6 +19076,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -19049,7 +19087,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739795239
+      "at": 1781739991379
     },
     "todos|20||120": {
       "data": {
@@ -19660,12 +19698,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -19677,6 +19716,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -19687,7 +19727,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739796618
+      "at": 1781739992674
     },
     "legendado|1||120": {
       "data": {
@@ -20018,19 +20058,7 @@
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "koukaku-kidouta"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koukaku-kidouta"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
@@ -20118,12 +20146,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -20135,6 +20164,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -20145,7 +20175,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739799792
+      "at": 1781739995880
     },
     "legendado|2||120": {
       "data": {
@@ -20537,6 +20567,22 @@
                 "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de"
               }
             ]
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "chainsmoker-cat",
+            "url": "https://animeplay.cloud/anime/chainsmoker-cat",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Super no Ura de Yani Suu Futari",
+            "slug": "smoking-behind-the-supermarket-with-you",
+            "url": "https://animeplay.cloud/anime/smoking-behind-the-supermarket-with-you",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "legendado",
@@ -20564,12 +20610,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -20581,6 +20628,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -20591,7 +20639,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739801137
+      "at": 1781739997130
     },
     "legendado|3||120": {
       "data": {
@@ -21102,12 +21150,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -21119,6 +21168,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -21129,7 +21179,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739802475
+      "at": 1781739998336
     },
     "dublado|1||120": {
       "data": {
@@ -21640,12 +21690,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -21657,6 +21708,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -21667,7 +21719,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739803275
+      "at": 1781739999021
     },
     "dublado|2||120": {
       "data": {
@@ -22178,12 +22230,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -22195,6 +22248,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -22205,7 +22259,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739804557
+      "at": 1781740000324
     },
     "dublado|3||120": {
       "data": {
@@ -22716,12 +22770,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -22733,6 +22788,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -22743,7 +22799,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739805817
+      "at": 1781740001597
     },
     "lancamentos|1||120": {
       "data": {
@@ -22974,12 +23030,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -22991,6 +23048,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -23001,7 +23059,7 @@
           "fixHint": null
         }
       },
-      "at": 1781739797771
+      "at": 1781739993874
     },
     "lancamentos|2||120": {
       "data": {
@@ -23247,12 +23305,13 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781739771067,
+          "lastProbeAt": 1781739967275,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
+        "cfBypassConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
@@ -23264,6 +23323,7 @@
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
+          "cfBypassConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
@@ -23274,8 +23334,8 @@
           "fixHint": null
         }
       },
-      "at": 1781739799041
+      "at": 1781739995065
     }
   },
-  "updatedAt": 1781739805817
+  "updatedAt": 1781740001597
 }

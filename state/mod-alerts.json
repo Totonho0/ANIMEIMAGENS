@@ -6566,6 +6566,21 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "v:ad8619a2-068a-4289-9b8b-dac33a796465": {
+      "userKey": "v:ad8619a2-068a-4289-9b8b-dac33a796465",
+      "messageId": "1516948485126094979",
+      "channelId": "1510739162116915371",
+      "ip": "43.157.170.13",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #AD8619A2",
+      "visitorShortId": "AD8619A2",
+      "lastSeenAt": 1781739102288,
+      "lastAlertAt": 1781739102288,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

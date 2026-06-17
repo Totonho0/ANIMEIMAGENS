@@ -15068,6 +15068,60 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "invencivel-4": {
+      "at": 1781738503850,
+      "data": {
+        "slug": "invencivel-4",
+        "title": "Invencível 4",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kZm1QYnllWlpTejNiZWtlRVN2TUphSDkxZ1MuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episodio 01 - Tornando o Mundo um Lugar Melhor",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episodio 02 - Tens Direito a Visita Guiada Completa",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episodio 03 - Preciso de Ar Fresco",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episodio 04 - Lamento",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episodio 05 - Nos dê um Momento",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episodio 06 - Você está Horrivel",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episodio 07 - Não Faça Nenhuma Loucura",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episodio 08 - NÃO ME DEIXE NA MÃO AQUI",
+            "url": "https://animeplay.cloud/episodio/invencivel-4-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

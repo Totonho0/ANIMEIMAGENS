@@ -6570,6 +6570,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:c35d7cf5-670d-411b-a396-9d4859b36cd8": {
+      "userKey": "v:c35d7cf5-670d-411b-a396-9d4859b36cd8",
+      "messageId": "1516693080512794709",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.221.154",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #C35D7CF5",
+      "visitorShortId": "C35D7CF5",
+      "lastSeenAt": 1781678209183,
+      "lastAlertAt": 1781678209183,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

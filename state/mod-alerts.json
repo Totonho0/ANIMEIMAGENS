@@ -6482,11 +6482,15 @@
       "username": "",
       "displayName": "Visitante #A935924B",
       "visitorShortId": "A935924B",
-      "lastSeenAt": 1781733583557,
-      "lastAlertAt": 1781733471930,
+      "lastSeenAt": 1781733596734,
+      "lastAlertAt": 1781733596734,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "anime",
+      "viewingTitle": "One Piece",
+      "viewingDetail": "Episódio 01 - Eu Sou Luffy! Aquele Que Será o Rei dos Piratas!",
+      "viewingUpdatedAt": 1781733596734
     },
     "v:6c937012-eb29-4d0d-8a9f-55437ccdd50b": {
       "userKey": "v:6c937012-eb29-4d0d-8a9f-55437ccdd50b",

@@ -39,9 +39,10 @@
     },
     "maou-sama-retry": {
       "slug": "maou-sama-retry",
-      "title": "Maou-sama, Retry! 2 - Todos os Episódios",
+      "title": "Maou-sama, Retry! 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mSGQwc083amd3U3FZa3pzVVhjV1REZU1GU24uanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "tsue-to-tsurugi-no-wistoria-2-dublado": {
       "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
@@ -77,8 +78,7 @@
       "slug": "uzumaki",
       "title": "Uzumaki",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC85VkY5N3ZrNFdQT0FaOXM4bnFLM1BKWUpnbk4uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "stranger-things-historias-de-85-dublado": {
       "slug": "stranger-things-historias-de-85-dublado",
@@ -1073,52 +1073,52 @@
     {
       "slug": "uzumaki",
       "ep": 1,
-      "at": 1781730655844
+      "at": 1781730673064
     },
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781730655843
+      "at": 1781730673064
     },
     {
       "slug": "filme/assistir-harry-potter-e-o-enigma-do-principe-online",
@@ -1132,5 +1132,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781730656200
+  "updatedAt": 1781730685835
 }

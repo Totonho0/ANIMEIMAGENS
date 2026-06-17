@@ -16683,6 +16683,85 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "jingai-kyoushitsu-no-ningengirai-kyoushi": {
+      "at": 1781738534861,
+      "data": {
+        "slug": "jingai-kyoushitsu-no-ningengirai-kyoushi",
+        "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82dVJPOHR6aURxenpOS1lmRDJOOXhoN1FQaE4uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O misantropo e a efêmera coroa de bolhas",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O misantropo e o castelo solitário",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Misantropo e Cometa Angelical",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Misantropo e o Amor Infrutífero",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - O Misantropo e a Magia para a Paz e o Sossego",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O misantropo e o desejo sincero",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - O Misantropo e a Peregrinação do Cometa",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - O Misantropo e o outro dia",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O Misantropo e a Falsidade Encontrados Perto",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - O misantropo e o futuro",
+            "url": "https://animeplay.cloud/episodio/jingai-kyoushitsu-no-ningengirai-kyoushi-episodio-13"
+          }
+        ],
+        "totalEpisodes": 13,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

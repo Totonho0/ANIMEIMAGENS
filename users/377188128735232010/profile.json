@@ -190,9 +190,10 @@
     },
     "kanojo-okarishimasu-5th-season-dublado": {
       "slug": "kanojo-okarishimasu-5th-season-dublado",
-      "title": "Kanojo Okarishimasu 5th Season Dublado",
+      "title": "Assistir Kanojo Okarishimasu 5th Season Dublado Online em HD - Todos os Episódios Atualizados",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91bGxmeTk4U1Rrbm8xMXJER2k0NFNLNmxsd3guanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "otaku-ni-yasashii-gal-wa-inai": {
       "slug": "otaku-ni-yasashii-gal-wa-inai",
@@ -1157,5 +1158,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781732657718
+  "updatedAt": 1781732665657
 }

@@ -6416,6 +6416,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:ecc5c64d-9919-44e6-a467-c103d4040e9f": {
+      "userKey": "v:ecc5c64d-9919-44e6-a467-c103d4040e9f",
+      "messageId": "1516672737379090525",
+      "channelId": "1510739162116915371",
+      "ip": "43.135.139.165",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #ECC5C64D",
+      "visitorShortId": "ECC5C64D",
+      "lastSeenAt": 1781673358973,
+      "lastAlertAt": 1781673358973,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

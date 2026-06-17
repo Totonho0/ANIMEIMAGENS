@@ -1097,52 +1097,52 @@
   },
   "watchHistoryLog": [
     {
-      "slug": "uzumaki",
-      "ep": 1,
-      "at": 1781732606844
-    },
-    {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781732606844
+      "at": 1781736807530
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+      "ep": 1,
+      "at": 1781736807530
+    },
+    {
+      "slug": "uzumaki",
       "ep": 1,
       "at": 1781732606844
     },
@@ -1158,5 +1158,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781732665657
+  "updatedAt": 1781736821769
 }

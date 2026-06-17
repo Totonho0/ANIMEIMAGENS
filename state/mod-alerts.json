@@ -6511,16 +6511,20 @@
       "userKey": "v:393a6963-aff5-4559-8c48-7c68d96a3966",
       "messageId": "1516679088092479521",
       "channelId": "1510739162116915371",
-      "ip": "66.249.83.129",
+      "ip": "66.249.83.128",
       "discordId": "",
       "username": "",
       "displayName": "Visitante #393A6963",
       "visitorShortId": "393A6963",
-      "lastSeenAt": 1781674873079,
-      "lastAlertAt": 1781674873079,
+      "lastSeenAt": 1781674888174,
+      "lastAlertAt": 1781674888174,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

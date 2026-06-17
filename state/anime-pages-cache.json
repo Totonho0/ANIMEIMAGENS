@@ -15413,6 +15413,25 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "steel-ball-run-jojo-no-kimyou-na-bouken-dublado": {
+      "at": 1781738509798,
+      "data": {
+        "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado",
+        "title": "Steel Ball Run: JoJo no Kimyou na Bouken Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tTEtOMWRzaW1LUGlYQ1o0OEtFRDBYOGEwMnQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - CORRIDA DE BOLAS DE AÇO",
+            "url": "https://animeplay.cloud/episodio/steel-ball-run-jojo-no-kimyou-na-bouken-dublado-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

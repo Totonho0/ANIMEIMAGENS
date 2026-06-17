@@ -248,7 +248,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|2|": {
       "data": {
@@ -498,7 +498,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|3|": {
       "data": {
@@ -748,7 +748,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|4|": {
       "data": {
@@ -998,7 +998,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|5|": {
       "data": {
@@ -1248,7 +1248,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|6|": {
       "data": {
@@ -1498,7 +1498,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|7|": {
       "data": {
@@ -1748,7 +1748,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|8|": {
       "data": {
@@ -1998,7 +1998,7 @@
         "page": 8,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|9|": {
       "data": {
@@ -2248,7 +2248,7 @@
         "page": 9,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|10|": {
       "data": {
@@ -2498,7 +2498,7 @@
         "page": 10,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|11|": {
       "data": {
@@ -2748,7 +2748,7 @@
         "page": 11,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|12|": {
       "data": {
@@ -2998,7 +2998,7 @@
         "page": 12,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|13|": {
       "data": {
@@ -3248,7 +3248,7 @@
         "page": 13,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|14|": {
       "data": {
@@ -3498,7 +3498,7 @@
         "page": 14,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|15|": {
       "data": {
@@ -3748,7 +3748,7 @@
         "page": 15,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|16|": {
       "data": {
@@ -3998,7 +3998,7 @@
         "page": 16,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|17|": {
       "data": {
@@ -4248,7 +4248,7 @@
         "page": 17,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|18|": {
       "data": {
@@ -4498,7 +4498,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|19|": {
       "data": {
@@ -4748,7 +4748,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|20|": {
       "data": {
@@ -4998,7 +4998,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "lancamentos|1|": {
       "data": {
@@ -5669,6 +5669,30 @@
             "provider": "animeplay"
           },
           {
+            "title": "Todo no Tsumari",
+            "slug": "todo-no-tsumari",
+            "url": "https://animeplay.cloud/anime/todo-no-tsumari",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/rhnMK81jRjMK1HysXSIvCWGOB0T-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Cleavage The Animation",
+            "slug": "cleavage-the-animation",
+            "url": "https://animeplay.cloud/anime/cleavage-the-animation",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nWNTU2brOmdtbKzvwrKK9ruQTmq-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Heart Mark Oome",
+            "slug": "heart-mark-oome",
+            "url": "https://animeplay.cloud/anime/heart-mark-oome",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1t3qSpXZ9KZySk25Ua0InZiXTWR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Koukaku Kidouta",
             "slug": "koukaku-kidouta",
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
@@ -5707,6 +5731,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/rqDHw5TldnMcEhvn7HpOyYLjCQe-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
+          }
+        ],
+        "category": "legendado",
+        "page": 1,
+        "hasMore": true
+      },
+      "at": 1781739769633
+    },
+    "legendado|2|": {
+      "data": {
+        "items": [
+          {
+            "title": "Maple Colors",
+            "slug": "maple-colors",
+            "url": "https://animeplay.cloud/anime/maple-colors",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/rqDHw5TldnMcEhvn7HpOyYLjCQe-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           },
           {
             "title": "Mark Your Kiss The Animation",
@@ -5721,48 +5763,6 @@
             "slug": "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
             "url": "https://animeplay.cloud/anime/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Jewelry The Animation",
-            "slug": "jewelry-the-animation",
-            "url": "https://animeplay.cloud/anime/jewelry-the-animation",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/k6o2BKQkVQwYK3XCtKO9R4paJB0-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          }
-        ],
-        "category": "legendado",
-        "page": 1,
-        "hasMore": true
-      },
-      "at": 1781739087321
-    },
-    "legendado|2|": {
-      "data": {
-        "items": [
-          {
-            "title": "Cleavage The Animation",
-            "slug": "cleavage-the-animation",
-            "url": "https://animeplay.cloud/anime/cleavage-the-animation",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nWNTU2brOmdtbKzvwrKK9ruQTmq-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Heart Mark Oome",
-            "slug": "heart-mark-oome",
-            "url": "https://animeplay.cloud/anime/heart-mark-oome",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1t3qSpXZ9KZySk25Ua0InZiXTWR-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -5847,18 +5847,18 @@
             "provider": "animeplay"
           },
           {
-            "title": "Kill Ao",
-            "slug": "kill-blue",
-            "url": "https://animeplay.cloud/anime/kill-blue",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Ichijouma Mankitsugurashi",
             "slug": "ichijouma-mankitsugurashi",
             "url": "https://animeplay.cloud/anime/ichijouma-mankitsugurashi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/xvZh4RscGoAb0ht2oKSXqJ9GGTj-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kill Ao",
+            "slug": "kill-blue",
+            "url": "https://animeplay.cloud/anime/kill-blue",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -5887,18 +5887,18 @@
             "provider": "animeplay"
           },
           {
-            "title": "Awajima Hyakkei",
-            "slug": "a-hundred-scenes-of-awajima",
-            "url": "https://animeplay.cloud/anime/a-hundred-scenes-of-awajima",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Kujima Utaeba Ie Hororo",
             "slug": "kujima-utaeba-ie-hororo",
             "url": "https://animeplay.cloud/anime/kujima-utaeba-ie-hororo",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/agXbnHcwfL0kfh46mjaZbBxKlXQ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Awajima Hyakkei",
+            "slug": "a-hundred-scenes-of-awajima",
+            "url": "https://animeplay.cloud/anime/a-hundred-scenes-of-awajima",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -5939,11 +5939,27 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "legendado|3|": {
       "data": {
         "items": [
+          {
+            "title": "Tadaima, Ojamasaremasu!",
+            "slug": "tadaima-ojamasaremasu",
+            "url": "https://animeplay.cloud/anime/tadaima-ojamasaremasu",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/u0kcMz9QiDRX4hrcowBxPpbOW4b-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hidarikiki no Eren",
+            "slug": "hidarikiki-no-eren",
+            "url": "https://animeplay.cloud/anime/hidarikiki-no-eren",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/v2ghoZFANzSNbH4ObmHrI9kVVdp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
           {
             "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
             "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
@@ -5969,42 +5985,10 @@
             "provider": "animeplay"
           },
           {
-            "title": "Tadaima, Ojamasaremasu!",
-            "slug": "tadaima-ojamasaremasu",
-            "url": "https://animeplay.cloud/anime/tadaima-ojamasaremasu",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/u0kcMz9QiDRX4hrcowBxPpbOW4b-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Hidarikiki no Eren",
-            "slug": "hidarikiki-no-eren",
-            "url": "https://animeplay.cloud/anime/hidarikiki-no-eren",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/v2ghoZFANzSNbH4ObmHrI9kVVdp-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "LIAR GAME",
             "slug": "liar-game",
             "url": "https://animeplay.cloud/anime/liar-game",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/tGNeNhXzjNFJ6zaBqV3TKHtZpWy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "NIPPON SANGOKU",
-            "slug": "nippon-sangoku",
-            "url": "https://animeplay.cloud/anime/nippon-sangoku",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/ygzii2w2ln459CJFPbXigDAV3SE-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
-            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-            "url": "https://animeplay.cloud/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/uBHcmbmC3TccLO6hdrttOpjy4bN-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -6021,6 +6005,22 @@
             "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
             "url": "https://animeplay.cloud/anime/marika-chan-no-koukando-wa-bukkowareteiru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/qsjIgTsE8uS5IJuzCQPmUrnRh3x-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "NIPPON SANGOKU",
+            "slug": "nippon-sangoku",
+            "url": "https://animeplay.cloud/anime/nippon-sangoku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/ygzii2w2ln459CJFPbXigDAV3SE-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "url": "https://animeplay.cloud/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/uBHcmbmC3TccLO6hdrttOpjy4bN-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -6141,7 +6141,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "dublado|1|": {
       "data": {
@@ -6343,7 +6343,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "dublado|2|": {
       "data": {
@@ -6545,7 +6545,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "dublado|3|": {
       "data": {
@@ -6747,7 +6747,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|1||120": {
       "data": {
@@ -6997,7 +6997,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|2||120": {
       "data": {
@@ -7247,7 +7247,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|3||120": {
       "data": {
@@ -7497,7 +7497,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|4||120": {
       "data": {
@@ -7747,7 +7747,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|5||120": {
       "data": {
@@ -7997,7 +7997,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|6||120": {
       "data": {
@@ -8247,7 +8247,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|7||120": {
       "data": {
@@ -8497,7 +8497,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|8||120": {
       "data": {
@@ -8747,7 +8747,7 @@
         "page": 8,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|9||120": {
       "data": {
@@ -8997,7 +8997,7 @@
         "page": 9,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|10||120": {
       "data": {
@@ -9247,7 +9247,7 @@
         "page": 10,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|11||120": {
       "data": {
@@ -9497,7 +9497,7 @@
         "page": 11,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|12||120": {
       "data": {
@@ -9747,7 +9747,7 @@
         "page": 12,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|13||120": {
       "data": {
@@ -9997,7 +9997,7 @@
         "page": 13,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|14||120": {
       "data": {
@@ -10247,7 +10247,7 @@
         "page": 14,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|15||120": {
       "data": {
@@ -10497,7 +10497,7 @@
         "page": 15,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|16||120": {
       "data": {
@@ -10747,7 +10747,7 @@
         "page": 16,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|17||120": {
       "data": {
@@ -10997,7 +10997,7 @@
         "page": 17,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|18||120": {
       "data": {
@@ -11247,7 +11247,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|19||120": {
       "data": {
@@ -11497,7 +11497,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "todos|20||120": {
       "data": {
@@ -11747,7 +11747,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "legendado|1||120": {
       "data": {
@@ -11881,6 +11881,30 @@
             "provider": "animeplay"
           },
           {
+            "title": "Todo no Tsumari",
+            "slug": "todo-no-tsumari",
+            "url": "https://animeplay.cloud/anime/todo-no-tsumari",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/rhnMK81jRjMK1HysXSIvCWGOB0T-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Cleavage The Animation",
+            "slug": "cleavage-the-animation",
+            "url": "https://animeplay.cloud/anime/cleavage-the-animation",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nWNTU2brOmdtbKzvwrKK9ruQTmq-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Heart Mark Oome",
+            "slug": "heart-mark-oome",
+            "url": "https://animeplay.cloud/anime/heart-mark-oome",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1t3qSpXZ9KZySk25Ua0InZiXTWR-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Koukaku Kidouta",
             "slug": "koukaku-kidouta",
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
@@ -11919,6 +11943,24 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/rqDHw5TldnMcEhvn7HpOyYLjCQe-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
+          }
+        ],
+        "category": "legendado",
+        "page": 1,
+        "hasMore": true
+      },
+      "at": 1781739769633
+    },
+    "legendado|2||120": {
+      "data": {
+        "items": [
+          {
+            "title": "Maple Colors",
+            "slug": "maple-colors",
+            "url": "https://animeplay.cloud/anime/maple-colors",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/rqDHw5TldnMcEhvn7HpOyYLjCQe-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           },
           {
             "title": "Mark Your Kiss The Animation",
@@ -11933,48 +11975,6 @@
             "slug": "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
             "url": "https://animeplay.cloud/anime/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/o6k2eVEowtfwTKnKvbKUn87LGzX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Jewelry The Animation",
-            "slug": "jewelry-the-animation",
-            "url": "https://animeplay.cloud/anime/jewelry-the-animation",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/k6o2BKQkVQwYK3XCtKO9R4paJB0-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          }
-        ],
-        "category": "legendado",
-        "page": 1,
-        "hasMore": true
-      },
-      "at": 1781739087321
-    },
-    "legendado|2||120": {
-      "data": {
-        "items": [
-          {
-            "title": "Cleavage The Animation",
-            "slug": "cleavage-the-animation",
-            "url": "https://animeplay.cloud/anime/cleavage-the-animation",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nWNTU2brOmdtbKzvwrKK9ruQTmq-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Heart Mark Oome",
-            "slug": "heart-mark-oome",
-            "url": "https://animeplay.cloud/anime/heart-mark-oome",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1t3qSpXZ9KZySk25Ua0InZiXTWR-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -12059,18 +12059,18 @@
             "provider": "animeplay"
           },
           {
-            "title": "Kill Ao",
-            "slug": "kill-blue",
-            "url": "https://animeplay.cloud/anime/kill-blue",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Ichijouma Mankitsugurashi",
             "slug": "ichijouma-mankitsugurashi",
             "url": "https://animeplay.cloud/anime/ichijouma-mankitsugurashi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/xvZh4RscGoAb0ht2oKSXqJ9GGTj-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kill Ao",
+            "slug": "kill-blue",
+            "url": "https://animeplay.cloud/anime/kill-blue",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -12099,18 +12099,18 @@
             "provider": "animeplay"
           },
           {
-            "title": "Awajima Hyakkei",
-            "slug": "a-hundred-scenes-of-awajima",
-            "url": "https://animeplay.cloud/anime/a-hundred-scenes-of-awajima",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "Kujima Utaeba Ie Hororo",
             "slug": "kujima-utaeba-ie-hororo",
             "url": "https://animeplay.cloud/anime/kujima-utaeba-ie-hororo",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/agXbnHcwfL0kfh46mjaZbBxKlXQ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Awajima Hyakkei",
+            "slug": "a-hundred-scenes-of-awajima",
+            "url": "https://animeplay.cloud/anime/a-hundred-scenes-of-awajima",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -12151,11 +12151,27 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "legendado|3||120": {
       "data": {
         "items": [
+          {
+            "title": "Tadaima, Ojamasaremasu!",
+            "slug": "tadaima-ojamasaremasu",
+            "url": "https://animeplay.cloud/anime/tadaima-ojamasaremasu",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/u0kcMz9QiDRX4hrcowBxPpbOW4b-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Hidarikiki no Eren",
+            "slug": "hidarikiki-no-eren",
+            "url": "https://animeplay.cloud/anime/hidarikiki-no-eren",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/v2ghoZFANzSNbH4ObmHrI9kVVdp-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
           {
             "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
             "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
@@ -12181,42 +12197,10 @@
             "provider": "animeplay"
           },
           {
-            "title": "Tadaima, Ojamasaremasu!",
-            "slug": "tadaima-ojamasaremasu",
-            "url": "https://animeplay.cloud/anime/tadaima-ojamasaremasu",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/u0kcMz9QiDRX4hrcowBxPpbOW4b-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Hidarikiki no Eren",
-            "slug": "hidarikiki-no-eren",
-            "url": "https://animeplay.cloud/anime/hidarikiki-no-eren",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/v2ghoZFANzSNbH4ObmHrI9kVVdp-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
             "title": "LIAR GAME",
             "slug": "liar-game",
             "url": "https://animeplay.cloud/anime/liar-game",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/tGNeNhXzjNFJ6zaBqV3TKHtZpWy-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "NIPPON SANGOKU",
-            "slug": "nippon-sangoku",
-            "url": "https://animeplay.cloud/anime/nippon-sangoku",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/ygzii2w2ln459CJFPbXigDAV3SE-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
-            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-            "url": "https://animeplay.cloud/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/uBHcmbmC3TccLO6hdrttOpjy4bN-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -12233,6 +12217,22 @@
             "slug": "marika-chan-no-koukando-wa-bukkowareteiru",
             "url": "https://animeplay.cloud/anime/marika-chan-no-koukando-wa-bukkowareteiru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/qsjIgTsE8uS5IJuzCQPmUrnRh3x-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "NIPPON SANGOKU",
+            "slug": "nippon-sangoku",
+            "url": "https://animeplay.cloud/anime/nippon-sangoku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/ygzii2w2ln459CJFPbXigDAV3SE-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "url": "https://animeplay.cloud/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/uBHcmbmC3TccLO6hdrttOpjy4bN-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -12353,7 +12353,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "dublado|1||120": {
       "data": {
@@ -12555,7 +12555,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "dublado|2||120": {
       "data": {
@@ -12757,7 +12757,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     },
     "dublado|3||120": {
       "data": {
@@ -12959,8 +12959,8 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1781739087321
+      "at": 1781739769633
     }
   },
-  "updatedAt": 1781739769199
+  "updatedAt": 1781739769633
 }

@@ -764,6 +764,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kb3QxTkk2RjVJckxjazh4V0lPbjc0aWVhREguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "lv999-no-murabito": {
+      "slug": "lv999-no-murabito",
+      "title": "Lv999 no Murabito",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvYjYyTVVIWDB2OGFWVnlxSDlQMHpsRVloZjluLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1093,53 +1100,56 @@
     ],
     "needy-girl-overdose-dublado": [
       1
+    ],
+    "lv999-no-murabito": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781736807530
+      "at": 1781737139956
     },
     {
       "slug": "uzumaki",
@@ -1158,5 +1168,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781736821769
+  "updatedAt": 1781737145395
 }

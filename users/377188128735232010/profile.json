@@ -161,10 +161,9 @@
     },
     "marriagetoxin-dublado": {
       "slug": "marriagetoxin-dublado",
-      "title": "Assistir Marriagetoxin Dublado Online em HD - Todos os Episódios Atualizados",
+      "title": "Marriagetoxin Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "sousou-no-friere-2-dublado": {
       "slug": "sousou-no-friere-2-dublado",
@@ -1167,47 +1166,47 @@
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781738988484
+      "at": 1781739263795
     },
     {
       "slug": "uzumaki",
@@ -1226,5 +1225,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781739117555
+  "updatedAt": 1781739277609
 }

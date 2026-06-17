@@ -160,9 +160,10 @@
     },
     "marriagetoxin-dublado": {
       "slug": "marriagetoxin-dublado",
-      "title": "Marriagetoxin Dublado",
+      "title": "Assistir Marriagetoxin Dublado Online em HD - Todos os Episódios Atualizados",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "sousou-no-friere-2-dublado": {
       "slug": "sousou-no-friere-2-dublado",
@@ -882,6 +883,7 @@
       1
     ],
     "marriagetoxin-dublado": [
+      1,
       9
     ],
     "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado": [
@@ -1210,5 +1212,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781739009826
+  "updatedAt": 1781739055979
 }

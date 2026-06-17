@@ -6307,10 +6307,10 @@
       "displayName": "Visitante #01BB710A",
       "visitorShortId": "01BB710A",
       "lastSeenAt": 1781660247946,
-      "lastAlertAt": 1781660247946,
+      "lastAlertAt": 1781660600665,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

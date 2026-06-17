@@ -16910,6 +16910,80 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "mato-seihei-no-slave-2": {
+      "at": 1781738645609,
+      "data": {
+        "slug": "mato-seihei-no-slave-2",
+        "title": "Chained Soldier Season 2",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zMEE4WXFFdm10WndZalgySnU3dlNLczVlb2EuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Reunião com o chefe",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Sombra de Ren",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - A Tempestade está Chegando !",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O Tumulto !",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Um Novo Azuma",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Fim do Verão do Escravo",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Líder da Segunda Unidade",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Uma resolução do comandante",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Confronto de Yokohama",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Reunião dos Deuses",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Deuses se reúnem",
+            "url": "https://animeplay.cloud/episodio/mato-seihei-no-slave-2-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

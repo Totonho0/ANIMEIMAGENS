@@ -816,6 +816,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9kOGJBSTJFRE03TDJxOTR3RFpmamI4MktSb2guanBn",
       "kind": "anime",
       "adult": false
+    },
+    "yomi-no-tsugai-dublado": {
+      "slug": "yomi-no-tsugai-dublado",
+      "title": "Daemons of the Shadow Realm",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82YmdwQ2U0NmhYV044aGxvRFRRQTZCaHNTU1UuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1170,6 +1177,9 @@
     ],
     "mairimashita-iruma-kun-4-dublado": [
       1
+    ],
+    "yomi-no-tsugai-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1235,5 +1245,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781739377436
+  "updatedAt": 1781739412884
 }

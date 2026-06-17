@@ -27,9 +27,10 @@
     },
     "haikyuu": {
       "slug": "haikyuu",
-      "title": "Haikyuu!!",
+      "title": "Assistir Haikyuu!! Online em HD - Todos os Episódios Atualizados",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "haikyuu-dublado": {
       "slug": "haikyuu-dublado",
@@ -1156,5 +1157,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781732652707
+  "updatedAt": 1781732657718
 }

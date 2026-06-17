@@ -780,6 +780,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uRWUxM0gyZHplTUxac0tneG9aV3RNTHNONXkuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "kaya-chan-wa-kowakunai": {
+      "slug": "kaya-chan-wa-kowakunai",
+      "title": "Kaya-chan Isn't Scary",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tRk14ak5JRGFjMzJFT21mblh5eGpnOUtXdTcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1183,5 +1190,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781738536775
+  "updatedAt": 1781738539596
 }

@@ -15801,6 +15801,133 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "medalist-2-dublado": {
+      "at": 1781738518996,
+      "data": {
+        "slug": "medalist-2-dublado",
+        "title": "Medalist 2nd Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tZ0JZR0laZFFmdE5xUkpGNEhUSE5KZGZVQmQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Juramento do Atleta",
+            "url": "https://animeplay.cloud/episodio/medalist-2-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Meus Cartões",
+            "url": "https://animeplay.cloud/episodio/medalist-2-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - O Salto da Rainha",
+            "url": "https://animeplay.cloud/episodio/medalist-2-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Ascendance",
+            "url": "https://animeplay.cloud/episodio/medalist-2-dublado-episodio-04"
+          }
+        ],
+        "totalEpisodes": 4,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "medalist-2": {
+      "at": 1781738519846,
+      "data": {
+        "slug": "medalist-2",
+        "title": "Medalist 2nd",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9tZ0JZR0laZFFmdE5xUkpGNEhUSE5KZGZVQmQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Juramento do Atleta",
+            "url": "https://animeplay.cloud/episodio/medalist-2-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
+    },
+    "mf-ghost-3-dublado": {
+      "at": 1781738520682,
+      "data": {
+        "slug": "mf-ghost-3-dublado",
+        "title": "MF Ghost 3 Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xRXFMZXJqZ2pYOUJMMWZzcVJjNE1vV3pxSVUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Retorno Milagroso",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Bola de fogo",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Na Volta Final",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O primeiro beijo deles",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Caminhão Kei da Vovó",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Milagre às 13h09",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-06-2"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Faíscas voam",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - A Bala Vermelha",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - A Impaciência do Rei",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - O Trem Mais Forte",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - A Finta Aérea",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - O Grupo Principal se divide",
+            "url": "https://animeplay.cloud/episodio/mf-ghost-3-dublado-episodio-13"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

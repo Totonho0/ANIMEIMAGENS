@@ -161,10 +161,9 @@
     },
     "marriagetoxin-dublado": {
       "slug": "marriagetoxin-dublado",
-      "title": "Assistir Marriagetoxin Dublado Online em HD - Todos os Episódios Atualizados",
+      "title": "Marriagetoxin Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "sousou-no-friere-2-dublado": {
       "slug": "sousou-no-friere-2-dublado",
@@ -940,7 +939,8 @@
       1
     ],
     "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado": [
-      1
+      1,
+      9
     ],
     "kanojo-okarishimasu-5th-season-dublado": [
       1,
@@ -1210,47 +1210,47 @@
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781740000772
+      "at": 1781740597248
     },
     {
       "slug": "one-piece",
@@ -1274,5 +1274,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781740081937
+  "updatedAt": 1781740604369
 }

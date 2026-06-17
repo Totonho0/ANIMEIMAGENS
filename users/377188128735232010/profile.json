@@ -823,6 +823,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82YmdwQ2U0NmhYV044aGxvRFRRQTZCaHNTU1UuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "bucky": {
+      "slug": "bucky",
+      "title": "Bucky",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9sTnNOZTF6SDhQbU05TEFVRHg1ZktFOVBsQVguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1181,6 +1188,9 @@
     ],
     "yomi-no-tsugai-dublado": [
       1
+    ],
+    "bucky": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1246,5 +1256,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781739812149
+  "updatedAt": 1781739848800
 }

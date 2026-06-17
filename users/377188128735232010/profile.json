@@ -253,7 +253,8 @@
       "slug": "akane-banashi-dublado",
       "title": "Akane-banashi Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95VUVYamdGRnFxUks0M2xkWGJ3aGE4c3ZRWFYuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "acro-trip": {
       "slug": "acro-trip",
@@ -1109,47 +1110,47 @@
     {
       "slug": "one-piece",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781737139956
+      "at": 1781738173571
     },
     {
       "slug": "uzumaki",
@@ -1168,5 +1169,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781737156219
+  "updatedAt": 1781738181585
 }

@@ -803,6 +803,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvb3VsTURJT0pCb0ZxTXZNNUZrdTVYS2F6WUdYLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "hotaru-no-yomeiri": {
+      "slug": "hotaru-no-yomeiri",
+      "title": "Hotaru no Yomeiri",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvY2NJUGFjdkhXbzR2TzU1UzlQS2wwWldraTQ5LTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1151,6 +1158,9 @@
     ],
     "hitoribocchi-no-isekai-kouryaku": [
       1
+    ],
+    "hotaru-no-yomeiri": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1216,5 +1226,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781739094511
+  "updatedAt": 1781739117555
 }

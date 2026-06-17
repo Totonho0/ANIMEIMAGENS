@@ -6525,6 +6525,36 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "v:82683909-e2f9-4bb3-aeb6-2c70e24b498b": {
+      "userKey": "v:82683909-e2f9-4bb3-aeb6-2c70e24b498b",
+      "messageId": "1516679782668959774",
+      "channelId": "1510739162116915371",
+      "ip": "74.125.210.4",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #82683909",
+      "visitorShortId": "82683909",
+      "lastSeenAt": 1781675038641,
+      "lastAlertAt": 1781675038641,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:9297bf85-b513-4cb7-98d0-461bc00d831b": {
+      "userKey": "v:9297bf85-b513-4cb7-98d0-461bc00d831b",
+      "messageId": "1516679783335854140",
+      "channelId": "1510739162116915371",
+      "ip": "74.125.210.5",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #9297BF85",
+      "visitorShortId": "9297BF85",
+      "lastSeenAt": 1781675038810,
+      "lastAlertAt": 1781675038810,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

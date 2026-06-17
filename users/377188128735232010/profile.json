@@ -748,6 +748,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9lZGtaek93ZU9yV3VTZ1BrSWV5RWR3TXNuekcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "tenmaku-no-jaadugar": {
+      "slug": "tenmaku-no-jaadugar",
+      "title": "Tenmaku no Jaadugar",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvQTYybk5aS0hvMUVlOEFqWEhGQXU2eWtNNjZGLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1071,6 +1078,9 @@
     ],
     "haikyuu-second-season": [
       1
+    ],
+    "tenmaku-no-jaadugar": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1136,5 +1146,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781732612686
+  "updatedAt": 1781732620556
 }

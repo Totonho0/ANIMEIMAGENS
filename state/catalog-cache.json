@@ -20668,10 +20668,10 @@
         "category": "legendado",
         "page": 2,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~9h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 64,
+        "total": 63,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -20690,7 +20690,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781770554785,
+          "lastProbeAt": 1781784958178,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -20723,7 +20723,7 @@
           "fixHint": null
         }
       },
-      "at": 1781770560741
+      "at": 1781784960853
     },
     "legendado|3||120": {
       "data": {
@@ -23445,5 +23445,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781784956553
+  "updatedAt": 1781784960853
 }

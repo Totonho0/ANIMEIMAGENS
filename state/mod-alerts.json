@@ -6704,11 +6704,15 @@
       "username": "",
       "displayName": "Visitante #BDF68D14",
       "visitorShortId": "BDF68D14",
-      "lastSeenAt": 1781745436584,
-      "lastAlertAt": 1781745430767,
+      "lastSeenAt": 1781745477989,
+      "lastAlertAt": 1781745477295,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

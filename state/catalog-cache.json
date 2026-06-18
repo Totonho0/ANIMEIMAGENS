@@ -14422,28 +14422,24 @@
             "url": "https://animeplay.cloud/anime/boku-no-hero-academia-final-season",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "boku-no-hero-academia-final-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "boku-no-hero-academia-final-season"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Chitose-kun wa Ramune Bin no Naka",
+            "slug": "chitose-kun-wa-ramune-bin-no-naka",
+            "url": "https://animeplay.cloud/anime/chitose-kun-wa-ramune-bin-no-naka",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vtfibksdwu4gdzBhZTFeVdMwCFN-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 12,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 475,
+        "total": 476,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -14462,7 +14458,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784868190,
+          "lastProbeAt": 1781799271714,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -14495,7 +14491,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784909121
+      "at": 1781799309446
     },
     "todos|13||120": {
       "data": {
@@ -23405,5 +23401,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781799305114
+  "updatedAt": 1781799309446
 }

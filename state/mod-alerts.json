@@ -7055,10 +7055,10 @@
       "displayName": "Visitante #8E4E7D81",
       "visitorShortId": "8E4E7D81",
       "lastSeenAt": 1781777414391,
-      "lastAlertAt": 1781777414391,
+      "lastAlertAt": 1781777813375,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:dfde4743-5727-4e48-8d9b-4bb5c3bb7f87": {
       "userKey": "v:dfde4743-5727-4e48-8d9b-4bb5c3bb7f87",
@@ -7070,10 +7070,10 @@
       "displayName": "Visitante #DFDE4743",
       "visitorShortId": "DFDE4743",
       "lastSeenAt": 1781777414620,
-      "lastAlertAt": 1781777414620,
+      "lastAlertAt": 1781777813375,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

@@ -12442,28 +12442,24 @@
             "url": "https://animeplay.cloud/anime/sousou-no-friere-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sousou-no-friere-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-dublado"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Kirei ni Shitemoraemasu ka.",
+            "slug": "kirei-ni-shitemoraemasu-ka",
+            "url": "https://animeplay.cloud/anime/kirei-ni-shitemoraemasu-ka",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/u3FoBE3Vw0tTHFV6djpSv5HHBU5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 9,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 475,
+        "total": 476,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -12482,7 +12478,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784868190,
+          "lastProbeAt": 1781799271714,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -12515,7 +12511,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784896146
+      "at": 1781799296359
     },
     "todos|10||120": {
       "data": {
@@ -23417,5 +23413,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781799292050
+  "updatedAt": 1781799296359
 }

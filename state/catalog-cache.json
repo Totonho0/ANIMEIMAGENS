@@ -16382,28 +16382,24 @@
             "url": "https://animeplay.cloud/anime/akame-ga-kill-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "akame-ga-kill-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "akame-ga-kill-dublado"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Sakugan Dublado",
+            "slug": "sakugan-dublado",
+            "url": "https://animeplay.cloud/anime/sakugan-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/oeYcVIheU4qnHFzvRyTARNSllg5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 15,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 475,
+        "total": 476,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -16422,7 +16418,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784868190,
+          "lastProbeAt": 1781799271714,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16455,7 +16451,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784922144
+      "at": 1781799322621
     },
     "todos|16||120": {
       "data": {
@@ -23393,5 +23389,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781799318165
+  "updatedAt": 1781799322621
 }

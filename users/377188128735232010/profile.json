@@ -858,6 +858,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92cEU3S1dZOTJjUFd3dlhoVEZTb1lndHduWkMuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "koukaku-kidouta": {
+      "slug": "koukaku-kidouta",
+      "title": "Koukaku Kidouta",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvdjNFTGc2OFlHdmpTdnVtTUIzbnluV3lGM2JQLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1234,53 +1241,56 @@
     ],
     "mao": [
       1
+    ],
+    "koukaku-kidouta": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781741228279
+      "at": 1781741671756
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781741228279
+      "at": 1781741671756
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781741228279
+      "at": 1781741671756
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781741228278
+      "at": 1781741671756
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781741228278
+      "at": 1781741671756
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781741228278
+      "at": 1781741671756
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781741228278
+      "at": 1781741671756
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781741228278
+      "at": 1781741671756
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781741228278
+      "at": 1781741671756
     },
     {
       "slug": "one-piece",
@@ -1304,5 +1314,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781741299858
+  "updatedAt": 1781741683042
 }

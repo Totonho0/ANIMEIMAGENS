@@ -851,6 +851,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9hazh0SG9NZ0NsdDFhS0ROdmUyR3pFNWRrSlUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "mao": {
+      "slug": "mao",
+      "title": "Mao",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92cEU3S1dZOTJjUFd3dlhoVEZTb1lndHduWkMuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1224,6 +1231,9 @@
     ],
     "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken": [
       1
+    ],
+    "mao": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1294,5 +1304,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781741243581
+  "updatedAt": 1781741299858
 }

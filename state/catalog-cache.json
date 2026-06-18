@@ -21674,25 +21674,21 @@
             "url": "https://animeplay.cloud/anime/mairimashita-iruma-kun-4-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "mairimashita-iruma-kun-4-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mairimashita-iruma-kun-4-dublado"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Shadows House Dublado",
+            "slug": "shadows-house-dublado",
+            "url": "https://animeplay.cloud/anime/shadows-house-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "dublado",
         "page": 1,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 72,
@@ -21714,7 +21710,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784958178,
+          "lastProbeAt": 1781799361767,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -21747,7 +21743,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784969604
+      "at": 1781799370117
     },
     "dublado|2||120": {
       "data": {
@@ -23381,5 +23377,5 @@
       "at": 1781799353033
     }
   },
-  "updatedAt": 1781799365864
+  "updatedAt": 1781799370117
 }

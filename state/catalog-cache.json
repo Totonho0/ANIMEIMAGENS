@@ -7860,7 +7860,7 @@
         "category": "todos",
         "page": 2,
         "hasMore": true,
-        "warning": "Listagem em cache — atualizando em segundo plano.",
+        "warning": "Catálogo salvo (há ~1h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -7882,36 +7882,40 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781740584912,
+          "lastProbeAt": 1781741203664,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
-        "cfBypassConfigured": false,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "scrapfly",
+        "scrapflyConfigured": true,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
-          "cfBypassConfigured": false,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "scrapfly",
+          "scrapflyConfigured": true,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1781740587675
+      "at": 1781741209968
     },
     "todos|3||120": {
       "data": {
@@ -23325,5 +23329,5 @@
       "at": 1781740612987
     }
   },
-  "updatedAt": 1781741205785
+  "updatedAt": 1781741209968
 }

@@ -6728,6 +6728,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:4471e7db-b249-421e-bcc5-13b4bf452041": {
+      "userKey": "v:4471e7db-b249-421e-bcc5-13b4bf452041",
+      "messageId": "1517011128431935618",
+      "channelId": "1510739162116915371",
+      "ip": "150.109.230.210",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #4471E7DB",
+      "visitorShortId": "4471E7DB",
+      "lastSeenAt": 1781754037593,
+      "lastAlertAt": 1781754037593,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -15742,28 +15742,24 @@
             "url": "https://animeplay.cloud/anime/sakugan-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/oeYcVIheU4qnHFzvRyTARNSllg5-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sakugan-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sakugan-dublado"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Mofa Gongzhu de Xiao Fannao",
+            "slug": "mofa-gongzhu-de-xiao-fannao",
+            "url": "https://animeplay.cloud/anime/mofa-gongzhu-de-xiao-fannao",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/jluxQcZqyQ8kRQYoEX2brheNMnV-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 14,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 475,
+        "total": 476,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -15782,7 +15778,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784868190,
+          "lastProbeAt": 1781799271714,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -15815,7 +15811,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784917803
+      "at": 1781799318165
     },
     "todos|15||120": {
       "data": {
@@ -23397,5 +23393,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781799313809
+  "updatedAt": 1781799318165
 }

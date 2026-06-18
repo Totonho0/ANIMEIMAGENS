@@ -865,6 +865,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvdjNFTGc2OFlHdmpTdnVtTUIzbnluV3lGM2JQLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "black-torch": {
+      "slug": "black-torch",
+      "title": "Black Torch",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvd3dWbTJNbnBtMjEwYjVjRHBHZ3dPTzk2S0xnLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1244,6 +1251,9 @@
     ],
     "koukaku-kidouta": [
       1
+    ],
+    "black-torch": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1314,5 +1324,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781741683042
+  "updatedAt": 1781741693066
 }

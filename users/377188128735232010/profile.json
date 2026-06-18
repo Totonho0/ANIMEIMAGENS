@@ -872,6 +872,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvd3dWbTJNbnBtMjEwYjVjRHBHZ3dPTzk2S0xnLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "haikyuu-second-season-dublado": {
+      "slug": "haikyuu-second-season-dublado",
+      "title": "Haikyuu!! Second Season Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1254,6 +1261,9 @@
     ],
     "black-torch": [
       1
+    ],
+    "haikyuu-second-season-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1324,5 +1334,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781741693066
+  "updatedAt": 1781741717560
 }

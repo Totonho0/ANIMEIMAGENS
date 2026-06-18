@@ -7211,12 +7211,20 @@
                 "slug": "koukaku-kidouta"
               }
             ]
+          },
+          {
+            "title": "Shadows House Dublado",
+            "slug": "shadows-house-dublado",
+            "url": "https://animeplay.cloud/anime/shadows-house-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 1,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -7238,7 +7246,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784778215,
+          "lastProbeAt": 1781799181775,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -7271,7 +7279,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784861631
+      "at": 1781799261704
     },
     "todos|2||120": {
       "data": {
@@ -23445,5 +23453,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781784978164
+  "updatedAt": 1781799261704
 }

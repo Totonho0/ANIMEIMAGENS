@@ -708,7 +708,7 @@
     "smoking-behind-the-supermarket-with-you": {
       "slug": "smoking-behind-the-supermarket-with-you",
       "title": "Super no Ura de Yani Suu Futari",
-      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvblNkZ1g1MDdqQmxvbkdGQzkxVmUwVGZjTGpKLTE4NXgyNzguanBn",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvblNkZ1g1MDdqQmxvbkdGQzkxVmUwVGZjTGpKLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
     },
@@ -1270,47 +1270,47 @@
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734108
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781741671756
+      "at": 1781741734107
     },
     {
       "slug": "one-piece",
@@ -1334,5 +1334,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781741717560
+  "updatedAt": 1781741734977
 }

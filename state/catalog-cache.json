@@ -22214,28 +22214,24 @@
             "url": "https://animeplay.cloud/anime/my-hero-academia-vigilantes-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "my-hero-academia-vigilantes-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "my-hero-academia-vigilantes-2-dublado"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Mairimashita! Iruma-kun 4 Dublado",
+            "slug": "mairimashita-iruma-kun-4-dublado",
+            "url": "https://animeplay.cloud/anime/mairimashita-iruma-kun-4-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/8TCA7dOBNtqBXloFtx5d1XYoG6d-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "dublado",
         "page": 2,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 72,
+        "total": 73,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -22254,7 +22250,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784958178,
+          "lastProbeAt": 1781799361767,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -22287,7 +22283,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784973904
+      "at": 1781799374403
     },
     "dublado|3||120": {
       "data": {
@@ -23377,5 +23373,5 @@
       "at": 1781799353033
     }
   },
-  "updatedAt": 1781799370117
+  "updatedAt": 1781799374403
 }

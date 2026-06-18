@@ -8482,28 +8482,24 @@
             "url": "https://animeplay.cloud/anime/replica-datte-koi-wo-suru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/rt3qJO775blT8zOj0vDknZG1aQt-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "replica-datte-koi-wo-suru"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "replica-datte-koi-wo-suru"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Kill Ao Dublado",
+            "slug": "kill-ao-dublado",
+            "url": "https://animeplay.cloud/anime/kill-ao-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/i1RaaFQUSGfx48CavoBRqeloLYb-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 3,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 475,
+        "total": 476,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -8522,7 +8518,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784868190,
+          "lastProbeAt": 1781799181775,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -8555,7 +8551,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784870344
+      "at": 1781799270389
     },
     "todos|4||120": {
       "data": {
@@ -23441,5 +23437,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781799266093
+  "updatedAt": 1781799270389
 }

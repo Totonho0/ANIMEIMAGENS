@@ -20138,7 +20138,19 @@
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koukaku-kidouta"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koukaku-kidouta"
+              }
+            ]
           },
           {
             "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
@@ -20204,7 +20216,7 @@
         "category": "legendado",
         "page": 1,
         "hasMore": true,
-        "warning": "Listagem em cache — atualizando em segundo plano.",
+        "warning": "Catálogo salvo (há ~1h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 63,
@@ -20226,36 +20238,40 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781740584912,
+          "lastProbeAt": 1781741293563,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
-        "cfBypassConfigured": false,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "scrapfly",
+        "scrapflyConfigured": true,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
-          "cfBypassConfigured": false,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "scrapfly",
+          "scrapflyConfigured": true,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1781740613646
+      "at": 1781741320654
     },
     "legendado|2||120": {
       "data": {
@@ -23409,5 +23425,5 @@
       "at": 1781741316527
     }
   },
-  "updatedAt": 1781741316527
+  "updatedAt": 1781741320654
 }

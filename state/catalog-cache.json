@@ -21212,7 +21212,7 @@
         "category": "legendado",
         "page": 3,
         "hasMore": true,
-        "warning": "Listagem em cache — atualizando em segundo plano.",
+        "warning": "Catálogo salvo (há ~1h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 63,
@@ -21234,36 +21234,40 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781740584912,
+          "lastProbeAt": 1781741293563,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
-        "cfBypassConfigured": false,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "scrapfly",
+        "scrapflyConfigured": true,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
-          "cfBypassConfigured": false,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "scrapfly",
+          "scrapflyConfigured": true,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1781740616129
+      "at": 1781741328876
     },
     "dublado|1||120": {
       "data": {
@@ -23429,5 +23433,5 @@
       "at": 1781741316527
     }
   },
-  "updatedAt": 1781741324762
+  "updatedAt": 1781741328876
 }

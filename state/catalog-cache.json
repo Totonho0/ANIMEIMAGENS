@@ -18362,28 +18362,24 @@
             "url": "https://animeplay.cloud/anime/tsuyokute-new-saga",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/7WAVcPVqdLK9whw75A7z6qeiuCg-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tsuyokute-new-saga"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tsuyokute-new-saga"
-              }
-            ]
+            "provider": "aoc"
+          },
+          {
+            "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!",
+            "slug": "watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri",
+            "url": "https://animeplay.cloud/anime/watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/gj5oUGMFPMJB304Z9jQAoTTCREJ-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
           }
         ],
         "category": "todos",
         "page": 18,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~13h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~17h) — tentando atualizar em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 475,
+        "total": 476,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -18402,7 +18398,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781784868190,
+          "lastProbeAt": 1781799271714,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -18435,7 +18431,7 @@
           "fixHint": null
         }
       },
-      "at": 1781784935106
+      "at": 1781799335731
     },
     "todos|19||120": {
       "data": {
@@ -23381,5 +23377,5 @@
       "at": 1781784952296
     }
   },
-  "updatedAt": 1781799331384
+  "updatedAt": 1781799335731
 }

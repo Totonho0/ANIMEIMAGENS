@@ -6843,11 +6843,15 @@
       "username": "",
       "displayName": "Visitante #A935924B",
       "visitorShortId": "A935924B",
-      "lastSeenAt": 1781767048287,
-      "lastAlertAt": 1781767048287,
+      "lastSeenAt": 1781767055927,
+      "lastAlertAt": 1781767055927,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

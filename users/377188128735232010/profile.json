@@ -879,6 +879,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "akame-ga-kill-dublado": {
+      "slug": "akame-ga-kill-dublado",
+      "title": "Akame ga Kill! Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zWEFHZ2tsS2tKaHY1TTltNU5rZmhCWWI3bDguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1264,53 +1271,56 @@
     ],
     "haikyuu-second-season-dublado": [
       1
+    ],
+    "akame-ga-kill-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781741734108
+      "at": 1781802698561
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781741734107
+      "at": 1781802698561
     },
     {
       "slug": "one-piece",
@@ -1334,5 +1344,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781741740936
+  "updatedAt": 1781802841729
 }

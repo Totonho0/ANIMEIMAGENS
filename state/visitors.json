@@ -29,7 +29,7 @@
       "discordId": "377188128735232010",
       "discordUsername": "Totonho",
       "createdAt": 1781387225164,
-      "lastSeenAt": 1781907127611,
+      "lastSeenAt": 1781907602279,
       "lastIp": "140.174.187.15"
     },
     "ded17db6-dc41-4d5a-8d5f-3b344005b486": {
@@ -14671,6 +14671,38 @@
       "createdAt": 1781907468058,
       "lastSeenAt": 1781907468058,
       "lastIp": "::ffff:100.64.0.2"
+    },
+    "9dfb722c-518d-4c04-b178-22f9a59179fd": {
+      "id": "9dfb722c-518d-4c04-b178-22f9a59179fd",
+      "displayName": "Visitante #9DFB722C",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "favorites": [],
+      "watchLater": [],
+      "mangaFavorites": [],
+      "library": {},
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1781907603832,
+      "lastSeenAt": 1781907605343,
+      "lastIp": "74.125.114.6"
+    },
+    "821e6104-1b5f-40b0-8484-04286a816083": {
+      "id": "821e6104-1b5f-40b0-8484-04286a816083",
+      "displayName": "Visitante #821E6104",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "favorites": [],
+      "watchLater": [],
+      "mangaFavorites": [],
+      "library": {},
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1781907604228,
+      "lastSeenAt": 1781907604228,
+      "lastIp": "74.125.114.6"
     }
   }
 }

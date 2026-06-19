@@ -21656,6 +21656,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -21673,6 +21678,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -21696,6 +21706,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -21713,6 +21728,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -21736,6 +21756,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -21753,6 +21778,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -21796,6 +21826,11 @@
                 "slug": "jigoku-sensei-nube"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "jigoku-sensei-nube"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "jigoku-sensei-nube"
@@ -21813,6 +21848,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha"
               },
               {
@@ -21836,6 +21876,11 @@
                 "slug": "kakkou-no-iinazuke-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kakkou-no-iinazuke-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kakkou-no-iinazuke-2"
@@ -21853,6 +21898,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bullet-bullet"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bullet-bullet"
               },
               {
@@ -21876,6 +21926,11 @@
                 "slug": "grand-blue-dreaming-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "grand-blue-dreaming-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "grand-blue-dreaming-2"
@@ -21893,6 +21948,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "necronomico-and-the-cosmic-horror-show"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "necronomico-and-the-cosmic-horror-show"
               },
               {
@@ -21916,6 +21976,11 @@
                 "slug": "kanojo-okarishimasu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kanojo-okarishimasu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kanojo-okarishimasu"
@@ -21933,6 +21998,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "mattaku-saikin-no-tantei-to-kitara"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "mattaku-saikin-no-tantei-to-kitara"
               },
               {
@@ -21956,6 +22026,11 @@
                 "slug": "kanojo-okarishimasu-4"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kanojo-okarishimasu-4"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kanojo-okarishimasu-4"
@@ -21973,6 +22048,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto"
               },
               {
@@ -21996,6 +22076,11 @@
                 "slug": "city-the-animation"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "city-the-animation"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "city-the-animation"
@@ -22013,6 +22098,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tougen-anki"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tougen-anki"
               },
               {
@@ -22036,6 +22126,11 @@
                 "slug": "utagoe-wa-mille-feuille"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "utagoe-wa-mille-feuille"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "utagoe-wa-mille-feuille"
@@ -22053,6 +22148,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "one-punch-man-3"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "one-punch-man-3"
               },
               {
@@ -22076,6 +22176,11 @@
                 "slug": "koujo-denka-no-kateikyoushi"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koujo-denka-no-kateikyoushi"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "koujo-denka-no-kateikyoushi"
@@ -22093,6 +22198,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "guimi-zhi-zhu-xiaochou-pian"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "guimi-zhi-zhu-xiaochou-pian"
               },
               {
@@ -22116,6 +22226,11 @@
                 "slug": "takopii-no-genzai"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "takopii-no-genzai"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "takopii-no-genzai"
@@ -22133,6 +22248,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "one-punch-man-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "one-punch-man-2-dublado"
               },
               {
@@ -22156,6 +22276,11 @@
                 "slug": "sono-bisque-doll-wa-koi-wo-suru-2-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sono-bisque-doll-wa-koi-wo-suru-2-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "sono-bisque-doll-wa-koi-wo-suru-2-dublado"
@@ -22173,6 +22298,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sono-bisque-doll-wa-koi-wo-suru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "sono-bisque-doll-wa-koi-wo-suru-2"
               },
               {
@@ -22196,6 +22326,11 @@
                 "slug": "sono-bisque-doll-wa-koi-wo-suru-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sono-bisque-doll-wa-koi-wo-suru-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "sono-bisque-doll-wa-koi-wo-suru-dublado"
@@ -22216,6 +22351,11 @@
                 "slug": "kaijuu-8-gou-2nd-season-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kaijuu-8-gou-2nd-season-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kaijuu-8-gou-2nd-season-dublado"
@@ -22228,7 +22368,27 @@
             "url": "https://animeplay.cloud/anime/gachiakuta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/06/cgEvJsm6LwklmhYuxpIpYoXhaAZ-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "gachiakuta"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "gachiakuta"
+              }
+            ]
+          },
+          {
+            "title": "Kaijuu 8-gou 2nd Season",
+            "slug": "kaijuu-8-gou-2nd-season-2",
+            "url": "https://animesdrive.online/anime/kaijuu-8-gou-2nd-season-2",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/06/xhTK3051jCs85ltRfje1IWblm6n-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           },
           {
             "title": "Tsuyokute New Saga",
@@ -22264,7 +22424,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781905118694,
+          "lastProbeAt": 1781906342074,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -22297,7 +22457,7 @@
           "fixHint": null
         }
       },
-      "at": 1781905128732
+      "at": 1781906420974
     },
     "todos|20||120": {
       "data": {
@@ -28921,5 +29081,5 @@
       "at": 1781905578498
     }
   },
-  "updatedAt": 1781906416584
+  "updatedAt": 1781906420974
 }

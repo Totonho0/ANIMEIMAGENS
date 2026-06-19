@@ -20194,7 +20194,19 @@
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koukaku-kidouta"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koukaku-kidouta"
+              }
+            ]
           },
           {
             "title": "Bocchi the Rock! Season 2",
@@ -20602,7 +20614,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781890812497,
+          "lastProbeAt": 1781894140813,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -20635,7 +20647,7 @@
           "fixHint": null
         }
       },
-      "at": 1781890838322
+      "at": 1781894168316
     },
     "legendado|3||120": {
       "data": {
@@ -23345,5 +23357,5 @@
       "at": 1781894159968
     }
   },
-  "updatedAt": 1781894164126
+  "updatedAt": 1781894168316
 }

@@ -24159,12 +24159,277 @@
     },
     "lancamentos|1||48": {
       "data": {
-        "items": [],
+        "items": [
+          {
+            "title": "Episódio 34",
+            "epTitle": "Episódio 34",
+            "slug": "os-policiais-do-futuro",
+            "episode": 34,
+            "url": "https://animesonline.cloud/episodio/os-policiais-do-futuro-episodio-34",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/weS1dmajxIcgOWPCc2GsjXOsKAG-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "snowball-earth-dublado",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/snowball-earth-dublado-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/ml3kSfjarzFX1pSFFAki4J9pja9-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5dK2AJHIbAXCxufapqxyhU9m4bO-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "hokuto-no-ken-fist-of-the-north-star",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/hsknrDS7nbICAySK3hMUD8BBCpu-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "kami-no-shizuku",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/tPYAlsjcn5GNQx5EUPqdTgNrxP2-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "snowball-earth",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/snowball-earth-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/eD9nwldGeeIC7kuXgWcPmJMlzm6-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1y7BjPg5kYGbTQPmln573tvKsJ4-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/aBzNsOBSRznSRB6IowIiHpB1Mct-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "reincarnation-no-kaben",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/reincarnation-no-kaben-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/djc0nITAQfAwmoIJJWjg9wHkDTO-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "kirio-fanclub",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/3WUCIVf6t1LRRCn4dLdP8lwkym9-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1at0Q6g7NDmippNQpey4cW6oxDW-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "awajima-hyakkei",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/zun16eoCZzyCyOUYgK6IpzoGYTN-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/l4CHvb43TYAPlMtWu9uh3bLj9Fh-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1f299zZLoAn9QqwpZlyQN0Q2wf0-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 47",
+            "epTitle": "Episódio 47",
+            "slug": "kamen-rider-black-rx",
+            "episode": 47,
+            "url": "https://animesonline.cloud/episodio/kamen-rider-black-rx-episodio-47",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/bbDhCf7tthwZqzXXJwGMPNYZP5F-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/sShC1nf9rHeKyKtvu5jBXhGstO2-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "koori-no-jouheki-dublado",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/koori-no-jouheki-dublado-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/fsSKO8Rs7rDoUyJbJCSGao0y9sI-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "koori-no-jouheki",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/koori-no-jouheki-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rtvr3gOcanTX0GzWaCz3rvw64B6-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/24vUEoJmlojimiZ655il9XuZ4Ur-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "dr-stone-science-future-4-part-3",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rLzwZfWltOhISLBe4fSfkPaqQVi-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "kujima-utaeba-ie-hororo",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vHl3BZQBOXKgMzGStKC5MGI9IB8-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "himekishi-wa-barbaroi-no-yome",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5tg39zrzYEAJxOyUiVD6k9uwKQg-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "shadows-house-dublado",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/kTgtjLx348jAVq1UklDoQlB2UFl-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "zetman",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/zetman-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gHWQgVDWoNtelv3SJ81OYfqNLHf-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          }
+        ],
         "category": "lancamentos",
         "page": 1,
-        "hasMore": false
+        "hasMore": true
       },
-      "at": 1781910094283
+      "at": 1781910395312
     },
     "todos|1||24": {
       "data": {
@@ -24393,5 +24658,5 @@
       "at": 1781909004445
     }
   },
-  "updatedAt": 1781910094283
+  "updatedAt": 1781910395312
 }

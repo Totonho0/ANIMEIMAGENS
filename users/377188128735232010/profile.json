@@ -162,9 +162,10 @@
     },
     "marriagetoxin-dublado": {
       "slug": "marriagetoxin-dublado",
-      "title": "Marriagetoxin Dublado",
+      "title": "Assistir Marriagetoxin Dublado Online em HD - Todos os Episódios Atualizados",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "sousou-no-friere-2-dublado": {
       "slug": "sousou-no-friere-2-dublado",
@@ -1391,5 +1392,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781898354680
+  "updatedAt": 1781898366660
 }

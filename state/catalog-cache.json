@@ -22875,7 +22875,7 @@
             "slug": "kanojo-okarishimasu-5th-season-dublado",
             "episode": 8,
             "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-08",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8kSU4aDtC6UzrBCSFdqdIfexMCF-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/8kSU4aDtC6UzrBCSFdqdIfexMCF-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true,
@@ -23097,7 +23097,7 @@
             "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
             "episode": 15,
             "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-episodio-15",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/ijTf60gYgtbWLhx1U1SBWFaxMmK-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ijTf60gYgtbWLhx1U1SBWFaxMmK-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
@@ -23192,7 +23192,7 @@
         "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 43,
+        "total": 47,
         "cachedAt": 1781731303463,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -23211,7 +23211,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781904674598,
+          "lastProbeAt": 1781905118694,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -23244,7 +23244,7 @@
           "fixHint": null
         }
       },
-      "at": 1781904703861
+      "at": 1781905139045
     },
     "lancamentos|2||120": {
       "data": {
@@ -23710,5 +23710,5 @@
       "at": 1781904710084
     }
   },
-  "updatedAt": 1781905132846
+  "updatedAt": 1781905139045
 }

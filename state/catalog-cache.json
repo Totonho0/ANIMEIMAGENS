@@ -22294,7 +22294,19 @@
             "url": "https://animeplay.cloud/anime/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/kzyNxTZFcWjkYJU9T9aJ8vXTAFN-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-dublado"
+              }
+            ]
           },
           {
             "title": "Sousou no Friere Dublado",
@@ -22302,7 +22314,19 @@
             "url": "https://animeplay.cloud/anime/sousou-no-friere-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "sousou-no-friere-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "sousou-no-friere-dublado"
+              }
+            ]
           },
           {
             "title": "Jujutsu Kaisen 2 Dublado",
@@ -22310,7 +22334,19 @@
             "url": "https://animeplay.cloud/anime/jujutsu-kaisen-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/v1QcGlOMSiRWawyGWNHYULToOjL-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jujutsu-kaisen-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jujutsu-kaisen-2-dublado"
+              }
+            ]
           },
           {
             "title": "Record of Ragnarok 3 Dublado",
@@ -22318,7 +22354,19 @@
             "url": "https://animeplay.cloud/anime/record-of-ragnarok-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/iJStWZQNGQ6tgedmr47ujU59KoX-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "record-of-ragnarok-3-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "record-of-ragnarok-3-dublado"
+              }
+            ]
           },
           {
             "title": "Jujutsu Kaisen Dublado",
@@ -22326,7 +22374,19 @@
             "url": "https://animeplay.cloud/anime/jujutsu-kaisen-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mGPwEkHxyErWoX7Z1sk2YuOKtQ8-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "jujutsu-kaisen-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jujutsu-kaisen-dublado"
+              }
+            ]
           },
           {
             "title": "Chainsaw Man Dublado",
@@ -22334,7 +22394,19 @@
             "url": "https://animeplay.cloud/anime/chainsaw-man-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/eM7GYp7CrEnDZmZXyMnOr9iXDlo-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chainsaw-man-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "chainsaw-man-dublado"
+              }
+            ]
           },
           {
             "title": "Kimi to Koete Koi ni Naru Dublado",
@@ -22342,7 +22414,19 @@
             "url": "https://animeplay.cloud/anime/kimi-to-koete-koi-ni-naru-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kimi-to-koete-koi-ni-naru-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kimi-to-koete-koi-ni-naru-dublado"
+              }
+            ]
           },
           {
             "title": "Hikaru ga Shinda Natsu Dublado",
@@ -22350,7 +22434,19 @@
             "url": "https://animeplay.cloud/anime/hikaru-ga-shinda-natsu-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/dJKA2cVUxV3bZq5gI5Ez3WlD811-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "hikaru-ga-shinda-natsu-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hikaru-ga-shinda-natsu-dublado"
+              }
+            ]
           },
           {
             "title": "Gnosia Dublado",
@@ -22358,7 +22454,19 @@
             "url": "https://animeplay.cloud/anime/gnosia-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "gnosia-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "gnosia-dublado"
+              }
+            ]
           },
           {
             "title": "Disney Twisted-Wonderland: A Série Dublado",
@@ -22366,7 +22474,19 @@
             "url": "https://animeplay.cloud/anime/disney-twisted-wonderland-a-serie-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "disney-twisted-wonderland-a-serie-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "disney-twisted-wonderland-a-serie-dublado"
+              }
+            ]
           },
           {
             "title": "Alma-chan wa Kazoku ni Naritai Dublado",
@@ -22374,7 +22494,19 @@
             "url": "https://animeplay.cloud/anime/alma-chan-wa-kazoku-ni-naritai-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sal3tEwQCv1Eh9PSMZbMpg8MUqe-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "alma-chan-wa-kazoku-ni-naritai-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "alma-chan-wa-kazoku-ni-naritai-dublado"
+              }
+            ]
           },
           {
             "title": "Kekkon Yubiwa Monogatari II Dublado",
@@ -22382,7 +22514,19 @@
             "url": "https://animeplay.cloud/anime/kekkon-yubiwa-monogatari-ii-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/dd17YkjAmyycnIYuVBhqgN2ZipP-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "kekkon-yubiwa-monogatari-ii-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kekkon-yubiwa-monogatari-ii-dublado"
+              }
+            ]
           },
           {
             "title": "Boku no Hero Academia: Final Season Dublado",
@@ -22390,7 +22534,19 @@
             "url": "https://animeplay.cloud/anime/boku-no-hero-academia-final-season-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-final-season-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-final-season-dublado"
+              }
+            ]
           },
           {
             "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai Dublado",
@@ -22398,7 +22554,19 @@
             "url": "https://animeplay.cloud/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/bD80ugDX7krshLcWxnqRYCOQPoo-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado"
+              }
+            ]
           },
           {
             "title": "Spy x Family 3 Dublado",
@@ -22406,7 +22574,19 @@
             "url": "https://animeplay.cloud/anime/spy-x-family-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vDGB41PATBLb5GaXTfG1weZ03Xr-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "spy-x-family-3-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "spy-x-family-3-dublado"
+              }
+            ]
           },
           {
             "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
@@ -22414,7 +22594,19 @@
             "url": "https://animeplay.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/6E1hsfFlwWr14yxfgmt9Lt7Gjw9-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado"
+              }
+            ]
           },
           {
             "title": "Radiant 2 Dublado",
@@ -22422,7 +22614,19 @@
             "url": "https://animeplay.cloud/anime/radiant-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sPv6FNe5tdqPBAz3Fo1tNDKmBA0-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "radiant-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "radiant-2-dublado"
+              }
+            ]
           },
           {
             "title": "Let’s Play Dublado",
@@ -22430,7 +22634,19 @@
             "url": "https://animeplay.cloud/anime/lets-play-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "lets-play-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "lets-play-dublado"
+              }
+            ]
           },
           {
             "title": "Wandance Dublado",
@@ -22438,7 +22654,19 @@
             "url": "https://animeplay.cloud/anime/wandance-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "wandance-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "wandance-dublado"
+              }
+            ]
           },
           {
             "title": "Witch Watch Dublado",
@@ -22446,7 +22674,19 @@
             "url": "https://animeplay.cloud/anime/witch-watch-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "witch-watch-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "witch-watch-dublado"
+              }
+            ]
           },
           {
             "title": "Romantic Killer Dublado",
@@ -22454,7 +22694,19 @@
             "url": "https://animeplay.cloud/anime/romantic-killer-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/24ou2XFtgHpkElfmmGciW4vJIgw-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "romantic-killer-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "romantic-killer-dublado"
+              }
+            ]
           },
           {
             "title": "Ninja vs. Gokudo Dublado",
@@ -22462,7 +22714,19 @@
             "url": "https://animeplay.cloud/anime/ninja-vs-gokudo-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/cjFjvds8pnzFnB2acsHLL7LsNW1-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ninja-vs-gokudo-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ninja-vs-gokudo-dublado"
+              }
+            ]
           },
           {
             "title": "Radiant Dublado",
@@ -22470,7 +22734,19 @@
             "url": "https://animeplay.cloud/anime/radiant-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/o19uFUrC9gLa366Sr41kSJM8vRz-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "radiant-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "radiant-dublado"
+              }
+            ]
           },
           {
             "title": "Fumetsu no Anata e 3 Dublado",
@@ -22478,14 +22754,76 @@
             "url": "https://animeplay.cloud/anime/fumetsu-no-anata-e-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/cd0YbgKvqi62ghhOwTIOUtjlXSy-185x278.jpg",
             "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "My Hero Academia: Vigilantes 2 Dublado",
+            "slug": "my-hero-academia-vigilantes-2-dublado",
+            "url": "https://animeplay.cloud/anime/my-hero-academia-vigilantes-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/5To7gr0PmuAvo31YLwb3EQpMlVy-185x278.jpg",
+            "kind": "anime",
             "provider": "animeplay"
           }
         ],
         "category": "dublado",
         "page": 3,
-        "hasMore": true
+        "hasMore": true,
+        "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
+        "catalogFromCache": true,
+        "aocDegraded": false,
+        "total": 73,
+        "cachedAt": 1781739087321,
+        "aocCircuitOpen": false,
+        "aocReachable": false,
+        "aocCircuit": {
+          "open": false,
+          "openUntil": 0,
+          "cooldownMs": 90000,
+          "remainingMs": 0,
+          "streak": 0,
+          "bypass": true
+        },
+        "aocDegradedStatus": {
+          "slowMode": false,
+          "slowUntil": 0,
+          "timeoutStreak": 0
+        },
+        "aocReachability": {
+          "reachable": false,
+          "lastProbeAt": 1781906522856,
+          "lastProbeOk": false,
+          "cookieOnly": true
+        },
+        "cookieConfigured": true,
+        "proxyConfigured": false,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "scrapfly",
+        "scrapflyConfigured": true,
+        "bypassConfigured": true,
+        "isProd": true,
+        "datacenterRisk": false,
+        "authFailed": false,
+        "recentCatalog403": false,
+        "aocBlocked": false,
+        "blocking": false,
+        "fixHint": null,
+        "mediaAccess": {
+          "cookieConfigured": true,
+          "proxyConfigured": false,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "scrapfly",
+          "scrapflyConfigured": true,
+          "bypassConfigured": true,
+          "isProd": true,
+          "datacenterRisk": false,
+          "authFailed": false,
+          "recentCatalog403": false,
+          "aocBlocked": false,
+          "blocking": false,
+          "fixHint": null
+        }
       },
-      "at": 1781739087321
+      "at": 1781906555798
     },
     "lancamentos|1||120": {
       "data": {
@@ -23388,5 +23726,5 @@
       "at": 1781906531079
     }
   },
-  "updatedAt": 1781906551683
+  "updatedAt": 1781906555798
 }

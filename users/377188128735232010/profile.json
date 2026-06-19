@@ -886,6 +886,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8zWEFHZ2tsS2tKaHY1TTltNU5rZmhCWWI3bDguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "go-for-it-nakamura-kun": {
+      "slug": "go-for-it-nakamura-kun",
+      "title": "Ganbare! Nakamura-kun!!",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nbzF4NFFkWGs5MGkycEhIQmZvZHNPQktuMFguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1274,53 +1281,56 @@
     ],
     "akame-ga-kill-dublado": [
       1
+    ],
+    "go-for-it-nakamura-kun": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "haikyuu-second-season",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781802698561
+      "at": 1781869134940
     },
     {
       "slug": "one-piece",
@@ -1344,5 +1354,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781802841729
+  "updatedAt": 1781869163994
 }

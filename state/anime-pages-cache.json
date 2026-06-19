@@ -7970,7 +7970,7 @@
       }
     },
     "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": {
-      "at": 1781558592045,
+      "at": 1781909125789,
       "data": {
         "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
         "title": "Re:Zero kara Hajimeru Isekai Seikatsu Dublado 4th Season",
@@ -8026,9 +8026,14 @@
             "number": 10,
             "title": "Episodio 10 - Matar é um hábito",
             "url": "https://animeplay.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episodio 11 - Re:ZERO - Começando a Vida em Outro Mundo -",
+            "url": "https://animeplay.cloud/episodio/rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season-episodio-11"
           }
         ],
-        "totalEpisodes": 10,
+        "totalEpisodes": 11,
         "kind": "anime",
         "provider": "animeplay"
       }
@@ -22773,6 +22778,70 @@
             }
           }
         }
+      }
+    },
+    "tadaima-ojamasaremasu": {
+      "at": 1781909126911,
+      "data": {
+        "slug": "tadaima-ojamasaremasu",
+        "title": "Pardon the Intrusion, I’m Home!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC95dHBZdEZvWjduWkd2Tkh5U0xZdWZURnBaQjkuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Com licença pela intromissão, você está na minha casa!?",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Começando com um namorado de mentira?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Entretanto, naquela época...!?",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Eu não estou com bloqueio criativo, ok?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Isto é uma obra de ficção, ok?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - É só um beijo?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Você está ocupado no Natal?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-07"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - O segredo de Satsuki-san?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - O Plano do Cachorrinho Patético?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Como todos eles desmoronam?!",
+            "url": "https://animeplay.cloud/episodio/tadaima-ojamasaremasu-episodio-11"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "animeplay"
       }
     }
   }

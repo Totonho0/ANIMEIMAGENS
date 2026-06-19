@@ -23050,7 +23050,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781895979544,
+          "lastProbeAt": 1781896373312,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -23083,7 +23083,7 @@
           "fixHint": null
         }
       },
-      "at": 1781895987148
+      "at": 1781896404173
     },
     "lancamentos|2||120": {
       "data": {
@@ -23365,5 +23365,5 @@
       "at": 1781895991352
     }
   },
-  "updatedAt": 1781896399959
+  "updatedAt": 1781896404173
 }

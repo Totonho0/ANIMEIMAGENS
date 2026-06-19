@@ -922,6 +922,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9iTTRuQ3luT1NBNW9DTnFMc3FiMUZvNTZzWlEuanBn",
       "kind": "anime",
       "adult": true
+    },
+    "the-world-is-dancing": {
+      "slug": "the-world-is-dancing",
+      "title": "World Is Dancing",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvb09tUWY5NGlkU0JuRHVlSXJNM0ZOUXk4SVh3LTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1331,48 +1338,51 @@
     ],
     "modaete-yo-adam-kun": [
       1
+    ],
+    "the-world-is-dancing": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781905339344
+      "at": 1781907480039
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781905339344
+      "at": 1781907480039
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781905339344
+      "at": 1781907480039
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781905339344
+      "at": 1781907480039
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781905339344
+      "at": 1781907480039
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781905339344
+      "at": 1781907480038
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781905339344
+      "at": 1781907480038
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781905339344
+      "at": 1781907480038
     },
     {
       "slug": "haikyuu-second-season",
@@ -1401,5 +1411,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781905549713
+  "updatedAt": 1781907509244
 }

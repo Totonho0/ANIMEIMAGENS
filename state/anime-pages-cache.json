@@ -22705,7 +22705,7 @@
       }
     },
     "shadows-house-dublado": {
-      "at": 1781905586464,
+      "at": 1781910444620,
       "data": {
         "slug": "shadows-house-dublado",
         "title": "Shadows House Dublado",
@@ -22715,89 +22715,72 @@
           {
             "number": 1,
             "title": "Episódio 01 - A Sombra e Sua Boneca",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-01"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Fora do quarto",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-02"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - A doença da fuligem",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-03"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Vigias na Noite",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-04"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - A estreia",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-05"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06 - O Labirinto do Jardim",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-06"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07 - Um mapa incompleto",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-07"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08 - Na palma da Sua mão",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-08"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 09 - Uma gaiola de pássaros e flores",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-09"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-09"
           },
           {
             "number": 10,
             "title": "Episódio 10 - O par final",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-10"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-10"
           },
           {
             "number": 11,
             "title": "Episódio 11 - A bebida escura",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-11"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-11"
           },
           {
             "number": 12,
             "title": "Episódio 12 - Para a Ala do Lorde Avô",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-12"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-12"
           },
           {
             "number": 13,
             "title": "Episódio 13 - Pelo bem da família das sombras",
-            "url": "https://animesonline.cloud/episodio/shadows-house-dublado-episodio-13"
+            "url": "https://animeplay.cloud/episodio/shadows-house-dublado-episodio-13"
           }
         ],
         "totalEpisodes": 13,
         "kind": "anime",
-        "provider": "aoc",
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "shadows-house",
-              "title": "Episódio 13",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "shadows-house-dublado",
-              "title": "Shadows House Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        "provider": "animeplay"
       }
     },
     "tadaima-ojamasaremasu": {

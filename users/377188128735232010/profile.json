@@ -944,6 +944,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81aUdVZXhiMkU2S3llcG1qRWVsRVI4bXJ0MGcuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "snowball-earth": {
+      "slug": "snowball-earth",
+      "title": "Snowball Earth",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xUWRMSzZWOW1OQnNwbHJKcnp0akFKZjZRS3MuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1368,48 +1375,51 @@
     ],
     "replica-datte-koi-wo-suru": [
       1
+    ],
+    "snowball-earth": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781910499369
+      "at": 1781911111308
     },
     {
       "slug": "haikyuu-second-season",
@@ -1438,5 +1448,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781910587431
+  "updatedAt": 1781911124701
 }

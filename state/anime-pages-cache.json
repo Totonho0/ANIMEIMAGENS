@@ -20060,6 +20060,97 @@
           }
         }
       }
+    },
+    "dark-moon-the-blood-altar": {
+      "at": 1781898109427,
+      "data": {
+        "slug": "dark-moon-the-blood-altar",
+        "title": "Dark Moon: The Blood Altar",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9yTFQ2MWpreGFDT3IxNzBEaHROR3hWenVGSnEuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Lua Nova – Encontro –",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Lua Crescente — Os lobos que pularam o muro —",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Meia Lua — Um encontro de passar a perna —",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Lua de Sangue — Noite do eclipse total da lua —",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Lua Azul - O Destino é Assim",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Lua Antiga — Lorde Vampiro —",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Lua Nebulosa — A névoa negra da Railgun —",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Lua Minguante - Combate Mortal no Outono -",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Lua Nebulosa — O Sangue de Vargr —",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Lua das Trevas — O Altar da Lua —",
+            "url": "https://animeplay.cloud/episodio/dark-moon-the-blood-altar-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "dark-moon-the-blood-altar",
+              "title": "Dark Moon: The Blood Altar",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "dark-moon-the-blood-altar-dublado",
+              "title": "Dark Moon: The Blood Altar Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }

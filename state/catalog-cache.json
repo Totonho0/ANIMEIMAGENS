@@ -22204,7 +22204,7 @@
         "category": "dublado",
         "page": 2,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 73,
@@ -22226,7 +22226,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781856886578,
+          "lastProbeAt": 1781871290363,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -22259,7 +22259,7 @@
           "fixHint": null
         }
       },
-      "at": 1781856971754
+      "at": 1781871372009
     },
     "dublado|3||120": {
       "data": {
@@ -23345,5 +23345,5 @@
       "at": 1781871351000
     }
   },
-  "updatedAt": 1781871367815
+  "updatedAt": 1781871372009
 }

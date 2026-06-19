@@ -21135,7 +21135,7 @@
         "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 63,
+        "total": 64,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -21154,7 +21154,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781898421351,
+          "lastProbeAt": 1781904674598,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -21187,7 +21187,7 @@
           "fixHint": null
         }
       },
-      "at": 1781898447389
+      "at": 1781904726482
     },
     "dublado|1||120": {
       "data": {
@@ -23710,5 +23710,5 @@
       "at": 1781904710084
     }
   },
-  "updatedAt": 1781904722372
+  "updatedAt": 1781904726482
 }

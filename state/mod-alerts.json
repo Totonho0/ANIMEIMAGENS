@@ -7699,11 +7699,15 @@
       "username": "",
       "displayName": "Visitante #7FC008B4",
       "visitorShortId": "7FC008B4",
-      "lastSeenAt": 1781903136591,
-      "lastAlertAt": 1781903135032,
+      "lastSeenAt": 1781903154825,
+      "lastAlertAt": 1781903154825,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

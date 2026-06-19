@@ -21118,15 +21118,19 @@
             "url": "https://animeplay.cloud/anime/haibara-kun-no-tsuyokute-seishun-new-game",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/3Bxl4kYXdGMMIoZXgDGzo26OiGH-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Kirio Fanclub",
-            "slug": "kirio-fanclub",
-            "url": "https://animeplay.cloud/anime/kirio-fanclub",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/yy9gsBKHX9PHq17mJhhm2yVKh8g-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "haibara-kun-no-tsuyokute-seishun-new-game"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "haibara-kun-no-tsuyokute-seishun-new-game"
+              }
+            ]
           }
         ],
         "category": "legendado",
@@ -21135,7 +21139,7 @@
         "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 63,
+        "total": 64,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -21154,7 +21158,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781895979544,
+          "lastProbeAt": 1781896373312,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -21187,7 +21191,7 @@
           "fixHint": null
         }
       },
-      "at": 1781896003765
+      "at": 1781896420891
     },
     "dublado|1||120": {
       "data": {
@@ -23353,5 +23357,5 @@
       "at": 1781896408354
     }
   },
-  "updatedAt": 1781896416725
+  "updatedAt": 1781896420891
 }

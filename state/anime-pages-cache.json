@@ -21359,27 +21359,27 @@
       }
     },
     "ito-wo-yoru": {
-      "at": 1781905107454,
+      "at": 1781905561624,
       "data": {
         "slug": "ito-wo-yoru",
         "title": "Ito wo Yoru",
-        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvSXRvLXdvLVlvcnUtMTg1eDI2MS0xLmpwZw",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvSXRvLXdvLVlvcnUtMTg1eDI2MS0xLmpwZw",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
             "title": "Episodio 01",
-            "url": "https://animeplay.cloud/episodio/ito-wo-yoru-episodio-01"
+            "url": "https://animesonline.cloud/episodio/ito-wo-yoru-episodio-01"
           },
           {
             "number": 2,
             "title": "Episodio 02",
-            "url": "https://animeplay.cloud/episodio/ito-wo-yoru-episodio-02"
+            "url": "https://animesonline.cloud/episodio/ito-wo-yoru-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "animeplay"
+        "provider": "aoc"
       }
     },
     "yarichin-bitch-club": {
@@ -21461,32 +21461,32 @@
       }
     },
     "shounen-ga-otona-ni-natta-natsu": {
-      "at": 1781905108058,
+      "at": 1781905560759,
       "data": {
         "slug": "shounen-ga-otona-ni-natta-natsu",
         "title": "Shounen ga Otona ni Natta Natsu",
-        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvU2hvdW5lbi1nYS1PdG9uYS1uaS1OYXR0YS1OYXRzdS1BbmltZS1Ecml2ZS5wbmc",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDEvU2hvdW5lbi1nYS1PdG9uYS1uaS1OYXR0YS1OYXRzdS1BbmltZS1Ecml2ZS5wbmc",
         "synopsis": "",
         "episodes": [
           {
             "number": 1,
             "title": "Episódio 01",
-            "url": "https://animeplay.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02",
-            "url": "https://animeplay.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03",
-            "url": "https://animeplay.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-03"
+            "url": "https://animesonline.cloud/episodio/shounen-ga-otona-ni-natta-natsu-episodio-03"
           }
         ],
         "totalEpisodes": 3,
         "kind": "anime",
-        "provider": "animeplay"
+        "provider": "aoc"
       }
     },
     "yoasobi-gurashi": {
@@ -21647,7 +21647,7 @@
       }
     },
     "kuro-gal-a-la-carte": {
-      "at": 1781905108753,
+      "at": 1781905561755,
       "data": {
         "slug": "kuro-gal-a-la-carte",
         "title": "Kuro Gal a La Carte",
@@ -21657,17 +21657,17 @@
           {
             "number": 1,
             "title": "Episódio 01 - Teddy Steady / Teddy Steady Mais um!!",
-            "url": "https://animeplay.cloud/episodio/kuro-gal-a-la-carte-episodio-01"
+            "url": "https://animesonline.cloud/episodio/kuro-gal-a-la-carte-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - Oohata-san wa Risou no Gal / Gal no Kawaii Mieppari",
-            "url": "https://animeplay.cloud/episodio/kuro-gal-a-la-carte-episodio-02"
+            "url": "https://animesonline.cloud/episodio/kuro-gal-a-la-carte-episodio-02"
           }
         ],
         "totalEpisodes": 2,
         "kind": "anime",
-        "provider": "animeplay"
+        "provider": "aoc"
       }
     },
     "yumemiru-otome": {

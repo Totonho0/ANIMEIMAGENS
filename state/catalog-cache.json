@@ -23435,6 +23435,11 @@
                 "slug": "koukaku-kidouta"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koukaku-kidouta"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "koukaku-kidouta"
@@ -23452,6 +23457,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bocchi-the-rock-season-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bocchi-the-rock-season-2"
               },
               {
@@ -23475,6 +23485,11 @@
                 "slug": "kagurabachi"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kagurabachi"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kagurabachi"
@@ -23492,6 +23507,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "haikyuu-second-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "haikyuu-second-season"
               },
               {
@@ -23515,6 +23535,11 @@
                 "slug": "haikyuu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "haikyuu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "haikyuu"
@@ -23532,6 +23557,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "dandelion"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "dandelion"
               },
               {
@@ -23555,6 +23585,11 @@
                 "slug": "tsue-to-tsurugi-no-wistoria-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tsue-to-tsurugi-no-wistoria-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tsue-to-tsurugi-no-wistoria-2"
@@ -23572,6 +23607,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "yozakura-san-chi-no-daisakusen-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "yozakura-san-chi-no-daisakusen-2"
               },
               {
@@ -23595,6 +23635,11 @@
                 "slug": "kuroneko-to-majo-no-kyoushitsu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kuroneko-to-majo-no-kyoushitsu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kuroneko-to-majo-no-kyoushitsu"
@@ -23612,6 +23657,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "yowayowa-sensei"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "yowayowa-sensei"
               },
               {
@@ -23635,6 +23685,11 @@
                 "slug": "kill-blue"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kill-blue"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kill-blue"
@@ -23652,6 +23707,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ichijouma-mankitsugurashi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ichijouma-mankitsugurashi"
               },
               {
@@ -23675,6 +23735,11 @@
                 "slug": "fist-of-the-north-star-hokuto-no-ken"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fist-of-the-north-star-hokuto-no-ken"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fist-of-the-north-star-hokuto-no-ken"
@@ -23692,6 +23757,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "himekishi-wa-barbaroi-no-yome"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "himekishi-wa-barbaroi-no-yome"
               },
               {
@@ -23715,6 +23785,11 @@
                 "slug": "a-hundred-scenes-of-awajima"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "a-hundred-scenes-of-awajima"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "a-hundred-scenes-of-awajima"
@@ -23732,6 +23807,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kujima-utaeba-ie-hororo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kujima-utaeba-ie-hororo"
               },
               {
@@ -23755,6 +23835,11 @@
                 "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
@@ -23775,6 +23860,11 @@
                 "slug": "kanojo-okarishimasu-5th-season"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kanojo-okarishimasu-5th-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kanojo-okarishimasu-5th-season"
@@ -23792,6 +23882,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "otaku-ni-yasashii-gal-wa-inai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "otaku-ni-yasashii-gal-wa-inai"
               },
               {
@@ -23820,6 +23915,22 @@
                 "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de"
               }
             ]
+          },
+          {
+            "title": "Tadaima, Ojamasaremasu!",
+            "slug": "tadaima-ojamasaremasu",
+            "url": "https://animesdrive.online/anime/tadaima-ojamasaremasu",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/u0kcMz9QiDRX4hrcowBxPpbOW4b-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Marriagetoxin",
+            "slug": "marriagetoxin",
+            "url": "https://animesdrive.online/anime/marriagetoxin",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/bHCm3vz7Mg60wEO6HTm9g2g8IEH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           }
         ],
         "category": "legendado",
@@ -23847,7 +23958,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781906522856,
+          "lastProbeAt": 1781906794803,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -23880,7 +23991,7 @@
           "fixHint": null
         }
       },
-      "at": 1781906539317
+      "at": 1781906811462
     },
     "legendado|3||120": {
       "data": {
@@ -27236,5 +27347,5 @@
       "at": 1781906803243
     }
   },
-  "updatedAt": 1781906807367
+  "updatedAt": 1781906811462
 }

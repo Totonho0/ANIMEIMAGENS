@@ -16358,6 +16358,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -16375,6 +16380,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -16398,6 +16408,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -16415,6 +16430,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -16438,6 +16458,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -16455,6 +16480,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -16498,6 +16528,11 @@
                 "slug": "kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun"
@@ -16515,6 +16550,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "radiant"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "radiant"
               },
               {
@@ -16538,6 +16578,11 @@
                 "slug": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi"
@@ -16555,6 +16600,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "fumetsu-no-anata-e-3"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "fumetsu-no-anata-e-3"
               },
               {
@@ -16578,6 +16628,11 @@
                 "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-dublado"
@@ -16595,6 +16650,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sanda-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "sanda-dublado"
               },
               {
@@ -16618,6 +16678,11 @@
                 "slug": "taiyou-yori-mo-mabushii-hoshi-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "taiyou-yori-mo-mabushii-hoshi-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "taiyou-yori-mo-mabushii-hoshi-dublado"
@@ -16635,6 +16700,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sanda"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "sanda"
               },
               {
@@ -16658,6 +16728,11 @@
                 "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka"
@@ -16675,6 +16750,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "shabake"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "shabake"
               },
               {
@@ -16698,6 +16778,11 @@
                 "slug": "mugen-gacha"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mugen-gacha"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mugen-gacha"
@@ -16715,6 +16800,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "gundam-vs-hello-kitty"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "gundam-vs-hello-kitty"
               },
               {
@@ -16758,6 +16848,11 @@
                 "slug": "akujiki-reijou-to-kyouketsu-koushaku"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "akujiki-reijou-to-kyouketsu-koushaku"
@@ -16775,6 +16870,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bukiyou-na-senpai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bukiyou-na-senpai"
               },
               {
@@ -16798,6 +16898,11 @@
                 "slug": "taiyou-yori-mo-mabushii-hoshi"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "taiyou-yori-mo-mabushii-hoshi"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "taiyou-yori-mo-mabushii-hoshi"
@@ -16815,6 +16920,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "watashi-wo-tabetai-hitodenashi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "watashi-wo-tabetai-hitodenashi"
               },
               {
@@ -16838,6 +16948,11 @@
                 "slug": "lets-play"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "lets-play"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "lets-play"
@@ -16855,6 +16970,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kakuriyo-no-yadomeshi-ni"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kakuriyo-no-yadomeshi-ni"
               },
               {
@@ -16878,6 +16998,11 @@
                 "slug": "yano-kun-no-futsuu-no-hibi"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yano-kun-no-futsuu-no-hibi"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "yano-kun-no-futsuu-no-hibi"
@@ -16895,6 +17020,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "naruto-shippuuden-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "naruto-shippuuden-dublado"
               },
               {
@@ -16918,6 +17048,11 @@
                 "slug": "souzai-saishuka-no-isekai-ryokouki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "souzai-saishuka-no-isekai-ryokouki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "souzai-saishuka-no-isekai-ryokouki"
@@ -16930,15 +17065,47 @@
             "url": "https://animeplay.cloud/anime/mofa-gongzhu-de-xiao-fannao",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/jluxQcZqyQ8kRQYoEX2brheNMnV-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "mofa-gongzhu-de-xiao-fannao"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mofa-gongzhu-de-xiao-fannao"
+              }
+            ]
           },
           {
             "title": "Boku no Hero Academia: Final Season",
             "slug": "boku-no-hero-academia-final-season",
-            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-final-season",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
+            "url": "https://animesdrive.online/anime/boku-no-hero-academia-final-season",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "boku-no-hero-academia-final-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-final-season"
+              }
+            ]
+          },
+          {
+            "title": "Yasei no Last Boss ga Arawareta!",
+            "slug": "a-wild-last-boss-appeared",
+            "url": "https://animesdrive.online/anime/a-wild-last-boss-appeared",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/09/uLkimDmIWb4VdgFUuiMlS8wGi5S-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           }
         ],
         "category": "todos",
@@ -16966,7 +17133,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781906432916,
+          "lastProbeAt": 1781906704950,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16999,7 +17166,7 @@
           "fixHint": null
         }
       },
-      "at": 1781906487430
+      "at": 1781906765625
     },
     "todos|14||120": {
       "data": {
@@ -25574,5 +25741,5 @@
       "at": 1781906531079
     }
   },
-  "updatedAt": 1781906761522
+  "updatedAt": 1781906765625
 }

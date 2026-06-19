@@ -23123,6 +23123,92 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "snowball-earth-dublado": {
+      "at": 1781911146349,
+      "data": {
+        "slug": "snowball-earth-dublado",
+        "title": "Snowball Earth Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xUWRMSzZWOW1OQnNwbHJKcnp0akFKZjZRS3MuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Salvador Que Não Pode Trazer a Salvação",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Encontros",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - MEU PRIMEIRO AMIGO",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - O DOMADOR DE KAIJU E A LATA DE ABACAXI",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Bom Trabalho",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-05"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O Custo da Coragem",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Centro Mishima Ativado",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Centro Mishima Ativado",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Feridas Que Voce Pode Enfrentar",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Eu Quero ser um Salvador",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Um Mundo Calmo e Tranquilo",
+            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-12"
+          }
+        ],
+        "totalEpisodes": 11,
+        "kind": "anime",
+        "provider": "animeplay",
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "snowball-earth",
+              "title": "Snowball Earth",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "snowball-earth-dublado",
+              "title": "Snowball Earth Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }

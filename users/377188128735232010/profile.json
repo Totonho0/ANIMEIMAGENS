@@ -951,6 +951,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xUWRMSzZWOW1OQnNwbHJKcnp0akFKZjZRS3MuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado": {
+      "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado",
+      "title": "The Brilliant Healer’s New Life in the Shadows",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9pMXJUb3VqTzFMNnZqY3R1Mkc0S0taRjNvQk8uanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1381,48 +1388,51 @@
     ],
     "snowball-earth-dublado": [
       1
+    ],
+    "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781911111308
+      "at": 1781911425216
     },
     {
       "slug": "haikyuu-second-season",
@@ -1451,5 +1461,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781911146998
+  "updatedAt": 1781911433830
 }

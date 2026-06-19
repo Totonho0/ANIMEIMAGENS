@@ -908,6 +908,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BamNVV1dCNjB6RU9FNnhHQTlyRDJpZEpEMmYuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita": {
+      "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+      "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvc3ZjSnlXRGhqMVNUa09UU2Z4Z2QyaE92WjB6LTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1311,48 +1318,51 @@
     ],
     "an-adventurers-daily-grind-at-age-29": [
       1
+    ],
+    "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781898074361
+      "at": 1781898348748
     },
     {
       "slug": "haikyuu-second-season",
@@ -1381,5 +1391,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781898118609
+  "updatedAt": 1781898354680
 }

@@ -23299,7 +23299,7 @@
         "category": "lancamentos",
         "page": 2,
         "hasMore": false,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 43,
@@ -23321,7 +23321,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781813675271,
+          "lastProbeAt": 1781828079039,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -23354,8 +23354,8 @@
           "fixHint": null
         }
       },
-      "at": 1781813752073
+      "at": 1781828151951
     }
   },
-  "updatedAt": 1781828147733
+  "updatedAt": 1781828151951
 }

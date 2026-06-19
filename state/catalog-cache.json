@@ -6766,6 +6766,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -6783,6 +6788,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -6806,6 +6816,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -6823,6 +6838,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -6846,6 +6866,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -6863,6 +6888,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -6906,6 +6936,11 @@
                 "slug": "hotaru-no-yomeiri"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hotaru-no-yomeiri"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "hotaru-no-yomeiri"
@@ -6923,6 +6958,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "lv999-no-murabito"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "lv999-no-murabito"
               },
               {
@@ -6946,6 +6986,11 @@
                 "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
@@ -6966,6 +7011,11 @@
                 "slug": "ranma-%c2%bd-2024-3rd-season"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ranma-½-2024-3rd-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "ranma-½-2024-3rd-season"
@@ -6983,6 +7033,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tougen-anki-nikko-kegon-no-taki-hen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tougen-anki-nikko-kegon-no-taki-hen"
               },
               {
@@ -7006,6 +7061,11 @@
                 "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
@@ -7026,6 +7086,11 @@
                 "slug": "nige-jouzu-no-wakagimi-2nd-season"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nige-jouzu-no-wakagimi-2nd-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "nige-jouzu-no-wakagimi-2nd-season"
@@ -7043,6 +7108,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kimi-ga-shinu-made-koi-wo-shitai"
               },
               {
@@ -7086,6 +7156,11 @@
                 "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system"
@@ -7103,6 +7178,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tenmaku-no-jaadugar"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tenmaku-no-jaadugar"
               },
               {
@@ -7126,6 +7206,11 @@
                 "slug": "sayonara-lara"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sayonara-lara"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "sayonara-lara"
@@ -7143,6 +7228,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "the-world-is-dancing"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "the-world-is-dancing"
               },
               {
@@ -7166,6 +7256,11 @@
                 "slug": "otome-kaijuu-carameliser"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "otome-kaijuu-carameliser"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "otome-kaijuu-carameliser"
@@ -7183,6 +7278,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "blue-lock-3"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "blue-lock-3"
               },
               {
@@ -7206,6 +7306,11 @@
                 "slug": "koukaku-kidouta"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "koukaku-kidouta"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "koukaku-kidouta"
@@ -7215,10 +7320,22 @@
           {
             "title": "Shadows House Dublado",
             "slug": "shadows-house-dublado",
-            "url": "https://animeplay.cloud/anime/shadows-house-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
+            "url": "https://animesdrive.online/anime/shadows-house-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animesdrive",
+            "animeSources": [
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shadows-house-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shadows-house-dublado"
+              }
+            ]
           }
         ],
         "category": "todos",
@@ -7227,7 +7344,7 @@
         "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 475,
+        "total": 476,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -7246,7 +7363,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781906432916,
+          "lastProbeAt": 1781906704950,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -7279,7 +7396,7 @@
           "fixHint": null
         }
       },
-      "at": 1781906437068
+      "at": 1781906709111
     },
     "todos|2||120": {
       "data": {
@@ -23726,5 +23843,5 @@
       "at": 1781906531079
     }
   },
-  "updatedAt": 1781906555798
+  "updatedAt": 1781906709111
 }

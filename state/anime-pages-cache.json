@@ -8727,7 +8727,7 @@
       }
     },
     "marriagetoxin": {
-      "at": 1781558638993,
+      "at": 1781909132798,
       "data": {
         "slug": "marriagetoxin",
         "title": "Marriagetoxin",
@@ -8783,9 +8783,14 @@
             "number": 10,
             "title": "Episódio 10 - Inútil",
             "url": "https://animeplay.cloud/episodio/marriagetoxin-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Oferta",
+            "url": "https://animeplay.cloud/episodio/marriagetoxin-episodio-11"
           }
         ],
-        "totalEpisodes": 10,
+        "totalEpisodes": 11,
         "kind": "anime",
         "provider": "animeplay"
       }

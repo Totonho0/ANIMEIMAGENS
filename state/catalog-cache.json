@@ -25835,7 +25835,47 @@
         "hasMore": true
       },
       "at": 1781905544787
+    },
+    "hentai|3||24": {
+      "data": {
+        "items": [
+          {
+            "title": "Angel Core The Animation",
+            "slug": "angel-core-the-animation",
+            "url": "https://animesonline.cloud/anime/angel-core-the-animation",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/01/oOUkxQy3N7yyRAzOCfHD1BWVklt-185x278.jpg",
+            "rating": "7",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Bible Black",
+            "slug": "bible-black",
+            "url": "https://animesonline.cloud/anime/bible-black",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/8vNt0y6tMwBeUUjoUhb8HEFLUKN-185x278.jpg",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          },
+          {
+            "title": "Ai Shimai: Futari no Kajitsu",
+            "slug": "ai-shimai-futari-no-kajitsu",
+            "url": "https://animesonline.cloud/anime/ai-shimai-futari-no-kajitsu",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nK4ckpj1wy5tt1l2TdVqUy1gsdQ-185x278.jpg",
+            "rating": "6.7",
+            "kind": "anime",
+            "provider": "aoc",
+            "adult": true
+          }
+        ],
+        "category": "hentai",
+        "page": 3,
+        "hasMore": false
+      },
+      "at": 1781905578498
     }
   },
-  "updatedAt": 1781905544787
+  "updatedAt": 1781905578498
 }

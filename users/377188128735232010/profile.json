@@ -146,7 +146,8 @@
       "slug": "aishiteru-game-wo-owarasetai-dublado",
       "title": "Aishiteru Game wo Owarasetai Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82bFdDYjV4STA5S2tjWWRUZzdTdDhpOHE3WEYuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado": {
       "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
@@ -1351,6 +1352,9 @@
     ],
     "sayonara-lara": [
       1
+    ],
+    "aishiteru-game-wo-owarasetai-dublado": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1421,5 +1425,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781909216343
+  "updatedAt": 1781909250407
 }

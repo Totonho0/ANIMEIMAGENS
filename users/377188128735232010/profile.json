@@ -162,10 +162,9 @@
     },
     "marriagetoxin-dublado": {
       "slug": "marriagetoxin-dublado",
-      "title": "Assistir Marriagetoxin Dublado Online em HD - Todos os Episódios Atualizados",
+      "title": "Marriagetoxin Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC83OTFoSW03WERIczBzak9LZFRsTlIxeFlmOU0uanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "sousou-no-friere-2-dublado": {
       "slug": "sousou-no-friere-2-dublado",
@@ -916,6 +915,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvc3ZjSnlXRGhqMVNUa09UU2Z4Z2QyaE92WjB6LTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "modaete-yo-adam-kun": {
+      "slug": "modaete-yo-adam-kun",
+      "title": "Modaete yo, Adam-kun",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9iTTRuQ3luT1NBNW9DTnFMc3FiMUZvNTZzWlEuanBn",
+      "kind": "anime",
+      "adult": true
     }
   },
   "watched": {
@@ -1322,48 +1328,51 @@
     ],
     "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita": [
       1
+    ],
+    "modaete-yo-adam-kun": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781898348748
+      "at": 1781905339344
     },
     {
       "slug": "haikyuu-second-season",
@@ -1392,5 +1401,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781898366660
+  "updatedAt": 1781905549713
 }

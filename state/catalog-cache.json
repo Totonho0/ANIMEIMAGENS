@@ -15935,6 +15935,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -15952,6 +15957,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -15975,6 +15985,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -15992,6 +16007,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -16015,6 +16035,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -16032,6 +16057,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -16055,6 +16085,11 @@
                 "slug": "ninja-vs-gokudo-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "ninja-vs-gokudo-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "ninja-vs-gokudo-dublado"
@@ -16072,6 +16107,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ninja-vs-gokudo"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ninja-vs-gokudo"
               },
               {
@@ -16095,6 +16135,11 @@
                 "slug": "heika-watashi-wo-wasurete-kudasai"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "heika-watashi-wo-wasurete-kudasai"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "heika-watashi-wo-wasurete-kudasai"
@@ -16112,6 +16157,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga"
               },
               {
@@ -16135,6 +16185,11 @@
                 "slug": "egao-no-taenai-shokuba-desu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "egao-no-taenai-shokuba-desu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "egao-no-taenai-shokuba-desu"
@@ -16152,6 +16207,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "debu-to-love-to-ayamachi-to"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "debu-to-love-to-ayamachi-to"
               },
               {
@@ -16175,6 +16235,11 @@
                 "slug": "gintama-mr-ginpachis-zany-class"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "gintama-mr-ginpachis-zany-class"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "gintama-mr-ginpachis-zany-class"
@@ -16192,6 +16257,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sawaranaide-kotesashi-kun"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "sawaranaide-kotesashi-kun"
               },
               {
@@ -16215,6 +16285,11 @@
                 "slug": "chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha"
@@ -16232,6 +16307,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "alma-chan-wa-kazoku-ni-naritai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "alma-chan-wa-kazoku-ni-naritai"
               },
               {
@@ -16255,6 +16335,11 @@
                 "slug": "kikaijikake-no-marie"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kikaijikake-no-marie"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kikaijikake-no-marie"
@@ -16272,6 +16357,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kingdom-6"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kingdom-6"
               },
               {
@@ -16295,6 +16385,11 @@
                 "slug": "radiant-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "radiant-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "radiant-dublado"
@@ -16312,6 +16407,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "digimon-beatbreak"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "digimon-beatbreak"
               },
               {
@@ -16335,6 +16435,11 @@
                 "slug": "nageki-no-bourei-wa-intai-shitai-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nageki-no-bourei-wa-intai-shitai-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "nageki-no-bourei-wa-intai-shitai-2"
@@ -16352,6 +16457,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "si-vis-the-sound-of-heroes"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "si-vis-the-sound-of-heroes"
               },
               {
@@ -16375,6 +16485,11 @@
                 "slug": "fumetsu-no-anata-e-3-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fumetsu-no-anata-e-3-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fumetsu-no-anata-e-3-dublado"
@@ -16392,6 +16507,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ranma-1-2-2024-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ranma-1-2-2024-2-dublado"
               },
               {
@@ -16415,6 +16535,11 @@
                 "slug": "tomodachi-no-imouto-ga-ore-ni-dake-uzai"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tomodachi-no-imouto-ga-ore-ni-dake-uzai"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tomodachi-no-imouto-ga-ore-ni-dake-uzai"
@@ -16432,6 +16557,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kekkon-yubiwa-monogatari-ii"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kekkon-yubiwa-monogatari-ii"
               },
               {
@@ -16455,6 +16585,11 @@
                 "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai"
@@ -16472,6 +16607,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ranma-1-2-2024-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ranma-1-2-2024-2"
               },
               {
@@ -16495,6 +16635,11 @@
                 "slug": "shuumatsu-touring"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shuumatsu-touring"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "shuumatsu-touring"
@@ -16508,6 +16653,14 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Spy x Family 3",
+            "slug": "spy-x-family-3",
+            "url": "https://animesdrive.online/anime/spy-x-family-3",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/vDGB41PATBLb5GaXTfG1weZ03Xr-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           },
           {
             "title": "Chitose-kun wa Ramune Bin no Naka",
@@ -16543,7 +16696,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781905026790,
+          "lastProbeAt": 1781906342074,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16576,7 +16729,7 @@
           "fixHint": null
         }
       },
-      "at": 1781905084506
+      "at": 1781906388009
     },
     "todos|13||120": {
       "data": {
@@ -27800,5 +27953,5 @@
       "at": 1781905578498
     }
   },
-  "updatedAt": 1781906383673
+  "updatedAt": 1781906388009
 }

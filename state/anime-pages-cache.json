@@ -7290,7 +7290,7 @@
       }
     },
     "fist-of-the-north-star-hokuto-no-ken": {
-      "at": 1781558589720,
+      "at": 1781909117008,
       "data": {
         "slug": "fist-of-the-north-star-hokuto-no-ken",
         "title": "Hokuto no Ken: Fist of the North Star",
@@ -7356,9 +7356,14 @@
             "number": 12,
             "title": "Episódio 12",
             "url": "https://animeplay.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13",
+            "url": "https://animeplay.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-13"
           }
         ],
-        "totalEpisodes": 12,
+        "totalEpisodes": 13,
         "kind": "anime",
         "provider": "animeplay"
       }

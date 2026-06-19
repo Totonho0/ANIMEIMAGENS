@@ -8796,7 +8796,7 @@
       }
     },
     "liar-game": {
-      "at": 1781558637449,
+      "at": 1781909154160,
       "data": {
         "slug": "liar-game",
         "title": "LIAR GAME",
@@ -8852,9 +8852,14 @@
             "number": 10,
             "title": "Episodio 10 - Salvação",
             "url": "https://animeplay.cloud/episodio/liar-game-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episodio 11 - Jogo do Contrabando",
+            "url": "https://animeplay.cloud/episodio/liar-game-episodio-11"
           }
         ],
-        "totalEpisodes": 10,
+        "totalEpisodes": 11,
         "kind": "anime",
         "provider": "animeplay"
       }

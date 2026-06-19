@@ -8199,6 +8199,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -8216,6 +8221,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -8239,6 +8249,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -8256,6 +8271,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -8279,6 +8299,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -8296,6 +8321,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -8319,6 +8349,11 @@
                 "slug": "dandelion-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dandelion-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "dandelion-dublado"
@@ -8336,6 +8371,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "dandelion"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "dandelion"
               },
               {
@@ -8359,6 +8399,11 @@
                 "slug": "tsue-to-tsurugi-no-wistoria-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tsue-to-tsurugi-no-wistoria-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tsue-to-tsurugi-no-wistoria-2"
@@ -8376,6 +8421,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "yozakura-san-chi-no-daisakusen-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "yozakura-san-chi-no-daisakusen-2"
               },
               {
@@ -8399,6 +8449,11 @@
                 "slug": "kuroneko-to-majo-no-kyoushitsu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kuroneko-to-majo-no-kyoushitsu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kuroneko-to-majo-no-kyoushitsu"
@@ -8416,6 +8471,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "yowayowa-sensei"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "yowayowa-sensei"
               },
               {
@@ -8439,6 +8499,11 @@
                 "slug": "hokuto-no-ken-fist-of-the-north-star-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hokuto-no-ken-fist-of-the-north-star-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "hokuto-no-ken-fist-of-the-north-star-dublado"
@@ -8456,6 +8521,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ichijouma-mankitsugurashi"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ichijouma-mankitsugurashi"
               },
               {
@@ -8479,6 +8549,11 @@
                 "slug": "kill-blue"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kill-blue"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kill-blue"
@@ -8496,6 +8571,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana"
               },
               {
@@ -8519,6 +8599,11 @@
                 "slug": "fist-of-the-north-star-hokuto-no-ken"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fist-of-the-north-star-hokuto-no-ken"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fist-of-the-north-star-hokuto-no-ken"
@@ -8536,6 +8621,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kami-no-shizuku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kami-no-shizuku"
               },
               {
@@ -8559,6 +8649,11 @@
                 "slug": "himekishi-wa-barbaroi-no-yome"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "himekishi-wa-barbaroi-no-yome"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "himekishi-wa-barbaroi-no-yome"
@@ -8576,6 +8671,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "a-hundred-scenes-of-awajima"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "a-hundred-scenes-of-awajima"
               },
               {
@@ -8599,6 +8699,11 @@
                 "slug": "kujima-utaeba-ie-hororo"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kujima-utaeba-ie-hororo"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kujima-utaeba-ie-hororo"
@@ -8616,6 +8721,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season"
               },
               {
@@ -8639,6 +8749,11 @@
                 "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
@@ -8659,6 +8774,11 @@
                 "slug": "kanojo-okarishimasu-5th-season"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kanojo-okarishimasu-5th-season"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kanojo-okarishimasu-5th-season"
@@ -8676,6 +8796,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "otaku-ni-yasashii-gal-wa-inai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "otaku-ni-yasashii-gal-wa-inai"
               },
               {
@@ -8739,6 +8864,11 @@
                 "slug": "tadaima-ojamasaremasu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tadaima-ojamasaremasu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tadaima-ojamasaremasu"
@@ -8751,7 +8881,35 @@
             "url": "https://animeplay.cloud/anime/replica-datte-koi-wo-suru",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/rt3qJO775blT8zOj0vDknZG1aQt-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "replica-datte-koi-wo-suru"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "replica-datte-koi-wo-suru"
+              }
+            ]
+          },
+          {
+            "title": "Marriagetoxin",
+            "slug": "marriagetoxin",
+            "url": "https://animesdrive.online/anime/marriagetoxin",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/bHCm3vz7Mg60wEO6HTm9g2g8IEH-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
+          },
+          {
+            "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+            "url": "https://animesdrive.online/anime/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/04/smk2wgVAfdDDLr3NKW4uYlRoIWr-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           },
           {
             "title": "Kill Ao Dublado",
@@ -8787,7 +8945,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781906432916,
+          "lastProbeAt": 1781906704950,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -8820,7 +8978,7 @@
           "fixHint": null
         }
       },
-      "at": 1781906445503
+      "at": 1781906717453
     },
     "todos|4||120": {
       "data": {
@@ -23995,5 +24153,5 @@
       "at": 1781906531079
     }
   },
-  "updatedAt": 1781906713247
+  "updatedAt": 1781906717453
 }

@@ -5429,25 +5429,6 @@
       "viewingDetail": "",
       "viewingUpdatedAt": 0
     },
-    "v:79411c70-28ef-4470-9193-736e36d461bd": {
-      "userKey": "v:79411c70-28ef-4470-9193-736e36d461bd",
-      "messageId": "1516619699675467788",
-      "channelId": "1510739162116915371",
-      "ip": "46.138.250.165",
-      "discordId": "",
-      "username": "",
-      "lastSeenAt": 1781660717366,
-      "lastAlertAt": 1781661050689,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #79411C70",
-      "visitorShortId": "79411C70",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:b4ec15a0-ef0a-4cff-a15e-d3b3854ed859": {
       "userKey": "v:b4ec15a0-ef0a-4cff-a15e-d3b3854ed859",
       "messageId": "1516642063108542537",
@@ -7841,13 +7822,17 @@
       "ip": "46.138.250.165",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #7002E9E9",
-      "visitorShortId": "7002E9E9",
       "lastSeenAt": 1781910678832,
       "lastAlertAt": 1781910678832,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "viaBot": true,
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #7002E9E9",
+      "visitorShortId": "7002E9E9",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:5958e65a-4fe5-4a01-aafb-242daeada63a": {
       "userKey": "v:5958e65a-4fe5-4a01-aafb-242daeada63a",
@@ -7856,10 +7841,16 @@
       "ip": "46.138.250.165",
       "discordId": "",
       "username": "",
+      "lastSeenAt": 1781910680074,
+      "lastAlertAt": 0,
+      "componentsOk": false,
+      "viaBot": false,
       "displayName": "Visitante #5958E65A",
       "visitorShortId": "5958E65A",
-      "lastSeenAt": 1781910680074,
-      "lastAlertAt": 0
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

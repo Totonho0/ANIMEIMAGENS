@@ -13375,19 +13375,7 @@
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "koukaku-kidouta"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koukaku-kidouta"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Bocchi the Rock! Season 2",
@@ -13395,19 +13383,7 @@
             "url": "https://animeplay.cloud/anime/bocchi-the-rock-season-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "bocchi-the-rock-season-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "bocchi-the-rock-season-2"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Kagurabachi",
@@ -13415,19 +13391,7 @@
             "url": "https://animeplay.cloud/anime/kagurabachi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/vYE38d5dcyD0oAGgbtC5slERvM3-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kagurabachi"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kagurabachi"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Haikyuu!! Second Season",
@@ -13435,19 +13399,7 @@
             "url": "https://animeplay.cloud/anime/haikyuu-second-season",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/hLFmFGuu4PApB0s2eF5H5cDCFgT-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "haikyuu-second-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "haikyuu-second-season"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Haikyuu!!",
@@ -13455,19 +13407,7 @@
             "url": "https://animeplay.cloud/anime/haikyuu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/6GvKbKG4hYyUE2P0QXdRCcgW4A8-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "haikyuu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "haikyuu"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Dandelion",
@@ -13475,19 +13415,7 @@
             "url": "https://animeplay.cloud/anime/dandelion",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/ol5mLd4a7oEPEQD6PtaonILToow-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dandelion"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dandelion"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Tsue to Tsurugi no Wistoria 2",
@@ -13495,19 +13423,7 @@
             "url": "https://animeplay.cloud/anime/tsue-to-tsurugi-no-wistoria-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tsue-to-tsurugi-no-wistoria-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tsue-to-tsurugi-no-wistoria-2"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Yozakura-san Chi no Daisakusen 2",
@@ -13515,19 +13431,7 @@
             "url": "https://animeplay.cloud/anime/yozakura-san-chi-no-daisakusen-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/3SE2zjysB2gssErhW2QJ6Lenq5V-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "yozakura-san-chi-no-daisakusen-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yozakura-san-chi-no-daisakusen-2"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Kuroneko to Majo no Kyoushitsu",
@@ -13535,19 +13439,7 @@
             "url": "https://animeplay.cloud/anime/kuroneko-to-majo-no-kyoushitsu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/pcXzTpEwnIkAU9QcJ6UzaAeUzx3-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kuroneko-to-majo-no-kyoushitsu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kuroneko-to-majo-no-kyoushitsu"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Yowayowa Sensei",
@@ -13555,19 +13447,7 @@
             "url": "https://animeplay.cloud/anime/yowayowa-sensei",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/tCiicc9WYg51bgR1kSpwgUq2hiE-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "yowayowa-sensei"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "yowayowa-sensei"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Kill Ao",
@@ -13575,19 +13455,7 @@
             "url": "https://animeplay.cloud/anime/kill-blue",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zPfbiVmr3uzF2tUnlToxmJiWorr-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kill-blue"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kill-blue"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Ichijouma Mankitsugurashi",
@@ -13595,19 +13463,7 @@
             "url": "https://animeplay.cloud/anime/ichijouma-mankitsugurashi",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/xvZh4RscGoAb0ht2oKSXqJ9GGTj-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ichijouma-mankitsugurashi"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "ichijouma-mankitsugurashi"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Hokuto no Ken: Fist of the North Star",
@@ -13615,19 +13471,7 @@
             "url": "https://animeplay.cloud/anime/fist-of-the-north-star-hokuto-no-ken",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/8SRwvqBl3yzhy6PwvZVXy1A14rd-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fist-of-the-north-star-hokuto-no-ken"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fist-of-the-north-star-hokuto-no-ken"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Himekishi wa Barbaroi no Yome",
@@ -13635,19 +13479,7 @@
             "url": "https://animeplay.cloud/anime/himekishi-wa-barbaroi-no-yome",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/dBTihfaorYtEz8fnT8nMITYmQwa-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "himekishi-wa-barbaroi-no-yome"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "himekishi-wa-barbaroi-no-yome"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Awajima Hyakkei",
@@ -13655,19 +13487,7 @@
             "url": "https://animeplay.cloud/anime/a-hundred-scenes-of-awajima",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "a-hundred-scenes-of-awajima"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "a-hundred-scenes-of-awajima"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Kujima Utaeba Ie Hororo",
@@ -13675,19 +13495,7 @@
             "url": "https://animeplay.cloud/anime/kujima-utaeba-ie-hororo",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/agXbnHcwfL0kfh46mjaZbBxKlXQ-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kujima-utaeba-ie-hororo"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kujima-utaeba-ie-hororo"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
@@ -13695,19 +13503,7 @@
             "url": "https://animeplay.cloud/anime/rezero-kara-hajimeru-isekai-seikatsu-4th-season",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/lKFhN97i9Ty1ypmXvB3lcZCBOzi-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Kanojo Okarishimasu 5th Season",
@@ -13715,19 +13511,7 @@
             "url": "https://animeplay.cloud/anime/kanojo-okarishimasu-5th-season",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/nEe6wAxGLgS638FaurerSmA3XUa-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kanojo-okarishimasu-5th-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kanojo-okarishimasu-5th-season"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Otaku ni Yasashii Gal wa Inai!?",
@@ -13735,19 +13519,7 @@
             "url": "https://animeplay.cloud/anime/otaku-ni-yasashii-gal-wa-inai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/bUZFEgXZFe26OhGqrsjGNrTxbmf-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "otaku-ni-yasashii-gal-wa-inai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "otaku-ni-yasashii-gal-wa-inai"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”",
@@ -13755,19 +13527,7 @@
             "url": "https://animeplay.cloud/anime/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/2cZEw2ntVk1lbcs1hqDjudKMzJr-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de"
-              }
-            ]
+            "provider": "aoc"
           }
         ],
         "category": "legendado",
@@ -13795,7 +13555,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781907559515,
+          "lastProbeAt": 1781909741194,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -13828,7 +13588,7 @@
           "fixHint": null
         }
       },
-      "at": 1781907599991
+      "at": 1781909765707
     },
     "legendado|3||120": {
       "data": {
@@ -17804,5 +17564,5 @@
       "at": 1781909004445
     }
   },
-  "updatedAt": 1781909761790
+  "updatedAt": 1781909765707
 }

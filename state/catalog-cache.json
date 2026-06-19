@@ -6915,31 +6915,264 @@
       "data": {
         "items": [
           {
-            "title": "One Piece – Todos os Episodios",
-            "slug": "one-piece",
-            "url": "https://animesonline.cloud/anime/one-piece",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+            "slug": "an-adventurers-daily-grind-at-age-29",
+            "url": "https://animesonline.cloud/anime/an-adventurers-daily-grind-at-age-29",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/cqT49U15uBjkaR8n64rJ2Z9CkIP-185x278.jpg",
+            "rating": "8.2",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "one-piece"
+                "slug": "an-adventurers-daily-grind-at-age-29"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "one-piece"
+                "slug": "an-adventurers-daily-grind-at-age-29"
               }
             ]
           },
           {
-            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
-            "slug": "nageki-no-bourei-wa-intai-shitai",
-            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
-            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "title": "Ace of the Diamond Act II Season 2",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "url": "https://animesonline.cloud/anime/ace-of-the-diamond-act-ii-season-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/2kqZX7OKVHkLm2XmI2AXxAd0MrA-185x278.jpg",
+            "rating": "8",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ace-of-the-diamond-act-ii-season-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ace-of-the-diamond-act-ii-season-2"
+              }
+            ]
+          },
+          {
+            "title": "Aishiteru Game wo Owarasetai",
+            "slug": "aishiteru-game-wo-owarasetai",
+            "url": "https://animeplay.cloud/anime/aishiteru-game-wo-owarasetai",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/kK7T8DcXKWcYfR6Kvy0ouCBjMnU-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "aishiteru-game-wo-owarasetai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "aishiteru-game-wo-owarasetai"
+              }
+            ]
+          },
+          {
+            "title": "Aishiteru Game wo Owarasetai Dublado",
+            "slug": "aishiteru-game-wo-owarasetai-dublado",
+            "url": "https://animesonline.cloud/anime/aishiteru-game-wo-owarasetai-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/kK7T8DcXKWcYfR6Kvy0ouCBjMnU-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "7.5",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "aishiteru-game-wo-owarasetai-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "aishiteru-game-wo-owarasetai-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Akame ga Kill! Dublado",
+            "slug": "akame-ga-kill-dublado",
+            "url": "https://animeplay.cloud/anime/akame-ga-kill-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Akane-banashi",
+            "slug": "akane-banashi",
+            "url": "https://animesonline.cloud/anime/akane-banashi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/9EWwNjZWPeIbPyKeeo5o3grsYW5-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "akane-banashi"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akane-banashi"
+              }
+            ]
+          },
+          {
+            "title": "Akane-banashi Dublado",
+            "slug": "akane-banashi-dublado",
+            "url": "https://animesonline.cloud/anime/akane-banashi-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/2pZB5ThS04YRgHKgxD0mx9tiw5m-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.06",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "akane-banashi-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akane-banashi-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Akujiki Reijou to Kyouketsu Koushaku",
+            "slug": "akujiki-reijou-to-kyouketsu-koushaku",
+            "url": "https://animeplay.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/6E1hsfFlwWr14yxfgmt9Lt7Gjw9-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku"
+              }
+            ]
+          },
+          {
+            "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
+            "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
+            "url": "https://animeplay.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/6E1hsfFlwWr14yxfgmt9Lt7Gjw9-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+            "slug": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+            "url": "https://animesonline.cloud/anime/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/4ylPjOLYz11colsaiyF95JXk7SU-185x278.jpg",
+            "rating": "7.2",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru"
+              }
+            ]
+          },
+          {
+            "title": "Alma-chan wa Kazoku ni Naritai",
+            "slug": "alma-chan-wa-kazoku-ni-naritai",
+            "url": "https://animeplay.cloud/anime/alma-chan-wa-kazoku-ni-naritai",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sal3tEwQCv1Eh9PSMZbMpg8MUqe-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "alma-chan-wa-kazoku-ni-naritai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "alma-chan-wa-kazoku-ni-naritai"
+              }
+            ]
+          },
+          {
+            "title": "Alma-chan wa Kazoku ni Naritai Dublado",
+            "slug": "alma-chan-wa-kazoku-ni-naritai-dublado",
+            "url": "https://animeplay.cloud/anime/alma-chan-wa-kazoku-ni-naritai-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sal3tEwQCv1Eh9PSMZbMpg8MUqe-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "alma-chan-wa-kazoku-ni-naritai-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "alma-chan-wa-kazoku-ni-naritai-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Ame to Kimi to",
+            "slug": "ame-to-kimi-to",
+            "url": "https://animeplay.cloud/anime/ame-to-kimi-to",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/oCzIdh0j3s2Rh0KvfdbQ0MAwnr0-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ame-to-kimi-to"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ame-to-kimi-to"
+              }
+            ]
+          },
+          {
+            "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+            "slug": "does-it-count-if-you-lose-your-virginity-to-an-android",
+            "url": "https://animesonline.cloud/anime/does-it-count-if-you-lose-your-virginity-to-an-android",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/4dfyZ5UZKGuS5Pur5nMqFp6s675-185x278.jpg",
             "rating": "8.6",
             "kind": "anime",
             "provider": "aoc",
@@ -6947,306 +7180,258 @@
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
+                "slug": "does-it-count-if-you-lose-your-virginity-to-an-android"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
+                "slug": "does-it-count-if-you-lose-your-virginity-to-an-android"
               }
             ]
           },
           {
-            "title": "Uzumaki – Todos os Episódios",
-            "slug": "uzumaki",
-            "url": "https://animesonline.cloud/anime/uzumaki",
-            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
-            "rating": "5",
+            "title": "Anne Shirley Dublado",
+            "slug": "anne-shirley-dublado",
+            "url": "https://animeplay.cloud/anime/anne-shirley-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/vYbTMSAwn5YWIbemHhe2jH2iD2h-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "uzumaki"
+                "slug": "anne-shirley-dublado"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "uzumaki"
+                "slug": "anne-shirley-dublado"
               }
             ]
           },
           {
-            "title": "Hitoribocchi no Isekai Kouryaku",
-            "slug": "hitoribocchi-no-isekai-kouryaku",
-            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+            "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga",
+            "url": "https://animeplay.cloud/anime/ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/85YJUtguAWz2mJErJGUI55v26kw-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga"
+              }
+            ]
+          },
+          {
+            "title": "Ao Ashi Dublado",
+            "slug": "ao-ashi-dublado",
+            "url": "https://animeplay.cloud/anime/ao-ashi-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/gmLYJPrOApnCANeKIQczu841krp-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-ashi-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-ashi-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Ao no Miburo 2",
+            "slug": "ao-no-miburo-2",
+            "url": "https://animeplay.cloud/anime/ao-no-miburo-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/2Xl8LDp17ugW9yjWrhZ0nSE6HRj-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ao-no-miburo-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "ao-no-miburo-2"
+              }
+            ]
+          },
+          {
+            "title": "Arknights: Reimei Zensou",
+            "slug": "arknights-reimei-zensou",
+            "url": "https://animeplay.cloud/anime/arknights-reimei-zensou",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/kRaE0uUaINUSFBd14gFSzhzB25l-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arknights-reimei-zensou"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arknights-reimei-zensou"
+              }
+            ]
+          },
+          {
+            "title": "Arne no Jikenbo",
+            "slug": "arne-no-jikenbo",
+            "url": "https://animesonline.cloud/anime/arne-no-jikenbo",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/5RqIzLBLiMxD7KpYpnQP6TNsHOD-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "arne-no-jikenbo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "arne-no-jikenbo"
+              }
+            ]
+          },
+          {
+            "title": "Awajima Hyakkei",
+            "slug": "a-hundred-scenes-of-awajima",
+            "url": "https://animesonline.cloud/anime/a-hundred-scenes-of-awajima",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
             "rating": "7.4",
-            "kind": "anime",
-            "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
+                "slug": "a-hundred-scenes-of-awajima"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
+                "slug": "a-hundred-scenes-of-awajima"
               }
             ]
           },
           {
-            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
-            "slug": "maou-sama-retry",
-            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
-            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
-            "rating": "10",
+            "title": "B.King",
+            "slug": "b-king",
+            "url": "https://animesonline.cloud/anime/b-king",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk-185x278.jpg",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "maou-sama-retry"
+                "slug": "b-king"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "maou-sama-retry"
+                "slug": "b-king"
               }
             ]
           },
           {
-            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
-            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
-            "rating": "6.9",
+            "title": "Bad Girl",
+            "slug": "badgirl",
+            "url": "https://animeplay.cloud/anime/badgirl",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/ovE3txsuLdvpIPWpG4WodlkWXGi-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+                "slug": "badgirl"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+                "slug": "badgirl"
               }
             ]
           },
           {
-            "title": "Shadows House Dublado",
-            "slug": "shadows-house-dublado",
-            "url": "https://animesonline.cloud/anime/shadows-house-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/qZHsA3mIrWmwsQ5xOhjhjrPl7NH-185x278.jpg",
-            "rating": "8.027",
+            "title": "BAKI-DOU",
+            "slug": "baki-dou",
+            "url": "https://animesonline.cloud/anime/baki-dou",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/uFzXLEJpBL4HPc3Wwonl3afoiNY-185x278.jpg",
+            "rating": "8",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "shadows-house-dublado"
+                "slug": "baki-dou"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "shadows-house-dublado"
+                "slug": "baki-dou"
               }
             ]
           },
           {
-            "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
-            "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
-            "url": "https://animesonline.cloud/anime/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/dRBV8LaKwLrIOpa8Ud3ShxWKRnn-185x278.jpg",
-            "rating": "6.74",
+            "title": "BAKI-DOU: O Samurai Invencível Dublado",
+            "slug": "baki-dou-o-samurai-invencivel-dublado",
+            "url": "https://animesonline.cloud/anime/baki-dou-o-samurai-invencivel-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/gIuCoLJSD09qx16FUn2OckjL6CA-185x278.jpg",
+            "rating": "8",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+                "slug": "baki-dou-o-samurai-invencivel-dublado"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season"
+                "slug": "baki-dou-o-samurai-invencivel-dublado"
               }
             ]
           },
           {
-            "title": "Hotaru no Yomeiri",
-            "slug": "hotaru-no-yomeiri",
-            "url": "https://animesonline.cloud/anime/hotaru-no-yomeiri",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ccIPacvHWo4vO55S9PKl0ZWki49-185x278.jpg",
-            "rating": "0",
+            "title": "Beastars 3 Final Season Part 2",
+            "slug": "beastars-3-final-season-part-2",
+            "url": "https://animesonline.cloud/anime/beastars-3-final-season-part-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/l89CHQa5Hwe6qPl1TlGPNo2Kcfr-185x278.jpg",
+            "rating": "8.477",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "hotaru-no-yomeiri"
+                "slug": "beastars-3-final-season-part-2"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "hotaru-no-yomeiri"
-              }
-            ]
-          },
-          {
-            "title": "Lv999 no Murabito",
-            "slug": "lv999-no-murabito",
-            "url": "https://animesonline.cloud/anime/lv999-no-murabito",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/b62MUHX0v8aVVyqH9P0zlEYhf9n-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "lv999-no-murabito"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "lv999-no-murabito"
-              }
-            ]
-          },
-          {
-            "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
-            "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
-            "url": "https://animesonline.cloud/anime/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/sdWNqtcPJpudPItPG3zBdyGyzTH-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
-              }
-            ]
-          },
-          {
-            "title": "Ranma ½ (2024) 3rd Season",
-            "slug": "ranma-½-2024-3rd-season",
-            "url": "https://animesonline.cloud/anime/ranma-%c2%bd-2024-3rd-season",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fSDzEp1RnBhTgyWmOLQoOoo5fdP-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ranma-½-2024-3rd-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "ranma-½-2024-3rd-season"
-              }
-            ]
-          },
-          {
-            "title": "Tougen Anki: Nikko Kegon no Taki-hen",
-            "slug": "tougen-anki-nikko-kegon-no-taki-hen",
-            "url": "https://animesonline.cloud/anime/tougen-anki-nikko-kegon-no-taki-hen",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/dTT6VYgsEWloFOV1nsqibQijQ7c-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tougen-anki-nikko-kegon-no-taki-hen"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tougen-anki-nikko-kegon-no-taki-hen"
-              }
-            ]
-          },
-          {
-            "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-            "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
-            "url": "https://animesonline.cloud/anime/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/svcJyWDhj1STkOTSfxgd2hOvZ0z-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita"
-              }
-            ]
-          },
-          {
-            "title": "Nige Jouzu no Wakagimi 2nd Season",
-            "slug": "nige-jouzu-no-wakagimi-2nd-season",
-            "url": "https://animesonline.cloud/anime/nige-jouzu-no-wakagimi-2nd-season",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oe396waCa3Two9py6FLv6mxKDgh-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nige-jouzu-no-wakagimi-2nd-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nige-jouzu-no-wakagimi-2nd-season"
-              }
-            ]
-          },
-          {
-            "title": "Kimi ga Shinu made Koi wo Shitai",
-            "slug": "kimi-ga-shinu-made-koi-wo-shitai",
-            "url": "https://animesonline.cloud/anime/kimi-ga-shinu-made-koi-wo-shitai",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ff1G9mLkK3Fzb8M1eKKj1lmPoi8-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kimi-ga-shinu-made-koi-wo-shitai"
+                "slug": "beastars-3-final-season-part-2"
               }
             ]
           },
@@ -7255,9 +7440,9 @@
             "slug": "black-torch",
             "url": "https://animesonline.cloud/anime/black-torch",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/wwVm2Mnpm210b5cDpGgwOO96KLg-185x278.jpg",
-            "rating": "0",
             "kind": "anime",
             "provider": "aoc",
+            "rating": "0",
             "animeSources": [
               {
                 "server": 1,
@@ -7272,107 +7457,23 @@
             ]
           },
           {
-            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "url": "https://animesonline.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
-            "rating": "0",
+            "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
+            "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+            "url": "https://animesonline.cloud/anime/bleach-sennen-kessen-hen-soukoku-tan-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/mtbY8EkmzQECgozxBIhIgkjCy3Q-185x278.jpg",
+            "rating": "8.67",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system"
+                "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system"
-              }
-            ]
-          },
-          {
-            "title": "Tenmaku no Jaadugar",
-            "slug": "tenmaku-no-jaadugar",
-            "url": "https://animesonline.cloud/anime/tenmaku-no-jaadugar",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/A62nNZKHo1Ee8AjXHFAu6ykM66F-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tenmaku-no-jaadugar"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tenmaku-no-jaadugar"
-              }
-            ]
-          },
-          {
-            "title": "Sayonara Lara",
-            "slug": "sayonara-lara",
-            "url": "https://animesonline.cloud/anime/sayonara-lara",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1s7wuO2nrL20hD10Y83OpTx3vII-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sayonara-lara"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sayonara-lara"
-              }
-            ]
-          },
-          {
-            "title": "World Is Dancing",
-            "slug": "the-world-is-dancing",
-            "url": "https://animesonline.cloud/anime/the-world-is-dancing",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oOmQf94idSBnDueIrM3FNQy8IXw-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "the-world-is-dancing"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "the-world-is-dancing"
-              }
-            ]
-          },
-          {
-            "title": "Otome Kaijuu Caraméliser",
-            "slug": "otome-kaijuu-carameliser",
-            "url": "https://animesonline.cloud/anime/otome-kaijuu-carameliser",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "otome-kaijuu-carameliser"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "otome-kaijuu-carameliser"
+                "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado"
               }
             ]
           },
@@ -7381,9 +7482,9 @@
             "slug": "blue-lock-3",
             "url": "https://animesonline.cloud/anime/blue-lock-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
-            "rating": "8.045",
             "kind": "anime",
             "provider": "aoc",
+            "rating": "8.045",
             "animeSources": [
               {
                 "server": 1,
@@ -7398,23 +7499,360 @@
             ]
           },
           {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animesonline.cloud/anime/koukaku-kidouta",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
-            "rating": "0",
+            "title": "Blue SWAT",
+            "slug": "blue-swat",
+            "url": "https://animeplay.cloud/anime/blue-swat",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/ve8vUheXC3j9LoaE9UZqiHyTvom-185x278.jpg",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
-                "slug": "koukaku-kidouta"
+                "slug": "blue-swat"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "koukaku-kidouta"
+                "slug": "blue-swat"
+              }
+            ]
+          },
+          {
+            "title": "Bocchi the Rock! Season 2",
+            "slug": "bocchi-the-rock-season-2",
+            "url": "https://animesonline.cloud/anime/bocchi-the-rock-season-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/hwwmH8NINlcC1nq6obL3atz2HDY-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "rating": "8.363",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bocchi-the-rock-season-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bocchi-the-rock-season-2"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia 2",
+            "slug": "boku-no-hero-academia-2",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/7X2NadMlPtDP5kUMUrPKolcJkjf-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-2"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia 3",
+            "slug": "boku-no-hero-academia-3",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-3",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/4ZrHvTWkmp2WTQvQbpibTtku267-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-3"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-3"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia 4",
+            "slug": "boku-no-hero-academia-4",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-4",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/ff2JuH42eVM9GWN794pqh5gAsh2-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-4"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-4"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia 5",
+            "slug": "boku-no-hero-academia-5",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-5",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/xX4aNoeUUJYBbZPLaLLbfuhp8rb-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-5"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-5"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia 6",
+            "slug": "boku-no-hero-academia-6",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-6",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/jd3miN11YtgoWH6sZQmLskEBuUd-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-6"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-6"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia 7",
+            "slug": "boku-no-hero-academia-7",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-7",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/7DkqCkoAtN5nFt0WYSGXOMSQfd8-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "boku-no-hero-academia-7"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "boku-no-hero-academia-7"
+              }
+            ]
+          },
+          {
+            "title": "Boku no Hero Academia: Final Season",
+            "slug": "boku-no-hero-academia-final-season",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-final-season",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Boku no Hero Academia: Final Season Dublado",
+            "slug": "boku-no-hero-academia-final-season-dublado",
+            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-final-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Bucky",
+            "slug": "bucky",
+            "url": "https://animesonline.cloud/anime/bucky",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/iC1E6Vezn96juryDzCY6j0EkXcn-185x278.jpg",
+            "rating": "7.9",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bucky"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bucky"
+              }
+            ]
+          },
+          {
+            "title": "Bukiyou na Senpai",
+            "slug": "bukiyou-na-senpai",
+            "url": "https://animeplay.cloud/anime/bukiyou-na-senpai",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/zp7P3kvhd7tDt8D0v8zjQ8DEadQ-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bukiyou-na-senpai"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bukiyou-na-senpai"
+              }
+            ]
+          },
+          {
+            "title": "Bullet/Bullet",
+            "slug": "bullet-bullet",
+            "url": "https://animeplay.cloud/anime/bullet-bullet",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/cNCGEF7uYm3O82RyszA7QPTsEJ4-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bullet-bullet"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bullet-bullet"
+              }
+            ]
+          },
+          {
+            "title": "Bullet/Bullet Dublado",
+            "slug": "bullet-bullet-dublado",
+            "url": "https://animeplay.cloud/anime/bullet-bullet-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/rA2U4DTb6woaI0ExjCusjx2LMQY-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bullet-bullet-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bullet-bullet-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Busamen Gachi Fighter",
+            "slug": "busamen-gachi-fighter",
+            "url": "https://animeplay.cloud/anime/busamen-gachi-fighter",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/tuOXsK63UNldWDNiWXZrajWRcyL-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "busamen-gachi-fighter"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "busamen-gachi-fighter"
+              }
+            ]
+          },
+          {
+            "title": "Busu ni Hanataba wo.",
+            "slug": "busu-ni-hanataba-wo",
+            "url": "https://animeplay.cloud/anime/busu-ni-hanataba-wo",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/m1OK9bwr1ukQa46QxfzRWIFHQ8L-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "busu-ni-hanataba-wo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "busu-ni-hanataba-wo"
+              }
+            ]
+          },
+          {
+            "title": "Bye Bye, Earth 2 Dublado",
+            "slug": "bye-bye-earth-2-dublado",
+            "url": "https://animeplay.cloud/anime/bye-bye-earth-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/hBsy7irEeiSNRYuNopi2c7qdD4q-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "bye-bye-earth-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "bye-bye-earth-2-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Cat’s Eye",
+            "slug": "cats-eye",
+            "url": "https://animeplay.cloud/anime/cats-eye",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/wg4LPYsGyEfQnCi9otmR41jRDRc-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "cats-eye"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "cats-eye"
+              }
+            ]
+          },
+          {
+            "title": "Cat’s Eye Dublado",
+            "slug": "cats-eye-dublado",
+            "url": "https://animeplay.cloud/anime/cats-eye-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/09/pIHLz3KfZYdc4oGTw5AHHfo7pSb-185x278.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "cats-eye-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "cats-eye-dublado"
               }
             ]
           }
@@ -7422,8 +7860,8 @@
         "category": "todos",
         "page": 1,
         "hasMore": true,
-        "total": 474,
-        "cachedAt": 1781907824840,
+        "total": 476,
+        "cachedAt": 1781910045818,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7443,40 +7881,40 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781909864444,
+          "lastProbeAt": 1781910665715,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
-        "cfBypassConfigured": false,
-        "cfBypassProvider": null,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "zenrows",
         "scrapflyConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
-          "cfBypassConfigured": false,
-          "cfBypassProvider": null,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "zenrows",
           "scrapflyConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1781909866136
+      "at": 1781910668828
     },
     "todos|2||120": {
       "data": {
@@ -26326,5 +26764,5 @@
       "at": 1781910583949
     }
   },
-  "updatedAt": 1781910583949
+  "updatedAt": 1781910668828
 }

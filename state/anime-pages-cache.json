@@ -7364,7 +7364,7 @@
       }
     },
     "kami-no-shizuku": {
-      "at": 1781558590508,
+      "at": 1781909115115,
       "data": {
         "slug": "kami-no-shizuku",
         "title": "Kami no Shizuku",
@@ -7420,9 +7420,14 @@
             "number": 10,
             "title": "Episódio 10 - O grande fluxo do tempo",
             "url": "https://animeplay.cloud/episodio/kami-no-shizuku-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Percorra a estrada longa e árdua.",
+            "url": "https://animeplay.cloud/episodio/kami-no-shizuku-episodio-11"
           }
         ],
-        "totalEpisodes": 10,
+        "totalEpisodes": 11,
         "kind": "anime",
         "provider": "animeplay"
       }

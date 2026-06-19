@@ -15115,6 +15115,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -15132,6 +15137,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -15155,6 +15165,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -15172,6 +15187,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -15195,6 +15215,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -15212,6 +15237,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -15255,6 +15285,11 @@
                 "slug": "spy-x-family-3-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "spy-x-family-3-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "spy-x-family-3-dublado"
@@ -15272,6 +15307,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado"
               },
               {
@@ -15295,6 +15335,11 @@
                 "slug": "chainsaw-man-movie-reze-hen"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "chainsaw-man-movie-reze-hen"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "chainsaw-man-movie-reze-hen"
@@ -15312,6 +15357,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "radiant-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "radiant-2-dublado"
               },
               {
@@ -15335,6 +15385,11 @@
                 "slug": "radiant-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "radiant-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "radiant-2"
@@ -15352,6 +15407,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ganso-bandori-chan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ganso-bandori-chan"
               },
               {
@@ -15375,6 +15435,11 @@
                 "slug": "lets-play-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "lets-play-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "lets-play-dublado"
@@ -15392,6 +15457,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "getter-robo-arc"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "getter-robo-arc"
               },
               {
@@ -15415,6 +15485,11 @@
                 "slug": "wandance-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "wandance-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "wandance-dublado"
@@ -15432,6 +15507,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "witch-watch-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "witch-watch-dublado"
               },
               {
@@ -15455,6 +15535,11 @@
                 "slug": "romantic-killer-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "romantic-killer-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "romantic-killer-dublado"
@@ -15472,6 +15557,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "yamato-yo-towa-ni-rebel-3199"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "yamato-yo-towa-ni-rebel-3199"
               },
               {
@@ -15495,6 +15585,11 @@
                 "slug": "kimi-to-koete-koi-ni-naru"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimi-to-koete-koi-ni-naru"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimi-to-koete-koi-ni-naru"
@@ -15512,6 +15607,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "shingeki-no-bahamut-virgin-soul"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "shingeki-no-bahamut-virgin-soul"
               },
               {
@@ -15535,6 +15635,11 @@
                 "slug": "isekai-quartet-3"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "isekai-quartet-3"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "isekai-quartet-3"
@@ -15552,6 +15657,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "chanto-suenai-kyuuketsuki-chan"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "chanto-suenai-kyuuketsuki-chan"
               },
               {
@@ -15575,6 +15685,11 @@
                 "slug": "gnosia"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "gnosia"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "gnosia"
@@ -15592,6 +15707,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ganglion"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ganglion"
               },
               {
@@ -15615,6 +15735,11 @@
                 "slug": "tensei-akujo-no-kuro-rekishi"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tensei-akujo-no-kuro-rekishi"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tensei-akujo-no-kuro-rekishi"
@@ -15632,6 +15757,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tondemo-skill-de-isekai-hourou-meshi-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tondemo-skill-de-isekai-hourou-meshi-2-dublado"
               },
               {
@@ -15655,6 +15785,11 @@
                 "slug": "wandance"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "wandance"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "wandance"
@@ -15675,6 +15810,11 @@
                 "slug": "tondemo-skill-de-isekai-hourou-meshi-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tondemo-skill-de-isekai-hourou-meshi-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tondemo-skill-de-isekai-hourou-meshi-2"
@@ -15687,7 +15827,27 @@
             "url": "https://animeplay.cloud/anime/chitose-kun-wa-ramune-bin-no-naka",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vtfibksdwu4gdzBhZTFeVdMwCFN-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "chitose-kun-wa-ramune-bin-no-naka"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "chitose-kun-wa-ramune-bin-no-naka"
+              }
+            ]
+          },
+          {
+            "title": "Potion Wagami wo Tasukeru",
+            "slug": "potion-wagami-wo-tasukeru",
+            "url": "https://animesdrive.online/anime/potion-wagami-wo-tasukeru",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/10/9gGvYKJbfvgBDy6yW9yzWMwc1GG-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           },
           {
             "title": "Boku no Hero Academia: Final Season Dublado",
@@ -15723,7 +15883,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781905026790,
+          "lastProbeAt": 1781906342074,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -15756,7 +15916,7 @@
           "fixHint": null
         }
       },
-      "at": 1781905080380
+      "at": 1781906383673
     },
     "todos|12||120": {
       "data": {
@@ -27640,5 +27800,5 @@
       "at": 1781905578498
     }
   },
-  "updatedAt": 1781906379344
+  "updatedAt": 1781906383673
 }

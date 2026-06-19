@@ -7734,6 +7734,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:98036b38-65a9-4acc-b97f-cf2236f2f055": {
+      "userKey": "v:98036b38-65a9-4acc-b97f-cf2236f2f055",
+      "messageId": "1517467174036312075",
+      "channelId": "1510739162116915371",
+      "ip": "162.158.216.108",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #98036B38",
+      "visitorShortId": "98036B38",
+      "lastSeenAt": 1781862767335,
+      "lastAlertAt": 1781862767335,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

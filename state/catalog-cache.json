@@ -22476,6 +22476,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -22493,6 +22498,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -22516,6 +22526,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -22533,6 +22548,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -22556,6 +22576,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -22573,6 +22598,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -22616,6 +22646,11 @@
                 "slug": "dan-da-dan-2-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "dan-da-dan-2-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "dan-da-dan-2-dublado"
@@ -22633,6 +22668,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "dandadan-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "dandadan-2"
               },
               {
@@ -22656,6 +22696,11 @@
                 "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen"
@@ -22673,6 +22718,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "doraemon-o-gato-do-futuro"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "doraemon-o-gato-do-futuro"
               },
               {
@@ -22696,6 +22746,11 @@
                 "slug": "kuroshitsuji-midori-no-majo-hen-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "kuroshitsuji-midori-no-majo-hen-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "kuroshitsuji-midori-no-majo-hen-dublado"
@@ -22713,6 +22768,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "shiunji-ke-no-kodomotachi-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "shiunji-ke-no-kodomotachi-dublado"
               },
               {
@@ -22736,6 +22796,11 @@
                 "slug": "mono-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mono-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mono-dublado"
@@ -22753,6 +22818,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "dragon-ball-daima-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "dragon-ball-daima-dublado"
               },
               {
@@ -22776,6 +22846,11 @@
                 "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru-dublado"
@@ -22793,6 +22868,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "anne-shirley-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "anne-shirley-dublado"
               },
               {
@@ -22816,6 +22896,11 @@
                 "slug": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni-dublado"
@@ -22833,6 +22918,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-dublado"
               },
               {
@@ -22856,6 +22946,11 @@
                 "slug": "bye-bye-earth-2-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "bye-bye-earth-2-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "bye-bye-earth-2-dublado"
@@ -22873,6 +22968,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "enen-no-shouboutai-san-no-shou-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "enen-no-shouboutai-san-no-shou-dublado"
               },
               {
@@ -22896,6 +22996,11 @@
                 "slug": "wind-breaker-2-dublado"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "wind-breaker-2-dublado"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "wind-breaker-2-dublado"
@@ -22913,6 +23018,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "zuoshou-shanglan-left-hand-layup"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "zuoshou-shanglan-left-hand-layup"
               },
               {
@@ -22936,6 +23046,11 @@
                 "slug": "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu"
@@ -22953,6 +23068,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "chao-neng-lifang-chaofan-pian"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "chao-neng-lifang-chaofan-pian"
               },
               {
@@ -22976,6 +23096,11 @@
                 "slug": "sentai-daishikkaku-2"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "sentai-daishikkaku-2"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "sentai-daishikkaku-2"
@@ -22993,6 +23118,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "mono"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "mono"
               },
               {
@@ -23016,6 +23146,11 @@
                 "slug": "mitsudomo-zouryouchuu"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "mitsudomo-zouryouchuu"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "mitsudomo-zouryouchuu"
@@ -23028,7 +23163,27 @@
             "url": "https://animeplay.cloud/anime/moonrise",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/oq0dUN7WJCuzI111CsfzDieMkku-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "moonrise"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "moonrise"
+              }
+            ]
+          },
+          {
+            "title": "Ninja to Koroshiya no Futarigurashi",
+            "slug": "ninja-to-koroshiya-no-futarigurashi",
+            "url": "https://animesdrive.online/anime/ninja-to-koroshiya-no-futarigurashi",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/04/29oiAPdPlANeUyVRVfkX2bFk7fU-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           },
           {
             "title": "Gachiakuta",
@@ -23064,7 +23219,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781905118694,
+          "lastProbeAt": 1781906342074,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -23097,7 +23252,7 @@
           "fixHint": null
         }
       },
-      "at": 1781905132846
+      "at": 1781906425345
     },
     "legendado|1||120": {
       "data": {
@@ -29081,5 +29236,5 @@
       "at": 1781905578498
     }
   },
-  "updatedAt": 1781906420974
+  "updatedAt": 1781906425345
 }

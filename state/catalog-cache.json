@@ -13691,19 +13691,7 @@
             "url": "https://animeplay.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -13711,19 +13699,7 @@
             "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -13731,19 +13707,7 @@
             "url": "https://animeplay.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "uzumaki"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "uzumaki"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -13751,19 +13715,7 @@
             "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -13771,19 +13723,7 @@
             "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "maou-sama-retry"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "maou-sama-retry"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -13791,19 +13731,7 @@
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Ao Ashi Dublado",
@@ -13811,19 +13739,7 @@
             "url": "https://animeplay.cloud/anime/ao-ashi-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/gmLYJPrOApnCANeKIQczu841krp-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ao-ashi-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "ao-ashi-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Futari Solo Camp Dublado",
@@ -13831,19 +13747,7 @@
             "url": "https://animeplay.cloud/anime/futari-solo-camp-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "futari-solo-camp-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "futari-solo-camp-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 Dublado",
@@ -13851,19 +13755,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/lo6vw7VbIX1ScZPAquXvX9RDNE7-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
@@ -13871,19 +13763,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/nVOeDMugEuIzGAeOfVU386bWFKm-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2 Dublado",
@@ -13891,19 +13771,7 @@
             "url": "https://animeplay.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/3Z7T9LxxCC6AhhWUxJsShtV3dXM-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2 Dublado",
@@ -13911,19 +13779,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/ddND31kXTAlBdDQYbUEQJgswcig-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
@@ -13931,19 +13787,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/dx972st0uNycRxZpSmuY8tUQjJR-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Kakkou no Iinazuke 2 Dublado",
@@ -13951,19 +13795,7 @@
             "url": "https://animeplay.cloud/anime/kakkou-no-iinazuke-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/rM44B7aike8mV4eJaE6ekKrCnQS-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kakkou-no-iinazuke-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kakkou-no-iinazuke-2-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze Dublado",
@@ -13971,19 +13803,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/iP17LLR2okmDSVfuOHiq7CuH3om-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
@@ -13991,19 +13811,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/62pWJCjUzOMHExw3uaYfQoeUivP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Jibaku Shounen Hanako-kun 2 Part 2 Dublado",
@@ -14011,19 +13819,7 @@
             "url": "https://animeplay.cloud/anime/jibaku-shounen-hanako-kun-2-part-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/g7arUubV7fNq38SPjmzQkv2hf9s-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jibaku-shounen-hanako-kun-2-part-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jibaku-shounen-hanako-kun-2-part-2-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai Dublado",
@@ -14031,19 +13827,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/uOo7gxGJHQtTHxtaqnx4PILUsre-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Lord Of Mysteries Dublado",
@@ -14051,19 +13835,7 @@
             "url": "https://animeplay.cloud/anime/lord-of-mysteries-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/pAqdKSYnT4AjexO8ykp3RFhExwl-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "lord-of-mysteries-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "lord-of-mysteries-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Tsuyokute New Saga Dublado",
@@ -14071,19 +13843,7 @@
             "url": "https://animeplay.cloud/anime/tsuyokute-new-saga-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/alLLSXrFGG11KGwfvrF8P86SqYO-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tsuyokute-new-saga-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tsuyokute-new-saga-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
@@ -14091,19 +13851,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/gzDrogA6cUXhdUysrXAsDFBVhXx-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Tate no Yuusha no Nariagari 4 Dublado",
@@ -14111,19 +13859,7 @@
             "url": "https://animeplay.cloud/anime/tate-no-yuusha-no-nariagari-4-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/jFkp3lC2HmvIGvEyH2c4GlqruFp-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tate-no-yuusha-no-nariagari-4-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tate-no-yuusha-no-nariagari-4-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Dr. Stone: Science Future 2 Dublado",
@@ -14131,19 +13867,7 @@
             "url": "https://animeplay.cloud/anime/dr-stone-science-future-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/2C7lHKeWY7k1qEtTKecUHuqKv1X-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dr-stone-science-future-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dr-stone-science-future-2-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Nyaight of the Living Cat Dublado",
@@ -14151,19 +13875,7 @@
             "url": "https://animeplay.cloud/anime/nyaight-of-the-living-cat-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/8JGwsqHqdTUQ2z6BpVoI0XsuOQc-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nyaight-of-the-living-cat-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nyaight-of-the-living-cat-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Kanojo Okarishimasu 4th Season Dublado",
@@ -14171,19 +13883,7 @@
             "url": "https://animeplay.cloud/anime/kanojo-okarishimasu-4th-season-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/ie6ErCiZeFrJGswmtVuFbRneXC1-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kanojo-okarishimasu-4th-season-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kanojo-okarishimasu-4th-season-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders Dublado",
@@ -14191,19 +13891,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/f3drdFytkB4WzEbwu63lgFl29Ym-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-dublado"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
@@ -14211,19 +13899,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/32p39EHgqrApp8GdA4QDvpBPuC4-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo no Kimyou na Bouken Dublado (2012)",
@@ -14231,19 +13907,7 @@
             "url": "https://animeplay.cloud/anime/jojo-no-kimyou-na-bouken-dublado-2012",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/okoCuLlbLBUwj4BBWYat3XErP75-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jojo-no-kimyou-na-bouken-dublado-2012"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jojo-no-kimyou-na-bouken-dublado-2012"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "Nukitashi the Animation",
@@ -14251,33 +13915,13 @@
             "url": "https://animeplay.cloud/anime/nukitashi-the-animation",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/zlybZJXfu4IpPnWXhnRtobl9BgZ-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nukitashi-the-animation"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nukitashi-the-animation"
-              }
-            ]
+            "provider": "animeplay"
           },
           {
             "title": "JoJo’s Bizarre Adventure: Adventure (2000)",
             "slug": "jojos-bizarre-adventure-adventure-2000",
             "url": "https://animeplay.cloud/anime/jojos-bizarre-adventure-adventure-2000",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/mzoZz5PuffeacFDGABDUgt9vkHk-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Akame ga Kill! Dublado",
-            "slug": "akame-ga-kill-dublado",
-            "url": "https://animeplay.cloud/anime/akame-ga-kill-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/08/o4SxTlar1YGsKNhBzCxKYDeAPhb-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           }
@@ -14288,7 +13932,7 @@
         "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 476,
+        "total": 475,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -14307,40 +13951,40 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781909864444,
+          "lastProbeAt": 1781910665715,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
-        "cfBypassConfigured": false,
-        "cfBypassProvider": null,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "zenrows",
         "scrapflyConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
-          "cfBypassConfigured": false,
-          "cfBypassProvider": null,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "zenrows",
           "scrapflyConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1781909888782
+      "at": 1781910748221
     },
     "todos|17||120": {
       "data": {
@@ -23162,5 +22806,5 @@
       "at": 1781910583949
     }
   },
-  "updatedAt": 1781910742313
+  "updatedAt": 1781910748221
 }

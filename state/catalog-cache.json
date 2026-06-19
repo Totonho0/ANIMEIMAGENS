@@ -20595,7 +20595,7 @@
         "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
-        "total": 64,
+        "total": 63,
         "cachedAt": 1781739087321,
         "aocCircuitOpen": false,
         "aocReachable": false,
@@ -20614,7 +20614,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781896373312,
+          "lastProbeAt": 1781897017143,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -20647,7 +20647,7 @@
           "fixHint": null
         }
       },
-      "at": 1781896416725
+      "at": 1781897039343
     },
     "legendado|3||120": {
       "data": {
@@ -23357,5 +23357,5 @@
       "at": 1781897031068
     }
   },
-  "updatedAt": 1781897035178
+  "updatedAt": 1781897039343
 }

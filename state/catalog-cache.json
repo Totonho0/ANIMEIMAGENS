@@ -11796,7 +11796,7 @@
         "category": "todos",
         "page": 8,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~21h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 476,
@@ -11818,7 +11818,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781813675271,
+          "lastProbeAt": 1781828079039,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -11851,7 +11851,7 @@
           "fixHint": null
         }
       },
-      "at": 1781813692022
+      "at": 1781828091863
     },
     "todos|9||120": {
       "data": {
@@ -23357,5 +23357,5 @@
       "at": 1781813752073
     }
   },
-  "updatedAt": 1781828087592
+  "updatedAt": 1781828091863
 }

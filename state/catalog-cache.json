@@ -20062,19 +20062,7 @@
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "koukaku-kidouta"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koukaku-kidouta"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
@@ -20140,7 +20128,7 @@
         "category": "legendado",
         "page": 1,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
+        "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 63,
@@ -20162,7 +20150,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781856886578,
+          "lastProbeAt": 1781871290363,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -20195,7 +20183,7 @@
           "fixHint": null
         }
       },
-      "at": 1781856955089
+      "at": 1781871355164
     },
     "legendado|2||120": {
       "data": {
@@ -23369,5 +23357,5 @@
       "at": 1781871351000
     }
   },
-  "updatedAt": 1781871351000
+  "updatedAt": 1781871355164
 }

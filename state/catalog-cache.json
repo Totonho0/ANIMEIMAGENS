@@ -18323,19 +18323,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/weS1dmajxIcgOWPCc2GsjXOsKAG-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "os-policiais-do-futuro"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "cybercop-os-policiais-do-futuro"
-              }
-            ]
+            "isRelease": true
           },
           {
             "title": "Episódio 12",
@@ -18346,29 +18334,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ml3kSfjarzFX1pSFFAki4J9pja9-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "snowball-earth-dublado"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "koori-no-jouheki-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "snowball-earth-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koori-no-jouheki-dublado"
-              }
-            ]
+            "isRelease": true
           },
           {
             "title": "Episódio 11",
@@ -18379,69 +18345,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/5dK2AJHIbAXCxufapqxyhU9m4bO-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kami-no-shizuku"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tensei-shitara-slime-datta-ken-4th-season"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "awajima-hyakkei"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kujima-utaeba-ie-hororo"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "himekishi-wa-barbaroi-no-yome"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kami-no-shizuku"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tensei-shitara-slime-datta-ken-4th-season"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "awajima-hyakkei"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kujima-utaeba-ie-hororo"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "himekishi-wa-barbaroi-no-yome"
-              }
-            ]
+            "isRelease": true
           },
           {
             "title": "Episódio 13",
@@ -18452,34 +18356,18 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/hsknrDS7nbICAySK3hMUD8BBCpu-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hokuto-no-ken-fist-of-the-north-star"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "zetman"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "ganbare-nakamura-kun"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hokuto-no-ken-fist-of-the-north-star"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "zetman"
-              }
-            ]
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "kami-no-shizuku",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/tPYAlsjcn5GNQx5EUPqdTgNrxP2-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
           },
           {
             "title": "Episódio 12",
@@ -18490,99 +18378,95 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/eD9nwldGeeIC7kuXgWcPmJMlzm6-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "snowball-earth"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "reincarnation-no-kaben"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kirio-fanclub"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "haibara-kun-no-tsuyokute-seishun-new-game"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "koori-no-jouheki"
-              },
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "dr-stone-science-future-4-part-3"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "snowball-earth"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "reincarnation-no-kaben"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kirio-fanclub"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "haibara-kun-no-tsuyokute-seishun-new-game"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koori-no-jouheki"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "dr-stone-science-future-4-part-3"
-              }
-            ]
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1y7BjPg5kYGbTQPmln573tvKsJ4-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/aBzNsOBSRznSRB6IowIiHpB1Mct-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "reincarnation-no-kaben",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/reincarnation-no-kaben-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/djc0nITAQfAwmoIJJWjg9wHkDTO-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "kirio-fanclub",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/kirio-fanclub-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/3WUCIVf6t1LRRCn4dLdP8lwkym9-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1at0Q6g7NDmippNQpey4cW6oxDW-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "awajima-hyakkei",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/zun16eoCZzyCyOUYgK6IpzoGYTN-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/l4CHvb43TYAPlMtWu9uh3bLj9Fh-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1f299zZLoAn9QqwpZlyQN0Q2wf0-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
           },
           {
             "title": "Episódio 47",
@@ -18593,19 +18477,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bbDhCf7tthwZqzXXJwGMPNYZP5F-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "kamen-rider-black-rx"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "kamen-rider-black-rx"
-              }
-            ]
+            "isRelease": true
           },
           {
             "title": "Episódio 10",
@@ -18616,19 +18488,29 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/sShC1nf9rHeKyKtvu5jBXhGstO2-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado"
-              }
-            ]
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "koori-no-jouheki-dublado",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/koori-no-jouheki-dublado-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/fsSKO8Rs7rDoUyJbJCSGao0y9sI-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "koori-no-jouheki",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/koori-no-jouheki-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rtvr3gOcanTX0GzWaCz3rvw64B6-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
           },
           {
             "title": "Episódio 9",
@@ -18639,19 +18521,40 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/24vUEoJmlojimiZ655il9XuZ4Ur-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado"
-              }
-            ]
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "dr-stone-science-future-4-part-3",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/rLzwZfWltOhISLBe4fSfkPaqQVi-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "kujima-utaeba-ie-hororo",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/kujima-utaeba-ie-hororo-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vHl3BZQBOXKgMzGStKC5MGI9IB8-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "himekishi-wa-barbaroi-no-yome",
+            "episode": 11,
+            "url": "https://animesonline.cloud/episodio/himekishi-wa-barbaroi-no-yome-episodio-11",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/5tg39zrzYEAJxOyUiVD6k9uwKQg-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
           },
           {
             "title": "Episódio 13",
@@ -18662,26 +18565,25 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/kTgtjLx348jAVq1UklDoQlB2UFl-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true,
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "shadows-house-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "shadows-house-dublado"
-              }
-            ]
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "zetman",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/zetman-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gHWQgVDWoNtelv3SJ81OYfqNLHf-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
-        "total": 67,
-        "cachedAt": 1781907840886,
+        "total": 68,
+        "cachedAt": 1781910395312,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -18701,40 +18603,40 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781909864444,
+          "lastProbeAt": 1781910755716,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
-        "cfBypassConfigured": false,
-        "cfBypassProvider": null,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "zenrows",
         "scrapflyConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
-          "cfBypassConfigured": false,
-          "cfBypassProvider": null,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "zenrows",
           "scrapflyConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1781909896127
+      "at": 1781910777586
     },
     "lancamentos|2||120": {
       "data": {
@@ -21395,5 +21297,5 @@
       "at": 1781910583949
     }
   },
-  "updatedAt": 1781910771713
+  "updatedAt": 1781910777586
 }

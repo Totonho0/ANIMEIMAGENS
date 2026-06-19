@@ -67,7 +67,8 @@
       "slug": "haikyuu-second-season",
       "title": "Haikyuu!! Second Season",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC96cjFNRFFDUFZCNXVKRUh4aU82VHVrbjRPakguanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": false
     },
     "one-piece-dublado": {
       "slug": "one-piece-dublado",
@@ -1357,5 +1358,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781890752302
+  "updatedAt": 1781890801102
 }

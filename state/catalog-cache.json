@@ -20062,7 +20062,19 @@
             "url": "https://animeplay.cloud/anime/koukaku-kidouta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koukaku-kidouta"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koukaku-kidouta"
+              }
+            ]
           },
           {
             "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
@@ -20150,7 +20162,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781894140813,
+          "lastProbeAt": 1781895979544,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -20183,7 +20195,7 @@
           "fixHint": null
         }
       },
-      "at": 1781894164126
+      "at": 1781895995476
     },
     "legendado|2||120": {
       "data": {
@@ -23357,5 +23369,5 @@
       "at": 1781895991352
     }
   },
-  "updatedAt": 1781895991352
+  "updatedAt": 1781895995476
 }

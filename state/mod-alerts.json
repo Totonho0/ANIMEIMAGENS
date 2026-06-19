@@ -7,8 +7,8 @@
       "ip": "177.54.157.16",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1781904459074,
-      "lastAlertAt": 1781904459074,
+      "lastSeenAt": 1781904501549,
+      "lastAlertAt": 1781904501549,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
@@ -7723,6 +7723,25 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": true
+    },
+    "v:78ec1836-9d6f-430c-9feb-8eb87880aca8": {
+      "userKey": "v:78ec1836-9d6f-430c-9feb-8eb87880aca8",
+      "messageId": "1517642214917017671",
+      "channelId": "1510739162116915371",
+      "ip": "67.213.114.77",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #78EC1836",
+      "visitorShortId": "78EC1836",
+      "lastSeenAt": 1781904504381,
+      "lastAlertAt": 1781904500303,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true,
+      "viewingKind": "manga",
+      "viewingTitle": "Monster Musume no Iru Nichijou",
+      "viewingDetail": "Capítulo",
+      "viewingUpdatedAt": 1781904504381
     }
   },
   "links": {

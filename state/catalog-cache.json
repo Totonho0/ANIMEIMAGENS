@@ -10919,14 +10919,20 @@
           {
             "title": "One Piece – Todos os Episodios",
             "slug": "one-piece",
-            "url": "https://animeplay.cloud/anime/one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "one-piece"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "one-piece"
               },
               {
@@ -10939,14 +10945,20 @@
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
             "slug": "nageki-no-bourei-wa-intai-shitai",
-            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.6",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -10959,14 +10971,20 @@
           {
             "title": "Uzumaki – Todos os Episódios",
             "slug": "uzumaki",
-            "url": "https://animeplay.cloud/anime/uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "uzumaki"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "uzumaki"
               },
               {
@@ -10979,14 +10997,20 @@
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
             "slug": "hitoribocchi-no-isekai-kouryaku",
-            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -10999,14 +11023,20 @@
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
             "slug": "maou-sama-retry",
-            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "maou-sama-retry"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "maou-sama-retry"
               },
               {
@@ -11019,14 +11049,20 @@
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -11037,16 +11073,43 @@
             ]
           },
           {
-            "title": "Koori no Jouheki",
-            "slug": "koori-no-jouheki",
-            "url": "https://animeplay.cloud/anime/koori-no-jouheki",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/raUWGUcUQ5W8xi63a22gLhFXn9H-185x278.jpg",
+            "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+            "slug": "meu-anjo-de-vizinha-me-mima-demais",
+            "url": "https://animesonline.cloud/anime/meu-anjo-de-vizinha-me-mima-demais",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/03/hXhtuSNOpOrLV734jPsTRhiuu2C-185x278.jpg",
+            "rating": "7.7",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "meu-anjo-de-vizinha-me-mima-demais"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "meu-anjo-de-vizinha-me-mima-demais"
+              }
+            ]
+          },
+          {
+            "title": "Koori no Jouheki",
+            "slug": "koori-no-jouheki",
+            "url": "https://animesonline.cloud/anime/koori-no-jouheki",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/raUWGUcUQ5W8xi63a22gLhFXn9H-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "koori-no-jouheki"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "koori-no-jouheki"
               },
               {
@@ -11059,14 +11122,20 @@
           {
             "title": "Isekai Nonbiri Nouka 2",
             "slug": "isekai-nonbiri-nouka-2",
-            "url": "https://animeplay.cloud/anime/isekai-nonbiri-nouka-2",
+            "url": "https://animesonline.cloud/anime/isekai-nonbiri-nouka-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/9xpmB050xiiG1OD51Qf7SyUz6MC-185x278.jpg",
+            "rating": "7.585",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "isekai-nonbiri-nouka-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "isekai-nonbiri-nouka-2"
               },
               {
@@ -11079,14 +11148,20 @@
           {
             "title": "Isekai Nonbiri Nouka",
             "slug": "isekai-nonbiri-nouka",
-            "url": "https://animeplay.cloud/anime/isekai-nonbiri-nouka",
+            "url": "https://animesonline.cloud/anime/isekai-nonbiri-nouka",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/mE4pE6NOV3AbvTUE3MkFMlfs12n-185x278.jpg",
+            "rating": "7.585",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "isekai-nonbiri-nouka"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "isekai-nonbiri-nouka"
               },
               {
@@ -11099,14 +11174,20 @@
           {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken Dublado",
             "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado",
-            "url": "https://animeplay.cloud/anime/steel-ball-run-jojo-no-kimyou-na-bouken-dublado",
+            "url": "https://animesonline.cloud/anime/steel-ball-run-jojo-no-kimyou-na-bouken-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/h95Bnxv9I0JQ23YU2HUnzupwNM1-185x278.jpg",
+            "rating": "8.569",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado"
               },
               {
@@ -11119,14 +11200,20 @@
           {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
             "slug": "steel-ball-run-jojo-no-kimyou-na-bouken",
-            "url": "https://animeplay.cloud/anime/steel-ball-run-jojo-no-kimyou-na-bouken",
+            "url": "https://animesonline.cloud/anime/steel-ball-run-jojo-no-kimyou-na-bouken",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/4SSpwZQMbuEurBUgq9r1I8cPlnZ-185x278.jpg",
+            "rating": "8.569",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "steel-ball-run-jojo-no-kimyou-na-bouken"
               },
               {
@@ -11139,14 +11226,20 @@
           {
             "title": "Invencível 4 Dublado",
             "slug": "invencivel-4-dublado",
-            "url": "https://animeplay.cloud/anime/invencivel-4-dublado",
+            "url": "https://animesonline.cloud/anime/invencivel-4-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/2wnNxpeAHxhGVKj3PCyxskRhkbB-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "invencivel-4-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "invencivel-4-dublado"
               },
               {
@@ -11159,14 +11252,20 @@
           {
             "title": "Invencível 4",
             "slug": "invencivel-4",
-            "url": "https://animeplay.cloud/anime/invencivel-4",
+            "url": "https://animesonline.cloud/anime/invencivel-4",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/fopIqWozi4kTGcqKzB2c50wJMjo-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "invencivel-4"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "invencivel-4"
               },
               {
@@ -11179,14 +11278,20 @@
           {
             "title": "Beastars 3 Final Season Part 2",
             "slug": "beastars-3-final-season-part-2",
-            "url": "https://animeplay.cloud/anime/beastars-3-final-season-part-2",
+            "url": "https://animesonline.cloud/anime/beastars-3-final-season-part-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/l89CHQa5Hwe6qPl1TlGPNo2Kcfr-185x278.jpg",
+            "rating": "8.477",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "beastars-3-final-season-part-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "beastars-3-final-season-part-2"
               },
               {
@@ -11199,14 +11304,20 @@
           {
             "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
             "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
-            "url": "https://animeplay.cloud/anime/bleach-sennen-kessen-hen-soukoku-tan-dublado",
+            "url": "https://animesonline.cloud/anime/bleach-sennen-kessen-hen-soukoku-tan-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/mtbY8EkmzQECgozxBIhIgkjCy3Q-185x278.jpg",
+            "rating": "8.67",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado"
               },
               {
@@ -11219,14 +11330,20 @@
           {
             "title": "Niwatori Fighter Dublado",
             "slug": "niwatori-fighter-dublado",
-            "url": "https://animeplay.cloud/anime/niwatori-fighter-dublado",
+            "url": "https://animesonline.cloud/anime/niwatori-fighter-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/ybfC20URnOX3LWhnTUgNblVooRz-185x278.jpg",
+            "rating": "6.79",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "niwatori-fighter-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "niwatori-fighter-dublado"
               },
               {
@@ -11239,14 +11356,20 @@
           {
             "title": "Niwatori Fighter",
             "slug": "niwatori-fighter",
-            "url": "https://animeplay.cloud/anime/niwatori-fighter",
+            "url": "https://animesonline.cloud/anime/niwatori-fighter",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/iCtbr0sIdaKZjhQH3Wr7hW6A1IU-185x278.jpg",
+            "rating": "6.79",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "niwatori-fighter"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "niwatori-fighter"
               },
               {
@@ -11259,14 +11382,20 @@
           {
             "title": "Tsuki ga Michibiku Isekai Douchuu 2",
             "slug": "tsuki-ga-michibiku-isekai-douchuu-2",
-            "url": "https://animeplay.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-2",
+            "url": "https://animesonline.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/eIYnc17e05YDdAAghZCvySg5mr-185x278.jpg",
+            "rating": "8.4",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tsuki-ga-michibiku-isekai-douchuu-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tsuki-ga-michibiku-isekai-douchuu-2"
               },
               {
@@ -11279,14 +11408,20 @@
           {
             "title": "Bucky",
             "slug": "bucky",
-            "url": "https://animeplay.cloud/anime/bucky",
+            "url": "https://animesonline.cloud/anime/bucky",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/iC1E6Vezn96juryDzCY6j0EkXcn-185x278.jpg",
+            "rating": "7.9",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "bucky"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "bucky"
               },
               {
@@ -11299,14 +11434,20 @@
           {
             "title": "Fangkai Nage Nuwu",
             "slug": "fangkai-nage-nuwu",
-            "url": "https://animeplay.cloud/anime/fangkai-nage-nuwu",
+            "url": "https://animesonline.cloud/anime/fangkai-nage-nuwu",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/aALqEgghYorHOwR5pgeCq9YMrjj-185x278.jpg",
+            "rating": "8",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "fangkai-nage-nuwu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "fangkai-nage-nuwu"
               },
               {
@@ -11319,8 +11460,9 @@
           {
             "title": "BAKI-DOU",
             "slug": "baki-dou",
-            "url": "https://animeplay.cloud/anime/baki-dou",
+            "url": "https://animesonline.cloud/anime/baki-dou",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/uFzXLEJpBL4HPc3Wwonl3afoiNY-185x278.jpg",
+            "rating": "8",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
@@ -11330,43 +11472,34 @@
                 "slug": "baki-dou"
               },
               {
-                "server": 3,
-                "provider": "animeplay",
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "baki-dou"
-              }
-            ]
-          },
-          {
-            "title": "B.King",
-            "slug": "b-king",
-            "url": "https://animeplay.cloud/anime/b-king",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk-185x278.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "b-king"
               },
               {
                 "server": 3,
                 "provider": "animeplay",
-                "slug": "b-king"
+                "slug": "baki-dou"
               }
             ]
           },
           {
             "title": "BAKI-DOU: O Samurai Invencível Dublado",
             "slug": "baki-dou-o-samurai-invencivel-dublado",
-            "url": "https://animeplay.cloud/anime/baki-dou-o-samurai-invencivel-dublado",
+            "url": "https://animesonline.cloud/anime/baki-dou-o-samurai-invencivel-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/gIuCoLJSD09qx16FUn2OckjL6CA-185x278.jpg",
+            "rating": "8",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "baki-dou-o-samurai-invencivel-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "baki-dou-o-samurai-invencivel-dublado"
               },
               {
@@ -11377,16 +11510,48 @@
             ]
           },
           {
-            "title": "Tsuki ga Michibiku Isekai Douchuu Dublado",
-            "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado",
-            "url": "https://animeplay.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/vMwcGYuTtvvD7KUU2TOFknJkT1H-185x278.jpg",
+            "title": "B.King",
+            "slug": "b-king",
+            "url": "https://animesonline.cloud/anime/b-king",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk-185x278.jpg",
+            "rating": "7.3",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "b-king"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "b-king"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "b-king"
+              }
+            ]
+          },
+          {
+            "title": "Tsuki ga Michibiku Isekai Douchuu Dublado",
+            "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado",
+            "url": "https://animesonline.cloud/anime/tsuki-ga-michibiku-isekai-douchuu-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/vMwcGYuTtvvD7KUU2TOFknJkT1H-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado"
               },
               {
@@ -11399,14 +11564,20 @@
           {
             "title": "Gavan Infinity",
             "slug": "gavan-infinity",
-            "url": "https://animeplay.cloud/anime/gavan-infinity",
+            "url": "https://animesonline.cloud/anime/gavan-infinity",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/uuOQP0RfdpuQ3H8IpuI38c4Hk6C-185x278.jpg",
+            "rating": "8.4",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "gavan-infinity"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "gavan-infinity"
               },
               {
@@ -11419,14 +11590,20 @@
           {
             "title": "Sousou no Friere 2 Dublado",
             "slug": "sousou-no-friere-2-dublado",
-            "url": "https://animeplay.cloud/anime/sousou-no-friere-2-dublado",
+            "url": "https://animesonline.cloud/anime/sousou-no-friere-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
+            "rating": "8.921",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "sousou-no-friere-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "sousou-no-friere-2-dublado"
               },
               {
@@ -11439,14 +11616,20 @@
           {
             "title": "Trigun Stargaze Dublado",
             "slug": "trigun-stargaze-dublado",
-            "url": "https://animeplay.cloud/anime/trigun-stargaze-dublado",
+            "url": "https://animesonline.cloud/anime/trigun-stargaze-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/9Ou2dUJY9qmkOHX8x3Pk3al3EDz-185x278.jpg",
+            "rating": "7.309",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "trigun-stargaze-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "trigun-stargaze-dublado"
               },
               {
@@ -11459,14 +11642,20 @@
           {
             "title": "Jigokuraku 2 Dublado",
             "slug": "jigokuraku-2-dublado",
-            "url": "https://animeplay.cloud/anime/jigokuraku-2-dublado",
+            "url": "https://animesonline.cloud/anime/jigokuraku-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/nanYJccQsftI3fLNkNYJ5zv2QTD-185x278.jpg",
+            "rating": "8.1",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "jigokuraku-2-dublado"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "jigokuraku-2-dublado"
               },
               {
@@ -11479,14 +11668,20 @@
           {
             "title": "Meitantei Precure!",
             "slug": "meitantei-precure",
-            "url": "https://animeplay.cloud/anime/meitantei-precure",
+            "url": "https://animesonline.cloud/anime/meitantei-precure",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc",
             "animeSources": [
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "meitantei-precure"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "meitantei-precure"
               },
               {
@@ -11499,28 +11694,20 @@
           {
             "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node Dublado",
             "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
-            "url": "https://animeplay.cloud/anime/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/nH6Ch1q5rwdRs56bYTA9wuOhfbL-185x278.jpg",
+            "url": "https://animesdrive.online/anime/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/01/nH6Ch1q5rwdRs56bYTA9wuOhfbL-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
-            "slug": "meu-anjo-de-vizinha-me-mima-demais",
-            "url": "https://animeplay.cloud/anime/meu-anjo-de-vizinha-me-mima-demais",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/hXhtuSNOpOrLV734jPsTRhiuu2C-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
+            "provider": "animesdrive"
           }
         ],
         "category": "todos",
         "page": 6,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~2d) — em modo cache; tentando reconectar.",
+        "warning": "Listagem em cache — atualizando em segundo plano.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 476,
-        "cachedAt": 1781739087321,
+        "cachedAt": 1781905761541,
         "aocCircuitOpen": false,
         "aocReachable": false,
         "aocCircuit": {
@@ -11538,7 +11725,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781905026790,
+          "lastProbeAt": 1781906342074,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -11571,7 +11758,7 @@
           "fixHint": null
         }
       },
-      "at": 1781905055867
+      "at": 1781906361911
     },
     "todos|7||120": {
       "data": {
@@ -26755,5 +26942,5 @@
       "at": 1781905578498
     }
   },
-  "updatedAt": 1781906357548
+  "updatedAt": 1781906361911
 }

@@ -10569,19 +10569,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
             "rating": "8.8",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "one-piece"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "one-piece"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
@@ -10590,19 +10578,7 @@
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
             "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "nageki-no-bourei-wa-intai-shitai"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Uzumaki – Todos os Episódios",
@@ -10611,19 +10587,7 @@
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
             "rating": "5",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "uzumaki"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "uzumaki"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
@@ -10632,19 +10596,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
             "rating": "7.4",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "hitoribocchi-no-isekai-kouryaku"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
@@ -10653,19 +10605,7 @@
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
             "rating": "10",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "maou-sama-retry"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "maou-sama-retry"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
@@ -10674,19 +10614,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
             "rating": "6.9",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
@@ -10695,19 +10623,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/hXhtuSNOpOrLV734jPsTRhiuu2C-185x278.jpg",
             "rating": "7.7",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "meu-anjo-de-vizinha-me-mima-demais"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "meu-anjo-de-vizinha-me-mima-demais"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Koori no Jouheki",
@@ -10716,19 +10632,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/raUWGUcUQ5W8xi63a22gLhFXn9H-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "koori-no-jouheki"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "koori-no-jouheki"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Isekai Nonbiri Nouka 2",
@@ -10737,19 +10641,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/9xpmB050xiiG1OD51Qf7SyUz6MC-185x278.jpg",
             "rating": "7.585",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "isekai-nonbiri-nouka-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "isekai-nonbiri-nouka-2"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Isekai Nonbiri Nouka",
@@ -10758,19 +10650,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/mE4pE6NOV3AbvTUE3MkFMlfs12n-185x278.jpg",
             "rating": "7.585",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "isekai-nonbiri-nouka"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "isekai-nonbiri-nouka"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken Dublado",
@@ -10779,19 +10659,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/h95Bnxv9I0JQ23YU2HUnzupwNM1-185x278.jpg",
             "rating": "8.569",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
@@ -10800,19 +10668,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/4SSpwZQMbuEurBUgq9r1I8cPlnZ-185x278.jpg",
             "rating": "8.569",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "steel-ball-run-jojo-no-kimyou-na-bouken"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Invencível 4 Dublado",
@@ -10821,19 +10677,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/2wnNxpeAHxhGVKj3PCyxskRhkbB-185x278.jpg",
             "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "invencivel-4-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "invencivel-4-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Invencível 4",
@@ -10842,19 +10686,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/fopIqWozi4kTGcqKzB2c50wJMjo-185x278.jpg",
             "rating": "8.6",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "invencivel-4"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "invencivel-4"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Beastars 3 Final Season Part 2",
@@ -10863,19 +10695,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/l89CHQa5Hwe6qPl1TlGPNo2Kcfr-185x278.jpg",
             "rating": "8.477",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "beastars-3-final-season-part-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "beastars-3-final-season-part-2"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Bleach: Sennen Kessen Hen – Soukoku Tan Dublado",
@@ -10884,19 +10704,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/mtbY8EkmzQECgozxBIhIgkjCy3Q-185x278.jpg",
             "rating": "8.67",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Niwatori Fighter Dublado",
@@ -10905,19 +10713,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/ybfC20URnOX3LWhnTUgNblVooRz-185x278.jpg",
             "rating": "6.79",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "niwatori-fighter-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "niwatori-fighter-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Niwatori Fighter",
@@ -10926,19 +10722,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/iCtbr0sIdaKZjhQH3Wr7hW6A1IU-185x278.jpg",
             "rating": "6.79",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "niwatori-fighter"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "niwatori-fighter"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Tsuki ga Michibiku Isekai Douchuu 2",
@@ -10947,19 +10731,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/eIYnc17e05YDdAAghZCvySg5mr-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tsuki-ga-michibiku-isekai-douchuu-2"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tsuki-ga-michibiku-isekai-douchuu-2"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Bucky",
@@ -10968,19 +10740,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/iC1E6Vezn96juryDzCY6j0EkXcn-185x278.jpg",
             "rating": "7.9",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "bucky"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "bucky"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Fangkai Nage Nuwu",
@@ -10989,19 +10749,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/aALqEgghYorHOwR5pgeCq9YMrjj-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "fangkai-nage-nuwu"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "fangkai-nage-nuwu"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "BAKI-DOU",
@@ -11010,19 +10758,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/uFzXLEJpBL4HPc3Wwonl3afoiNY-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "baki-dou"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "baki-dou"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "BAKI-DOU: O Samurai Invencível Dublado",
@@ -11031,19 +10767,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/gIuCoLJSD09qx16FUn2OckjL6CA-185x278.jpg",
             "rating": "8",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "baki-dou-o-samurai-invencivel-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "baki-dou-o-samurai-invencivel-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "B.King",
@@ -11052,19 +10776,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk-185x278.jpg",
             "rating": "7.3",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "b-king"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "b-king"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Tsuki ga Michibiku Isekai Douchuu Dublado",
@@ -11073,19 +10785,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/vMwcGYuTtvvD7KUU2TOFknJkT1H-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "tsuki-ga-michibiku-isekai-douchuu-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Gavan Infinity",
@@ -11094,19 +10794,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/uuOQP0RfdpuQ3H8IpuI38c4Hk6C-185x278.jpg",
             "rating": "8.4",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "gavan-infinity"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "gavan-infinity"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Sousou no Friere 2 Dublado",
@@ -11115,19 +10803,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mV2L9VUhWbrKZpFCpfHKBUw3C9u-185x278.jpg",
             "rating": "8.921",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "sousou-no-friere-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "sousou-no-friere-2-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Trigun Stargaze Dublado",
@@ -11136,19 +10812,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/9Ou2dUJY9qmkOHX8x3Pk3al3EDz-185x278.jpg",
             "rating": "7.309",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "trigun-stargaze-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "trigun-stargaze-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Jigokuraku 2 Dublado",
@@ -11157,19 +10821,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/nanYJccQsftI3fLNkNYJ5zv2QTD-185x278.jpg",
             "rating": "8.1",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "jigokuraku-2-dublado"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "jigokuraku-2-dublado"
-              }
-            ]
+            "provider": "aoc"
           },
           {
             "title": "Meitantei Precure!",
@@ -11178,19 +10830,7 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD-185x278.jpg",
             "rating": "0",
             "kind": "anime",
-            "provider": "aoc",
-            "animeSources": [
-              {
-                "server": 1,
-                "provider": "aoc",
-                "slug": "meitantei-precure"
-              },
-              {
-                "server": 3,
-                "provider": "animeplay",
-                "slug": "meitantei-precure"
-              }
-            ]
+            "provider": "aoc"
           }
         ],
         "category": "todos",
@@ -11218,40 +10858,40 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781909864444,
+          "lastProbeAt": 1781910665715,
           "lastProbeOk": false,
           "cookieOnly": true
         },
         "cookieConfigured": true,
         "proxyConfigured": false,
-        "cfBypassConfigured": false,
-        "cfBypassProvider": null,
+        "cfBypassConfigured": true,
+        "cfBypassProvider": "zenrows",
         "scrapflyConfigured": false,
         "bypassConfigured": true,
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
         "mediaAccess": {
           "cookieConfigured": true,
           "proxyConfigured": false,
-          "cfBypassConfigured": false,
-          "cfBypassProvider": null,
+          "cfBypassConfigured": true,
+          "cfBypassProvider": "zenrows",
           "scrapflyConfigured": false,
           "bypassConfigured": true,
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1781909873673
+      "at": 1781910689535
     },
     "todos|7||120": {
       "data": {
@@ -26717,5 +26357,5 @@
       "at": 1781910583949
     }
   },
-  "updatedAt": 1781910683660
+  "updatedAt": 1781910689535
 }

@@ -7487,7 +7487,7 @@
       }
     },
     "hokuto-no-ken-fist-of-the-north-star-dublado": {
-      "at": 1781558586654,
+      "at": 1781909111094,
       "data": {
         "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
         "title": "Hokuto no Ken: Fist of the North Star Dublado",
@@ -7689,7 +7689,7 @@
       }
     },
     "a-hundred-scenes-of-awajima": {
-      "at": 1781558592850,
+      "at": 1781909110217,
       "data": {
         "slug": "a-hundred-scenes-of-awajima",
         "title": "A Hundred Scenes of AWAJIMA",
@@ -7745,9 +7745,14 @@
             "number": 10,
             "title": "Episódio 10 - Shinji Hasegawa e Utako Natsuki / Filha de Fumiko Shiro / Katsurako Ibuki e Emi Okabe",
             "url": "https://animeplay.cloud/episodio/awajima-hyakkei-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Emi Okabe e Katsurako Ibuki",
+            "url": "https://animeplay.cloud/episodio/awajima-hyakkei-episodio-11"
           }
         ],
-        "totalEpisodes": 10,
+        "totalEpisodes": 11,
         "kind": "anime",
         "provider": "animeplay"
       }

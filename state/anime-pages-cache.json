@@ -19969,6 +19969,97 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado": {
+      "at": 1781898106580,
+      "data": {
+        "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado",
+        "title": "Jujutsu Kaisen 3rd Season",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9uSUhwNmZ6Mk1YMzNibEpLWWE5QlNiaGN0N1cuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Execução",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Mais uma vez",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Sobre a Migração à Extinção",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Preparação Perfeita",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Paixão",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Engrenagem",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-06-2"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - A primeira colônia de Tóquio - 1",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - A primeira colônia de Tóquio - 2",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Colônia Tóquio No. 1 (3)",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Colônia de Tóquio nº 1 (4)",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - A primeira colônia de Tóquio - 5",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Colônia Sendai",
+            "url": "https://animeplay.cloud/episodio/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay",
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen",
+              "title": "Jujutsu Kaisen: Shimetsu Kaiyuu – Zenpen",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "jujutsu-kaisen-shimetsu-kaiyuu-zenpen-dublado",
+              "title": "Jujutsu Kaisen: Shimetsu Kaiyuu – Zenpen Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }

@@ -22806,10 +22806,22 @@
             "slug": "ganbare-nakamura-kun-dublado",
             "episode": 13,
             "url": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-dublado-episodio-13",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gU5MNyDRj1SzD2aRa8R0lBZrNTX-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/kTgtjLx348jAVq1UklDoQlB2UFl-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ganbare-nakamura-kun-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "shadows-house-dublado"
+              }
+            ]
           },
           {
             "title": "Episódio 11",
@@ -22828,10 +22840,22 @@
             "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
             "episode": 9,
             "url": "https://animesonline.cloud/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wjml6oyw8Ae4AMHAUJamvFusYEt-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/24vUEoJmlojimiZ655il9XuZ4Ur-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado"
+              }
+            ]
           },
           {
             "title": "Episódio 8",
@@ -22862,10 +22886,27 @@
             "slug": "ganbare-nakamura-kun",
             "episode": 13,
             "url": "https://animesonline.cloud/episodio/ganbare-nakamura-kun-episodio-13",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/gU5MNyDRj1SzD2aRa8R0lBZrNTX-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/hsknrDS7nbICAySK3hMUD8BBCpu-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "ganbare-nakamura-kun"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "hokuto-no-ken-fist-of-the-north-star"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "zetman"
+              }
+            ]
           },
           {
             "title": "Episódio 12",
@@ -22873,10 +22914,62 @@
             "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
             "episode": 12,
             "url": "https://animesonline.cloud/episodio/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/eylYh8PRc86PUBsVKCO1p9p4025-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/eD9nwldGeeIC7kuXgWcPmJMlzm6-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
-            "isRelease": true
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "snowball-earth"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "reincarnation-no-kaben"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kirio-fanclub"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "haibara-kun-no-tsuyokute-seishun-new-game"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koori-no-jouheki"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "dr-stone-science-future-4-part-3"
+              }
+            ]
           },
           {
             "title": "Episódio 11",
@@ -22884,7 +22977,7 @@
             "slug": "otaku-ni-yasashii-gal-wa-inai",
             "episode": 11,
             "url": "https://animesonline.cloud/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/fshdevblozgyL5TRiIeMcunCPBF-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/5dK2AJHIbAXCxufapqxyhU9m4bO-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true,
@@ -22953,6 +23046,36 @@
                 "server": 1,
                 "provider": "aoc",
                 "slug": "isekai-nonbiri-nouka-2"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kami-no-shizuku"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "tensei-shitara-slime-datta-ken-4th-season"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "awajima-hyakkei"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "kujima-utaeba-ie-hororo"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "himekishi-wa-barbaroi-no-yome"
               }
             ]
           },
@@ -22995,9 +23118,59 @@
             "slug": "tongari-boushi-no-atelier-dublado",
             "episode": 12,
             "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/t3AbhAvDBvnMmhsUsDYSMd7tE9s-300x170.jpg",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ml3kSfjarzFX1pSFFAki4J9pja9-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
+            "isRelease": true,
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tongari-boushi-no-atelier-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "snowball-earth-dublado"
+              },
+              {
+                "server": 3,
+                "provider": "animeplay",
+                "slug": "koori-no-jouheki-dublado"
+              }
+            ]
+          },
+          {
+            "title": "Episódio 34",
+            "epTitle": "Episódio 34",
+            "slug": "cybercop-os-policiais-do-futuro",
+            "episode": 34,
+            "url": "https://animeplay.cloud/episodio/cybercop-os-policiais-do-futuro-episodio-34",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/weS1dmajxIcgOWPCc2GsjXOsKAG-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 47",
+            "epTitle": "Episódio 47",
+            "slug": "kamen-rider-black-rx",
+            "episode": 47,
+            "url": "https://animeplay.cloud/episodio/kamen-rider-black-rx-episodio-47",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bbDhCf7tthwZqzXXJwGMPNYZP5F-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+            "episode": 10,
+            "url": "https://animeplay.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-10",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/sShC1nf9rHeKyKtvu5jBXhGstO2-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
             "isRelease": true
           }
         ],
@@ -23026,7 +23199,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781898421351,
+          "lastProbeAt": 1781904674598,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -23059,7 +23232,7 @@
           "fixHint": null
         }
       },
-      "at": 1781898430879
+      "at": 1781904703861
     },
     "lancamentos|2||120": {
       "data": {
@@ -23341,5 +23514,5 @@
       "at": 1781898435044
     }
   },
-  "updatedAt": 1781904697681
+  "updatedAt": 1781904703861
 }

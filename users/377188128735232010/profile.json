@@ -800,7 +800,7 @@
     "the-exiled-heavy-knight-knows-how-to-game-the-system": {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
       "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvb3VsTURJT0pCb0ZxTXZNNUZrdTVYS2F6WUdYLTE4NXgyNzguanBn",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvb3VsTURJT0pCb0ZxTXZNNUZrdTVYS2F6WUdYLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
     },
@@ -1411,5 +1411,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781907522884
+  "updatedAt": 1781907532556
 }

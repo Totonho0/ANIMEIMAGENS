@@ -10317,7 +10317,7 @@
       }
     },
     "aishiteru-game-wo-owarasetai": {
-      "at": 1781559352808,
+      "at": 1781909011488,
       "data": {
         "slug": "aishiteru-game-wo-owarasetai",
         "title": "Aishiteru Game wo Owarasetai",
@@ -10368,9 +10368,14 @@
             "number": 9,
             "title": "Episódio 09 - Meu amigo de infância se torna meu aprendiz?",
             "url": "https://animeplay.cloud/episodio/aishiteru-game-wo-owarasetai-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Meu amigo de infância é imparável",
+            "url": "https://animeplay.cloud/episodio/aishiteru-game-wo-owarasetai-episodio-10"
           }
         ],
-        "totalEpisodes": 9,
+        "totalEpisodes": 10,
         "kind": "anime",
         "provider": "animeplay"
       }

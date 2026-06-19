@@ -8309,7 +8309,7 @@
       }
     },
     "tongari-boushi-no-atelier-dublado": {
-      "at": 1781558634601,
+      "at": 1781909130787,
       "data": {
         "slug": "tongari-boushi-no-atelier-dublado",
         "title": "Tongari Boushi no Atelier Dublado",
@@ -8370,9 +8370,14 @@
             "number": 11,
             "title": "Episódio 11 - Teste da Caverna das Costas da Serpente",
             "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - À sombra de Lomonorn",
+            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-12"
           }
         ],
-        "totalEpisodes": 11,
+        "totalEpisodes": 12,
         "kind": "anime",
         "provider": "animeplay"
       }

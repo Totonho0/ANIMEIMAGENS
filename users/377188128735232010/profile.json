@@ -901,6 +901,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvMUpXNmh4N3NBVTFxUnBZU3hYcFliOUIyeGFHLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "an-adventurers-daily-grind-at-age-29": {
+      "slug": "an-adventurers-daily-grind-at-age-29",
+      "title": "An Adventurer's Daily Grind at Age 29",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9BamNVV1dCNjB6RU9FNnhHQTlyRDJpZEpEMmYuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1301,48 +1308,51 @@
     ],
     "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": [
       1
+    ],
+    "an-adventurers-daily-grind-at-age-29": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781894109617
+      "at": 1781898074361
     },
     {
       "slug": "haikyuu-second-season",
@@ -1371,5 +1381,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781894183617
+  "updatedAt": 1781898118609
 }

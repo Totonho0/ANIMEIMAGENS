@@ -20836,6 +20836,11 @@
                 "slug": "one-piece"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "one-piece"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "one-piece"
@@ -20853,6 +20858,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "nageki-no-bourei-wa-intai-shitai"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "nageki-no-bourei-wa-intai-shitai"
               },
               {
@@ -20876,6 +20886,11 @@
                 "slug": "uzumaki"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "uzumaki"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "uzumaki"
@@ -20893,6 +20908,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hitoribocchi-no-isekai-kouryaku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hitoribocchi-no-isekai-kouryaku"
               },
               {
@@ -20916,6 +20936,11 @@
                 "slug": "maou-sama-retry"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "maou-sama-retry"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "maou-sama-retry"
@@ -20933,6 +20958,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2"
               },
               {
@@ -20976,6 +21006,11 @@
                 "slug": "nyaight-of-the-living-cat"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "nyaight-of-the-living-cat"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "nyaight-of-the-living-cat"
@@ -20993,6 +21028,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "busamen-gachi-fighter"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "busamen-gachi-fighter"
               },
               {
@@ -21016,6 +21056,11 @@
                 "slug": "isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku"
@@ -21033,6 +21078,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ruri-no-houseki"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ruri-no-houseki"
               },
               {
@@ -21056,6 +21106,11 @@
                 "slug": "hotel-inhumans"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "hotel-inhumans"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "hotel-inhumans"
@@ -21073,6 +21128,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "hikaru-ga-shinda-natsu"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "hikaru-ga-shinda-natsu"
               },
               {
@@ -21096,6 +21156,11 @@
                 "slug": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai"
@@ -21113,6 +21178,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ultraman-omega"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ultraman-omega"
               },
               {
@@ -21136,6 +21206,11 @@
                 "slug": "badgirl"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "badgirl"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "badgirl"
@@ -21153,6 +21228,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "ame-to-kimi-to"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "ame-to-kimi-to"
               },
               {
@@ -21176,6 +21256,11 @@
                 "slug": "fermat-no-ryouri"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "fermat-no-ryouri"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "fermat-no-ryouri"
@@ -21193,6 +21278,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "the-shy-hero-and-the-assassin-princesses"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "the-shy-hero-and-the-assassin-princesses"
               },
               {
@@ -21216,6 +21306,11 @@
                 "slug": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru"
@@ -21233,6 +21328,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "kaoru-hana-wa-rin-to-saku"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "kaoru-hana-wa-rin-to-saku"
               },
               {
@@ -21256,6 +21356,11 @@
                 "slug": "yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru"
@@ -21273,6 +21378,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "silverhawks"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "silverhawks"
               },
               {
@@ -21296,6 +21406,11 @@
                 "slug": "arknights-reimei-zensou"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "arknights-reimei-zensou"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "arknights-reimei-zensou"
@@ -21313,6 +21428,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "watari-kun-no-xx-ga-houkai-sunzen"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "watari-kun-no-xx-ga-houkai-sunzen"
               },
               {
@@ -21336,6 +21456,11 @@
                 "slug": "busu-ni-hanataba-wo"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "busu-ni-hanataba-wo"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "busu-ni-hanataba-wo"
@@ -21353,6 +21478,11 @@
               {
                 "server": 1,
                 "provider": "aoc",
+                "slug": "the-water-magician"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
                 "slug": "the-water-magician"
               },
               {
@@ -21376,6 +21506,11 @@
                 "slug": "tsuihousha-shokudou-e-youkoso"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tsuihousha-shokudou-e-youkoso"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "tsuihousha-shokudou-e-youkoso"
@@ -21396,6 +21531,11 @@
                 "slug": "onmyo-kaiten-rebirth-verse"
               },
               {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "onmyo-kaiten-rebirth-verse"
+              },
+              {
                 "server": 3,
                 "provider": "animeplay",
                 "slug": "onmyo-kaiten-rebirth-verse"
@@ -21408,7 +21548,27 @@
             "url": "https://animeplay.cloud/anime/tsuyokute-new-saga",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/07/7WAVcPVqdLK9whw75A7z6qeiuCg-185x278.jpg",
             "kind": "anime",
-            "provider": "aoc"
+            "provider": "aoc",
+            "animeSources": [
+              {
+                "server": 1,
+                "provider": "aoc",
+                "slug": "tsuyokute-new-saga"
+              },
+              {
+                "server": 2,
+                "provider": "animesdrive",
+                "slug": "tsuyokute-new-saga"
+              }
+            ]
+          },
+          {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha Dublado",
+            "slug": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "url": "https://animesdrive.online/anime/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+            "poster": "https://animesdrive.online/wp-content/uploads/2025/07/tJCR0g2EvVQ8V0laox1HB7Up9DS-185x278.jpg",
+            "kind": "anime",
+            "provider": "animesdrive"
           },
           {
             "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!",
@@ -21444,7 +21604,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781905118694,
+          "lastProbeAt": 1781906342074,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -21477,7 +21637,7 @@
           "fixHint": null
         }
       },
-      "at": 1781905122399
+      "at": 1781906416584
     },
     "todos|19||120": {
       "data": {
@@ -28761,5 +28921,5 @@
       "at": 1781905578498
     }
   },
-  "updatedAt": 1781906412103
+  "updatedAt": 1781906416584
 }

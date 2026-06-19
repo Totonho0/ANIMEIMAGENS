@@ -7752,11 +7752,15 @@
       "username": "",
       "displayName": "Visitante #C5E92BC3",
       "visitorShortId": "C5E92BC3",
-      "lastSeenAt": 1781904513159,
-      "lastAlertAt": 1781904509550,
+      "lastSeenAt": 1781904515576,
+      "lastAlertAt": 1781904515576,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "manga",
+      "viewingTitle": "monster-musume-no-iru-nichijou",
+      "viewingDetail": "Capítulo",
+      "viewingUpdatedAt": 1781904515576
     }
   },
   "links": {

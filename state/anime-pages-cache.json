@@ -22858,6 +22858,75 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "replica-datte-koi-wo-suru": {
+      "at": 1781909134784,
+      "data": {
+        "slug": "replica-datte-koi-wo-suru",
+        "title": "Even a Replica Can Fall in Love",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81aUdVZXhiMkU2S3llcG1qRWVsRVI4bXJ0MGcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Uma Réplica Nunca Sonha",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Replica Skips School",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - As réplicas são enganosas",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - A réplica está chorando.",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Uma Réplica dos Sonhos",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A réplica treme",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Vou procurar uma réplica.",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - As réplicas estão distorcidas.",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Uma réplica está desprovida de",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Uma réplica tropeça",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - A réplica parte em uma jornada.",
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-11"
+          }
+        ],
+        "totalEpisodes": 11,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

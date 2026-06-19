@@ -937,6 +937,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvMXM3d3VPMm5yTDIwaEQxMFk4M09wVHgzdklJLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "replica-datte-koi-wo-suru": {
+      "slug": "replica-datte-koi-wo-suru",
+      "title": "Even a Replica Can Fall in Love",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC81aUdVZXhiMkU2S3llcG1qRWVsRVI4bXJ0MGcuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1358,48 +1365,51 @@
     ],
     "tensei-shitara-slime-datta-ken-4th-season": [
       11
+    ],
+    "replica-datte-koi-wo-suru": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781910425169
+      "at": 1781910499369
     },
     {
       "slug": "haikyuu-second-season",
@@ -1428,5 +1438,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781910428147
+  "updatedAt": 1781910509847
 }

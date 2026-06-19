@@ -61,8 +61,7 @@
       "slug": "one-piece",
       "title": "One Piece",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8ycm1LN21uY2h3OVhyM1hkaVRGU3hUVExYcXYuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "haikyuu-second-season": {
       "slug": "haikyuu-second-season",
@@ -895,6 +894,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nbzF4NFFkWGs5MGkycEhIQmZvZHNPQktuMFguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "otome-kaijuu-carameliser": {
+      "slug": "otome-kaijuu-carameliser",
+      "title": "Otome Kaijuu Caraméliser",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvMUpXNmh4N3NBVTFxUnBZU3hYcFliOUIyeGFHLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1289,48 +1295,51 @@
     ],
     "ganbare-nakamura-kun-dublado": [
       13
+    ],
+    "otome-kaijuu-carameliser": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "one-piece",
       "ep": 884,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "niwatori-fighter-dublado",
       "ep": 1,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "stranger-things-historias-de-85-dublado",
       "ep": 1,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "akane-banashi",
       "ep": 1,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "marriagetoxin-dublado",
       "ep": 1,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "haikyuu-dublado",
       "ep": 1,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "kami-no-niwatsuki-kusunoki-tei",
       "ep": 1,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
       "ep": 1,
-      "at": 1781890977296
+      "at": 1781894109617
     },
     {
       "slug": "haikyuu-second-season",
@@ -1359,5 +1368,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781890984259
+  "updatedAt": 1781894125417
 }

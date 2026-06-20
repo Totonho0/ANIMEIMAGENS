@@ -8080,6 +8080,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:94ed25bc-aed0-4848-aa26-48c383b1899c": {
+      "userKey": "v:94ed25bc-aed0-4848-aa26-48c383b1899c",
+      "messageId": "1517802356111052861",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.217.56",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #94ED25BC",
+      "visitorShortId": "94ED25BC",
+      "lastSeenAt": 1781942680963,
+      "lastAlertAt": 1781942680963,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

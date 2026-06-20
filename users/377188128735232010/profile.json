@@ -1018,6 +1018,9 @@
     "one-piece": [
       1,
       884
+    ],
+    "seikon-no-qwaser": [
+      1
     ]
   },
   "started": {
@@ -1426,6 +1429,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "seikon-no-qwaser",
+      "ep": 1,
+      "at": 1781988034599
+    },
+    {
       "slug": "one-piece",
       "ep": 884,
       "at": 1781914933595
@@ -1492,5 +1500,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781987923757
+  "updatedAt": 1781988034701
 }

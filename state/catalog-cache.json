@@ -18102,7 +18102,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781986886663
+      "at": 1781987411586
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -18305,7 +18305,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781987005045
+      "at": 1781987408061
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781987005313
+      "at": 1781987409700
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20189,7 +20189,512 @@
         "partnerId": "animeplay"
       },
       "at": 1781974839228
+    },
+    "partner:animesdigital|todos|1||24": {
+      "data": {
+        "items": [
+          {
+            "title": "a familia dracula",
+            "slug": "a-familia-dracula",
+            "url": "https://animesdigital.org/anime/a/a-familia-dracula",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "yumekui merry",
+            "slug": "yumekui-merry",
+            "url": "https://animesdigital.org/anime/a/yumekui-merry",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ah megami sama",
+            "slug": "ah-megami-sama",
+            "url": "https://animesdigital.org/anime/a/ah-megami-sama",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "agent aika",
+            "slug": "agent-aika",
+            "url": "https://animesdigital.org/anime/a/agent-aika",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "abenobashi mahou shoutengai",
+            "slug": "abenobashi-mahou-shoutengai",
+            "url": "https://animesdigital.org/anime/a/abenobashi-mahou-shoutengai",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "abarenbou kishi matsutarou",
+            "slug": "abarenbou-kishi-matsutarou",
+            "url": "https://animesdigital.org/anime/a/abarenbou-kishi-matsutarou",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ai tenchi muyo",
+            "slug": "ai-tenchi-muyo",
+            "url": "https://animesdigital.org/anime/a/ai-tenchi-muyo",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ai yori aoshi enishi",
+            "slug": "ai-yori-aoshi-enishi",
+            "url": "https://animesdigital.org/anime/a/ai-yori-aoshi-enishi",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "aikatsu",
+            "slug": "aikatsu",
+            "url": "https://animesdigital.org/anime/a/aikatsu",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ajin 2",
+            "slug": "ajin-2",
+            "url": "https://animesdigital.org/anime/a/ajin-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "akahori gedou hour love game",
+            "slug": "akahori-gedou-hour-love-game",
+            "url": "https://animesdigital.org/anime/a/akahori-gedou-hour-love-game",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "akai koudan zillion",
+            "slug": "akai-koudan-zillion",
+            "url": "https://animesdigital.org/anime/a/akai-koudan-zillion",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "akame ga kill",
+            "slug": "akame-ga-kill",
+            "url": "https://animesdigital.org/anime/a/akame-ga-kill",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "akaneiro ni somaru saka",
+            "slug": "akaneiro-ni-somaru-saka",
+            "url": "https://animesdigital.org/anime/a/akaneiro-ni-somaru-saka",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "aku no hana",
+            "slug": "aku-no-hana",
+            "url": "https://animesdigital.org/anime/a/aku-no-hana",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "akuma no riddle",
+            "slug": "akuma-no-riddle",
+            "url": "https://animesdigital.org/anime/a/akuma-no-riddle",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "allison to lillia",
+            "slug": "allison-to-lillia",
+            "url": "https://animesdigital.org/anime/a/allison-to-lillia",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "amaenaideyo katsu",
+            "slug": "amaenaideyo-katsu",
+            "url": "https://animesdigital.org/anime/a/amaenaideyo-katsu",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "amaenaideyo",
+            "slug": "amaenaideyo",
+            "url": "https://animesdigital.org/anime/a/amaenaideyo",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "amagami ss plus",
+            "slug": "amagami-ss-plus",
+            "url": "https://animesdigital.org/anime/a/amagami-ss-plus",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "amatsuki",
+            "slug": "amatsuki",
+            "url": "https://animesdigital.org/anime/a/amatsuki",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ame iro cocoa",
+            "slug": "ame-iro-cocoa",
+            "url": "https://animesdigital.org/anime/a/ame-iro-cocoa",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ame iro cocoa 2",
+            "slug": "ame-iro-cocoa-2",
+            "url": "https://animesdigital.org/anime/a/ame-iro-cocoa-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ange vierge",
+            "slug": "ange-vierge",
+            "url": "https://animesdigital.org/anime/a/ange-vierge",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 1,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1781987408382
+    },
+    "partner:animesdigital|lancamentos|1||24": {
+      "data": {
+        "items": [
+          {
+            "title": "Ichijouma Mankitsugurashi!",
+            "slug": "assistir-ichijouma-mankitsugurashi!",
+            "url": "https://animesdigital.org/video/a/136692/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ichijouma-Mankitsugurashi.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Yuusha no Kuzu",
+            "slug": "assistir-yuusha-no-kuzu",
+            "url": "https://animesdigital.org/video/a/136691/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Yuusha-no-KuzuEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Needy Girl Overdose",
+            "slug": "assistir-needy-girl-overdose",
+            "url": "https://animesdigital.org/video/a/136690/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Needy-Girl-OverdoseEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Kami no Niwatsuki Kusunoki-tei",
+            "slug": "assistir-kami-no-niwatsuki-kusunoki-tei",
+            "url": "https://animesdigital.org/video/a/136688/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kami-no-Niwatsuki-Kusunoki-teiEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Shunkashuutou Daikousha: Haru no Mai",
+            "slug": "assistir-shunkashuutou-daikousha:-haru-no-mai",
+            "url": "https://animesdigital.org/video/a/136687/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/assistir-shunkashuutou-daikousha-haru-no-mai-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Kanan-sama wa Akumade Choroi",
+            "slug": "assistir-kanan-sama-wa-akumade-choroi",
+            "url": "https://animesdigital.org/video/a/136686/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kanan-sama-wa-Akumade-ChoroiEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Yomi no Tsugai",
+            "slug": "assistir-yomi-no-tsugai",
+            "url": "https://animesdigital.org/video/a/136685/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-TsugaiEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Kill Ao",
+            "slug": "assistir-kill-ao",
+            "url": "https://animesdigital.org/video/a/136684/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kill-Ao.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Yowayowa Sensei",
+            "slug": "assistir-yowayowa-sensei",
+            "url": "https://animesdigital.org/video/a/136683/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yowayowa-Sensei.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Mahou no Shimai Lulutto Lilly",
+            "slug": "assistir-mahou-no-shimai-lulutto-lilly",
+            "url": "https://animesdigital.org/video/a/136680/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/assistir-mahou-no-shimai-lulutto-lilly-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Lord of Mysteries [ESPECIAL]",
+            "slug": "assistir-lord-of-mysteries-[especial]",
+            "url": "https://animesdigital.org/video/a/136678/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2025/06/assistir-lord-of-mysteries-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "lancamentos",
+        "page": 1,
+        "hasMore": false,
+        "partnerId": "animesdigital"
+      },
+      "at": 1781987409067
+    },
+    "partner:animesdigital|todos|2||24": {
+      "data": {
+        "items": [
+          {
+            "title": "angel links",
+            "slug": "angel-links",
+            "url": "https://animesdigital.org/anime/a/angel-links",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "animatrix",
+            "slug": "animatrix",
+            "url": "https://animesdigital.org/anime/a/animatrix",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "anitore xx",
+            "slug": "anitore-xx",
+            "url": "https://animesdigital.org/anime/a/anitore-xx",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "anne happy",
+            "slug": "anne-happy",
+            "url": "https://animesdigital.org/anime/a/anne-happy",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "aoharu x kikanjuu",
+            "slug": "aoharu-x-kikanjuu",
+            "url": "https://animesdigital.org/anime/a/aoharu-x-kikanjuu",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "aria the origination",
+            "slug": "aria-the-origination",
+            "url": "https://animesdigital.org/anime/a/aria-the-origination",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ashita no joe 2",
+            "slug": "ashita-no-joe-2",
+            "url": "https://animesdigital.org/anime/a/ashita-no-joe-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "ashita no joe",
+            "slug": "ashita-no-joe",
+            "url": "https://animesdigital.org/anime/a/ashita-no-joe",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "asura cryin",
+            "slug": "asura-cryin",
+            "url": "https://animesdigital.org/anime/a/asura-cryin",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "asura cryin 2",
+            "slug": "asura-cryin-2",
+            "url": "https://animesdigital.org/anime/a/asura-cryin-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "atelier escha e logy alchemists of the dusk sky",
+            "slug": "atelier-escha-e-logy-alchemists-of-the-dusk-sky",
+            "url": "https://animesdigital.org/anime/a/atelier-escha-e-logy-alchemists-of-the-dusk-sky",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bakugan1",
+            "slug": "bakugan1",
+            "url": "https://animesdigital.org/anime/a/bakugan1",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bakugan3",
+            "slug": "bakugan3",
+            "url": "https://animesdigital.org/anime/a/bakugan3",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bluedragondublado",
+            "slug": "bluedragondublado",
+            "url": "https://animesdigital.org/anime/a/bluedragondublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bleach",
+            "slug": "bleach",
+            "url": "https://animesdigital.org/anime/a/bleach",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "beyblade",
+            "slug": "beyblade",
+            "url": "https://animesdigital.org/anime/a/beyblade",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "beybladeburst",
+            "slug": "beybladeburst",
+            "url": "https://animesdigital.org/anime/a/beybladeburst",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "beybladegrevolution",
+            "slug": "beybladegrevolution",
+            "url": "https://animesdigital.org/anime/a/beybladegrevolution",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "beyblademetalfusion",
+            "slug": "beyblademetalfusion",
+            "url": "https://animesdigital.org/anime/a/beyblademetalfusion",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "beyblade v force",
+            "slug": "beyblade-v-force",
+            "url": "https://animesdigital.org/anime/a/beyblade-v-force",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bernardjouiwaku",
+            "slug": "bernardjouiwaku",
+            "url": "https://animesdigital.org/anime/a/bernardjouiwaku",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "i chu halfway through the idol",
+            "slug": "i-chu-halfway-through-the-idol",
+            "url": "https://animesdigital.org/anime/a/i-chu-halfway-through-the-idol",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "inazuma eleven go galaxy",
+            "slug": "inazuma-eleven-go-galaxy",
+            "url": "https://animesdigital.org/anime/a/inazuma-eleven-go-galaxy",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia filme futari no hero",
+            "slug": "boku-no-hero-academia-filme-futari-no-hero",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-filme-futari-no-hero",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 2,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1781987410150
     }
   },
-  "updatedAt": 1781987005313
+  "updatedAt": 1781987411586
 }

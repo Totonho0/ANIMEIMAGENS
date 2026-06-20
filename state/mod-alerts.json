@@ -8046,10 +8046,10 @@
       "displayName": "Visitante #F9B69F2C",
       "visitorShortId": "F9B69F2C",
       "lastSeenAt": 1781940747108,
-      "lastAlertAt": 1781940727216,
+      "lastAlertAt": 1781941065663,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:a542953b-4d9b-46c2-b865-b565fe848875": {
       "userKey": "v:a542953b-4d9b-46c2-b865-b565fe848875",
@@ -8061,10 +8061,10 @@
       "displayName": "Visitante #A542953B",
       "visitorShortId": "A542953B",
       "lastSeenAt": 1781940729984,
-      "lastAlertAt": 1781940729984,
+      "lastAlertAt": 1781941065663,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:c0341243-398a-4e6b-af00-2a6761de8d5a": {
       "userKey": "v:c0341243-398a-4e6b-af00-2a6761de8d5a",
@@ -8076,10 +8076,10 @@
       "displayName": "Visitante #C0341243",
       "visitorShortId": "C0341243",
       "lastSeenAt": 1781940730140,
-      "lastAlertAt": 1781940730140,
+      "lastAlertAt": 1781941065663,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

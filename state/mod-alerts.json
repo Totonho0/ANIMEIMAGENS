@@ -8046,10 +8046,10 @@
       "displayName": "Visitante #F9B69F2C",
       "visitorShortId": "F9B69F2C",
       "lastSeenAt": 1781942598241,
-      "lastAlertAt": 1781942598241,
+      "lastAlertAt": 1781943015904,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:a542953b-4d9b-46c2-b865-b565fe848875": {
       "userKey": "v:a542953b-4d9b-46c2-b865-b565fe848875",
@@ -8091,10 +8091,10 @@
       "displayName": "Visitante #94ED25BC",
       "visitorShortId": "94ED25BC",
       "lastSeenAt": 1781942680963,
-      "lastAlertAt": 1781942680963,
+      "lastAlertAt": 1781943015904,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

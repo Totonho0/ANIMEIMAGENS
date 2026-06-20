@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781989096456
+      "at": 1781990284147
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20391,7 +20391,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1781989095006
+      "at": 1781990282803
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -20490,7 +20490,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1781989095646
+      "at": 1781990283446
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20899,5 +20899,5 @@
       "at": 1781988736963
     }
   },
-  "updatedAt": 1781990280910
+  "updatedAt": 1781990284147
 }

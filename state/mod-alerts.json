@@ -6130,25 +6130,6 @@
       "viewingDetail": "Episódio 01 - Força! Nakamura-kun! / Aula de culinária super emocionante!",
       "viewingUpdatedAt": 1781745539717
     },
-    "v:99797481-1f0c-4b8a-9406-76a30ded8ef4": {
-      "userKey": "v:99797481-1f0c-4b8a-9406-76a30ded8ef4",
-      "messageId": "1516990515088851005",
-      "channelId": "1510739162116915371",
-      "ip": "172.71.184.42",
-      "discordId": "",
-      "username": "",
-      "lastSeenAt": 1781749122964,
-      "lastAlertAt": 1781749459474,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #99797481",
-      "visitorShortId": "99797481",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:4471e7db-b249-421e-bcc5-13b4bf452041": {
       "userKey": "v:4471e7db-b249-421e-bcc5-13b4bf452041",
       "messageId": "1517011128431935618",
@@ -7878,13 +7859,17 @@
       "ip": "172.71.184.42",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #19535391",
-      "visitorShortId": "19535391",
       "lastSeenAt": 1781914912755,
       "lastAlertAt": 1781914912755,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "viaBot": true,
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #19535391",
+      "visitorShortId": "19535391",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

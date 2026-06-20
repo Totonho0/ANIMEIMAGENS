@@ -23557,6 +23557,92 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "seikon-no-qwaser-ii": {
+      "at": 1781987421297,
+      "data": {
+        "slug": "seikon-no-qwaser-ii",
+        "title": "Seikon No Qwaser II - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zZWlrb24tbm8tcXdhc2VyLWlpLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Seikon No Qwaser II Episódio 01 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24419/",
+            "videoId": "24419"
+          },
+          {
+            "number": 2,
+            "title": "Seikon No Qwaser II Episódio 02 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24418/",
+            "videoId": "24418"
+          },
+          {
+            "number": 3,
+            "title": "Seikon No Qwaser II Episódio 03 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24417/",
+            "videoId": "24417"
+          },
+          {
+            "number": 4,
+            "title": "Seikon No Qwaser II Episódio 04 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24416/",
+            "videoId": "24416"
+          },
+          {
+            "number": 5,
+            "title": "Seikon No Qwaser II Episódio 05 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24415/",
+            "videoId": "24415"
+          },
+          {
+            "number": 6,
+            "title": "Seikon No Qwaser II Episódio 06 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24414/",
+            "videoId": "24414"
+          },
+          {
+            "number": 7,
+            "title": "Seikon No Qwaser II Episódio 07 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24413/",
+            "videoId": "24413"
+          },
+          {
+            "number": 8,
+            "title": "Seikon No Qwaser II Episódio 08 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24412/",
+            "videoId": "24412"
+          },
+          {
+            "number": 9,
+            "title": "Seikon No Qwaser II Episódio 09 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24411/",
+            "videoId": "24411"
+          },
+          {
+            "number": 10,
+            "title": "Seikon No Qwaser II Episódio 10 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24410/",
+            "videoId": "24410"
+          },
+          {
+            "number": 11,
+            "title": "Seikon No Qwaser II Episódio 11 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24409/",
+            "videoId": "24409"
+          },
+          {
+            "number": 12,
+            "title": "Seikon No Qwaser II Episódio 12 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/24408/",
+            "videoId": "24408"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
     }
   }
 }

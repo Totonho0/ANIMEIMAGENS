@@ -18102,7 +18102,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781988716662
+      "at": 1781988736739
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781988716319
+      "at": 1781988736429
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -18775,7 +18775,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781986780481
+      "at": 1781988739923
     },
     "partner:animeplay|todos|4||24": {
       "data": {
@@ -20490,7 +20490,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1781988716325
+      "at": 1781988736436
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20693,8 +20693,211 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1781988716668
+      "at": 1781988736746
+    },
+    "partner:animesdigital|todos|3||24": {
+      "data": {
+        "items": [
+          {
+            "title": "bokunhaiksk",
+            "slug": "bokunhaiksk",
+            "url": "https://animesdigital.org/anime/a/bokunhaiksk",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero filme ascensao dos herois",
+            "slug": "boku-no-hero-filme-ascensao-dos-herois",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-filme-ascensao-dos-herois",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-filme-ascensao-dos-herois-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia dublado",
+            "slug": "boku-no-hero-academia-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 2 dublado",
+            "slug": "boku-no-hero-academia-2-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-2-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-2-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 3 dublado",
+            "slug": "boku-no-hero-academia-3-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-3-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-3-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 4 dublado",
+            "slug": "boku-no-hero-academia-4-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-4-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-4-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "boku no hero academia 5 dublado",
+            "slug": "boku-no-hero-academia-5-dublado",
+            "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-5-dublado",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-5-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "18if",
+            "slug": "18if",
+            "url": "https://animesdigital.org/anime/a/18if",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-18if-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "cardfightvanguardgz",
+            "slug": "cardfightvanguardgz",
+            "url": "https://animesdigital.org/anime/a/cardfightvanguardgz",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-cardfight-vanguard-g-z-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hack legend of the twilight",
+            "slug": "hack-legend-of-the-twilight",
+            "url": "https://animesdigital.org/anime/a/hack-legend-of-the-twilight",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-hack-legend-of-the-twilight-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hack liminality",
+            "slug": "hack-liminality",
+            "url": "https://animesdigital.org/anime/a/hack-liminality",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-hack-liminality-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "hack quantum",
+            "slug": "hack-quantum",
+            "url": "https://animesdigital.org/anime/a/hack-quantum",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-hack-quantum-todos-os-episodios-online-animesdigital.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "7 seeds",
+            "slug": "7-seeds",
+            "url": "https://animesdigital.org/anime/a/7-seeds",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "22 7",
+            "slug": "22-7",
+            "url": "https://animesdigital.org/anime/a/22-7",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "100 man no inochi no ue ni ore wa tatteiru",
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+            "url": "https://animesdigital.org/anime/a/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bloodivores",
+            "slug": "bloodivores",
+            "url": "https://animesdigital.org/anime/a/bloodivores",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bang dream 2nd season",
+            "slug": "bang-dream-2nd-season",
+            "url": "https://animesdigital.org/anime/a/bang-dream-2nd-season",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bang dream 3",
+            "slug": "bang-dream-3",
+            "url": "https://animesdigital.org/anime/a/bang-dream-3",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bangdreamgarupapicooomori",
+            "slug": "bangdreamgarupapicooomori",
+            "url": "https://animesdigital.org/anime/a/bangdreamgarupapicooomori",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "bprojectkodouambitious",
+            "slug": "bprojectkodouambitious",
+            "url": "https://animesdigital.org/anime/a/bprojectkodouambitious",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "babysteps",
+            "slug": "babysteps",
+            "url": "https://animesdigital.org/anime/a/babysteps-todos-os-episodios",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "baby steps 2",
+            "slug": "baby-steps-2",
+            "url": "https://animesdigital.org/anime/a/baby-steps-2",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "100 man no inochi no ue ni ore wa tatteiru dublado",
+            "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-dublado",
+            "url": "https://animesdigital.org/anime/a/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-dublado",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "sadsadsadfff",
+            "slug": "sadsadsadfff",
+            "url": "https://animesdigital.org/anime/a/sadsadsadfff",
+            "poster": null,
+            "kind": "anime",
+            "provider": "animesdigital"
+          }
+        ],
+        "category": "todos",
+        "page": 3,
+        "hasMore": true,
+        "partnerId": "animesdigital"
+      },
+      "at": 1781988736963
     }
   },
-  "updatedAt": 1781988733997
+  "updatedAt": 1781988739923
 }

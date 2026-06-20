@@ -8005,6 +8005,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:56800580-5df4-469f-b0d9-cc31cb175d3a": {
+      "userKey": "v:56800580-5df4-469f-b0d9-cc31cb175d3a",
+      "messageId": "1517772448861392927",
+      "channelId": "1510739162116915371",
+      "ip": "74.80.182.93",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #56800580",
+      "visitorShortId": "56800580",
+      "lastSeenAt": 1781935550551,
+      "lastAlertAt": 1781935550551,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -8871,11 +8871,15 @@
       "username": "",
       "displayName": "Visitante #9386EF13",
       "visitorShortId": "9386EF13",
-      "lastSeenAt": 1781986262506,
-      "lastAlertAt": 1781986260888,
+      "lastSeenAt": 1781986278150,
+      "lastAlertAt": 1781986278150,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

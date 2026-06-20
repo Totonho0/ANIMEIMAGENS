@@ -7930,6 +7930,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:24655282-84f6-4660-a76d-c9533673be04": {
+      "userKey": "v:24655282-84f6-4660-a76d-c9533673be04",
+      "messageId": "1517727707708915804",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.223.139",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #24655282",
+      "visitorShortId": "24655282",
+      "lastSeenAt": 1781924883401,
+      "lastAlertAt": 1781924883401,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

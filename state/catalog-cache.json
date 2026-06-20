@@ -18533,11 +18533,55 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781973413544
+      "at": 1781976149938
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "yomi-no-tsugai",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/72gZFDiTNjxC4bvOczEoGx0kGgm-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "kanan-sama-wa-akumade-choroi",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fDPKeHJ9tb38b7oDMZImuVpwGIr-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "episode": 8,
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-08",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/yXPMZFEjGXESGhKAqRWrnRGaSmJ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 7",
+            "epTitle": "Episódio 7",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "episode": 7,
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-07",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/edUKB10nnw9BBK0dyoJNiAlSR56-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 13",
             "epTitle": "Episódio 13",
@@ -18757,50 +18801,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1f299zZLoAn9QqwpZlyQN0Q2wf0-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 47",
-            "epTitle": "Episódio 47",
-            "slug": "kamen-rider-black-rx",
-            "episode": 47,
-            "url": "https://animeplay.cloud/episodio/kamen-rider-black-rx-episodio-47",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bbDhCf7tthwZqzXXJwGMPNYZP5F-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "episode": 10,
-            "url": "https://animeplay.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-10",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/sShC1nf9rHeKyKtvu5jBXhGstO2-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "koori-no-jouheki-dublado",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/koori-no-jouheki-dublado-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fsSKO8Rs7rDoUyJbJCSGao0y9sI-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -18808,7 +18808,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781973414991
+      "at": 1781976151366
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20419,5 +20419,5 @@
       "at": 1781974839228
     }
   },
-  "updatedAt": 1781974839228
+  "updatedAt": 1781976151366
 }

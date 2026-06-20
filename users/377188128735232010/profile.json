@@ -979,6 +979,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zZWlrb24tbm8tcXdhc2VyLWlpLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
       "kind": "anime",
       "adult": false
+    },
+    "ishuzoku-reviewers": {
+      "slug": "ishuzoku-reviewers",
+      "title": "Ishuzoku Reviewers",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xaHlwaUZjMXVXR2h4MlRzVTJENWZaNEV2N1kuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1425,6 +1432,9 @@
     ],
     "seikon-no-qwaser-ii": [
       1
+    ],
+    "ishuzoku-reviewers": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1500,5 +1510,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781988034701
+  "updatedAt": 1781988222835
 }

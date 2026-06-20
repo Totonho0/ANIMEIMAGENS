@@ -972,6 +972,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmVjYy50by93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNi96dWp3NVpNcFhETlJDTUFuTFdhaXRZb2NlRzQuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "seikon-no-qwaser-ii": {
+      "slug": "seikon-no-qwaser-ii",
+      "title": "Seikon No Qwaser II - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1zZWlrb24tbm8tcXdhc2VyLWlpLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1412,6 +1419,9 @@
     "seikon-no-qwaser": [
       1,
       2
+    ],
+    "seikon-no-qwaser-ii": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1482,5 +1492,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781987735088
+  "updatedAt": 1781987832019
 }

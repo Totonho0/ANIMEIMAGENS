@@ -965,6 +965,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qc2xrM0k0VExEVGI5QlRLVXFqTUhwc0NzbWwuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "seikon-no-qwaser": {
+      "slug": "seikon-no-qwaser",
+      "title": "Seikon no Qwaser",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmVjYy50by93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wNi96dWp3NVpNcFhETlJDTUFuTFdhaXRZb2NlRzQuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1401,6 +1408,9 @@
     ],
     "dragon-ball-daima-dublado": [
       1
+    ],
+    "seikon-no-qwaser": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1471,5 +1481,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781914939566
+  "updatedAt": 1781987422954
 }

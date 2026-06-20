@@ -23397,6 +23397,97 @@
         "kind": "anime",
         "provider": "animeplay"
       }
+    },
+    "yomi-no-tsugai": {
+      "at": 1781965371055,
+      "data": {
+        "slug": "yomi-no-tsugai",
+        "title": "Yomi no Tsugai",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC82YmdwQ2U0NmhYV044aGxvRFRRQTZCaHNTU1UuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 0,
+            "title": "Episódio 00 - Trailer",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-00"
+          },
+          {
+            "number": 1,
+            "title": "Episódio 01 - Asa e Yuru",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Direita e Esquerda",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Dera e Hana",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Jin e Yuru",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Lebre e Tartaruga",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Família Kagemori e os Invasores Misteriosos",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Asa e \"Quebra",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Suspeita e Convicção",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Abraço e Sussurro",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Braços Longos e Pernas Longas",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Irmão e irmão mais novo",
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-11"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay",
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "yomi-no-tsugai",
+              "title": "Yomi no Tsugai",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "yomi-no-tsugai-dublado",
+              "title": "Yomi no Tsugai Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }

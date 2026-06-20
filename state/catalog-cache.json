@@ -7887,7 +7887,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -7914,7 +7914,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990447828
+      "at": 1781994031293
     },
     "todos|2||120": {
       "data": {
@@ -8910,7 +8910,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -8937,7 +8937,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990447982
+      "at": 1781994031404
     },
     "todos|3||120": {
       "data": {
@@ -9850,7 +9850,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -9877,7 +9877,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990448162
+      "at": 1781994031535
     },
     "todos|4||120": {
       "data": {
@@ -10156,7 +10156,7 @@
         "category": "todos",
         "page": 4,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -10178,7 +10178,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -10205,7 +10205,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990448271
+      "at": 1781994031630
     },
     "todos|5||120": {
       "data": {
@@ -10484,7 +10484,7 @@
         "category": "todos",
         "page": 5,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -10506,7 +10506,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -10533,7 +10533,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990448446
+      "at": 1781994031771
     },
     "todos|6||120": {
       "data": {
@@ -10812,7 +10812,7 @@
         "category": "todos",
         "page": 6,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -10834,7 +10834,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -10861,7 +10861,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990448607
+      "at": 1781994031913
     },
     "todos|7||120": {
       "data": {
@@ -11140,7 +11140,7 @@
         "category": "todos",
         "page": 7,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -11162,7 +11162,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -11189,7 +11189,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990448787
+      "at": 1781994032078
     },
     "todos|8||120": {
       "data": {
@@ -11468,7 +11468,7 @@
         "category": "todos",
         "page": 8,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 475,
@@ -11490,7 +11490,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -11517,7 +11517,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990448953
+      "at": 1781994032222
     },
     "todos|9||120": {
       "data": {
@@ -11788,7 +11788,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -11815,7 +11815,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990449129
+      "at": 1781994032357
     },
     "todos|10||120": {
       "data": {
@@ -12086,7 +12086,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -12113,7 +12113,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990449310
+      "at": 1781994032511
     },
     "todos|11||120": {
       "data": {
@@ -12384,7 +12384,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -12411,7 +12411,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990449469
+      "at": 1781994032665
     },
     "todos|12||120": {
       "data": {
@@ -12682,7 +12682,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -12709,7 +12709,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990449636
+      "at": 1781994032801
     },
     "todos|13||120": {
       "data": {
@@ -12980,7 +12980,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -13007,7 +13007,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990449787
+      "at": 1781994032940
     },
     "todos|14||120": {
       "data": {
@@ -13278,7 +13278,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -13305,7 +13305,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990449940
+      "at": 1781994033070
     },
     "todos|15||120": {
       "data": {
@@ -13568,7 +13568,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -13595,7 +13595,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990450092
+      "at": 1781994033214
     },
     "todos|16||120": {
       "data": {
@@ -13866,7 +13866,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -13893,7 +13893,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990450240
+      "at": 1781994033370
     },
     "todos|17||120": {
       "data": {
@@ -14164,7 +14164,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -14191,7 +14191,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990450399
+      "at": 1781994033512
     },
     "todos|18||120": {
       "data": {
@@ -14462,7 +14462,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -14489,7 +14489,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990450563
+      "at": 1781994033647
     },
     "todos|19||120": {
       "data": {
@@ -14760,7 +14760,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -14787,7 +14787,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990450708
+      "at": 1781994033795
     },
     "todos|20||120": {
       "data": {
@@ -15050,7 +15050,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -15077,7 +15077,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990450876
+      "at": 1781994033922
     },
     "legendado|1||120": {
       "data": {
@@ -15266,7 +15266,7 @@
         "category": "legendado",
         "page": 1,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 63,
@@ -15288,7 +15288,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -15315,7 +15315,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451205
+      "at": 1781994034214
     },
     "legendado|2||120": {
       "data": {
@@ -15506,7 +15506,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -15533,7 +15533,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451315
+      "at": 1781994034321
     },
     "legendado|3||120": {
       "data": {
@@ -15756,7 +15756,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -15783,7 +15783,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451446
+      "at": 1781994034439
     },
     "dublado|1||120": {
       "data": {
@@ -16008,7 +16008,7 @@
         "category": "dublado",
         "page": 1,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~23h) — tentando atualizar em segundo plano.",
+        "warning": "Catálogo salvo (há ~1d) — em modo cache; tentando reconectar.",
         "catalogFromCache": true,
         "aocDegraded": false,
         "total": 72,
@@ -16030,7 +16030,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16057,7 +16057,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451575
+      "at": 1781994034546
     },
     "dublado|2||120": {
       "data": {
@@ -16280,7 +16280,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16307,7 +16307,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451691
+      "at": 1781994034659
     },
     "dublado|3||120": {
       "data": {
@@ -16530,7 +16530,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16557,7 +16557,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451834
+      "at": 1781994034757
     },
     "lancamentos|1||120": {
       "data": {
@@ -16851,7 +16851,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -16878,7 +16878,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451006
+      "at": 1781994034032
     },
     "lancamentos|2||120": {
       "data": {
@@ -17162,7 +17162,7 @@
         },
         "aocReachability": {
           "reachable": false,
-          "lastProbeAt": 1781990447515,
+          "lastProbeAt": 1781994001266,
           "lastProbeOk": false,
           "cookieOnly": true
         },
@@ -17189,7 +17189,7 @@
           "fixHint": null
         }
       },
-      "at": 1781990451073
+      "at": 1781994034105
     },
     "todos|1||48": {
       "data": {
@@ -21102,5 +21102,5 @@
       "at": 1781990332320
     }
   },
-  "updatedAt": 1781993935017
+  "updatedAt": 1781994034757
 }

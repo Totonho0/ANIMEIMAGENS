@@ -4870,10 +4870,10 @@
       "discordId": "",
       "username": "",
       "lastSeenAt": 1781981313218,
-      "lastAlertAt": 1781981313218,
+      "lastAlertAt": 1781981719512,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #FDDD8A07",
       "visitorShortId": "FDDD8A07",
       "viewingKind": "manga",
@@ -8827,10 +8827,10 @@
       "displayName": "Visitante #4A7D0549",
       "visitorShortId": "4A7D0549",
       "lastSeenAt": 1781981285635,
-      "lastAlertAt": 1781981285635,
+      "lastAlertAt": 1781981719512,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

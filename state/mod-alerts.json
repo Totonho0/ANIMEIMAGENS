@@ -8046,10 +8046,10 @@
       "displayName": "Visitante #F9B69F2C",
       "visitorShortId": "F9B69F2C",
       "lastSeenAt": 1781965383706,
-      "lastAlertAt": 1781965383706,
+      "lastAlertAt": 1781965818071,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "viewingKind": "anime",
       "viewingTitle": "Daemons of the Shadow Realm",
       "viewingDetail": "Episódio 01 - Asa e Yuru",
@@ -8560,10 +8560,10 @@
       "displayName": "Visitante #36993FE7",
       "visitorShortId": "36993FE7",
       "lastSeenAt": 1781965419427,
-      "lastAlertAt": 1781965419427,
+      "lastAlertAt": 1781965818071,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

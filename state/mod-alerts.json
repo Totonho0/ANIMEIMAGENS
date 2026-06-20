@@ -7518,13 +7518,17 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1781986665950,
-      "lastAlertAt": 1781986665473,
+      "lastSeenAt": 1781986708053,
+      "lastAlertAt": 1781986708053,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
       "displayName": "Visitante #9052D48C",
-      "visitorShortId": "9052D48C"
+      "visitorShortId": "9052D48C",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:6e0748e3-ba20-4251-be50-5380be4984fc": {
       "userKey": "v:6e0748e3-ba20-4251-be50-5380be4984fc",

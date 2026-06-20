@@ -7840,8 +7840,8 @@
       "ip": "143.131.235.95",
       "discordId": "",
       "username": "",
-      "lastSeenAt": 1781996233204,
-      "lastAlertAt": 1781996214345,
+      "lastSeenAt": 1781996239583,
+      "lastAlertAt": 1781996239583,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
@@ -7850,7 +7850,7 @@
       "viewingKind": "anime",
       "viewingTitle": "Uzumaki",
       "viewingDetail": "Episódio 01",
-      "viewingUpdatedAt": 1781996214345
+      "viewingUpdatedAt": 1781996239583
     },
     "v:c0341243-398a-4e6b-af00-2a6761de8d5a": {
       "userKey": "v:c0341243-398a-4e6b-af00-2a6761de8d5a",
@@ -9382,15 +9382,22 @@
     },
     "v:e23ef432-2b79-40a3-ba43-a043f473e9cf": {
       "userKey": "v:e23ef432-2b79-40a3-ba43-a043f473e9cf",
-      "messageId": "",
-      "channelId": "",
-      "ip": "66.249.93.76",
+      "messageId": "1518026999031922759",
+      "channelId": "1510739162116915371",
+      "ip": "66.249.93.75",
       "discordId": "",
       "username": "",
       "displayName": "Visitante #E23EF432",
       "visitorShortId": "E23EF432",
-      "lastSeenAt": 1781996235816,
-      "lastAlertAt": 0
+      "lastSeenAt": 1781996240040,
+      "lastAlertAt": 1781996240036,
+      "viewingKind": "anime",
+      "viewingTitle": "Uzumaki",
+      "viewingDetail": "Episódio 01",
+      "viewingUpdatedAt": 1781996240036,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

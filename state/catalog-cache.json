@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781988319479
+      "at": 1781988684718
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20237,7 +20237,7 @@
             "title": "abarenbou kishi matsutarou",
             "slug": "abarenbou-kishi-matsutarou",
             "url": "https://animesdigital.org/anime/a/abarenbou-kishi-matsutarou",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-abarenbou-kishi-matsutarou-todos-os-episodios-online-animesdigital-254x300.jpg",
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-abarenbou-kishi-matsutarou-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -20293,7 +20293,7 @@
             "title": "akame ga kill",
             "slug": "akame-ga-kill",
             "url": "https://animesdigital.org/anime/a/akame-ga-kill",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-akame-ga-kill-todos-os-episodios-online-animesdigital.jpg",
+            "poster": null,
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -20301,7 +20301,7 @@
             "title": "akaneiro ni somaru saka",
             "slug": "akaneiro-ni-somaru-saka",
             "url": "https://animesdigital.org/anime/a/akaneiro-ni-somaru-saka",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-akaneiro-ni-somaru-saka-todos-os-episodios-online-animesdigital.jpg",
+            "poster": null,
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -20391,7 +20391,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1781988319357
+      "at": 1781988683357
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -20490,7 +20490,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1781988319484
+      "at": 1781988683998
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20696,5 +20696,5 @@
       "at": 1781988321258
     }
   },
-  "updatedAt": 1781988681689
+  "updatedAt": 1781988684718
 }

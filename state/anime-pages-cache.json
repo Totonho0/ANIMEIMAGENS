@@ -23209,6 +23209,125 @@
           }
         }
       }
+    },
+    "dragon-ball-daima": {
+      "at": 1781914859286,
+      "data": {
+        "slug": "dragon-ball-daima",
+        "title": "Dragon Ball Daima - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pLmltZ3VyLmNvbS9tbEZIRWpHLmpwZWc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 0,
+            "title": "Episódio 00",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-00"
+          },
+          {
+            "number": 1,
+            "title": "Episódio 01 - Conspiração",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Glorio",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Daima",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Tagarela",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Panzy",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Raio",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Colar",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Tamagami",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Ladrões",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Oceano",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Lendário",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Sokojikara",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - Surpresa",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14 - Tabu",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15 - Terceiro Olho",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-15"
+          },
+          {
+            "number": 16,
+            "title": "Episódio 16 - Deges",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-16"
+          },
+          {
+            "number": 17,
+            "title": "Episódio 17 - Gomah",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-17"
+          },
+          {
+            "number": 18,
+            "title": "Episódio 18 - Despertar",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-18"
+          },
+          {
+            "number": 19,
+            "title": "Episódio 19 - Traição",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-19"
+          },
+          {
+            "number": 20,
+            "title": "Episódio 20 - Máximo",
+            "url": "https://animeplay.cloud/episodio/dragon-ball-daima-episodio-20"
+          }
+        ],
+        "totalEpisodes": 21,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

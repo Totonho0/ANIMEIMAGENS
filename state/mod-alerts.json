@@ -9520,6 +9520,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:1ba07d27-b827-445e-be0e-6d27b620cf7a": {
+      "userKey": "v:1ba07d27-b827-445e-be0e-6d27b620cf7a",
+      "messageId": "1518109310637309965",
+      "channelId": "1510739162116915371",
+      "ip": "172.68.10.120",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #1BA07D27",
+      "visitorShortId": "1BA07D27",
+      "lastSeenAt": 1782015864621,
+      "lastAlertAt": 1782015864621,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

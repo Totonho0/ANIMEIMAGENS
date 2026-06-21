@@ -732,7 +732,7 @@
     "blue-lock-3": {
       "slug": "blue-lock-3",
       "title": "Blue Lock 3",
-      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvYTZpOGNWbGtJUWJIQnJ4b0dGZE9HNDd4dFp1LTE4NXgyNzguanBn",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvYTZpOGNWbGtJUWJIQnJ4b0dGZE9HNDd4dFp1LTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
     },
@@ -1511,5 +1511,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782034592836
+  "updatedAt": 1782034692359
 }

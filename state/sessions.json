@@ -174,5 +174,17 @@
     "oauthAccessExpiresAt": 1782591465093,
     "hentaiAccess": true,
     "hentaiAccessCheckedAt": 1781993919528
+  },
+  "727c46d8-0a5a-43a2-af42-cff5c2af1af5": {
+    "createdAt": 1782018044064,
+    "user": {
+      "id": "995170142277349476",
+      "username": "Ｎｅｏｎ🖕",
+      "avatar": "https://cdn.discordapp.com/avatars/995170142277349476/87c01838439b60456acaa2c30267eaa8.png?size=256"
+    },
+    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.VNkSA8IlRTVHaE8QwVpxkOOjnyoAXH",
+    "oauthAccessExpiresAt": 1782622844064,
+    "hentaiAccess": false,
+    "hentaiAccessCheckedAt": 1782018046634
   }
 }

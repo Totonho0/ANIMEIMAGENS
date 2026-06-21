@@ -2,6 +2,8 @@
   "name": "Ｎｅｏｎ🖕",
   "bio": "",
   "avatar": "https://cdn.discordapp.com/avatars/995170142277349476/87c01838439b60456acaa2c30267eaa8.png?size=256",
+  "discordAvatar": "https://cdn.discordapp.com/avatars/995170142277349476/87c01838439b60456acaa2c30267eaa8.png?size=256",
+  "customAvatar": false,
   "banner": "/placeholder.svg",
   "favorites": [],
   "watchLater": [],
@@ -12,6 +14,13 @@
       "title": "Ishuzoku Reviewers",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xaHlwaUZjMXVXR2h4MlRzVTJENWZaNEV2N1kuanBn",
       "kind": "anime"
+    },
+    "serie/assistir-dois-homens-e-meio-online": {
+      "slug": "serie/assistir-dois-homens-e-meio-online",
+      "title": "Dois Homens e Meio",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9kUEN2MFJhT2oycFJ4WmNVRE9vcVhGZTdQcW4uanBn",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -19,14 +28,18 @@
       6
     ]
   },
-  "started": {},
+  "started": {
+    "serie/assistir-dois-homens-e-meio-online": [
+      1
+    ]
+  },
   "watchHistoryLog": [
     {
       "slug": "ishuzoku-reviewers",
       "ep": 6,
-      "at": 1782018045673
+      "at": 1782068824104
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782018047567
+  "updatedAt": 1782068847901
 }

@@ -7366,17 +7366,17 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1782035195944,
-      "lastAlertAt": 1782035195944,
+      "lastSeenAt": 1782035221990,
+      "lastAlertAt": 1782035221990,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
       "displayName": "Visitante #D578CBF0",
       "visitorShortId": "D578CBF0",
-      "viewingKind": "anime",
-      "viewingTitle": "Seikon no Qwaser",
-      "viewingDetail": "Episódio 1",
-      "viewingUpdatedAt": 1782035195944
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:6e0748e3-ba20-4251-be50-5380be4984fc": {
       "userKey": "v:6e0748e3-ba20-4251-be50-5380be4984fc",
@@ -9555,6 +9555,21 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "v:57ac0038-1fed-40a7-8b1c-ab0817db387b": {
+      "userKey": "v:57ac0038-1fed-40a7-8b1c-ab0817db387b",
+      "messageId": "1518190497716244621",
+      "channelId": "1510739162116915371",
+      "ip": "172.68.186.94",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #57AC0038",
+      "visitorShortId": "57AC0038",
+      "lastSeenAt": 1782035221152,
+      "lastAlertAt": 1782035221152,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

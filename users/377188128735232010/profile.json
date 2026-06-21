@@ -1044,8 +1044,7 @@
       "slug": "euphoria-the-animation",
       "title": "Euphoria The Animation",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zQ0hmTlhZSlk4NkppT0x6WXJKV2hZMVpPeTAuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     }
   },
   "watched": {
@@ -1093,6 +1092,9 @@
       1
     ],
     "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita": [
+      1
+    ],
+    "euphoria-the-animation": [
       1
     ]
   },
@@ -1529,6 +1531,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "euphoria-the-animation",
+      "ep": 1,
+      "at": 1782067059021
+    },
+    {
       "slug": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita",
       "ep": 1,
       "at": 1782035614568
@@ -1610,5 +1617,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782066977757
+  "updatedAt": 1782067059375
 }

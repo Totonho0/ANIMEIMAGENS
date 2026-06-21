@@ -18102,7 +18102,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782066669282
+      "at": 1782066713309
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -18305,7 +18305,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782066668739
+      "at": 1782066713430
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782066668844
+      "at": 1782066714840
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20391,11 +20391,19 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782066668745
+      "at": 1782066711857
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "One Piece",
+            "slug": "assistir-one-piece",
+            "url": "https://animesdigital.org/video/a/136699/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-one-piece-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
           {
             "title": "Ghost Concert: missing Songs",
             "slug": "assistir-ghost-concert:-missing-songs",
@@ -20499,14 +20507,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kanan-sama-wa-Akumade-ChoroiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Yomi no Tsugai",
-            "slug": "assistir-yomi-no-tsugai",
-            "url": "https://animesdigital.org/video/a/136685/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-TsugaiEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -20514,7 +20514,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782066668850
+      "at": 1782066714683
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20717,7 +20717,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782066669287
+      "at": 1782066711922
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -28237,5 +28237,5 @@
       "at": 1782035145098
     }
   },
-  "updatedAt": 1782066669287
+  "updatedAt": 1782066714840
 }

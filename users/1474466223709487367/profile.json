@@ -39,9 +39,10 @@
     },
     "kimetsu-no-yaiba-movie-mugen-jou-hen": {
       "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen",
-      "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
-      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91MUNvTWsyWXFzOXJiWTVMQVBTekRHb2dMWEkuanBn",
-      "kind": "anime"
+      "title": "Kimetsu no Yaiba Movie Mugen Jou-hen Dublado Filme",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wOS9LaW1ldHN1LW5vLVlhaWJhLU1vdmllLU11Z2VuLUpvdS1oZW4tMDEuanBn",
+      "kind": "anime",
+      "adult": false
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
       "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
@@ -80,13 +81,16 @@
     ],
     "filme/assistir-circulo-de-fogo-online": [
       1
+    ],
+    "kimetsu-no-yaiba-movie-mugen-jou-hen": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen",
       "ep": 1,
-      "at": 1782055597055
+      "at": 1782068608015
     },
     {
       "slug": "filme/assistir-circulo-de-fogo-online",
@@ -95,5 +99,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782068562145
+  "updatedAt": 1782068627827
 }

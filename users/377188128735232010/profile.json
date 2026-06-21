@@ -374,7 +374,8 @@
       "slug": "serie/assistir-the-boys-online",
       "title": "The Boys",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS8yem1UbmduMXRZQzFBdmZuckZMaHhlRDgyaHouanBn",
-      "kind": "serie"
+      "kind": "serie",
+      "adult": false
     },
     "11761-": {
       "slug": "11761-",
@@ -1510,5 +1511,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1781988254123
+  "updatedAt": 1782034456797
 }

@@ -42,6 +42,13 @@
       "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvcE1MaXRLN3VDS29GMjVkTm41WGFpMFJ1RnJhLmpwZw",
       "kind": "anime"
+    },
+    "filme/assistir-circulo-de-fogo-online": {
+      "slug": "filme/assistir-circulo-de-fogo-online",
+      "title": "Círculo de Fogo",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS8zVHhDWDBWYmsxbTRJWmcwZW9tSVJVR3lKVDcuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -61,15 +68,18 @@
     ],
     "tensei-kizoku-kantei-skill-de-nariagaru-2": [
       1
+    ],
+    "filme/assistir-circulo-de-fogo-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "kimetsu-no-yaiba-movie-mugen-jou-hen",
       "ep": 1,
-      "at": 1780783331127
+      "at": 1782008933104
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1780783369174
+  "updatedAt": 1782008988534
 }

@@ -1015,6 +1015,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci84NS9iZDE5MWNkZDExMTFjNGE3MjMxNjVmMjdhMjliZDMuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-backrooms-um-nao-lugar-online": {
+      "slug": "filme/assistir-backrooms-um-nao-lugar-online",
+      "title": "Backrooms: Um Não-Lugar",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9hMXBnUWVFZ2U0N3hyUzRqR2xEd0lIaWllVksuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1482,6 +1489,9 @@
     ],
     "8601-hazbin-hotel": [
       1
+    ],
+    "filme/assistir-backrooms-um-nao-lugar-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1567,5 +1577,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782035613420
+  "updatedAt": 1782035649304
 }

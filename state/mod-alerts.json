@@ -9385,25 +9385,6 @@
       "viewingDetail": "",
       "viewingUpdatedAt": 0
     },
-    "d:995170142277349476": {
-      "userKey": "d:995170142277349476",
-      "messageId": "1518118455386308781",
-      "channelId": "1510693609551171775",
-      "ip": "186.243.25.102",
-      "discordId": "995170142277349476",
-      "username": "Ｎｅｏｎ🖕",
-      "lastSeenAt": 1782034718742,
-      "lastAlertAt": 1782035024708,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #A935924B",
-      "visitorShortId": "A935924B",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:ddb42c5e-5ab1-4ce1-88c8-80e1a1a7a88f": {
       "userKey": "v:ddb42c5e-5ab1-4ce1-88c8-80e1a1a7a88f",
       "messageId": "1518133956896231475",
@@ -9589,9 +9570,6 @@
     "v:9052d48c-6388-45e1-be7b-d5190cf2a5d0": "d:377188128735232010",
     "ip:c1d1436adf3d1888": "d:377188128735232010",
     "ip:fbd930ac14ec8dc8": "d:1474466223709487367",
-    "v:a935924b-1335-4017-a604-f2d9ca113cca": "d:995170142277349476",
-    "d:995170142277349476": "ip:61b3a35c1ac01b08",
-    "ip:61b3a35c1ac01b08": "d:995170142277349476",
     "v:77992dec-47f6-47b8-97dd-753dd5331927": "d:377188128735232010",
     "v:d578cbf0-6bc4-4d09-b60f-4c60418fa006": "d:377188128735232010"
   }

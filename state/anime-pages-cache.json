@@ -23927,6 +23927,97 @@
         "kind": "anime",
         "provider": "animesdigital"
       }
+    },
+    "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado": {
+      "at": 1782035062642,
+      "data": {
+        "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
+        "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC91TEM5dGRSU1BjS3NndlJMdGgzOFdFYm04cGEuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Começo e o Fim",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Coincidência e Destino",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Pureza e Corrupção",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Escuridão e Luz",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Crueldade e Camaraderie",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Uma Vida Comum",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Encontros e despedidas",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Brotar e murchar",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Solidão e Família",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Verdade e realidade",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - Dein e Flum",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - O Fim e o Começo",
+            "url": "https://animeplay.cloud/episodio/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animeplay",
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node",
+              "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-dublado",
+              "title": "Omae Gotoki ga Maou ni Kateru to Omouna to Yuusha Party wo Tsuihou sareta node Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }

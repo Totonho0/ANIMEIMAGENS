@@ -7458,20 +7458,16 @@
       "userKey": "d:377188128735232010",
       "messageId": "1517651551324209293",
       "channelId": "1510693609551171775",
-      "ip": "177.54.157.16",
+      "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1781993917990,
-      "lastAlertAt": 1781994272281,
+      "lastSeenAt": 1782028108833,
+      "lastAlertAt": 1782028108406,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #9052D48C",
-      "visitorShortId": "9052D48C",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #77992DEC",
+      "visitorShortId": "77992DEC"
     },
     "v:6e0748e3-ba20-4251-be50-5380be4984fc": {
       "userKey": "v:6e0748e3-ba20-4251-be50-5380be4984fc",
@@ -9592,25 +9588,6 @@
       "componentsOk": true,
       "embedOnlineStatus": false
     },
-    "v:77992dec-47f6-47b8-97dd-753dd5331927": {
-      "userKey": "v:77992dec-47f6-47b8-97dd-753dd5331927",
-      "messageId": "1518160358202806364",
-      "channelId": "1510739162116915371",
-      "ip": "143.131.235.95",
-      "discordId": "",
-      "username": "",
-      "displayName": "Visitante #77992DEC",
-      "visitorShortId": "77992DEC",
-      "lastSeenAt": 1782028087247,
-      "lastAlertAt": 1782028087247,
-      "viaBot": true,
-      "componentsOk": true,
-      "embedOnlineStatus": true,
-      "viewingKind": "anime",
-      "viewingTitle": "Ishuzoku Reviewers",
-      "viewingDetail": "Episódio 08 - A interpretação de Succu-girl vai fazer você gozar a noite toda, a",
-      "viewingUpdatedAt": 1782028087247
-    },
     "v:2200ed54-6567-4038-a9b9-1f74083dacc9": {
       "userKey": "v:2200ed54-6567-4038-a9b9-1f74083dacc9",
       "messageId": "1518160627841892454",
@@ -9637,7 +9614,7 @@
     "ip:e72fa05428289533": "d:1474466223709487367",
     "ip:bbe58f10438a6879": "d:1474466223709487367",
     "v:0b6db295-2edd-446c-b2fb-a9aba7624610": "d:377188128735232010",
-    "d:377188128735232010": "ip:c1d1436adf3d1888",
+    "d:377188128735232010": "ip:84f757da9050388e",
     "ip:84f757da9050388e": "d:377188128735232010",
     "ip:cc9dbbb7af63ba2b": "d:377188128735232010",
     "v:85667776-9e10-4873-9176-1f16040c0369": "d:377188128735232010",
@@ -9646,6 +9623,7 @@
     "ip:fbd930ac14ec8dc8": "d:1474466223709487367",
     "v:a935924b-1335-4017-a604-f2d9ca113cca": "d:995170142277349476",
     "d:995170142277349476": "ip:61b3a35c1ac01b08",
-    "ip:61b3a35c1ac01b08": "d:995170142277349476"
+    "ip:61b3a35c1ac01b08": "d:995170142277349476",
+    "v:77992dec-47f6-47b8-97dd-753dd5331927": "d:377188128735232010"
   }
 }

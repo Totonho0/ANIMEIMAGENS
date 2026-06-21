@@ -3,7 +3,9 @@
   "bio": "",
   "avatar": "https://cdn.discordapp.com/avatars/1474466223709487367/c46f390317a784f077e5522323ee88e8.png?size=256",
   "banner": "/placeholder.svg",
-  "favorites": [],
+  "favorites": [
+    "filme/assistir-circulo-de-fogo-online"
+  ],
   "watchLater": [
     "filme/assistir-circulo-de-fogo-online"
   ],
@@ -91,5 +93,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782057151499
+  "updatedAt": 1782057155376
 }

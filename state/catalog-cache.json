@@ -18102,7 +18102,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782055602079
+      "at": 1782066382963
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -18305,11 +18305,165 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782055598803
+      "at": 1782066379168
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 1167",
+            "epTitle": "Episódio 1167",
+            "slug": "one-piece",
+            "episode": 1167,
+            "url": "https://animeplay.cloud/episodio/one-piece-episodio-1167",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/47LLj37BtGCGKgNRH8AcEa8g5Tf-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "needy-girl-overdose-dublado",
+            "episode": 8,
+            "url": "https://animeplay.cloud/episodio/needy-girl-overdose-dublado-episodio-08",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/qG2DT4pMAp9UO6EQxdQtOSSVuvF-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+            "episode": 10,
+            "url": "https://animeplay.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-10",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/npMZ7n4yYRTQKr58jf7AI9R7aBF-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "yomi-no-tsugai-dublado",
+            "episode": 9,
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-dublado-episodio-09",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/2k1vVVPJjvz9nihpCDJdhsUPdGa-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+            "episode": 8,
+            "url": "https://animeplay.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-08",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bK7vmblIs6d5kcP7Dxg7JpD7SUf-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 7",
+            "epTitle": "Episódio 7",
+            "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
+            "episode": 7,
+            "url": "https://animeplay.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-dublado-episodio-07",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/7HGmC9WbABnydD1sc6ZFkGf21i2-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "ghost-concert-missing-songs",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/ghost-concert-missing-songs-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1TXioNyZXKhrHKuEIiONoM1NAkG-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "episode": 11,
+            "url": "https://animeplay.cloud/episodio/yozakura-san-chi-no-daisakusen-2-episodio-11",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bCljxU8PIeGOfukR4o15W4FHcl0-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "episode": 11,
+            "url": "https://animeplay.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-11",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/vKeq9m2vLEHmh0csqKxZNEwc43V-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/Arh9O2rz4AcIyqVk7rVCAHvY3PQ-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "mao",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/mao-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/5ENdyrLdj26XziYhDkZIXRStq0B-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "nippon-sangoku",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/nippon-sangoku-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nAQa3vNkydX0EPOdjibWwYBpYX-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "episode": 11,
+            "url": "https://animeplay.cloud/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-11",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/yTchPGnfDZh8ejZ7Eo3ZIOQwT8V-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 36",
+            "epTitle": "Episódio 36",
+            "slug": "digimon-beatbreak",
+            "episode": 36,
+            "url": "https://animeplay.cloud/episodio/digimon-beatbreak-episodio-36",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fKGPifUUyf5jpYuxxkK5gJW3VNB-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 23",
             "epTitle": "Episódio 23",
@@ -18419,160 +18573,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 7",
-            "epTitle": "Episódio 7",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
-            "episode": 7,
-            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-07",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/edUKB10nnw9BBK0dyoJNiAlSR56-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "hokuto-no-ken-fist-of-the-north-star-dublado",
-            "episode": 13,
-            "url": "https://animeplay.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-dublado-episodio-13",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/90pKbENicxtmhCYXMDA7iYYELVy-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "yowayowa-sensei",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/yowayowa-sensei-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/tsWa5FFHnBUz54DdxG4lO27jnYQ-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "kill-ao",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/kill-ao-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/f3tduSg4VwCDyrL06h3A9rhYx1X-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "honzuki-no-gekokujou-4",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/honzuki-no-gekokujou-4-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/9gec9DqteQsecnD4iBeTOQAzz2m-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "mairimashita-iruma-kun-4",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/mairimashita-iruma-kun-4-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/q8v7KjXILlDtvEMUuD2KvnK7iXP-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "mahou-no-shimai-lulutto-lilly",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/mahou-no-shimai-lulutto-lilly-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/7qGvZNLyY9tlkXJY8OmbgFCtyqN-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "mahou-no-shimai-lulutto-lilly",
-            "episode": 10,
-            "url": "https://animeplay.cloud/episodio/mahou-no-shimai-lulutto-lilly-episodio-10",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/4lSGqcestlOQgVAWDxgYuwTKuam-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 34",
-            "epTitle": "Episódio 34",
-            "slug": "cybercop-os-policiais-do-futuro",
-            "episode": 34,
-            "url": "https://animeplay.cloud/episodio/cybercop-os-policiais-do-futuro-episodio-34",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/weS1dmajxIcgOWPCc2GsjXOsKAG-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "snowball-earth-dublado",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/snowball-earth-dublado-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ml3kSfjarzFX1pSFFAki4J9pja9-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/5dK2AJHIbAXCxufapqxyhU9m4bO-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "hokuto-no-ken-fist-of-the-north-star",
-            "episode": 13,
-            "url": "https://animeplay.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-13",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/hsknrDS7nbICAySK3hMUD8BBCpu-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "kami-no-shizuku",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/kami-no-shizuku-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/tPYAlsjcn5GNQx5EUPqdTgNrxP2-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "snowball-earth",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/snowball-earth-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/eD9nwldGeeIC7kuXgWcPmJMlzm6-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782055600210
+      "at": 1782066381289
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20391,11 +20391,27 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782055597346
+      "at": 1782066379938
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Ghost Concert: missing Songs",
+            "slug": "assistir-ghost-concert:-missing-songs",
+            "url": "https://animesdigital.org/video/a/136697/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ghost-Concert-Missing-SongsEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Kuroneko to Majo no Kyoushitsu",
+            "slug": "assistir-kuroneko-to-majo-no-kyoushitsu",
+            "url": "https://animesdigital.org/video/a/136696/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kuroneko-to-Majo-no-Kyoushitsu.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
           {
             "title": "Nippon Sangoku",
             "slug": "assistir-nippon-sangoku",
@@ -20491,22 +20507,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-TsugaiEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Kill Ao",
-            "slug": "assistir-kill-ao",
-            "url": "https://animesdigital.org/video/a/136684/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kill-Ao.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Yowayowa Sensei",
-            "slug": "assistir-yowayowa-sensei",
-            "url": "https://animesdigital.org/video/a/136683/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yowayowa-Sensei.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -20514,7 +20514,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782055599525
+      "at": 1782066380567
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20717,7 +20717,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782055600656
+      "at": 1782066381538
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -28237,5 +28237,5 @@
       "at": 1782035145098
     }
   },
-  "updatedAt": 1782063661099
+  "updatedAt": 1782066382963
 }

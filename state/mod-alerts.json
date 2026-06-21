@@ -9873,25 +9873,6 @@
       "viewingDetail": "",
       "viewingUpdatedAt": 0
     },
-    "v:35e1c131-42b4-472d-85af-31329e9a9898": {
-      "userKey": "v:35e1c131-42b4-472d-85af-31329e9a9898",
-      "messageId": "1518295891465867335",
-      "channelId": "1510739162116915371",
-      "ip": "216.73.216.152",
-      "discordId": "",
-      "username": "",
-      "lastSeenAt": 1782060348981,
-      "lastAlertAt": 1782060675966,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #35E1C131",
-      "visitorShortId": "35E1C131",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:32abe6de-74a8-4acc-9aaa-79a159959c23": {
       "userKey": "v:32abe6de-74a8-4acc-9aaa-79a159959c23",
       "messageId": "1518304475717177385",
@@ -9937,13 +9918,17 @@
       "ip": "216.73.216.152",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #C6A96054",
-      "visitorShortId": "C6A96054",
       "lastSeenAt": 1782067374287,
       "lastAlertAt": 1782067815506,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "viaBot": true,
+      "embedOnlineStatus": false,
+      "displayName": "Visitante #C6A96054",
+      "visitorShortId": "C6A96054",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:82c64b76-8272-4efe-b967-89ac34f42aa0": {
       "userKey": "v:82c64b76-8272-4efe-b967-89ac34f42aa0",
@@ -9952,13 +9937,17 @@
       "ip": "131.255.212.165",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #82C64B76",
-      "visitorShortId": "82C64B76",
       "lastSeenAt": 1782068713503,
       "lastAlertAt": 1782068713503,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "viaBot": true,
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #82C64B76",
+      "visitorShortId": "82C64B76",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

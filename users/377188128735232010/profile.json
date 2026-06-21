@@ -398,7 +398,8 @@
       "slug": "todo-no-tsumari",
       "title": "Todo no Tsumari",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94ektRemNBNkkwRWh1NDhOcFFBQWV2ZTk1WmkuanBn",
-      "kind": "anime"
+      "kind": "anime",
+      "adult": true
     },
     "medalist-2-dublado": {
       "slug": "medalist-2-dublado",
@@ -1527,6 +1528,9 @@
     ],
     "euphoria-the-animation": [
       1
+    ],
+    "todo-no-tsumari": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1617,5 +1621,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782067964572
+  "updatedAt": 1782069737448
 }

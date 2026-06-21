@@ -9505,6 +9505,21 @@
       "visitorShortId": "EC116E7A",
       "lastSeenAt": 1782009142419,
       "lastAlertAt": 0
+    },
+    "v:fa30bd60-ce09-4f96-86c3-13205c022dad": {
+      "userKey": "v:fa30bd60-ce09-4f96-86c3-13205c022dad",
+      "messageId": "1518084862639345715",
+      "channelId": "1510739162116915371",
+      "ip": "172.68.10.120",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #FA30BD60",
+      "visitorShortId": "FA30BD60",
+      "lastSeenAt": 1782010035808,
+      "lastAlertAt": 1782010035808,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

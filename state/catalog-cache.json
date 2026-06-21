@@ -18102,7 +18102,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781997000392
+      "at": 1782008919746
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1781996998665
+      "at": 1782008917826
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20391,11 +20391,19 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1781996997428
+      "at": 1782008916019
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "MAO",
+            "slug": "assistir-mao",
+            "url": "https://animesdigital.org/video/a/136693/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/MAOEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
           {
             "title": "Ichijouma Mankitsugurashi!",
             "slug": "assistir-ichijouma-mankitsugurashi!",
@@ -20475,14 +20483,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/assistir-mahou-no-shimai-lulutto-lilly-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Lord of Mysteries [ESPECIAL]",
-            "slug": "assistir-lord-of-mysteries-[especial]",
-            "url": "https://animesdigital.org/video/a/136678/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2025/06/assistir-lord-of-mysteries-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -20490,7 +20490,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1781996997990
+      "at": 1782008916539
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20693,7 +20693,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1781996999944
+      "at": 1782008919333
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -21102,5 +21102,5 @@
       "at": 1781990332320
     }
   },
-  "updatedAt": 1782008913975
+  "updatedAt": 1782008919746
 }

@@ -8372,6 +8372,50 @@
         "kind": "anime",
         "provider": "animesdigital"
       }
+    },
+    "euphoria-the-animation": {
+      "at": 1782066911562,
+      "data": {
+        "slug": "euphoria-the-animation",
+        "title": "Euphoria The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zQ0hmTlhZSlk4NkppT0x6WXJKV2hZMVpPeTAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episodio 01 - Euforia ~ o jogo do inferno começa ~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episodio 02 - euforia ~Hokari Kanae: o fim do arco do paraíso~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episodio 03 - euforia ~Byakuya Rinne: o arco do ciclo da vida~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - euforia ~Makiba Rika, Aoi Natsuki: arco do retrato ressuscitado do inferno~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - euforia ~os jogos terríveis no porão, o inferno escatológico na superfície. o cérebro é... nosso amigo de infância?! arco~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - euforia ~o paraíso que desejamos está a apenas um ritual sagrado de distância. a mãe do salvador é... Byakuya Rinne?! arco~",
+            "url": "https://animeplay.cloud/episodio/euphoria-the-animation-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "animeplay"
+      }
     }
   }
 }

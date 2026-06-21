@@ -18102,7 +18102,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782035770386
+      "at": 1782055602079
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -18305,7 +18305,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782043849847
+      "at": 1782055598803
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782043851429
+      "at": 1782055600210
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20391,11 +20391,19 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782043848255
+      "at": 1782055597346
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Nippon Sangoku",
+            "slug": "assistir-nippon-sangoku",
+            "url": "https://animesdigital.org/video/a/136701/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Nippon-SangokuEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
           {
             "title": "Yozakura-san Chi no Daisakusen 2",
             "slug": "assistir-yozakura-san-chi-no-daisakusen-2",
@@ -20506,7 +20514,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782043851216
+      "at": 1782055599525
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20709,7 +20717,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782035770390
+      "at": 1782055600656
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -28229,5 +28237,5 @@
       "at": 1782035145098
     }
   },
-  "updatedAt": 1782049261147
+  "updatedAt": 1782055602079
 }

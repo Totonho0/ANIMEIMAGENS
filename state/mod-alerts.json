@@ -7367,10 +7367,10 @@
       "discordId": "377188128735232010",
       "username": "Totonho",
       "lastSeenAt": 1782043848305,
-      "lastAlertAt": 1782043848305,
+      "lastAlertAt": 1782044175154,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #D578CBF0",
       "visitorShortId": "D578CBF0",
       "viewingKind": "",
@@ -9748,10 +9748,10 @@
       "displayName": "Visitante #1B74173E",
       "visitorShortId": "1B74173E",
       "lastSeenAt": 1782043775826,
-      "lastAlertAt": 1782043775826,
+      "lastAlertAt": 1782044175154,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

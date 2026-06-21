@@ -16749,7 +16749,7 @@
       "discordId": "",
       "discordUsername": "",
       "createdAt": 1781979266965,
-      "lastSeenAt": 1782001853479,
+      "lastSeenAt": 1782002153209,
       "lastIp": "148.227.86.212"
     },
     "bf9ff656-f731-45a5-972f-f37396dfcf47": {
@@ -18207,6 +18207,22 @@
       "createdAt": 1782001875319,
       "lastSeenAt": 1782001875319,
       "lastIp": "43.164.196.244"
+    },
+    "7c919f82-6187-4d05-a5f8-943b2a382355": {
+      "id": "7c919f82-6187-4d05-a5f8-943b2a382355",
+      "displayName": "Visitante #7C919F82",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "favorites": [],
+      "watchLater": [],
+      "mangaFavorites": [],
+      "library": {},
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1782002211270,
+      "lastSeenAt": 1782002211270,
+      "lastIp": "200.97.136.36"
     }
   }
 }

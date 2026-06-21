@@ -18305,7 +18305,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782035770352
+      "at": 1782042840847
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782035770516
+      "at": 1782042842287
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20397,6 +20397,30 @@
       "data": {
         "items": [
           {
+            "title": "Yozakura-san Chi no Daisakusen 2",
+            "slug": "assistir-yozakura-san-chi-no-daisakusen-2",
+            "url": "https://animesdigital.org/video/a/136698/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/assistir-yozakura-san-chi-no-daisakusen-2-todos-os-episodios-online-animes-online.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Ace of the Diamond Act II Season 2",
+            "slug": "assistir-ace-of-the-diamond-act-ii-season-2",
+            "url": "https://animesdigital.org/video/a/136695/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ace-of-the-Diamond-Act-II-Season-2Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Tsue to Tsurugi no Wistoria Season 2",
+            "slug": "assistir-tsue-to-tsurugi-no-wistoria-season-2",
+            "url": "https://animesdigital.org/video/a/136694/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tsue-to-Tsurugi-no-Wistoria-2.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "MAO",
             "slug": "assistir-mao",
             "url": "https://animesdigital.org/video/a/136693/",
@@ -20475,14 +20499,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yowayowa-Sensei.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Mahou no Shimai Lulutto Lilly",
-            "slug": "assistir-mahou-no-shimai-lulutto-lilly",
-            "url": "https://animesdigital.org/video/a/136680/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/assistir-mahou-no-shimai-lulutto-lilly-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -20490,7 +20506,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782035770520
+      "at": 1782042842046
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -28213,5 +28229,5 @@
       "at": 1782035145098
     }
   },
-  "updatedAt": 1782042838948
+  "updatedAt": 1782042842287
 }

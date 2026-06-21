@@ -14190,7 +14190,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782075743245
+      "at": 1782075748672
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14465,7 +14465,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782075744283
+      "at": 1782075748668
     },
     "genre-row:drama": {
       "data": {
@@ -16213,7 +16213,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782074491829
+      "at": 1782075748611
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16400,7 +16400,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782072530650
+      "at": 1782075750561
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -16595,7 +16595,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782074492547
+      "at": 1782075747384
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -16700,7 +16700,7 @@
             "title": "bakugan3",
             "slug": "bakugan3",
             "url": "https://animesdigital.org/anime/a/bakugan3",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bakugan-3-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16708,7 +16708,7 @@
             "title": "bluedragondublado",
             "slug": "bluedragondublado",
             "url": "https://animesdigital.org/anime/a/bluedragondublado",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-blue-dragon-dublado-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16716,7 +16716,7 @@
             "title": "bleach",
             "slug": "bleach",
             "url": "https://animesdigital.org/anime/a/bleach",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bleach-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16724,7 +16724,7 @@
             "title": "beyblade",
             "slug": "beyblade",
             "url": "https://animesdigital.org/anime/a/beyblade",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beyblade-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16732,7 +16732,7 @@
             "title": "beybladeburst",
             "slug": "beybladeburst",
             "url": "https://animesdigital.org/anime/a/beybladeburst",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beyblade-burst-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16740,7 +16740,7 @@
             "title": "beybladegrevolution",
             "slug": "beybladegrevolution",
             "url": "https://animesdigital.org/anime/a/beybladegrevolution",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beyblade-g-revolution-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16748,7 +16748,7 @@
             "title": "beyblademetalfusion",
             "slug": "beyblademetalfusion",
             "url": "https://animesdigital.org/anime/a/beyblademetalfusion",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beyblade-metal-fusion-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16756,7 +16756,7 @@
             "title": "beyblade v force",
             "slug": "beyblade-v-force",
             "url": "https://animesdigital.org/anime/a/beyblade-v-force",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beyblade-v-force-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16764,7 +16764,7 @@
             "title": "bernardjouiwaku",
             "slug": "bernardjouiwaku",
             "url": "https://animesdigital.org/anime/a/bernardjouiwaku",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bernard-jou-iwaku-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16772,7 +16772,7 @@
             "title": "i chu halfway through the idol",
             "slug": "i-chu-halfway-through-the-idol",
             "url": "https://animesdigital.org/anime/a/i-chu-halfway-through-the-idol",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-i-chu-halfway-through-the-idol-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16780,7 +16780,7 @@
             "title": "inazuma eleven go galaxy",
             "slug": "inazuma-eleven-go-galaxy",
             "url": "https://animesdigital.org/anime/a/inazuma-eleven-go-galaxy",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-inazuma-eleven-go-galaxy-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16788,7 +16788,7 @@
             "title": "boku no hero academia filme futari no hero",
             "slug": "boku-no-hero-academia-filme-futari-no-hero",
             "url": "https://animesdigital.org/anime/a/boku-no-hero-academia-filme-futari-no-hero",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-boku-no-hero-academia-filme-futari-no-hero-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -16798,7 +16798,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782072530654
+      "at": 1782075750123
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -20993,5 +20993,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782075744283
+  "updatedAt": 1782075750561
 }

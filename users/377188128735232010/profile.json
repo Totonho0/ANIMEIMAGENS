@@ -1009,6 +1009,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nb3o5S3F3VEt5OHBDVzJpT3ljQkxNQnRKMHkuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "8601-hazbin-hotel": {
+      "slug": "8601-hazbin-hotel",
+      "title": "Hazbin Hotel Hazbin Hotel",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci84NS9iZDE5MWNkZDExMTFjNGE3MjMxNjVmMjdhMjliZDMuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1470,6 +1477,9 @@
     ],
     "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita": [
       1
+    ],
+    "8601-hazbin-hotel": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1550,5 +1560,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782035194065
+  "updatedAt": 1782035464111
 }

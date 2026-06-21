@@ -1046,6 +1046,13 @@
       "title": "Euphoria The Animation",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zQ0hmTlhZSlk4NkppT0x6WXJKV2hZMVpPeTAuanBn",
       "kind": "anime"
+    },
+    "nige-jouzu-no-wakagimi-2nd-season": {
+      "slug": "nige-jouzu-no-wakagimi-2nd-season",
+      "title": "Nige Jouzu no Wakagimi 2nd Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvb2UzOTZ3YUNhM1R3bzlweTZGTHY2bXhLRGdoLTE4NXgyNzguanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1531,6 +1538,9 @@
     ],
     "todo-no-tsumari": [
       1
+    ],
+    "nige-jouzu-no-wakagimi-2nd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1621,5 +1631,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782069912564
+  "updatedAt": 1782069997149
 }

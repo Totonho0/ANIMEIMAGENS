@@ -1022,6 +1022,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9hMXBnUWVFZ2U0N3hyUzRqR2xEd0lIaWllVksuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "serie/assistir-festa-da-salsicha-comilandia-online": {
+      "slug": "serie/assistir-festa-da-salsicha-comilandia-online",
+      "title": "Festa da Salsicha: Comilândia",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS91OE53bGFDRmQzb05KeE5qcXZNd1JqNExpQlouanBn",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -1492,6 +1499,9 @@
     ],
     "filme/assistir-backrooms-um-nao-lugar-online": [
       1
+    ],
+    "serie/assistir-festa-da-salsicha-comilandia-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1577,5 +1587,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782035649304
+  "updatedAt": 1782035703166
 }

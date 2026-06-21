@@ -9657,11 +9657,15 @@
       "username": "",
       "displayName": "Visitante #D578CBF0",
       "visitorShortId": "D578CBF0",
-      "lastSeenAt": 1782034262828,
-      "lastAlertAt": 1782034261607,
+      "lastSeenAt": 1782034265882,
+      "lastAlertAt": 1782034265882,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

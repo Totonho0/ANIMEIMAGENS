@@ -994,6 +994,13 @@
       "title": "Kaifuku Jutsushi no Yarinaoshi - Animes",
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNi9hc3Npc3Rpci1rYWlmdWt1LWp1dHN1c2hpLW5vLXlhcmluYW9zaGktdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXMtb25saW5lLmpwZw",
       "kind": "anime"
+    },
+    "seihantai-na-kimi-to-boku": {
+      "slug": "seihantai-na-kimi-to-boku",
+      "title": "You and I Are Polar Opposites",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9zSG1mNGFNZFRwWUZDZjB3cUY4TFlaNDNrUncuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1449,6 +1456,9 @@
     ],
     "kaifuku-jutsushi-no-yarinaoshi": [
       1
+    ],
+    "seihantai-na-kimi-to-boku": [
+      0
     ]
   },
   "watchHistoryLog": [
@@ -1529,5 +1539,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782035045978
+  "updatedAt": 1782035071832
 }

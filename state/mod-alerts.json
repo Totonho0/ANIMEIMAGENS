@@ -9938,6 +9938,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:e81d2c38-ab14-45ea-99a4-43aaab23b26b": {
+      "userKey": "v:e81d2c38-ab14-45ea-99a4-43aaab23b26b",
+      "messageId": "1518287167346966610",
+      "channelId": "1510739162116915371",
+      "ip": "172.71.144.43",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #E81D2C38",
+      "visitorShortId": "E81D2C38",
+      "lastSeenAt": 1782058268986,
+      "lastAlertAt": 1782058268986,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

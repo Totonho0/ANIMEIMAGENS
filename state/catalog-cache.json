@@ -14603,7 +14603,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782068897180
+      "at": 1782069085596
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14878,7 +14878,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782068897805
+      "at": 1782069085640
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -19144,5 +19144,5 @@
       "at": 1782068460635
     }
   },
-  "updatedAt": 1782069083665
+  "updatedAt": 1782069085640
 }

@@ -18102,7 +18102,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782018014493
+      "at": 1782028041648
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -18305,22 +18305,11 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782018010883
+      "at": 1782028038385
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "ichijouma-mankitsugurashi",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/ichijouma-mankitsugurashi-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ow86MjD4paZDUMMmGv4og5vQ9w2-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
           {
             "title": "Episódio 23",
             "epTitle": "Episódio 23",
@@ -18328,6 +18317,39 @@
             "episode": 23,
             "url": "https://animeplay.cloud/episodio/yuusha-no-kuzu-episodio-23",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mK4c1tdCk6AIfZ0AZjKOuqGGgnO-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 500",
+            "epTitle": "Episódio 500",
+            "slug": "naruto-shippuden",
+            "episode": 500,
+            "url": "https://animeplay.cloud/episodio/naruto-shippuden-episodio-500",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1swhNPNh16f1B6ZqEAmCg7mkWSn-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 1",
+            "epTitle": "Episódio 1",
+            "slug": "naruto-shippuden",
+            "episode": 1,
+            "url": "https://animeplay.cloud/episodio/naruto-shippuden-episodio-01",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/lFg0YnHI7sJkPSv38a8ctE96sqr-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "ichijouma-mankitsugurashi",
+            "episode": 11,
+            "url": "https://animeplay.cloud/episodio/ichijouma-mankitsugurashi-episodio-11",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ow86MjD4paZDUMMmGv4og5vQ9w2-300x170.jpg",
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
@@ -18551,28 +18573,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1y7BjPg5kYGbTQPmln573tvKsJ4-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/aBzNsOBSRznSRB6IowIiHpB1Mct-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -18580,7 +18580,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782018012486
+      "at": 1782028039627
     },
     "partner:animeplay|todos|3||24": {
       "data": {
@@ -20490,7 +20490,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782018011588
+      "at": 1782028039543
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20693,7 +20693,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782018014333
+      "at": 1782028039875
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -21102,5 +21102,5 @@
       "at": 1781990332320
     }
   },
-  "updatedAt": 1782028036730
+  "updatedAt": 1782028041648
 }

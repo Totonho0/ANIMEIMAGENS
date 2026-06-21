@@ -1029,6 +1029,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS91OE53bGFDRmQzb05KeE5qcXZNd1JqNExpQlouanBn",
       "kind": "serie",
       "adult": false
+    },
+    "8254-sausage-party-foodtopia": {
+      "slug": "8254-sausage-party-foodtopia",
+      "title": "Festa Da Salsicha - Comilândia Sausage Party: Foodtopia",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9iNS9kZjYwMDE1Zjg3MGI1Mjc1MjdjZDMxZjAwM2IyYTUuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1502,6 +1509,9 @@
     ],
     "serie/assistir-festa-da-salsicha-comilandia-online": [
       1
+    ],
+    "8254-sausage-party-foodtopia": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1587,5 +1597,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782035703166
+  "updatedAt": 1782035759106
 }

@@ -9641,6 +9641,72 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": true
+    },
+    "v:6e6f8914-cc3e-4016-be96-0b0655357b62": {
+      "userKey": "v:6e6f8914-cc3e-4016-be96-0b0655357b62",
+      "messageId": "1518224122423935007",
+      "channelId": "1510739162116915371",
+      "ip": "184.72.115.35",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #6E6F8914",
+      "visitorShortId": "6E6F8914",
+      "lastSeenAt": 1782043237859,
+      "lastAlertAt": 1782043237859,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:79fa5540-bae6-4ab2-ad76-709994772cd1": {
+      "userKey": "v:79fa5540-bae6-4ab2-ad76-709994772cd1",
+      "messageId": "1518224123258732705",
+      "channelId": "1510739162116915371",
+      "ip": "54.86.66.252",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #79FA5540",
+      "visitorShortId": "79FA5540",
+      "lastSeenAt": 1782043238120,
+      "lastAlertAt": 1782043238120,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:7f4776d2-36f3-429c-bf19-069bbd74fe5a": {
+      "userKey": "v:7f4776d2-36f3-429c-bf19-069bbd74fe5a",
+      "messageId": "",
+      "channelId": "",
+      "ip": "184.72.115.35",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #7F4776D2",
+      "visitorShortId": "7F4776D2",
+      "lastSeenAt": 1782043238302,
+      "lastAlertAt": 0
+    },
+    "v:433d9590-738c-4937-993a-215bca9326ee": {
+      "userKey": "v:433d9590-738c-4937-993a-215bca9326ee",
+      "messageId": "",
+      "channelId": "",
+      "ip": "54.86.66.252",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #433D9590",
+      "visitorShortId": "433D9590",
+      "lastSeenAt": 1782043238306,
+      "lastAlertAt": 0
+    },
+    "v:d5a869c4-415f-4b1e-b833-6e9ee7f86972": {
+      "userKey": "v:d5a869c4-415f-4b1e-b833-6e9ee7f86972",
+      "messageId": "",
+      "channelId": "",
+      "ip": "54.86.66.252",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #D5A869C4",
+      "visitorShortId": "D5A869C4",
+      "lastSeenAt": 1782043238309,
+      "lastAlertAt": 0
     }
   },
   "links": {

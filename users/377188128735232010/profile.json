@@ -1007,8 +1007,7 @@
       "slug": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita",
       "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nb3o5S3F3VEt5OHBDVzJpT3ljQkxNQnRKMHkuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "8601-hazbin-hotel": {
       "slug": "8601-hazbin-hotel",
@@ -1060,6 +1059,9 @@
       1
     ],
     "kaifuku-jutsushi-no-yarinaoshi": [
+      1
+    ],
+    "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita": [
       1
     ]
   },
@@ -1484,9 +1486,14 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita",
+      "ep": 1,
+      "at": 1782035614568
+    },
+    {
       "slug": "kaifuku-jutsushi-no-yarinaoshi",
       "ep": 1,
-      "at": 1782035095501
+      "at": 1782035614568
     },
     {
       "slug": "seikon-no-qwaser",
@@ -1560,5 +1567,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782035464111
+  "updatedAt": 1782035613420
 }

@@ -18393,6 +18393,123 @@
           "Dublado"
         ]
       }
+    },
+    "bible-black": {
+      "at": 1782071473111,
+      "data": {
+        "slug": "bible-black",
+        "title": "Bible Black",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94MkFFNkxlaTl2SkloUzZjeExPaERGb3JBNjMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Escola de Magia Negra",
+            "url": "https://animeplay.cloud/episodio/bible-black-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Ritual Negro",
+            "url": "https://animeplay.cloud/episodio/bible-black-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Sacrifício Negro",
+            "url": "https://animeplay.cloud/episodio/bible-black-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Carícias Negras",
+            "url": "https://animeplay.cloud/episodio/bible-black-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Jantar Negro",
+            "url": "https://animeplay.cloud/episodio/bible-black-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Descendência Negra",
+            "url": "https://animeplay.cloud/episodio/bible-black-episodio-06"
+          }
+        ],
+        "totalEpisodes": 6,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Fantasia",
+          "Mistério",
+          "Sci-Fi"
+        ]
+      }
+    },
+    "ai-shimai-futari-no-kajitsu": {
+      "at": 1782071473284,
+      "data": {
+        "slug": "ai-shimai-futari-no-kajitsu",
+        "title": "Ai Shimai: Futari no Kajitsu",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9vbG5kamNpYVAxVEVoQzIzRWU0ZGVXSFd3N0cuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Primeira Noite: Madonna Devassa",
+            "url": "https://animeplay.cloud/episodio/ai-shimai-futari-no-kajitsu-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Noite Dois: O Bom Aluno Caído",
+            "url": "https://animeplay.cloud/episodio/ai-shimai-futari-no-kajitsu-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Noite Três: Afogando-se em Amor e Prazer",
+            "url": "https://animeplay.cloud/episodio/ai-shimai-futari-no-kajitsu-episodio-03"
+          }
+        ],
+        "totalEpisodes": 3,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Erótico",
+          "Harém"
+        ]
+      }
+    },
+    "angel-core-the-animation": {
+      "at": 1782071473451,
+      "data": {
+        "slug": "angel-core-the-animation",
+        "title": "Angel Core The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9qZ0F2OHVtaTlZR0ZJY2RhTzRueFFZNllPa2IuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Vida dos Anjos, Parte 1",
+            "url": "https://animeplay.cloud/episodio/angel-core-the-animation-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Vida dos Anjos, Parte 2",
+            "url": "https://animeplay.cloud/episodio/angel-core-the-animation-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Erótico"
+        ]
+      }
     }
   }
 }

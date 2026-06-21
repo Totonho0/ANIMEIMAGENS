@@ -987,6 +987,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8xaHlwaUZjMXVXR2h4MlRzVTJENWZaNEV2N1kuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "kaifuku-jutsushi-no-yarinaoshi": {
+      "slug": "kaifuku-jutsushi-no-yarinaoshi",
+      "title": "Kaifuku Jutsushi no Yarinaoshi - Animes",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNi9hc3Npc3Rpci1rYWlmdWt1LWp1dHN1c2hpLW5vLXlhcmluYW9zaGktdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXMtb25saW5lLmpwZw",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1436,6 +1443,9 @@
     ],
     "ishuzoku-reviewers": [
       1
+    ],
+    "kaifuku-jutsushi-no-yarinaoshi": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1511,5 +1521,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782034908071
+  "updatedAt": 1782035000111
 }

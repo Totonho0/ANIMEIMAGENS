@@ -10398,6 +10398,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:afb33e80-750c-4106-9b38-1b8755839205": {
+      "userKey": "v:afb33e80-750c-4106-9b38-1b8755839205",
+      "messageId": "1518552765016838176",
+      "channelId": "1510739162116915371",
+      "ip": "216.73.216.152",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #AFB33E80",
+      "visitorShortId": "AFB33E80",
+      "lastSeenAt": 1782121592434,
+      "lastAlertAt": 1782121592434,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

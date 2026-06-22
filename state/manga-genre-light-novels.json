@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "the-beginning-after-the-end",
+      "titleId": "the-beginning-after-the-end",
+      "slug": "the-beginning-after-the-end",
+      "title": "The Beginning After The End",
+      "author": "TurtleMe",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1CZWdpbm5pbmctQWZ0ZXItVGhlLUVuZC0xLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1iZWdpbm5pbmctYWZ0ZXItdGhlLWVuZC9jYXBpdHVsby0yMjUv",
+      "chapterName": "Capitulo 225",
+      "sub": "Capitulo 225"
+    },
+    {
+      "id": "parallel-world-pharmacy",
+      "titleId": "parallel-world-pharmacy",
+      "slug": "parallel-world-pharmacy",
+      "title": "Parallel World Pharmacy",
+      "author": "Takayama Liz",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1BhcmFsbGVsLVdvcmxkLVBoYXJtYWN5LTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3BhcmFsbGVsLXdvcmxkLXBoYXJtYWN5L2NhcGl0dWxvLTQ2Lw",
+      "chapterName": "Capitulo 46.",
+      "sub": "Capitulo 46."
+    },
+    {
+      "id": "yuusha-party-wo-oidasareta-kiyoubinbou-party-jijou-de-fuyojitsushi-wo-yatteita-kenshi-bannou-e-to-itaru",
+      "titleId": "yuusha-party-wo-oidasareta-kiyoubinbou-party-jijou-de-fuyojitsushi-wo-yatteita-kenshi-bannou-e-to-itaru",
+      "slug": "yuusha-party-wo-oidasareta-kiyoubinbou-party-jijou-de-fuyojitsushi-wo-yatteita-kenshi-bannou-e-to-itaru",
+      "title": "Yuusha Party wo Oidasareta Kiyoubinbou ~Party Jijou de Fuyojitsushi wo Yatteita Kenshi, Bannou e to Itaru~",
+      "author": "Itsuki Togami",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1l1dXNoYS1QYXJ0eS13by1PaWRhc2FyZXRhLUtpeW91YmluYm91LVBhcnR5LUppam91LWRlLUZ1eW9qaXRzdXNoaS13by1ZYXR0ZWl0YS1LZW5zaGktQmFubm91LWUtdG8tSXRhcnUtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3l1dXNoYS1wYXJ0eS13by1vaWRhc2FyZXRhLWtpeW91YmluYm91LXBhcnR5LWppam91LWRlLWZ1eW9qaXRzdXNoaS13by15YXR0ZWl0YS1rZW5zaGktYmFubm91LWUtdG8taXRhcnUvY2FwaXR1bG8tMjYv",
+      "chapterName": "Capitulo 26",
+      "sub": "Capitulo 26"
+    }
+  ],
+  "updatedAt": 1782147297439,
+  "total": 3,
+  "genre": "light-novels",
+  "source": "mangalivre"
+}

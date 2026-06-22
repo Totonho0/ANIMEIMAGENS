@@ -1060,6 +1060,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oR3JXZ3JQYjgwTWJieDNoRnFzZjB3ZWx4THUuanBn",
       "kind": "anime",
       "adult": false
+    },
+    "ghost-concert-missing-songs": {
+      "slug": "ghost-concert-missing-songs",
+      "title": "GHOST CONCERT: missing Songs",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oZVY3RnFjU2J6OXpXZXJMMFVqOGRBb3lJWFAuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1551,6 +1558,9 @@
     ],
     "douse-koishite-shimaunda-2nd-season": [
       1
+    ],
+    "ghost-concert-missing-songs": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1641,5 +1651,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782146798952
+  "updatedAt": 1782146902602
 }

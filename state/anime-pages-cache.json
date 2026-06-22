@@ -20808,6 +20808,734 @@
         "kind": "anime",
         "provider": "animesdigital"
       }
+    },
+    "hokkaido-gals-are-super-adorable": {
+      "at": 1782138726112,
+      "data": {
+        "slug": "hokkaido-gals-are-super-adorable",
+        "title": "Hokkaido Gals Are Super Adorable! - Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC92c1ZoeUZodEo2WEJjMEZrVlFwdnFzUGpObTcuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Gyarus de Hokkaido são adoráveis!",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Dentro do Iglu é Tão Quentinho",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Akino-san é Antipática Demais",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Ligações Tarde da Noite Preocupam",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Superamargo, Superdoce",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "A Natsukawa-senpai é Lindíssima",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 8",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 9",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10",
+            "url": "https://animeplay.cloud/episodio/hokkaido-gals-are-super-adorable-episodio-10"
+          }
+        ],
+        "totalEpisodes": 10,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animazione"
+        ]
+      }
+    },
+    "captaintsubasa2018": {
+      "at": 1782138726360,
+      "data": {
+        "slug": "captaintsubasa2018",
+        "title": "Captain Tsubasa 2018 Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1jYXB0YWluLXRzdWJhc2EtMjAxOC10b2Rvcy1vcy1lcGlzb2Rpb3Mtb25saW5lLWFuaW1lc2RpZ2l0YWwuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 2,
+            "title": "Captain Tsubasa (2018) Episódio 02 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6910/",
+            "videoId": "6910"
+          },
+          {
+            "number": 3,
+            "title": "Captain Tsubasa (2018) Episódio 03 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6909/",
+            "videoId": "6909"
+          },
+          {
+            "number": 4,
+            "title": "Captain Tsubasa (2018) Episódio 04 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6908/",
+            "videoId": "6908"
+          },
+          {
+            "number": 5,
+            "title": "Captain Tsubasa (2018) Episódio 05 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6907/",
+            "videoId": "6907"
+          },
+          {
+            "number": 6,
+            "title": "Captain Tsubasa (2018) Episódio 06 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6906/",
+            "videoId": "6906"
+          },
+          {
+            "number": 7,
+            "title": "Captain Tsubasa (2018) Episódio 07 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6905/",
+            "videoId": "6905"
+          },
+          {
+            "number": 8,
+            "title": "Captain Tsubasa (2018) Episódio 08 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6904/",
+            "videoId": "6904"
+          },
+          {
+            "number": 9,
+            "title": "Captain Tsubasa (2018) Episódio 09 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6903/",
+            "videoId": "6903"
+          },
+          {
+            "number": 10,
+            "title": "Captain Tsubasa (2018) Episódio 10 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6902/",
+            "videoId": "6902"
+          },
+          {
+            "number": 11,
+            "title": "Captain Tsubasa (2018) Episódio 11 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6901/",
+            "videoId": "6901"
+          },
+          {
+            "number": 12,
+            "title": "Captain Tsubasa (2018) Episódio 12 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6900/",
+            "videoId": "6900"
+          },
+          {
+            "number": 13,
+            "title": "Captain Tsubasa (2018) Episódio 13 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6899/",
+            "videoId": "6899"
+          },
+          {
+            "number": 14,
+            "title": "Captain Tsubasa (2018) Episódio 14 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6898/",
+            "videoId": "6898"
+          },
+          {
+            "number": 15,
+            "title": "Captain Tsubasa (2018) Episódio 15 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6897/",
+            "videoId": "6897"
+          },
+          {
+            "number": 16,
+            "title": "Captain Tsubasa (2018) Episódio 16 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6896/",
+            "videoId": "6896"
+          },
+          {
+            "number": 17,
+            "title": "Captain Tsubasa (2018) Episódio 17 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6895/",
+            "videoId": "6895"
+          },
+          {
+            "number": 18,
+            "title": "Captain Tsubasa (2018) Episódio 18 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6894/",
+            "videoId": "6894"
+          },
+          {
+            "number": 19,
+            "title": "Captain Tsubasa (2018) Episódio 19 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6893/",
+            "videoId": "6893"
+          },
+          {
+            "number": 20,
+            "title": "Captain Tsubasa (2018) Episódio 20 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6892/",
+            "videoId": "6892"
+          },
+          {
+            "number": 21,
+            "title": "Captain Tsubasa (2018) Episódio 21 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6891/",
+            "videoId": "6891"
+          },
+          {
+            "number": 22,
+            "title": "Captain Tsubasa (2018) Episódio 22 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6890/",
+            "videoId": "6890"
+          },
+          {
+            "number": 23,
+            "title": "Captain Tsubasa (2018) Episódio 23 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6889/",
+            "videoId": "6889"
+          },
+          {
+            "number": 24,
+            "title": "Captain Tsubasa (2018) Episódio 24 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6888/",
+            "videoId": "6888"
+          },
+          {
+            "number": 25,
+            "title": "Captain Tsubasa (2018) Episódio 25 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6887/",
+            "videoId": "6887"
+          },
+          {
+            "number": 26,
+            "title": "Captain Tsubasa (2018) Episódio 26 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6886/",
+            "videoId": "6886"
+          },
+          {
+            "number": 27,
+            "title": "Captain Tsubasa (2018) Episódio 27 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6885/",
+            "videoId": "6885"
+          },
+          {
+            "number": 28,
+            "title": "Captain Tsubasa (2018) Episódio 28 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6884/",
+            "videoId": "6884"
+          },
+          {
+            "number": 29,
+            "title": "Captain Tsubasa (2018) Episódio 29 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6883/",
+            "videoId": "6883"
+          },
+          {
+            "number": 30,
+            "title": "Captain Tsubasa (2018) Episódio 30 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6882/",
+            "videoId": "6882"
+          },
+          {
+            "number": 31,
+            "title": "Captain Tsubasa (2018) Episódio 31 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6881/",
+            "videoId": "6881"
+          },
+          {
+            "number": 32,
+            "title": "Captain Tsubasa (2018) Episódio 32 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6880/",
+            "videoId": "6880"
+          },
+          {
+            "number": 33,
+            "title": "Captain Tsubasa (2018) Episódio 33 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6879/",
+            "videoId": "6879"
+          },
+          {
+            "number": 34,
+            "title": "Captain Tsubasa (2018) Episódio 34 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6878/",
+            "videoId": "6878"
+          },
+          {
+            "number": 35,
+            "title": "Captain Tsubasa (2018) Episódio 35 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6877/",
+            "videoId": "6877"
+          },
+          {
+            "number": 36,
+            "title": "Captain Tsubasa (2018) Episódio 36 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6876/",
+            "videoId": "6876"
+          },
+          {
+            "number": 37,
+            "title": "Captain Tsubasa (2018) Episódio 37 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6875/",
+            "videoId": "6875"
+          },
+          {
+            "number": 38,
+            "title": "Captain Tsubasa (2018) Episódio 38 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6874/",
+            "videoId": "6874"
+          },
+          {
+            "number": 39,
+            "title": "Captain Tsubasa (2018) Episódio 39 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6873/",
+            "videoId": "6873"
+          },
+          {
+            "number": 40,
+            "title": "Captain Tsubasa (2018) Episódio 40 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6872/",
+            "videoId": "6872"
+          },
+          {
+            "number": 41,
+            "title": "Captain Tsubasa (2018) Episódio 41 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6871/",
+            "videoId": "6871"
+          },
+          {
+            "number": 42,
+            "title": "Captain Tsubasa (2018) Episódio 42 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6870/",
+            "videoId": "6870"
+          },
+          {
+            "number": 43,
+            "title": "Captain Tsubasa (2018) Episódio 43 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6869/",
+            "videoId": "6869"
+          },
+          {
+            "number": 44,
+            "title": "Captain Tsubasa (2018) Episódio 44 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6868/",
+            "videoId": "6868"
+          },
+          {
+            "number": 45,
+            "title": "Captain Tsubasa (2018) Episódio 45 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6867/",
+            "videoId": "6867"
+          },
+          {
+            "number": 46,
+            "title": "Captain Tsubasa (2018) Episódio 46 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6866/",
+            "videoId": "6866"
+          },
+          {
+            "number": 47,
+            "title": "Captain Tsubasa (2018) Episódio 47 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6865/",
+            "videoId": "6865"
+          },
+          {
+            "number": 48,
+            "title": "Captain Tsubasa (2018) Episódio 48 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6864/",
+            "videoId": "6864"
+          },
+          {
+            "number": 49,
+            "title": "Captain Tsubasa (2018) Episódio 49 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6863/",
+            "videoId": "6863"
+          },
+          {
+            "number": 50,
+            "title": "Captain Tsubasa (2018) Episódio 50 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6862/",
+            "videoId": "6862"
+          },
+          {
+            "number": 51,
+            "title": "Captain Tsubasa (2018) Episódio 51 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/6861/",
+            "videoId": "6861"
+          }
+        ],
+        "totalEpisodes": 50,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
+    },
+    "captain-tsubasa-season-2-junior-youth-hen": {
+      "at": 1782138726668,
+      "data": {
+        "slug": "captain-tsubasa-season-2-junior-youth-hen",
+        "title": "Captain Tsubasa Season 2: Junior Youth Hen - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8xMC9DYXB0YWluLVRzdWJhc2EtU2Vhc29uLTAyRXAuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 01 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/104865/",
+            "videoId": "104865"
+          },
+          {
+            "number": 2,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 02 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/105098/",
+            "videoId": "105098"
+          },
+          {
+            "number": 3,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 03 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/105391/",
+            "videoId": "105391"
+          },
+          {
+            "number": 4,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 04 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/105979/",
+            "videoId": "105979"
+          },
+          {
+            "number": 5,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 05 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/106435/",
+            "videoId": "106435"
+          },
+          {
+            "number": 6,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 06 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/106712/",
+            "videoId": "106712"
+          },
+          {
+            "number": 7,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 07 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/107216/",
+            "videoId": "107216"
+          },
+          {
+            "number": 8,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 08 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/107406/",
+            "videoId": "107406"
+          },
+          {
+            "number": 9,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 09 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/107563/",
+            "videoId": "107563"
+          },
+          {
+            "number": 10,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 10 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/108060/",
+            "videoId": "108060"
+          },
+          {
+            "number": 11,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 11 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/108581/",
+            "videoId": "108581"
+          },
+          {
+            "number": 12,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 12 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/109026/",
+            "videoId": "109026"
+          },
+          {
+            "number": 13,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 13 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/109453/",
+            "videoId": "109453"
+          },
+          {
+            "number": 14,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 14 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/110155/",
+            "videoId": "110155"
+          },
+          {
+            "number": 15,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 15 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/110554/",
+            "videoId": "110554"
+          },
+          {
+            "number": 16,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 16 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/110913/",
+            "videoId": "110913"
+          },
+          {
+            "number": 17,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 17 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/111151/",
+            "videoId": "111151"
+          },
+          {
+            "number": 18,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 18 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/111335/",
+            "videoId": "111335"
+          },
+          {
+            "number": 19,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 19 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/111516/",
+            "videoId": "111516"
+          },
+          {
+            "number": 20,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 20 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/111710/",
+            "videoId": "111710"
+          },
+          {
+            "number": 21,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 21 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/111869/",
+            "videoId": "111869"
+          },
+          {
+            "number": 22,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 22 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/112225/",
+            "videoId": "112225"
+          },
+          {
+            "number": 23,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 23 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/112417/",
+            "videoId": "112417"
+          },
+          {
+            "number": 24,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 24 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/112693/",
+            "videoId": "112693"
+          },
+          {
+            "number": 25,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 25 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/112950/",
+            "videoId": "112950"
+          },
+          {
+            "number": 26,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 26 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/113477/",
+            "videoId": "113477"
+          },
+          {
+            "number": 27,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 27 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/113864/",
+            "videoId": "113864"
+          },
+          {
+            "number": 28,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 28 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/114281/",
+            "videoId": "114281"
+          },
+          {
+            "number": 29,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 29 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/114600/",
+            "videoId": "114600"
+          },
+          {
+            "number": 30,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 30 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/115163/",
+            "videoId": "115163"
+          },
+          {
+            "number": 31,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 31 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/115389/",
+            "videoId": "115389"
+          },
+          {
+            "number": 32,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 32 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/115744/",
+            "videoId": "115744"
+          },
+          {
+            "number": 33,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 33 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/116139/",
+            "videoId": "116139"
+          },
+          {
+            "number": 34,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 34 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/116413/",
+            "videoId": "116413"
+          },
+          {
+            "number": 35,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 35 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/116716/",
+            "videoId": "116716"
+          },
+          {
+            "number": 36,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 36 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/117101/",
+            "videoId": "117101"
+          },
+          {
+            "number": 37,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 37 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/117461/",
+            "videoId": "117461"
+          },
+          {
+            "number": 38,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 38 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/118192/",
+            "videoId": "118192"
+          },
+          {
+            "number": 39,
+            "title": "Captain Tsubasa Season 2: Junior Youth Hen Episódio 39 1 ano atrás",
+            "url": "https://animesdigital.org/video/a/118765/",
+            "videoId": "118765"
+          }
+        ],
+        "totalEpisodes": 39,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
+    },
+    "bakemonogatari": {
+      "at": 1782138726986,
+      "data": {
+        "slug": "bakemonogatari",
+        "title": "Monogatari Bakemonogatari - Todos os Episodios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8yV0JPM0M3Q2pzT1RUNXdnaTlJbm41aVFoVnYuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-13"
+          },
+          {
+            "number": 14,
+            "title": "Episódio 14",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-14"
+          },
+          {
+            "number": 15,
+            "title": "Episódio 15",
+            "url": "https://animeplay.cloud/episodio/bakemonogatari-episodio-15"
+          }
+        ],
+        "totalEpisodes": 15,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Mistério",
+          "Romance",
+          "Sobrenatural",
+          "Vampiros"
+        ]
+      }
     }
   }
 }

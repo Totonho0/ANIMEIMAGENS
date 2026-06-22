@@ -7150,25 +7150,6 @@
       "viewingDetail": "",
       "viewingUpdatedAt": 0
     },
-    "d:377188128735232010": {
-      "userKey": "d:377188128735232010",
-      "messageId": "1517651551324209293",
-      "channelId": "1510693609551171775",
-      "ip": "143.131.235.95",
-      "discordId": "377188128735232010",
-      "username": "Totonho",
-      "lastSeenAt": 1782155148650,
-      "lastAlertAt": 1782155148650,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": true,
-      "displayName": "Visitante #BA101024",
-      "visitorShortId": "BA101024",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:9dfb722c-518d-4c04-b178-22f9a59179fd": {
       "userKey": "v:9dfb722c-518d-4c04-b178-22f9a59179fd",
       "messageId": "1517655231784030279",
@@ -10534,6 +10515,21 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "ip:84f757da9050388e": {
+      "userKey": "v:ba101024-f5a4-4122-a8ed-37b79c19d319",
+      "messageId": "1518693673116635337",
+      "channelId": "1510739162116915371",
+      "ip": "143.131.235.95",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #BA101024",
+      "visitorShortId": "BA101024",
+      "lastSeenAt": 1782155187516,
+      "lastAlertAt": 1782155187712,
+      "componentsOk": true,
+      "viaBot": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {
@@ -10545,22 +10541,12 @@
     "ip:6341e28cd3662be4": "d:736671123311165632",
     "ip:e72fa05428289533": "d:1474466223709487367",
     "ip:bbe58f10438a6879": "d:1474466223709487367",
-    "v:0b6db295-2edd-446c-b2fb-a9aba7624610": "d:377188128735232010",
     "d:377188128735232010": "ip:84f757da9050388e",
     "ip:84f757da9050388e": "d:377188128735232010",
-    "ip:cc9dbbb7af63ba2b": "d:377188128735232010",
-    "v:85667776-9e10-4873-9176-1f16040c0369": "d:377188128735232010",
-    "v:9052d48c-6388-45e1-be7b-d5190cf2a5d0": "d:377188128735232010",
-    "ip:c1d1436adf3d1888": "d:377188128735232010",
     "ip:fbd930ac14ec8dc8": "d:1474466223709487367",
-    "v:77992dec-47f6-47b8-97dd-753dd5331927": "d:377188128735232010",
-    "v:d578cbf0-6bc4-4d09-b60f-4c60418fa006": "d:377188128735232010",
     "v:a935924b-1335-4017-a604-f2d9ca113cca": "d:995170142277349476",
     "d:995170142277349476": "ip:61b3a35c1ac01b08",
     "ip:61b3a35c1ac01b08": "d:995170142277349476",
-    "v:f6abc91d-02d7-4d3a-bc66-43a0143314b5": "d:377188128735232010",
-    "v:ba101024-f5a4-4122-a8ed-37b79c19d319": "d:377188128735232010",
-    "ip:770f26e7d69ce76f": "d:1474466223709487367",
-    "ip:7f5e0dcc71d305e6": "d:377188128735232010"
+    "ip:770f26e7d69ce76f": "d:1474466223709487367"
   }
 }

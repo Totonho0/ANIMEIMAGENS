@@ -10120,6 +10120,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:3f206548-aec8-4ea5-b1d5-7cfb67010fed": {
+      "userKey": "v:3f206548-aec8-4ea5-b1d5-7cfb67010fed",
+      "messageId": "1518407081143828491",
+      "channelId": "1510739162116915371",
+      "ip": "172.68.183.58",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #3F206548",
+      "visitorShortId": "3F206548",
+      "lastSeenAt": 1782086858655,
+      "lastAlertAt": 1782086858655,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

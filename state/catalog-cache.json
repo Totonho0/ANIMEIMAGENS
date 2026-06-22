@@ -14198,11 +14198,22 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782150021191
+      "at": 1782151942174
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "liar-game",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/liar-game-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nPCNgkTcsPFw6aQ2L0OlF00sR4p-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 12",
             "epTitle": "Episódio 12",
@@ -14455,17 +14466,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kami-no-niwatsuki-kusunoki-tei",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/kami-no-niwatsuki-kusunoki-tei-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/4c9jXfVmfjimRgD1rgIL49DkYt2-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14473,7 +14473,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782150021187
+      "at": 1782151942462
     },
     "genre-row:drama": {
       "data": {
@@ -21001,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782150187064
+  "updatedAt": 1782151942462
 }

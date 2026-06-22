@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "girls-x-vampire",
+      "titleId": "girls-x-vampire",
+      "slug": "girls-x-vampire",
+      "title": "Girls × Vampire",
+      "author": "Mikami Teren",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dpcmxzLcOXLVZhbXBpcmUtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dpcmxzLXgtdmFtcGlyZS9jYXBpdHVsby0xNF8xLw",
+      "chapterName": "Capitulo 14",
+      "sub": "Capitulo 14"
+    }
+  ],
+  "updatedAt": 1782147294231,
+  "total": 1,
+  "genre": "vampiros",
+  "source": "mangalivre"
+}

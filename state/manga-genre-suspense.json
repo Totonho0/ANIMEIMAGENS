@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "lets-make-a-harem-in-a-zombie-world",
+      "titleId": "lets-make-a-harem-in-a-zombie-world",
+      "slug": "lets-make-a-harem-in-a-zombie-world",
+      "title": "Let’s Make a Harem in a Zombie World!",
+      "author": "Imai Yuu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0xldHMtTWFrZS1hLUhhcmVtLWluLWEtWm9tYmllLVdvcmxkLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2xldHMtbWFrZS1hLWhhcmVtLWluLWEtem9tYmllLXdvcmxkL2NhcGl0dWxvLTA3Lw",
+      "chapterName": "Capitulo 07",
+      "sub": "Capitulo 07"
+    },
+    {
+      "id": "happy-massacre-ending",
+      "titleId": "happy-massacre-ending",
+      "slug": "happy-massacre-ending",
+      "title": "Happy Massacre Ending",
+      "author": "Miyatsuki Arata",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0hhcHB5LU1hc3NhY3JlLUVuZGluZy0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2hhcHB5LW1hc3NhY3JlLWVuZGluZy9jYXBpdHVsby04Lw",
+      "chapterName": "Capitulo 8",
+      "sub": "Capitulo 8"
+    }
+  ],
+  "updatedAt": 1782147294250,
+  "total": 2,
+  "genre": "suspense",
+  "source": "mangalivre"
+}

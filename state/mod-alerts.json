@@ -10366,11 +10366,23 @@
       "username": "",
       "displayName": "Visitante #9E3DBCBF",
       "visitorShortId": "9E3DBCBF",
-      "lastSeenAt": 1782118325248,
+      "lastSeenAt": 1782118327072,
       "lastAlertAt": 1782118325248,
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": true
+    },
+    "v:439020be-e2f4-48c3-8a8d-08ac11f827a5": {
+      "userKey": "v:439020be-e2f4-48c3-8a8d-08ac11f827a5",
+      "messageId": "",
+      "channelId": "",
+      "ip": "34.0.61.43",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #439020BE",
+      "visitorShortId": "439020BE",
+      "lastSeenAt": 1782118327873,
+      "lastAlertAt": 0
     }
   },
   "links": {

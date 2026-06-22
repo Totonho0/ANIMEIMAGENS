@@ -7177,10 +7177,10 @@
       "discordId": "377188128735232010",
       "username": "Totonho",
       "lastSeenAt": 1782146906828,
-      "lastAlertAt": 1782146906828,
+      "lastAlertAt": 1782147242703,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #BA101024",
       "visitorShortId": "BA101024",
       "viewingKind": "anime",
@@ -10556,10 +10556,10 @@
       "displayName": "Visitante #1DA384E1",
       "visitorShortId": "1DA384E1",
       "lastSeenAt": 1782146886745,
-      "lastAlertAt": 1782146886745,
+      "lastAlertAt": 1782147242703,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

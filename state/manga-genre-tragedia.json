@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "lets-make-a-harem-in-a-zombie-world",
+      "titleId": "lets-make-a-harem-in-a-zombie-world",
+      "slug": "lets-make-a-harem-in-a-zombie-world",
+      "title": "Let’s Make a Harem in a Zombie World!",
+      "author": "Imai Yuu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0xldHMtTWFrZS1hLUhhcmVtLWluLWEtWm9tYmllLVdvcmxkLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2xldHMtbWFrZS1hLWhhcmVtLWluLWEtem9tYmllLXdvcmxkL2NhcGl0dWxvLTA3Lw",
+      "chapterName": "Capitulo 07",
+      "sub": "Capitulo 07"
+    },
+    {
+      "id": "asuras-verdict",
+      "titleId": "asuras-verdict",
+      "slug": "asuras-verdict",
+      "title": "Asura’s Verdict",
+      "author": "Unohana Utsugi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0FzdXJhcy1WZXJkaWN0LTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2FzdXJhcy12ZXJkaWN0L2NhcGl0dWxvLTE2Lw",
+      "chapterName": "Capitulo 16",
+      "sub": "Capitulo 16"
+    },
+    {
+      "id": "the-summer-you-were-there",
+      "titleId": "the-summer-you-were-there",
+      "slug": "the-summer-you-were-there",
+      "title": "The Summer You Were There",
+      "author": "Yuama",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1TdW1tZXItWW91LVdlcmUtVGhlcmUtMS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1zdW1tZXIteW91LXdlcmUtdGhlcmUvY2FwaXR1bG8tMzEv",
+      "chapterName": "Capitulo 31",
+      "sub": "Capitulo 31"
+    }
+  ],
+  "updatedAt": 1782147289596,
+  "total": 3,
+  "genre": "tragedia",
+  "source": "mangalivre"
+}

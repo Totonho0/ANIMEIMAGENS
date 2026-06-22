@@ -10524,10 +10524,10 @@
       "discordId": "377188128735232010",
       "username": "Totonho",
       "lastSeenAt": 1782155203266,
-      "lastAlertAt": 1782155202714,
+      "lastAlertAt": 1782155513248,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #BA101024",
       "visitorShortId": "BA101024"
     }

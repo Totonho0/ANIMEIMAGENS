@@ -14073,6 +14073,22 @@
       "data": {
         "items": [
           {
+            "title": "Tongari Boushi no Atelier Dublado",
+            "slug": "assistir-tongari-boushi-no-atelier-dublado",
+            "url": "https://animesdigital.org/video/a/136708/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tongari-Boushi-no-Atelier-dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Tsue to Tsurugi no Wistoria Season 2 Dublado",
+            "slug": "assistir-tsue-to-tsurugi-no-wistoria-season-2-dublado",
+            "url": "https://animesdigital.org/video/a/136707/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Tsue-to-Tsurugi-no-Wistoria-2-dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Yomi no Tsugai Dublado",
             "slug": "assistir-yomi-no-tsugai-dublado",
             "url": "https://animesdigital.org/video/a/136706/",
@@ -14175,22 +14191,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/MAOEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Ichijouma Mankitsugurashi!",
-            "slug": "assistir-ichijouma-mankitsugurashi!",
-            "url": "https://animesdigital.org/video/a/136692/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ichijouma-Mankitsugurashi.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Yuusha no Kuzu",
-            "slug": "assistir-yuusha-no-kuzu",
-            "url": "https://animesdigital.org/video/a/136691/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Yuusha-no-KuzuEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -14198,7 +14198,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782147965211
+      "at": 1782148643233
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14473,7 +14473,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782147965544
+      "at": 1782148643643
     },
     "genre-row:drama": {
       "data": {
@@ -21001,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782148141058
+  "updatedAt": 1782148643643
 }

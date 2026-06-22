@@ -10523,13 +10523,17 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1782155203266,
-      "lastAlertAt": 1782155513248,
+      "lastSeenAt": 1782155635914,
+      "lastAlertAt": 1782155635551,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false,
+      "embedOnlineStatus": true,
       "displayName": "Visitante #BA101024",
-      "visitorShortId": "BA101024"
+      "visitorShortId": "BA101024",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

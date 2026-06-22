@@ -14073,6 +14073,30 @@
       "data": {
         "items": [
           {
+            "title": "Isekai Nonbiri Nouka 2",
+            "slug": "assistir-isekai-nonbiri-nouka-2",
+            "url": "https://animesdigital.org/video/a/136705/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/Isekai-Nonbiri-Nouka-2Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
+            "slug": "assistir-ponkotsu-fuukiin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "url": "https://animesdigital.org/video/a/136703/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ponkotsu-Fuukiin-to-Skirt-Take-ga-Futekisetsu-na-JK-no-HanashiEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Tongari Boushi no Atelier",
+            "slug": "assistir-tongari-boushi-no-atelier",
+            "url": "https://animesdigital.org/video/a/136702/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tongari-Boushi-no-AteliereP.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "One Piece",
             "slug": "assistir-one-piece",
             "url": "https://animesdigital.org/video/a/136699/",
@@ -14159,30 +14183,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Needy-Girl-OverdoseEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Kami no Niwatsuki Kusunoki-tei",
-            "slug": "assistir-kami-no-niwatsuki-kusunoki-tei",
-            "url": "https://animesdigital.org/video/a/136688/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kami-no-Niwatsuki-Kusunoki-teiEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Shunkashuutou Daikousha: Haru no Mai",
-            "slug": "assistir-shunkashuutou-daikousha:-haru-no-mai",
-            "url": "https://animesdigital.org/video/a/136687/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/03/assistir-shunkashuutou-daikousha-haru-no-mai-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Kanan-sama wa Akumade Choroi",
-            "slug": "assistir-kanan-sama-wa-akumade-choroi",
-            "url": "https://animesdigital.org/video/a/136686/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kanan-sama-wa-Akumade-ChoroiEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -14190,11 +14190,55 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782138708681
+      "at": 1782145613448
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "nippon-sangoku-dublado",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/nippon-sangoku-dublado-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nAQa3vNkydX0EPOdjibWwYBpYX-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/pFNFbo1sDT9VBqnmXNHDtIn7cIV-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "isekai-nonbiri-nouka-2",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/isekai-nonbiri-nouka-2-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/xMeciVFuEoctMzh7orNJi6OXrjq-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "tongari-boushi-no-atelier",
+            "episode": 13,
+            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-13",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/zSiUGiEGVQwODII0y4MuzGdNUVG-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 1167",
             "epTitle": "Episódio 1167",
@@ -14414,50 +14458,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "shunkashuutou-daikousha-haru-no-mai",
-            "episode": 13,
-            "url": "https://animeplay.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-13",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/gyEjwfcMnkTHrXGKLtX1VdGXWdI-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "yomi-no-tsugai",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/72gZFDiTNjxC4bvOczEoGx0kGgm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kanan-sama-wa-akumade-choroi",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/kanan-sama-wa-akumade-choroi-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fDPKeHJ9tb38b7oDMZImuVpwGIr-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 8",
-            "epTitle": "Episódio 8",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
-            "episode": 8,
-            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-08",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/yXPMZFEjGXESGhKAqRWrnRGaSmJ-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14465,7 +14465,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782138708673
+      "at": 1782145613425
     },
     "genre-row:drama": {
       "data": {
@@ -20993,5 +20993,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782143874725
+  "updatedAt": 1782145613448
 }

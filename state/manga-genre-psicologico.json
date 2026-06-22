@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "id": "xxxholic-rei",
+      "titleId": "xxxholic-rei",
+      "slug": "xxxholic-rei",
+      "title": "xxxHOLiC: Rei",
+      "author": "Clamp",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L3h4eEhPTGlDLVJlaS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3h4eGhvbGljLXJlaS9jYXBpdHVsby02Mi8",
+      "chapterName": "Capitulo 62",
+      "sub": "Capitulo 62"
+    },
+    {
+      "id": "happy-massacre-ending",
+      "titleId": "happy-massacre-ending",
+      "slug": "happy-massacre-ending",
+      "title": "Happy Massacre Ending",
+      "author": "Miyatsuki Arata",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0hhcHB5LU1hc3NhY3JlLUVuZGluZy0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2hhcHB5LW1hc3NhY3JlLWVuZGluZy9jYXBpdHVsby04Lw",
+      "chapterName": "Capitulo 8",
+      "sub": "Capitulo 8"
+    },
+    {
+      "id": "genkaku-shoujo-ga-tsukimatou-hanashi",
+      "titleId": "genkaku-shoujo-ga-tsukimatou-hanashi",
+      "slug": "genkaku-shoujo-ga-tsukimatou-hanashi",
+      "title": "Genkaku Shoujo ga Tsukimatou Hanashi",
+      "author": "Hamita",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dlbmtha3UtU2hvdWpvLWdhLVRzdWtpbWF0b3UtSGFuYXNoaS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dlbmtha3Utc2hvdWpvLWdhLXRzdWtpbWF0b3UtaGFuYXNoaS9jYXBpdHVsby0wOS1maW5hbC8",
+      "chapterName": "Capitulo 09 - Final",
+      "sub": "Capitulo 09 - Final"
+    },
+    {
+      "id": "captain-tsubasa-the-strongest-opponent-holland-youth",
+      "titleId": "captain-tsubasa-the-strongest-opponent-holland-youth",
+      "slug": "captain-tsubasa-the-strongest-opponent-holland-youth",
+      "title": "Captain Tsubasa: The Strongest Opponent! Holland Youth",
+      "author": "Takahashi Yoichi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0NhcHRhaW4tVHN1YmFzYS1UaGUtU3Ryb25nZXN0LU9wcG9uZW50LUhvbGxhbmQtWW91dGgtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NhcHRhaW4tdHN1YmFzYS10aGUtc3Ryb25nZXN0LW9wcG9uZW50LWhvbGxhbmQteW91dGgvY2FwaXR1bG8tMTEv",
+      "chapterName": "Capitulo 11",
+      "sub": "Capitulo 11"
+    },
+    {
+      "id": "kimi-ni-okuru-eien",
+      "titleId": "kimi-ni-okuru-eien",
+      "slug": "kimi-ni-okuru-eien",
+      "title": "Kimi ni Okuru Eien",
+      "author": "Yuama",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0tpbWktbmktT2t1cnUtRWllbi0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2tpbWktbmktb2t1cnUtZWllbi9vbmVzaG90Lw",
+      "chapterName": "Oneshot",
+      "sub": "Oneshot"
+    },
+    {
+      "id": "the-summer-you-were-there",
+      "titleId": "the-summer-you-were-there",
+      "slug": "the-summer-you-were-there",
+      "title": "The Summer You Were There",
+      "author": "Yuama",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1TdW1tZXItWW91LVdlcmUtVGhlcmUtMS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1zdW1tZXIteW91LXdlcmUtdGhlcmUvY2FwaXR1bG8tMzEv",
+      "chapterName": "Capitulo 31",
+      "sub": "Capitulo 31"
+    }
+  ],
+  "updatedAt": 1782147289604,
+  "total": 6,
+  "genre": "psicologico",
+  "source": "mangalivre"
+}

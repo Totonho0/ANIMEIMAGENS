@@ -20746,6 +20746,68 @@
           "Comédia"
         ]
       }
+    },
+    "mugyutto-black-clover": {
+      "at": 1782130105051,
+      "data": {
+        "slug": "mugyutto-black-clover",
+        "title": "Mugyutto! Black Clover - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1tdWd5dXR0by1ibGFjay1jbG92ZXItdG9kb3Mtb3MtZXBpc29kaW9zLW9ubGluZS1hbmltZXNkaWdpdGFsLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Mugyutto! Black Clover Episódio 01 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5103/",
+            "videoId": "5103"
+          },
+          {
+            "number": 2,
+            "title": "Mugyutto! Black Clover Episódio 02 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5102/",
+            "videoId": "5102"
+          },
+          {
+            "number": 3,
+            "title": "Mugyutto! Black Clover Episódio 03 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5101/",
+            "videoId": "5101"
+          },
+          {
+            "number": 4,
+            "title": "Mugyutto! Black Clover Episódio 04 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5099/",
+            "videoId": "5099"
+          },
+          {
+            "number": 5,
+            "title": "Mugyutto! Black Clover Episódio 05 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5098/",
+            "videoId": "5098"
+          },
+          {
+            "number": 6,
+            "title": "Mugyutto! Black Clover Episódio 06 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5096/",
+            "videoId": "5096"
+          },
+          {
+            "number": 7,
+            "title": "Mugyutto! Black Clover Episódio 07 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5095/",
+            "videoId": "5095"
+          },
+          {
+            "number": 8,
+            "title": "Mugyutto! Black Clover Episódio 08 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/5094/",
+            "videoId": "5094"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
     }
   }
 }

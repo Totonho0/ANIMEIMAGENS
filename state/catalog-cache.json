@@ -14073,6 +14073,14 @@
       "data": {
         "items": [
           {
+            "title": "Liar Game",
+            "slug": "assistir-liar-game",
+            "url": "https://animesdigital.org/video/a/136704/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Liar-GameEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Isekai Nonbiri Nouka 2",
             "slug": "assistir-isekai-nonbiri-nouka-2",
             "url": "https://animesdigital.org/video/a/136705/",
@@ -14190,7 +14198,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782146389226
+      "at": 1782146645693
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14465,7 +14473,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782146389216
+      "at": 1782146645875
     },
     "genre-row:drama": {
       "data": {
@@ -20993,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782146409748
+  "updatedAt": 1782146645875
 }

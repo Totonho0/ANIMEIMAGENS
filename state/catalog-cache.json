@@ -14073,6 +14073,14 @@
       "data": {
         "items": [
           {
+            "title": "Yomi no Tsugai Dublado",
+            "slug": "assistir-yomi-no-tsugai-dublado",
+            "url": "https://animesdigital.org/video/a/136706/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-Tsugai-dublado.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Liar Game",
             "slug": "assistir-liar-game",
             "url": "https://animesdigital.org/video/a/136704/",
@@ -14183,14 +14191,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Yuusha-no-KuzuEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Needy Girl Overdose",
-            "slug": "assistir-needy-girl-overdose",
-            "url": "https://animesdigital.org/video/a/136690/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Needy-Girl-OverdoseEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -14198,7 +14198,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782147281204
+      "at": 1782147965211
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14473,7 +14473,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782147281873
+      "at": 1782147965544
     },
     "genre-row:drama": {
       "data": {
@@ -21001,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782147457674
+  "updatedAt": 1782147965544
 }

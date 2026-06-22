@@ -14198,7 +14198,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782154151500
+      "at": 1782154166721
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14473,7 +14473,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782154152302
+      "at": 1782154166718
     },
     "genre-row:drama": {
       "data": {
@@ -16221,7 +16221,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782150021029
+      "at": 1782154164742
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16585,7 +16585,7 @@
             "title": "ame iro cocoa 2",
             "slug": "ame-iro-cocoa-2",
             "url": "https://animesdigital.org/anime/a/ame-iro-cocoa-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ame-iro-cocoa-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16593,7 +16593,7 @@
             "title": "ange vierge",
             "slug": "ange-vierge",
             "url": "https://animesdigital.org/anime/a/ange-vierge",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ange-vierge-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -16603,7 +16603,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782150021034
+      "at": 1782154166651
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -21001,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782154152302
+  "updatedAt": 1782154166721
 }

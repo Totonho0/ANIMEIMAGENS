@@ -1058,15 +1058,13 @@
       "slug": "douse-koishite-shimaunda-2nd-season",
       "title": "Anyway, I'm Falling in Love with You. Season 2",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oR3JXZ3JQYjgwTWJieDNoRnFzZjB3ZWx4THUuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     },
     "ghost-concert-missing-songs": {
       "slug": "ghost-concert-missing-songs",
       "title": "GHOST CONCERT: missing Songs",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oZVY3RnFjU2J6OXpXZXJMMFVqOGRBb3lJWFAuanBn",
-      "kind": "anime",
-      "adult": false
+      "kind": "anime"
     }
   },
   "watched": {
@@ -1117,6 +1115,12 @@
       1
     ],
     "euphoria-the-animation": [
+      1
+    ],
+    "douse-koishite-shimaunda-2nd-season": [
+      1
+    ],
+    "ghost-concert-missing-songs": [
       1
     ]
   },
@@ -1565,6 +1569,16 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "ghost-concert-missing-songs",
+      "ep": 1,
+      "at": 1782147256874
+    },
+    {
+      "slug": "douse-koishite-shimaunda-2nd-season",
+      "ep": 1,
+      "at": 1782147256874
+    },
+    {
       "slug": "euphoria-the-animation",
       "ep": 1,
       "at": 1782067059021
@@ -1651,5 +1665,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782146902602
+  "updatedAt": 1782147258216
 }

@@ -10220,11 +10220,15 @@
       "username": "",
       "displayName": "Visitante #BA101024",
       "visitorShortId": "BA101024",
-      "lastSeenAt": 1782094016103,
-      "lastAlertAt": 1782094014937,
+      "lastSeenAt": 1782094035894,
+      "lastAlertAt": 1782094035894,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

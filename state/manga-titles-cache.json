@@ -9784,6 +9784,634 @@
           }
         ]
       }
+    },
+    "a-caminho-de-ver-a-minha-mae": {
+      "at": 1782155135457,
+      "data": {
+        "id": "a-caminho-de-ver-a-minha-mae",
+        "titleId": "a-caminho-de-ver-a-minha-mae",
+        "slug": "a-caminho-de-ver-a-minha-mae",
+        "title": "A caminho de ver a minha mãe",
+        "author": "Comic",
+        "poster": "https://cdn.imperiodabritannia.net/obras/1694/cover.jpg",
+        "language": "PT",
+        "provider": "imperiodabritannia",
+        "kind": "manga",
+        "synopsis": "Mori, é uma criança que foi encontrada em uma casa abandonada e que abre os olhos em um abrigo, onde uma equipe de resgate a acolhe. Um dia, enquanto se adapta a uma vida desconhecida, ele recebe amor incondicional de um patrocinador e cresce. Quando uma amiga próxima vai embora com sua mãe, a criança, que descobre que existe uma mãe, pensa. Será que essa pessoa pode ser… minha mãe? A história da jornada de Mori para conhecer sua mãe distante e difícil.",
+        "genres": [
+          "Ação",
+          "Aventura",
+          "Comédia",
+          "Fantasia",
+          "Slice of Life"
+        ],
+        "chapters": [
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xLjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xLjAw",
+            "name": "01",
+            "subTitle": "01",
+            "title": "01",
+            "numero": "1.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/1.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMi4wMA",
+            "name": "Extra 1",
+            "subTitle": "Extra 1",
+            "title": "Extra 1",
+            "numero": "32.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/32.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yLjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yLjAw",
+            "name": "02",
+            "subTitle": "02",
+            "title": "02",
+            "numero": "2.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/2.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMy4wMA",
+            "name": "Extra 2",
+            "subTitle": "Extra 2",
+            "title": "Extra 2",
+            "numero": "33.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/33.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zLjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zLjAw",
+            "name": "03",
+            "subTitle": "03",
+            "title": "03",
+            "numero": "3.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/3.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNC4wMA",
+            "name": "Extra 3",
+            "subTitle": "Extra 3",
+            "title": "Extra 3",
+            "numero": "34.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/34.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80LjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80LjAw",
+            "name": "04",
+            "subTitle": "04",
+            "title": "04",
+            "numero": "4.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/4.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNS4wMA",
+            "name": "Extra 4",
+            "subTitle": "Extra 4",
+            "title": "Extra 4",
+            "numero": "35.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/35.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby81LjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby81LjAw",
+            "name": "05",
+            "subTitle": "05",
+            "title": "05",
+            "numero": "5.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/5.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNi4wMA",
+            "name": "Extra 5",
+            "subTitle": "Extra 5",
+            "title": "Extra 5",
+            "numero": "36.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/36.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby82LjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby82LjAw",
+            "name": "06",
+            "subTitle": "06",
+            "title": "06",
+            "numero": "6.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/6.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zNy4wMA",
+            "name": "Extra 6",
+            "subTitle": "Extra 6",
+            "title": "Extra 6",
+            "numero": "37.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/37.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby83LjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby83LjAw",
+            "name": "07",
+            "subTitle": "07",
+            "title": "07",
+            "numero": "7.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/7.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zOC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zOC4wMA",
+            "name": "Extra 7",
+            "subTitle": "Extra 7",
+            "title": "Extra 7",
+            "numero": "38.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/38.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby84LjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby84LjAw",
+            "name": "08",
+            "subTitle": "08",
+            "title": "08",
+            "numero": "8.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/8.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zOS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zOS4wMA",
+            "name": "Extra 8",
+            "subTitle": "Extra 8",
+            "title": "Extra 8",
+            "numero": "39.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/39.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby85LjAw",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby85LjAw",
+            "name": "09",
+            "subTitle": "09",
+            "title": "09",
+            "numero": "9.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/9.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80MC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80MC4wMA",
+            "name": "Extra 9",
+            "subTitle": "Extra 9",
+            "title": "Extra 9",
+            "numero": "40.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/40.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMC4wMA",
+            "name": "10",
+            "subTitle": "10",
+            "title": "10",
+            "numero": "10.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/10.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80MS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80MS4wMA",
+            "name": "Extra 10",
+            "subTitle": "Extra 10",
+            "title": "Extra 10",
+            "numero": "41.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/41.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMS4wMA",
+            "name": "11",
+            "subTitle": "11",
+            "title": "11",
+            "numero": "11.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/11.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80Mi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80Mi4wMA",
+            "name": "Extra 11",
+            "subTitle": "Extra 11",
+            "title": "Extra 11",
+            "numero": "42.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/42.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMi4wMA",
+            "name": "12",
+            "subTitle": "12",
+            "title": "12",
+            "numero": "12.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/12.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80My4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80My4wMA",
+            "name": "Extra 12",
+            "subTitle": "Extra 12",
+            "title": "Extra 12",
+            "numero": "43.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/43.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xMy4wMA",
+            "name": "13",
+            "subTitle": "13",
+            "title": "13",
+            "numero": "13.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/13.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80NC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80NC4wMA",
+            "name": "Extra 13",
+            "subTitle": "Extra 13",
+            "title": "Extra 13",
+            "numero": "44.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/44.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNC4wMA",
+            "name": "14",
+            "subTitle": "14",
+            "title": "14",
+            "numero": "14.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/14.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80NS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80NS4wMA",
+            "name": "Extra 14",
+            "subTitle": "Extra 14",
+            "title": "Extra 14",
+            "numero": "45.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/45.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNS4wMA",
+            "name": "15",
+            "subTitle": "15",
+            "title": "15",
+            "numero": "15.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/15.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80Ni4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80Ni4wMA",
+            "name": "Extra 15",
+            "subTitle": "Extra 15",
+            "title": "Extra 15",
+            "numero": "46.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/46.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNi4wMA",
+            "name": "16",
+            "subTitle": "16",
+            "title": "16",
+            "numero": "16.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/16.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80Ny4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80Ny4wMA",
+            "name": "Extra 16",
+            "subTitle": "Extra 16",
+            "title": "Extra 16",
+            "numero": "47.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/47.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xNy4wMA",
+            "name": "17",
+            "subTitle": "17",
+            "title": "17",
+            "numero": "17.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/17.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80OC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby80OC4wMA",
+            "name": "Extra 17",
+            "subTitle": "Extra 17",
+            "title": "Extra 17",
+            "numero": "48.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/48.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xOC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xOC4wMA",
+            "name": "18",
+            "subTitle": "18",
+            "title": "18",
+            "numero": "18.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/18.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xOS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8xOS4wMA",
+            "name": "19",
+            "subTitle": "19",
+            "title": "19",
+            "numero": "19.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/19.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMC4wMA",
+            "name": "20",
+            "subTitle": "20",
+            "title": "20",
+            "numero": "20.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/20.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMS4wMA",
+            "name": "21",
+            "subTitle": "21",
+            "title": "21",
+            "numero": "21.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/21.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMi4wMA",
+            "name": "22",
+            "subTitle": "22",
+            "title": "22",
+            "numero": "22.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/22.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yMy4wMA",
+            "name": "23",
+            "subTitle": "23",
+            "title": "23",
+            "numero": "23.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/23.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNC4wMA",
+            "name": "24",
+            "subTitle": "24",
+            "title": "24",
+            "numero": "24.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/24.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNS4wMA",
+            "name": "25",
+            "subTitle": "25",
+            "title": "25",
+            "numero": "25.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/25.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNi4wMA",
+            "name": "26",
+            "subTitle": "26",
+            "title": "26",
+            "numero": "26.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/26.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yNy4wMA",
+            "name": "27",
+            "subTitle": "27",
+            "title": "27",
+            "numero": "27.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/27.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yOC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yOC4wMA",
+            "name": "28",
+            "subTitle": "28",
+            "title": "28",
+            "numero": "28.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/28.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yOS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8yOS4wMA",
+            "name": "29",
+            "subTitle": "29",
+            "title": "29",
+            "numero": "29.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/29.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMC4wMA",
+            "name": "30",
+            "subTitle": "30",
+            "title": "30",
+            "numero": "30.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/30.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMS4wMA",
+            "name": "31 - Capítulo Final",
+            "subTitle": "31 - Capítulo Final",
+            "title": "31 - Capítulo Final",
+            "numero": "31.00",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/31.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMS41MA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1jYW1pbmhvLWRlLXZlci1hLW1pbmhhLW1hZS9jYXBpdHVsby8zMS41MA",
+            "name": "31.5 - P&R (Perguntas e Respostas)",
+            "subTitle": "31.5 - P&R (Perguntas e Respostas)",
+            "title": "31.5 - P&R (Perguntas e Respostas)",
+            "numero": "31.50",
+            "url": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae/capitulo/31.50",
+            "paywall": false
+          }
+        ],
+        "externalUrl": "https://imperiodabritannia.net/obra/a-caminho-de-ver-a-minha-mae"
+      }
+    },
+    "a-santa-escondida": {
+      "at": 1782155136531,
+      "data": {
+        "id": "a-santa-escondida",
+        "titleId": "a-santa-escondida",
+        "slug": "a-santa-escondida",
+        "title": "A Santa Escondida",
+        "author": "Comic",
+        "poster": "https://cdn.imperiodabritannia.net/obras/1941/cover.webp",
+        "language": "PT",
+        "provider": "imperiodabritannia",
+        "kind": "manga",
+        "synopsis": "300 anos atrás, a Santa Maria foi assassinada por seus poderes mágicos, enquanto seu cavaleiro leal, Avelron, era incapaz de salvá-la. Mas agora, Maria foi reencarnada como uma alegre e jovem mulher chamada Yeriel Hyem. Sem saber de sua verdadeira identidade de Santa, Yeriel está vivendo uma vida pacífica com seus amados pais e irmão mais novo. As coisas parecem só estar indo bem quando ela conhece um homem enigmático – e extremamente bonito – chamado Levnaor. Mas com a chegada dele vêm eventos misteriosos que Yeriel nunca esperou… Conforme as coisas começam a se desenrolar, pode Yeriel continuar a viver sua vida feliz? Ou vai seu passado trágico voltar para assombrar seu futuro que uma vez foi brilhante?",
+        "genres": [
+          "Fantasia",
+          "Loli",
+          "Shoujo"
+        ],
+        "chapters": [
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vMS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vMS4wMA",
+            "name": "Cap. 01",
+            "subTitle": "Cap. 01",
+            "title": "Cap. 01",
+            "numero": "1.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/1.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vMi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vMi4wMA",
+            "name": "Cap. 02",
+            "subTitle": "Cap. 02",
+            "title": "Cap. 02",
+            "numero": "2.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/2.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vMy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vMy4wMA",
+            "name": "Cap. 03",
+            "subTitle": "Cap. 03",
+            "title": "Cap. 03",
+            "numero": "3.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/3.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNC4wMA",
+            "name": "Cap. 04",
+            "subTitle": "Cap. 04",
+            "title": "Cap. 04",
+            "numero": "4.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/4.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNS4wMA",
+            "name": "Cap. 05",
+            "subTitle": "Cap. 05",
+            "title": "Cap. 05",
+            "numero": "5.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/5.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNi4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNi4wMA",
+            "name": "Cap. 06",
+            "subTitle": "Cap. 06",
+            "title": "Cap. 06",
+            "numero": "6.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/6.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNy4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vNy4wMA",
+            "name": "Cap. 07",
+            "subTitle": "Cap. 07",
+            "title": "Cap. 07",
+            "numero": "7.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/7.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vOC4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vOC4wMA",
+            "name": "Cap. 08",
+            "subTitle": "Cap. 08",
+            "title": "Cap. 08",
+            "numero": "8.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/8.00",
+            "paywall": false
+          },
+          {
+            "id": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vOS4wMA",
+            "chapterId": "aHR0cHM6Ly9pbXBlcmlvZGFicml0YW5uaWEubmV0L29icmEvYS1zYW50YS1lc2NvbmRpZGEvY2FwaXR1bG8vOS4wMA",
+            "name": "Cap. 09",
+            "subTitle": "Cap. 09",
+            "title": "Cap. 09",
+            "numero": "9.00",
+            "url": "https://imperiodabritannia.net/obra/a-santa-escondida/capitulo/9.00",
+            "paywall": false
+          }
+        ],
+        "externalUrl": "https://imperiodabritannia.net/obra/a-santa-escondida"
+      }
     }
   }
 }

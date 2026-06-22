@@ -7188,25 +7188,6 @@
       "viewingDetail": "Episódio 01 - Uma despedida de partir o coração",
       "viewingUpdatedAt": 1782146906828
     },
-    "v:6e0748e3-ba20-4251-be50-5380be4984fc": {
-      "userKey": "v:6e0748e3-ba20-4251-be50-5380be4984fc",
-      "messageId": "1517652560889250014",
-      "channelId": "1510739162116915371",
-      "ip": "35.227.62.178",
-      "discordId": "",
-      "username": "",
-      "lastSeenAt": 1781906967047,
-      "lastAlertAt": 1781907304396,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #6E0748E3",
-      "visitorShortId": "6E0748E3",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:9dfb722c-518d-4c04-b178-22f9a59179fd": {
       "userKey": "v:9dfb722c-518d-4c04-b178-22f9a59179fd",
       "messageId": "1517655231784030279",
@@ -9138,25 +9119,6 @@
       "viewingDetail": "",
       "viewingUpdatedAt": 0
     },
-    "v:0f230d52-68fe-416a-8f7b-132835157e39": {
-      "userKey": "v:0f230d52-68fe-416a-8f7b-132835157e39",
-      "messageId": "1518187232454774896",
-      "channelId": "1510739162116915371",
-      "ip": "35.196.132.85",
-      "discordId": "",
-      "username": "",
-      "lastSeenAt": 1782034442646,
-      "lastAlertAt": 1782034813024,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #0F230D52",
-      "visitorShortId": "0F230D52",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:57ac0038-1fed-40a7-8b1c-ab0817db387b": {
       "userKey": "v:57ac0038-1fed-40a7-8b1c-ab0817db387b",
       "messageId": "1518190497716244621",
@@ -10523,13 +10485,17 @@
       "ip": "35.227.62.178",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #36676B70",
-      "visitorShortId": "36676B70",
       "lastSeenAt": 1782146662986,
       "lastAlertAt": 1782147092698,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "viaBot": true,
+      "embedOnlineStatus": false,
+      "displayName": "Visitante #36676B70",
+      "visitorShortId": "36676B70",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:63741904-0b32-4fd6-b55b-2306b55b2d0c": {
       "userKey": "v:63741904-0b32-4fd6-b55b-2306b55b2d0c",
@@ -10538,13 +10504,17 @@
       "ip": "35.196.132.85",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #63741904",
-      "visitorShortId": "63741904",
       "lastSeenAt": 1782146698796,
       "lastAlertAt": 1782147092698,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "viaBot": true,
+      "embedOnlineStatus": false,
+      "displayName": "Visitante #63741904",
+      "visitorShortId": "63741904",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:1da384e1-07d3-4d78-bec9-4718bbb08642": {
       "userKey": "v:1da384e1-07d3-4d78-bec9-4718bbb08642",
@@ -10553,13 +10523,17 @@
       "ip": "49.51.203.164",
       "discordId": "",
       "username": "",
-      "displayName": "Visitante #1DA384E1",
-      "visitorShortId": "1DA384E1",
       "lastSeenAt": 1782146886745,
       "lastAlertAt": 1782147242703,
-      "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": false
+      "viaBot": true,
+      "embedOnlineStatus": false,
+      "displayName": "Visitante #1DA384E1",
+      "visitorShortId": "1DA384E1",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

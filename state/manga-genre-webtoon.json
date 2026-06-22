@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "solo-leveling-ragnarok",
+      "titleId": "solo-leveling-ragnarok",
+      "slug": "solo-leveling-ragnarok",
+      "title": "Solo Leveling: Ragnarok",
+      "author": "Daul",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1NvbG8tTGV2ZWxpbmctUmFnbmFyb2stbWFuZ2EtbGl2cmUtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3NvbG8tbGV2ZWxpbmctcmFnbmFyb2svY2FwaXR1bG8tNjcv",
+      "chapterName": "Capitulo 67",
+      "sub": "Capitulo 67"
+    },
+    {
+      "id": "urek-mazino",
+      "titleId": "urek-mazino",
+      "slug": "urek-mazino",
+      "title": "Urek Mazino",
+      "author": "SIU",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1VyZWstTWF6aW5vLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3VyZWstbWF6aW5vL2NhcGl0dWxvLTE1Lw",
+      "chapterName": "Capitulo 15",
+      "sub": "Capitulo 15"
+    }
+  ],
+  "updatedAt": 1782147297465,
+  "total": 2,
+  "genre": "webtoon",
+  "source": "mangalivre"
+}

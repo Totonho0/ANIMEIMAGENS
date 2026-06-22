@@ -1053,6 +1053,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvb2UzOTZ3YUNhM1R3bzlweTZGTHY2bXhLRGdoLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
+    },
+    "douse-koishite-shimaunda-2nd-season": {
+      "slug": "douse-koishite-shimaunda-2nd-season",
+      "title": "Anyway, I'm Falling in Love with You. Season 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oR3JXZ3JQYjgwTWJieDNoRnFzZjB3ZWx4THUuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -1541,6 +1548,9 @@
     ],
     "nige-jouzu-no-wakagimi-2nd-season": [
       1
+    ],
+    "douse-koishite-shimaunda-2nd-season": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1631,5 +1641,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782146780775
+  "updatedAt": 1782146798952
 }

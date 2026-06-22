@@ -323,7 +323,7 @@
     "bocchi-the-rock-season-2": {
       "slug": "bocchi-the-rock-season-2",
       "title": "Bocchi the Rock! Season 2",
-      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNvbmxpbmUuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvaHd3bUg4TklObGNDMW5xNm9iTDNhdHoySERZLTE4NXgyNzguanBn",
+      "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXBsYXkuY2xvdWQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvaHd3bUg4TklObGNDMW5xNm9iTDNhdHoySERZLTE4NXgyNzguanBn",
       "kind": "anime",
       "adult": false
     },
@@ -1631,5 +1631,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782126101591
+  "updatedAt": 1782146780775
 }

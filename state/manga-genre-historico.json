@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "nano-machine-ptbr",
+      "titleId": "nano-machine-ptbr",
+      "slug": "nano-machine-ptbr",
+      "title": "Nano Machine – Nanotecnologia Marcial",
+      "author": "Great H",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzEwL05hbm8tTWFjaGluZS1OYW5vdGVjbm9sb2dpYS1NYXJjaWFsLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNC8",
+      "chapterName": "Capitulo 314",
+      "sub": "Capitulo 314"
+    },
+    {
+      "id": "absolute-regression",
+      "titleId": "absolute-regression",
+      "slug": "absolute-regression",
+      "title": "Absolute Regression",
+      "author": "Jang Yeonghun",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0Fic29sdXRlLVJlZ3Jlc3Npb24tMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2Fic29sdXRlLXJlZ3Jlc3Npb24vY2FwaXR1bG8tOTcv",
+      "chapterName": "Capitulo 97",
+      "sub": "Capitulo 97"
+    },
+    {
+      "id": "a-regressors-tale-of-cultivation",
+      "titleId": "a-regressors-tale-of-cultivation",
+      "slug": "a-regressors-tale-of-cultivation",
+      "title": "A Regressor’s Tale of Cultivation",
+      "author": "Kim Moo-Hyun",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0EtUmVncmVzc29ycy1UYWxlLW9mLUN1bHRpdmF0aW9uLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2EtcmVncmVzc29ycy10YWxlLW9mLWN1bHRpdmF0aW9uL2NhcGl0dWxvLTI1Lw",
+      "chapterName": "Capitulo 25",
+      "sub": "Capitulo 25"
+    },
+    {
+      "id": "veil",
+      "titleId": "veil",
+      "slug": "veil",
+      "title": "Veil",
+      "author": "Fukuda Ikumi",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1ZlaWwtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3ZlaWwvY2FwaXR1bG8tMjEv",
+      "chapterName": "Capitulo 21",
+      "sub": "Capitulo 21"
+    },
+    {
+      "id": "kimetsu-no-yaiba",
+      "titleId": "kimetsu-no-yaiba",
+      "slug": "kimetsu-no-yaiba",
+      "title": "Kimetsu no Yaiba",
+      "author": "Gotouge Koyoharu",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0tpbWV0c3Utbm8tWWFpYmEtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2tpbWV0c3Utbm8teWFpYmEvY2FwaXR1bG8tMjA1LWZpbmFsLw",
+      "chapterName": "Capitulo 205 Final",
+      "sub": "Capitulo 205 Final"
+    }
+  ],
+  "updatedAt": 1782147294241,
+  "total": 5,
+  "genre": "historico",
+  "source": "mangalivre"
+}

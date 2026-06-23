@@ -14198,11 +14198,22 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782182122128
+      "at": 1782207920381
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "baki-dou-part-2-dublado",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/baki-dou-part-2-dublado-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/91GWw2DEmQRcHYQk7CQ7CeBSwxj-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 13",
             "epTitle": "Episódio 13",
@@ -14455,17 +14466,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "ichijouma-mankitsugurashi",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/ichijouma-mankitsugurashi-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ow86MjD4paZDUMMmGv4og5vQ9w2-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14473,7 +14473,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782182122124
+      "at": 1782207920377
     },
     "genre-row:drama": {
       "data": {
@@ -16072,6 +16072,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Baki-dou Part 2 Dublado",
+            "slug": "baki-dou-part-2-dublado",
+            "url": "https://animeplay.cloud/anime/baki-dou-part-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/xngJuAfsBYHO96S1IsbZ7cgIZyL-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Shadows House Dublado",
             "slug": "shadows-house-dublado",
             "url": "https://animeplay.cloud/anime/shadows-house-dublado",
@@ -16206,14 +16214,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animeplay.cloud/anime/koukaku-kidouta",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -16221,7 +16221,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782182122061
+      "at": 1782207920305
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16393,14 +16393,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/6GvKbKG4hYyUE2P0QXdRCcgW4A8-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Kanojo Okarishimasu 5th Season Dublado",
-            "slug": "kanojo-okarishimasu-5th-season-dublado",
-            "url": "https://animeplay.cloud/anime/kanojo-okarishimasu-5th-season-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/w3o5wpqScVw1J3txAq8DfKv0vpR-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -16408,7 +16400,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782182123778
+      "at": 1782207921978
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -16603,7 +16595,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782182120818
+      "at": 1782207920312
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -16806,7 +16798,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782182122586
+      "at": 1782207920654
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -21001,5 +20993,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782198267610
+  "updatedAt": 1782207921978
 }

@@ -14206,7 +14206,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782241293291
+      "at": 1782241306316
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14481,7 +14481,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782241293748
+      "at": 1782241306313
     },
     "genre-row:drama": {
       "data": {
@@ -16505,7 +16505,7 @@
             "title": "akame ga kill",
             "slug": "akame-ga-kill",
             "url": "https://animesdigital.org/anime/a/akame-ga-kill",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-akame-ga-kill-todos-os-episodios-online-animesdigital.jpg",
+            "poster": null,
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16513,7 +16513,7 @@
             "title": "akaneiro ni somaru saka",
             "slug": "akaneiro-ni-somaru-saka",
             "url": "https://animesdigital.org/anime/a/akaneiro-ni-somaru-saka",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-akaneiro-ni-somaru-saka-todos-os-episodios-online-animesdigital.jpg",
+            "poster": null,
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16521,7 +16521,7 @@
             "title": "aku no hana",
             "slug": "aku-no-hana",
             "url": "https://animesdigital.org/anime/a/aku-no-hana",
-            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-aku-no-hana-todos-os-episodios-online-animesdigital.jpg",
+            "poster": null,
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16603,7 +16603,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782240901255
+      "at": 1782241306252
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -21001,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782241304452
+  "updatedAt": 1782241306316
 }

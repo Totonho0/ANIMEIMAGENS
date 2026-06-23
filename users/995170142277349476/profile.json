@@ -21,6 +21,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9kUEN2MFJhT2oycFJ4WmNVRE9vcVhGZTdQcW4uanBn",
       "kind": "serie",
       "adult": false
+    },
+    "filme/assistir-ted-2-online": {
+      "slug": "filme/assistir-ted-2-online",
+      "title": "Ted 2",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9rYmx4alBWSVhhSVE3aUhvNWIyTGFCT0VsbEQuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -31,15 +38,18 @@
   "started": {
     "serie/assistir-dois-homens-e-meio-online": [
       1
+    ],
+    "filme/assistir-ted-2-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "ishuzoku-reviewers",
       "ep": 6,
-      "at": 1782068824104
+      "at": 1782182120163
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782068847901
+  "updatedAt": 1782182298923
 }

@@ -14206,7 +14206,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782241502433
+      "at": 1782241882175
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14295,6 +14295,17 @@
             "episode": 12,
             "url": "https://animeplay.cloud/episodio/marriagetoxin-episodio-12",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/z5dSEOClCbyBVbKAAXp8Dw0iyHp-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 500",
+            "epTitle": "Episódio 500",
+            "slug": "naruto-shippuden-dublado",
+            "episode": 500,
+            "url": "https://animeplay.cloud/episodio/naruto-shippuden-dublado-episodio-500",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1swhNPNh16f1B6ZqEAmCg7mkWSn-300x170.jpg",
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
@@ -14463,17 +14474,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "tsue-to-tsurugi-no-wistoria-2",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/vKeq9m2vLEHmh0csqKxZNEwc43V-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14481,7 +14481,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782241503094
+      "at": 1782241882434
     },
     "genre-row:drama": {
       "data": {
@@ -21001,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782241678743
+  "updatedAt": 1782241882434
 }

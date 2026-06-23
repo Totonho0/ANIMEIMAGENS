@@ -7037,25 +7037,6 @@
       "viewingDetail": "",
       "viewingUpdatedAt": 0
     },
-    "v:c5e92bc3-75c3-4692-bb91-6c35a9ef5148": {
-      "userKey": "v:c5e92bc3-75c3-4692-bb91-6c35a9ef5148",
-      "messageId": "1519059828243300565",
-      "channelId": "1510739162116915371",
-      "ip": "177.222.128.81",
-      "discordId": "",
-      "username": "",
-      "lastSeenAt": 1782243340127,
-      "lastAlertAt": 1782243008174,
-      "componentsOk": true,
-      "viaBot": true,
-      "embedOnlineStatus": true,
-      "displayName": "Visitante #C5E92BC3",
-      "visitorShortId": "C5E92BC3",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
-    },
     "v:94485627-2414-4d8f-97ad-69d79f4d5a7b": {
       "userKey": "v:94485627-2414-4d8f-97ad-69d79f4d5a7b",
       "messageId": "1517650327405465614",
@@ -11005,6 +10986,21 @@
       "viewingTitle": "",
       "viewingDetail": "",
       "viewingUpdatedAt": 0
+    },
+    "d:1049408621013901422": {
+      "userKey": "d:1049408621013901422",
+      "messageId": "1519063512117154056",
+      "channelId": "1510693609551171775",
+      "ip": "177.222.128.81",
+      "discordId": "1049408621013901422",
+      "username": "𝓚𝔂𝓾𝓶𝓲",
+      "lastSeenAt": 1782243364387,
+      "lastAlertAt": 1782243363765,
+      "componentsOk": true,
+      "viaBot": true,
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #C5E92BC3",
+      "visitorShortId": "C5E92BC3"
     }
   },
   "links": {
@@ -11027,6 +11023,9 @@
     "v:0ca0fe0f-d6f6-46cc-8c51-cf97d35e57f0": "d:1480714580148617321",
     "d:1480714580148617321": "ip:9e370c1a8e4bac06",
     "ip:9e370c1a8e4bac06": "d:1480714580148617321",
-    "ip:6e7718b463955f52": "d:377188128735232010"
+    "ip:6e7718b463955f52": "d:377188128735232010",
+    "v:c5e92bc3-75c3-4692-bb91-6c35a9ef5148": "d:1049408621013901422",
+    "d:1049408621013901422": "ip:1873024e4201b54d",
+    "ip:1873024e4201b54d": "d:1049408621013901422"
   }
 }

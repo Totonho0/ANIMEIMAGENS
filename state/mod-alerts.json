@@ -10692,13 +10692,17 @@
       "ip": "177.115.96.202",
       "discordId": "1480714580148617321",
       "username": "Ello (V.A)",
-      "lastSeenAt": 1782174348127,
-      "lastAlertAt": 1782174346887,
+      "lastSeenAt": 1782174354874,
+      "lastAlertAt": 1782174354874,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
       "displayName": "Visitante #0CA0FE0F",
-      "visitorShortId": "0CA0FE0F"
+      "visitorShortId": "0CA0FE0F",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

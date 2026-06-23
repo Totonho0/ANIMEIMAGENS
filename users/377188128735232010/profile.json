@@ -1648,6 +1648,16 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "ghost-concert-missing-songs",
+      "ep": 1,
+      "at": 1782239691355
+    },
+    {
+      "slug": "douse-koishite-shimaunda-2nd-season",
+      "ep": 1,
+      "at": 1782239691354
+    },
+    {
       "slug": "filme/assistir-what-you-wish-for-online",
       "ep": 1,
       "at": 1782237973357
@@ -1656,16 +1666,6 @@
       "slug": "serie/assistir-greenleaf-online",
       "ep": 1,
       "at": 1782236202265
-    },
-    {
-      "slug": "ghost-concert-missing-songs",
-      "ep": 1,
-      "at": 1782236125531
-    },
-    {
-      "slug": "douse-koishite-shimaunda-2nd-season",
-      "ep": 1,
-      "at": 1782236125531
     },
     {
       "slug": "19001-tom-clancys-jack-ryan-ghost-war",
@@ -1759,5 +1759,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782239308690
+  "updatedAt": 1782239693669
 }

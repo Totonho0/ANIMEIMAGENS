@@ -1135,6 +1135,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9hdHZlZHZUUTB2anhXMmJwOTBJWnhTRDBkMFkuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-dia-d-online": {
+      "slug": "filme/assistir-dia-d-online",
+      "title": "Dia D",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS81ZThCUTZSUDNHUlB6NDV5bm8xampsWHU1Ni5qcGc",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1674,6 +1681,9 @@
     ],
     "filme/assistir-refens-na-noite-online": [
       1
+    ],
+    "filme/assistir-dia-d-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1789,5 +1799,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782239726685
+  "updatedAt": 1782239743233
 }

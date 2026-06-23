@@ -1,10 +1,13 @@
 {
   "name": "Ello",
   "bio": "Prefiro tapas na bunda",
-  "avatar": "https://cdn.discordapp.com/avatars/1480714580148617321/d0d4351ae04933146d20c15f96446f59.png?size=256",
+  "avatar": "https://cdn.discordapp.com/avatars/1480714580148617321/6d95e8c960fa8a3113524ebfdc464a0f.png?size=256",
+  "discordAvatar": "https://cdn.discordapp.com/avatars/1480714580148617321/6d95e8c960fa8a3113524ebfdc464a0f.png?size=256",
+  "customAvatar": false,
   "banner": "/placeholder.svg",
   "favorites": [],
   "watchLater": [],
+  "mangaFavorites": [],
   "library": {
     "tsue-to-tsurugi-no-wistoria-2-dublado": {
       "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
@@ -37,5 +40,7 @@
       1
     ]
   },
-  "updatedAt": 1780085704368
+  "watchHistoryLog": [],
+  "watchHistoryHidden": [],
+  "updatedAt": 1782174345980
 }

@@ -1146,6 +1146,9 @@
     ],
     "19001-tom-clancys-jack-ryan-ghost-war": [
       1
+    ],
+    "serie/assistir-greenleaf-online": [
+      1
     ]
   },
   "started": {
@@ -1602,6 +1605,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "serie/assistir-greenleaf-online",
+      "ep": 1,
+      "at": 1782236202265
+    },
+    {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
       "at": 1782236125531
@@ -1703,5 +1711,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782236142249
+  "updatedAt": 1782236202612
 }

@@ -10995,10 +10995,10 @@
       "discordId": "1049408621013901422",
       "username": "𝓚𝔂𝓾𝓶𝓲",
       "lastSeenAt": 1782243395221,
-      "lastAlertAt": 1782243363765,
+      "lastAlertAt": 1782243758180,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #C5E92BC3",
       "visitorShortId": "C5E92BC3"
     },
@@ -11012,10 +11012,10 @@
       "displayName": "Visitante #44D198C0",
       "visitorShortId": "44D198C0",
       "lastSeenAt": 1782243449952,
-      "lastAlertAt": 1782243449952,
+      "lastAlertAt": 1782243758180,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

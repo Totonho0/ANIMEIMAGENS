@@ -33,6 +33,9 @@
   "watched": {
     "ishuzoku-reviewers": [
       6
+    ],
+    "filme/assistir-ted-2-online": [
+      1
     ]
   },
   "started": {
@@ -45,11 +48,16 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "filme/assistir-ted-2-online",
+      "ep": 1,
+      "at": 1782182358332
+    },
+    {
       "slug": "ishuzoku-reviewers",
       "ep": 6,
       "at": 1782182120163
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782182298923
+  "updatedAt": 1782182359096
 }

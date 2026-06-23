@@ -1290,6 +1290,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9nQ1pIMkY2ck5BWjVteGxBQ1BNbzNoZmhuNnkuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-filhas-deu-ruim-online": {
+      "slug": "filme/assistir-filhas-deu-ruim-online",
+      "title": "Filhas, Deu Ruim!",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS85U2tWRmIzWGdjMFR0TGlyalhiMkoyRVBDNzAuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1889,6 +1896,9 @@
     ],
     "filme/assistir-the-weight-of-eyes-online": [
       1
+    ],
+    "filme/assistir-filhas-deu-ruim-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -2004,5 +2014,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782242920087
+  "updatedAt": 1782242948770
 }

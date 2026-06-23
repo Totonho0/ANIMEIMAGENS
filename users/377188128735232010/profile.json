@@ -1142,6 +1142,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS81ZThCUTZSUDNHUlB6NDV5bm8xampsWHU1Ni5qcGc",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-pressao-online": {
+      "slug": "filme/assistir-pressao-online",
+      "title": "Pressão",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS8zaE55YUFXZWlTbGJYeENhRk9FcVJKTllMcHcuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1684,18 +1691,21 @@
     ],
     "filme/assistir-dia-d-online": [
       1
+    ],
+    "filme/assistir-pressao-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
-      "at": 1782239691355
+      "at": 1782240119902
     },
     {
       "slug": "douse-koishite-shimaunda-2nd-season",
       "ep": 1,
-      "at": 1782239691354
+      "at": 1782240119902
     },
     {
       "slug": "filme/assistir-what-you-wish-for-online",
@@ -1799,5 +1809,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782239743233
+  "updatedAt": 1782240127180
 }

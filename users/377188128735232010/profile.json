@@ -1079,6 +1079,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9pR2FuYno0d001RXlEcFNaMEZLM1RFc0luRWIuanBn",
       "kind": "serie",
       "adult": false
+    },
+    "serie/assistir-greenleaf-online": {
+      "slug": "serie/assistir-greenleaf-online",
+      "title": "Greenleaf",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9kbkt3ekRsZTBFN3RIbmRkVzlnYkZmNDRHekguanBn",
+      "kind": "serie",
+      "adult": false
     }
   },
   "watched": {
@@ -1588,18 +1595,21 @@
     ],
     "serie/assistir-ted-a-serie-online": [
       1
+    ],
+    "serie/assistir-greenleaf-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
-      "at": 1782211529645
+      "at": 1782236125531
     },
     {
       "slug": "douse-koishite-shimaunda-2nd-season",
       "ep": 1,
-      "at": 1782211529645
+      "at": 1782236125531
     },
     {
       "slug": "19001-tom-clancys-jack-ryan-ghost-war",
@@ -1693,5 +1703,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782211537568
+  "updatedAt": 1782236142249
 }

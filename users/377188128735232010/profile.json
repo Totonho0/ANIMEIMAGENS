@@ -1262,6 +1262,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9xaTV1ajBMT205TjRld0dkbmRxdXY4alRCRWUuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-sr-blake-ao-seu-dispor-online": {
+      "slug": "filme/assistir-sr-blake-ao-seu-dispor-online",
+      "title": "Sr. Blake Ao Seu Dispor",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9iYkllcXhnVjF4MjRSaFdGN2tTcTljNDFsMGkuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1849,6 +1856,9 @@
     ],
     "filme/assistir-hitpig-o-heroi-da-bicharada-online": [
       1
+    ],
+    "filme/assistir-sr-blake-ao-seu-dispor-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1964,5 +1974,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782242707672
+  "updatedAt": 1782242726991
 }

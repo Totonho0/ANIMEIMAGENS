@@ -1206,6 +1206,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS90NjdFVkpacGp5WmRZUzVtSzZSYTNzaTA0NGMuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-o-golpe-final-online": {
+      "slug": "filme/assistir-o-golpe-final-online",
+      "title": "O Golpe Final",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS92bmpUVms5bm9wZnQ5ZHM4bFREZUpHMExMczkuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1769,18 +1776,21 @@
     ],
     "filme/assistir-topuria-matador-online": [
       1
+    ],
+    "filme/assistir-o-golpe-final-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
-      "at": 1782241059227
+      "at": 1782241308205
     },
     {
       "slug": "douse-koishite-shimaunda-2nd-season",
       "ep": 1,
-      "at": 1782241059227
+      "at": 1782241308205
     },
     {
       "slug": "filme/assistir-what-you-wish-for-online",
@@ -1884,5 +1894,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782241114855
+  "updatedAt": 1782241316511
 }

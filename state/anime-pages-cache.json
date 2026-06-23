@@ -21536,6 +21536,235 @@
           "Vampiros"
         ]
       }
+    },
+    "disney-twisted-wonderland-a-serie": {
+      "at": 1782182125633,
+      "data": {
+        "slug": "disney-twisted-wonderland-a-serie",
+        "title": "Disney Twisted-Wonderland: A Série",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8yN250d1RUQTN5Z3NrdGN3aUpZY3hpbWVnd2IuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Despertar de um Estranho",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Uma classificação desdenhosa",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Para a Mina Encantada",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Um Exército de Um Só",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Duelo mal aconselhado",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Final para Heartslabyul",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação e Aventura",
+          "Animação",
+          "Sci-Fi & Fantasia"
+        ],
+        "audioVariants": {
+          "current": "default",
+          "variants": {
+            "default": {
+              "slug": "disney-twisted-wonderland-a-serie",
+              "title": "Disney Twisted-Wonderland: A Série",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "disney-twisted-wonderland-a-serie-dublado",
+              "title": "Disney Twisted-Wonderland: A Série Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "disney-twisted-wonderland-a-serie-dublado": {
+      "at": 1782182125694,
+      "data": {
+        "slug": "disney-twisted-wonderland-a-serie-dublado",
+        "title": "Disney Twisted-Wonderland: A Série Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC8yN250d1RUQTN5Z3NrdGN3aUpZY3hpbWVnd2IuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Despertar de um Estranho",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Uma classificação desdenhosa",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Para a Mina Encantada",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Um Exército de Um Só",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Duelo mal aconselhado",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Final para Heartslabyul",
+            "url": "https://animeplay.cloud/episodio/disney-twisted-wonderland-a-serie-dublado-episodio-08"
+          }
+        ],
+        "totalEpisodes": 8,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação e Aventura",
+          "Animação",
+          "Sci-Fi & Fantasia"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "disney-twisted-wonderland-a-serie",
+              "title": "Disney Twisted-Wonderland: A Série",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "disney-twisted-wonderland-a-serie-dublado",
+              "title": "Disney Twisted-Wonderland: A Série Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
+    },
+    "tensei-shitara-slime-datta-ken-4th-season-dublado": {
+      "at": 1782182126950,
+      "data": {
+        "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+        "title": "Assistir Tensei shitara Slime Datta Ken 4th Season Dublado Online em HD - Todos os Episódios Atualizados",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC94empaRHlxVW9idUp0a0JsamhnTEg0RmRueWUuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Novos dias",
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - A Evolução da Masmorra",
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-02"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Convite",
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - O primeiro passo",
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - O Conselho do Ocidente",
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - A identidade do mentor",
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Os Fundamentos da Ganância",
+            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-08"
+          }
+        ],
+        "totalEpisodes": 7,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura"
+        ],
+        "audioVariants": {
+          "current": "dub",
+          "variants": {
+            "default": {
+              "slug": "tensei-shitara-slime-datta-ken-4th-season",
+              "title": "Tensei shitara Slime Datta Ken 4th Season",
+              "audio": "default",
+              "label": "Legendado"
+            },
+            "dub": {
+              "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+              "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
+              "audio": "dub",
+              "label": "Dublado"
+            }
+          }
+        }
+      }
     }
   }
 }

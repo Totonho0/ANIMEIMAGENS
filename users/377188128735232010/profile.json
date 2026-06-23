@@ -1065,6 +1065,13 @@
       "title": "GHOST CONCERT: missing Songs",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9oZVY3RnFjU2J6OXpXZXJMMFVqOGRBb3lJWFAuanBn",
       "kind": "anime"
+    },
+    "19001-tom-clancys-jack-ryan-ghost-war": {
+      "slug": "19001-tom-clancys-jack-ryan-ghost-war",
+      "title": "Jack Ryan de Tom Clancy: Guerra Fantasma Tom Clancy's Jack Ryan: Ghost War",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9hNy85ZDZmMGZhZTc5YzgwNGNiOTVlMGM5Nzk1MDNlZGMuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1565,18 +1572,21 @@
     ],
     "ghost-concert-missing-songs": [
       1
+    ],
+    "19001-tom-clancys-jack-ryan-ghost-war": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
-      "at": 1782147256874
+      "at": 1782177662164
     },
     {
       "slug": "douse-koishite-shimaunda-2nd-season",
       "ep": 1,
-      "at": 1782147256874
+      "at": 1782177662164
     },
     {
       "slug": "euphoria-the-animation",
@@ -1665,5 +1675,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782177651468
+  "updatedAt": 1782177671106
 }

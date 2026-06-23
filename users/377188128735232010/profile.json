@@ -331,7 +331,8 @@
       "slug": "11109-weapons",
       "title": "A Hora do Mal Weapons",
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci85ZS9iMmE3ZmY2YjQzMWEzMzY0ZmU2YzA2ZjhmYWFiNjEuanBn",
-      "kind": "filme"
+      "kind": "filme",
+      "adult": false
     },
     "11646-": {
       "slug": "11646-",
@@ -1744,12 +1745,12 @@
     {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
-      "at": 1782240889719
+      "at": 1782240930058
     },
     {
       "slug": "douse-koishite-shimaunda-2nd-season",
       "ep": 1,
-      "at": 1782240889719
+      "at": 1782240930058
     },
     {
       "slug": "filme/assistir-what-you-wish-for-online",
@@ -1853,5 +1854,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782240907395
+  "updatedAt": 1782240937929
 }

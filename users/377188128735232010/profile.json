@@ -1297,6 +1297,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS85U2tWRmIzWGdjMFR0TGlyalhiMkoyRVBDNzAuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season": {
+      "slug": "rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu Dublado 4th Season",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9haThiVlM4U3V2dTRFckJobWdCdnRFU2lyQlkuanBn",
+      "kind": "anime",
+      "adult": false
     }
   },
   "watched": {
@@ -2014,5 +2021,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782246035434
+  "updatedAt": 1782246056353
 }

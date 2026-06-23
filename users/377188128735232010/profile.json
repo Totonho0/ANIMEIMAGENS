@@ -1248,6 +1248,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS95dU5Ub0NIWnlaeWJKUTg5SFNpQVI5MUpFaUkuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "14286-avatar-fogo-e-cinzas": {
+      "slug": "14286-avatar-fogo-e-cinzas",
+      "title": "Avatar: Fogo e Cinzas",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci85NC9kZGNiYmEzMDhhYWQ0YzU5Y2MwYTQwZGViMDViMDIuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1829,6 +1836,9 @@
     ],
     "filme/assistir-never-change-online": [
       1
+    ],
+    "14286-avatar-fogo-e-cinzas": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1944,5 +1954,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782241975870
+  "updatedAt": 1782241994046
 }

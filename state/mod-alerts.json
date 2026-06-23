@@ -10693,10 +10693,10 @@
       "discordId": "1480714580148617321",
       "username": "Ello (V.A)",
       "lastSeenAt": 1782174388730,
-      "lastAlertAt": 1782174388730,
+      "lastAlertAt": 1782174715008,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #0CA0FE0F",
       "visitorShortId": "0CA0FE0F",
       "viewingKind": "filme",
@@ -10714,10 +10714,10 @@
       "displayName": "Visitante #FD7A5D41",
       "visitorShortId": "FD7A5D41",
       "lastSeenAt": 1782174408245,
-      "lastAlertAt": 1782174408245,
+      "lastAlertAt": 1782174715008,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

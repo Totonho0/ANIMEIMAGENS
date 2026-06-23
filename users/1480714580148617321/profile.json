@@ -35,7 +35,11 @@
       "adult": false
     }
   },
-  "watched": {},
+  "watched": {
+    "filme/assistir-garota-infernal-online": [
+      1
+    ]
+  },
   "started": {
     "tsue-to-tsurugi-no-wistoria-2-dublado": [
       1
@@ -50,7 +54,13 @@
       1
     ]
   },
-  "watchHistoryLog": [],
+  "watchHistoryLog": [
+    {
+      "slug": "filme/assistir-garota-infernal-online",
+      "ep": 1,
+      "at": 1782174447918
+    }
+  ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782174388198
+  "updatedAt": 1782174448494
 }

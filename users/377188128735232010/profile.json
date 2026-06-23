@@ -1170,6 +1170,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9kNC8wN2FkYjIyNDY2MjQ0MWIxODcxMzc2NzBmNDBmOTguanBn",
       "kind": "filme",
       "adult": false
+    },
+    "11524-": {
+      "slug": "11524-",
+      "title": "Uma Advogada Brilhante",
+      "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci9iMy9lNWZjMWM1Mzg0NWRjM2RiMTRlNDRkMjg1YjQwZTUuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1730,12 +1737,12 @@
     {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
-      "at": 1782240488481
+      "at": 1782240889719
     },
     {
       "slug": "douse-koishite-shimaunda-2nd-season",
       "ep": 1,
-      "at": 1782240488481
+      "at": 1782240889719
     },
     {
       "slug": "filme/assistir-what-you-wish-for-online",
@@ -1839,5 +1846,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782240509565
+  "updatedAt": 1782240894623
 }

@@ -26,6 +26,13 @@
       "title": "Nee Shiyo",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9xVHRKUmxESXdXZHNtUlhEVG9tVWxhMUpCS0kuanBn",
       "kind": "anime"
+    },
+    "filme/assistir-garota-infernal-online": {
+      "slug": "filme/assistir-garota-infernal-online",
+      "title": "Garota Infernal",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9sSUhYZkhnVlBEUDByNXRLdXlzcXBOa1FRbVYuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {},
@@ -38,9 +45,12 @@
     ],
     "nee-shiyo": [
       1
+    ],
+    "filme/assistir-garota-infernal-online": [
+      1
     ]
   },
   "watchHistoryLog": [],
   "watchHistoryHidden": [],
-  "updatedAt": 1782174345980
+  "updatedAt": 1782174388198
 }

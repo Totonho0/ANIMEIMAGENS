@@ -1128,6 +1128,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci83Mi82MDE0NjQzMDQxYmFlOWQzNjRlNDBiMzIzMWM1NTIuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-refens-na-noite-online": {
+      "slug": "filme/assistir-refens-na-noite-online",
+      "title": "Reféns na Noite",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9hdHZlZHZUUTB2anhXMmJwOTBJWnhTRDBkMFkuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1664,6 +1671,9 @@
     ],
     "18547-mortal-kombat-ii": [
       1
+    ],
+    "filme/assistir-refens-na-noite-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1779,5 +1789,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782239709004
+  "updatedAt": 1782239726685
 }

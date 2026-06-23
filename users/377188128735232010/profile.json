@@ -1213,6 +1213,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS92bmpUVms5bm9wZnQ5ZHM4bFREZUpHMExMczkuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-capitao-astucia-online": {
+      "slug": "filme/assistir-capitao-astucia-online",
+      "title": "Capitão Astúcia",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS84Smdxa0RmWG5KMnNNZ3BZa2dTWlR2TzRhVkkuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1779,6 +1786,9 @@
     ],
     "filme/assistir-o-golpe-final-online": [
       1
+    ],
+    "filme/assistir-capitao-astucia-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1894,5 +1904,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782241316511
+  "updatedAt": 1782241364550
 }

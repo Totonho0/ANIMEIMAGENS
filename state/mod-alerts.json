@@ -11168,6 +11168,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:456c0a7d-a726-4f8d-8b55-325d683001ac": {
+      "userKey": "v:456c0a7d-a726-4f8d-8b55-325d683001ac",
+      "messageId": "1519109330241196046",
+      "channelId": "1510739162116915371",
+      "ip": "45.74.159.42",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #456C0A7D",
+      "visitorShortId": "456C0A7D",
+      "lastSeenAt": 1782254288015,
+      "lastAlertAt": 1782254288015,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

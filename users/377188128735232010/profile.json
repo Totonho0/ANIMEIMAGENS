@@ -1255,6 +1255,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9vdmVyZmxpeC5sb2wvdXBsb2Fkcy9taW5pL3Bvc3Rlci85NC9kZGNiYmEzMDhhYWQ0YzU5Y2MwYTQwZGViMDViMDIuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-hitpig-o-heroi-da-bicharada-online": {
+      "slug": "filme/assistir-hitpig-o-heroi-da-bicharada-online",
+      "title": "Hitpig! O Herói da Bicharada",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9xaTV1ajBMT205TjRld0dkbmRxdXY4alRCRWUuanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1839,18 +1846,21 @@
     ],
     "14286-avatar-fogo-e-cinzas": [
       1
+    ],
+    "filme/assistir-hitpig-o-heroi-da-bicharada-online": [
+      1
     ]
   },
   "watchHistoryLog": [
     {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
-      "at": 1782242339219
+      "at": 1782242376110
     },
     {
       "slug": "douse-koishite-shimaunda-2nd-season",
       "ep": 1,
-      "at": 1782242339219
+      "at": 1782242376110
     },
     {
       "slug": "filme/assistir-what-you-wish-for-online",
@@ -1954,5 +1964,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782242345976
+  "updatedAt": 1782242381875
 }

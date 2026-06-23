@@ -1149,6 +1149,13 @@
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS8zaE55YUFXZWlTbGJYeENhRk9FcVJKTllMcHcuanBn",
       "kind": "filme",
       "adult": false
+    },
+    "filme/assistir-a-magia-do-natal-2-online": {
+      "slug": "filme/assistir-a-magia-do-natal-2-online",
+      "title": "A Magia do Natal",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzE4NS9yc2JQRFl5U0E0WGhTQ3o5SFRnQkFxcFpOdWguanBn",
+      "kind": "filme",
+      "adult": false
     }
   },
   "watched": {
@@ -1694,6 +1701,9 @@
     ],
     "filme/assistir-pressao-online": [
       1
+    ],
+    "filme/assistir-a-magia-do-natal-2-online": [
+      1
     ]
   },
   "watchHistoryLog": [
@@ -1809,5 +1819,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782240127180
+  "updatedAt": 1782240150506
 }

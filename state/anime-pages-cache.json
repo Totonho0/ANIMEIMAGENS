@@ -23519,6 +23519,33 @@
         "kind": "anime",
         "provider": "animesdigital"
       }
+    },
+    "rascal-does-not-dream-of-a-dear-friend": {
+      "at": 1782250683152,
+      "data": {
+        "slug": "rascal-does-not-dream-of-a-dear-friend",
+        "title": "Rascal Does Not Dream of a Dear Friend",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9iWDRqQzlTT0RKTElnOElkTmhrM3pRaFVQOG0uanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Filme completo",
+            "url": null
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "filme",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Drama",
+          "Mistério",
+          "Romance"
+        ]
+      }
     }
   }
 }

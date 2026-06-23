@@ -14073,6 +14073,46 @@
       "data": {
         "items": [
           {
+            "title": "Hidarikiki no Eren",
+            "slug": "assistir-hidarikiki-no-eren",
+            "url": "https://animesdigital.org/video/a/136714/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Hidarikiki-no-ErenEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Class de 2-ban Me ni Kawaii Onna no Ko to Tomodachi ni Natta",
+            "slug": "assistir-class-de-2-ban-me-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta",
+            "url": "https://animesdigital.org/video/a/136713/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Class-de-2-ban-Me-ni-Kawaii-Onna-no-Ko-to-Tomodachi-ni-NattaEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Replica datte Koi wo Suru",
+            "slug": "assistir-replica-datte-koi-wo-suru",
+            "url": "https://animesdigital.org/video/a/136712/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Replica-datte-Koi-wo-SuruEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "MARRIAGETOXIN",
+            "slug": "assistir-marriagetoxin",
+            "url": "https://animesdigital.org/video/a/136711/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/MARRIAGETOXINEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Aishiteru Game wo Owarasetai",
+            "slug": "assistir-aishiteru-game-wo-owarasetai",
+            "url": "https://animesdigital.org/video/a/136710/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Aishiteru-Game-wo-OwarasetaiEp.jpeg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Tongari Boushi no Atelier Dublado",
             "slug": "assistir-tongari-boushi-no-atelier-dublado",
             "url": "https://animesdigital.org/video/a/136708/",
@@ -14159,38 +14199,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Nippon-SangokuEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Yozakura-san Chi no Daisakusen 2",
-            "slug": "assistir-yozakura-san-chi-no-daisakusen-2",
-            "url": "https://animesdigital.org/video/a/136698/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/05/assistir-yozakura-san-chi-no-daisakusen-2-todos-os-episodios-online-animes-online.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Ace of the Diamond Act II Season 2",
-            "slug": "assistir-ace-of-the-diamond-act-ii-season-2",
-            "url": "https://animesdigital.org/video/a/136695/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Ace-of-the-Diamond-Act-II-Season-2Ep.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "Tsue to Tsurugi no Wistoria Season 2",
-            "slug": "assistir-tsue-to-tsurugi-no-wistoria-season-2",
-            "url": "https://animesdigital.org/video/a/136694/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tsue-to-Tsurugi-no-Wistoria-2.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
-          },
-          {
-            "title": "MAO",
-            "slug": "assistir-mao",
-            "url": "https://animesdigital.org/video/a/136693/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/MAOEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -14198,11 +14206,99 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782211731519
+      "at": 1782236128904
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 8",
+            "epTitle": "Episódio 8",
+            "slug": "aishiteru-game-wo-owarasetai-dublado",
+            "episode": 8,
+            "url": "https://animeplay.cloud/episodio/aishiteru-game-wo-owarasetai-dublado-episodio-08",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/ipLaqpmaDGekHLYiwew7Ck7Ikmo-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "marriagetoxin-dublado",
+            "episode": 9,
+            "url": "https://animeplay.cloud/episodio/marriagetoxin-dublado-episodio-09",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/qDy1orqXrn3bMOBy5lsi8Ncihsm-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "hidarikiki-no-eren",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/hidarikiki-no-eren-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/8BOA1c9gHWSMYr00NQpd1OEQR01-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-2",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-2-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/xfnD9gsbGDfWawiSaddYxtKDOiO-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3z9qio8ZMEQFR7SA5vJjmKeVhz-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "replica-datte-koi-wo-suru",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/replica-datte-koi-wo-suru-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/gW9hpzBH6Mw0c7MzKOQElgAO7jn-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 11",
+            "epTitle": "Episódio 11",
+            "slug": "aishiteru-game-wo-owarasetai",
+            "episode": 11,
+            "url": "https://animeplay.cloud/episodio/aishiteru-game-wo-owarasetai-episodio-11",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bxU2slVlrweB1ZMpNG1y5feGQUI-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "marriagetoxin",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/marriagetoxin-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/z5dSEOClCbyBVbKAAXp8Dw0iyHp-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 12",
             "epTitle": "Episódio 12",
@@ -14378,94 +14474,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "ace-of-the-diamond-act-ii-season-2",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/Arh9O2rz4AcIyqVk7rVCAHvY3PQ-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "mao",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/mao-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/5ENdyrLdj26XziYhDkZIXRStq0B-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "nippon-sangoku",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/nippon-sangoku-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nAQa3vNkydX0EPOdjibWwYBpYX-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "kuroneko-to-majo-no-kyoushitsu",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/yTchPGnfDZh8ejZ7Eo3ZIOQwT8V-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 36",
-            "epTitle": "Episódio 36",
-            "slug": "digimon-beatbreak",
-            "episode": 36,
-            "url": "https://animeplay.cloud/episodio/digimon-beatbreak-episodio-36",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/fKGPifUUyf5jpYuxxkK5gJW3VNB-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 23",
-            "epTitle": "Episódio 23",
-            "slug": "yuusha-no-kuzu",
-            "episode": 23,
-            "url": "https://animeplay.cloud/episodio/yuusha-no-kuzu-episodio-23",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mK4c1tdCk6AIfZ0AZjKOuqGGgnO-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 500",
-            "epTitle": "Episódio 500",
-            "slug": "naruto-shippuden",
-            "episode": 500,
-            "url": "https://animeplay.cloud/episodio/naruto-shippuden-episodio-500",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1swhNPNh16f1B6ZqEAmCg7mkWSn-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "naruto-shippuden",
-            "episode": 1,
-            "url": "https://animeplay.cloud/episodio/naruto-shippuden-episodio-01",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/lFg0YnHI7sJkPSv38a8ctE96sqr-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14473,7 +14481,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782211731514
+      "at": 1782236128900
     },
     "genre-row:drama": {
       "data": {
@@ -16221,7 +16229,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782211731392
+      "at": 1782236127594
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16497,7 +16505,7 @@
             "title": "akame ga kill",
             "slug": "akame-ga-kill",
             "url": "https://animesdigital.org/anime/a/akame-ga-kill",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-akame-ga-kill-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16505,7 +16513,7 @@
             "title": "akaneiro ni somaru saka",
             "slug": "akaneiro-ni-somaru-saka",
             "url": "https://animesdigital.org/anime/a/akaneiro-ni-somaru-saka",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-akaneiro-ni-somaru-saka-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16513,7 +16521,7 @@
             "title": "aku no hana",
             "slug": "aku-no-hana",
             "url": "https://animesdigital.org/anime/a/aku-no-hana",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-aku-no-hana-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16521,7 +16529,7 @@
             "title": "akuma no riddle",
             "slug": "akuma-no-riddle",
             "url": "https://animesdigital.org/anime/a/akuma-no-riddle",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-akuma-no-riddle-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16529,7 +16537,7 @@
             "title": "allison to lillia",
             "slug": "allison-to-lillia",
             "url": "https://animesdigital.org/anime/a/allison-to-lillia",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-allison-to-lillia-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16537,7 +16545,7 @@
             "title": "amaenaideyo katsu",
             "slug": "amaenaideyo-katsu",
             "url": "https://animesdigital.org/anime/a/amaenaideyo-katsu",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-amaenaideyo-katsu-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16545,7 +16553,7 @@
             "title": "amaenaideyo",
             "slug": "amaenaideyo",
             "url": "https://animesdigital.org/anime/a/amaenaideyo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-amaenaideyo-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16553,7 +16561,7 @@
             "title": "amagami ss plus",
             "slug": "amagami-ss-plus",
             "url": "https://animesdigital.org/anime/a/amagami-ss-plus",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-amagami-ss-plus-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16561,7 +16569,7 @@
             "title": "amatsuki",
             "slug": "amatsuki",
             "url": "https://animesdigital.org/anime/a/amatsuki",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-amatsuki-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16569,7 +16577,7 @@
             "title": "ame iro cocoa",
             "slug": "ame-iro-cocoa",
             "url": "https://animesdigital.org/anime/a/ame-iro-cocoa",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ame-iro-cocoa-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16577,7 +16585,7 @@
             "title": "ame iro cocoa 2",
             "slug": "ame-iro-cocoa-2",
             "url": "https://animesdigital.org/anime/a/ame-iro-cocoa-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ame-iro-cocoa-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -16585,7 +16593,7 @@
             "title": "ange vierge",
             "slug": "ange-vierge",
             "url": "https://animesdigital.org/anime/a/ange-vierge",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-ange-vierge-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -16595,7 +16603,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782211731397
+      "at": 1782236128832
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20993,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782222705903
+  "updatedAt": 1782236128904
 }

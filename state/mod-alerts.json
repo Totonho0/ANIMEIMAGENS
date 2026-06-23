@@ -10523,17 +10523,17 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1782177667700,
-      "lastAlertAt": 1782177667700,
+      "lastSeenAt": 1782177671560,
+      "lastAlertAt": 1782177671560,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
       "displayName": "Visitante #BA101024",
       "visitorShortId": "BA101024",
-      "viewingKind": "",
-      "viewingTitle": "",
-      "viewingDetail": "",
-      "viewingUpdatedAt": 0
+      "viewingKind": "filme",
+      "viewingTitle": "Jack Ryan de Tom Clancy: Guerra Fantasma Tom Clancy's Jack Ryan: Ghost War",
+      "viewingDetail": "Filme completo",
+      "viewingUpdatedAt": 1782177671560
     },
     "v:1f75f56d-ba9e-46dd-800e-0dca59e41dc5": {
       "userKey": "v:1f75f56d-ba9e-46dd-800e-0dca59e41dc5",
@@ -10733,6 +10733,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:ca271512-b650-4cf2-b64d-1c4083be194e": {
+      "userKey": "v:ca271512-b650-4cf2-b64d-1c4083be194e",
+      "messageId": "1518787978925707295",
+      "channelId": "1510739162116915371",
+      "ip": "104.23.221.154",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #CA271512",
+      "visitorShortId": "CA271512",
+      "lastSeenAt": 1782177671802,
+      "lastAlertAt": 1782177671802,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

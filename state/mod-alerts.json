@@ -8955,11 +8955,11 @@
       "ip": "186.243.25.102",
       "discordId": "995170142277349476",
       "username": "Ｎｅｏｎ🖕",
-      "lastSeenAt": 1782189677010,
-      "lastAlertAt": 1782190016939,
+      "lastSeenAt": 1782294048973,
+      "lastAlertAt": 1782294048973,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false,
+      "embedOnlineStatus": true,
       "displayName": "Visitante #A935924B",
       "visitorShortId": "A935924B",
       "viewingKind": "filme",
@@ -11565,11 +11565,15 @@
       "username": "",
       "displayName": "Visitante #3E857041",
       "visitorShortId": "3E857041",
-      "lastSeenAt": 1782294011457,
-      "lastAlertAt": 1782294010286,
+      "lastSeenAt": 1782294048815,
+      "lastAlertAt": 1782294048815,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

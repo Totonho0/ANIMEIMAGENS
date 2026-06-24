@@ -11348,6 +11348,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:fdecc881-70da-4488-97cb-f6aff6d3e867": {
+      "userKey": "v:fdecc881-70da-4488-97cb-f6aff6d3e867",
+      "messageId": "1519216771536781323",
+      "channelId": "1510739162116915371",
+      "ip": "172.69.195.174",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #FDECC881",
+      "visitorShortId": "FDECC881",
+      "lastSeenAt": 1782279903918,
+      "lastAlertAt": 1782279903918,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

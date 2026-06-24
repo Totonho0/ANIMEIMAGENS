@@ -18428,7 +18428,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782211676742
+      "at": 1782294082946
     },
     "partner:animesdigital|todos|5||24": {
       "data": {
@@ -18631,7 +18631,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782211675967
+      "at": 1782294082793
     },
     "partner:animesdigital|todos|6||24": {
       "data": {
@@ -18834,7 +18834,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782071027727
+      "at": 1782294084291
     },
     "partner:animeplay|todos|6||24": {
       "data": {
@@ -18884,6 +18884,14 @@
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
             "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Sekiro: No Defeat",
+            "slug": "sekiro-no-defeat",
+            "url": "https://animeplay.cloud/anime/sekiro-no-defeat",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/n6eaDtdtbuB9M71MqRqZB7f675J-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
           },
@@ -19022,14 +19030,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "BAKI-DOU: O Samurai Invencível Dublado",
-            "slug": "baki-dou-o-samurai-invencivel-dublado",
-            "url": "https://animeplay.cloud/anime/baki-dou-o-samurai-invencivel-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/02/gIuCoLJSD09qx16FUn2OckjL6CA-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -19037,7 +19037,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782071027719
+      "at": 1782294084918
     },
     "partner:animesdigital|todos|7||24": {
       "data": {
@@ -21001,5 +21001,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782294080229
+  "updatedAt": 1782294084918
 }

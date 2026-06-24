@@ -11393,6 +11393,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:ecc2ba2b-dc83-44f9-81c7-73e2b1691535": {
+      "userKey": "v:ecc2ba2b-dc83-44f9-81c7-73e2b1691535",
+      "messageId": "1519247902642409545",
+      "channelId": "1510739162116915371",
+      "ip": "192.71.142.134",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #ECC2BA2B",
+      "visitorShortId": "ECC2BA2B",
+      "lastSeenAt": 1782287326132,
+      "lastAlertAt": 1782287326132,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

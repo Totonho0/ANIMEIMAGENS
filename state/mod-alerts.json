@@ -11521,10 +11521,10 @@
       "displayName": "Visitante #E88E372E",
       "visitorShortId": "E88E372E",
       "lastSeenAt": 1782291554565,
-      "lastAlertAt": 1782291554565,
+      "lastAlertAt": 1782291975410,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:fbc671f0-d2b4-42f3-9de9-53ed55ca63d6": {
       "userKey": "v:fbc671f0-d2b4-42f3-9de9-53ed55ca63d6",
@@ -11536,10 +11536,10 @@
       "displayName": "Visitante #FBC671F0",
       "visitorShortId": "FBC671F0",
       "lastSeenAt": 1782291589988,
-      "lastAlertAt": 1782291589988,
+      "lastAlertAt": 1782291975410,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:c2d72df6-31fe-46b3-b9d0-57c7ef77c72c": {
       "userKey": "v:c2d72df6-31fe-46b3-b9d0-57c7ef77c72c",
@@ -11551,10 +11551,10 @@
       "displayName": "Visitante #C2D72DF6",
       "visitorShortId": "C2D72DF6",
       "lastSeenAt": 1782291617337,
-      "lastAlertAt": 1782291617337,
+      "lastAlertAt": 1782291975410,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

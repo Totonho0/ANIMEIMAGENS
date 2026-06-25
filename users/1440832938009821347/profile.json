@@ -1,10 +1,13 @@
 {
   "name": "Rickw",
   "bio": "",
-  "avatar": "https://cdn.discordapp.com/avatars/1440832938009821347/1a6603b5da06d11218c0da25fe7ab5c2.png?size=256",
+  "avatar": "https://cdn.discordapp.com/avatars/1440832938009821347/360c3cf79d28afd584816aa8d32ba9be.png?size=256",
+  "discordAvatar": "https://cdn.discordapp.com/avatars/1440832938009821347/360c3cf79d28afd584816aa8d32ba9be.png?size=256",
+  "customAvatar": false,
   "banner": "/placeholder.svg",
   "favorites": [],
   "watchLater": [],
+  "mangaFavorites": [],
   "library": {
     "tower-of-god-2": {
       "slug": "tower-of-god-2",
@@ -38,5 +41,28 @@
       4
     ]
   },
-  "updatedAt": 1780104306412
+  "watchHistoryLog": [
+    {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+      "ep": 1,
+      "at": 0
+    },
+    {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+      "ep": 2,
+      "at": 0
+    },
+    {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+      "ep": 3,
+      "at": 0
+    },
+    {
+      "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
+      "ep": 4,
+      "at": 0
+    }
+  ],
+  "watchHistoryHidden": [],
+  "updatedAt": 1782430438267
 }

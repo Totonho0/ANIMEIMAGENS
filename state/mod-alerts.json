@@ -12467,6 +12467,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:debb09cd-c133-4695-a8df-0014132f9ed4": {
+      "userKey": "v:debb09cd-c133-4695-a8df-0014132f9ed4",
+      "messageId": "1519703446775660755",
+      "channelId": "1510739162116915371",
+      "ip": "216.73.216.69",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #DEBB09CD",
+      "visitorShortId": "DEBB09CD",
+      "lastSeenAt": 1782395936331,
+      "lastAlertAt": 1782395936331,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

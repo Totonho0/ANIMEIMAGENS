@@ -20,6 +20,12 @@
       "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki Dublado",
       "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9nVDFrVjF1dGVZVE9iV1JIcWpNbFhIR1pzUGwuanBn",
       "kind": "anime"
+    },
+    "bleach-sennen-kessen-hen-soukoku-tan-dublado": {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+      "title": "Bleach: Sennen Kessen Hen - Soukoku Tan Dublado",
+      "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9rWlgwNWNkajhKcG9hMVpZMFpPTmkyMXZ2cTUuanBn",
+      "kind": "anime"
     }
   },
   "watched": {
@@ -28,6 +34,9 @@
       2,
       3,
       4
+    ],
+    "bleach-sennen-kessen-hen-soukoku-tan-dublado": [
+      1
     ]
   },
   "started": {
@@ -42,6 +51,11 @@
     ]
   },
   "watchHistoryLog": [
+    {
+      "slug": "bleach-sennen-kessen-hen-soukoku-tan-dublado",
+      "ep": 1,
+      "at": 1782430455953
+    },
     {
       "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
       "ep": 1,
@@ -64,5 +78,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782430438267
+  "updatedAt": 1782430442254
 }

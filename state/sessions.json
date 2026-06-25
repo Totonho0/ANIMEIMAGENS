@@ -297,7 +297,7 @@
     "hentaiAccessCheckedAt": 1782420418046
   },
   "0658a074-a9e1-4c87-b6f8-1a23b64bd072": {
-    "createdAt": 1782430437665,
+    "createdAt": 1782430440253,
     "user": {
       "id": "1440832938009821347",
       "username": "Rick",
@@ -306,8 +306,8 @@
     "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.tKi0g4gsTlnteHuapTUWxi12wPoWN9",
     "oauthRefreshToken": "U3fNbcq50LUghSrWgveWGmWRK5Byob",
     "oauthAccessExpiresAt": 1783035237665,
-    "discordUserRefreshedAt": 1782430437665,
+    "discordUserRefreshedAt": 1782430440253,
     "hentaiAccess": false,
-    "hentaiAccessCheckedAt": 1782430438009
+    "hentaiAccessCheckedAt": 1782430441408
   }
 }

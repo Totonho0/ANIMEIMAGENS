@@ -1370,6 +1370,9 @@
     ],
     "filme/assistir-what-you-wish-for-online": [
       1
+    ],
+    "tongari-boushi-no-atelier-dublado": [
+      6
     ]
   },
   "started": {
@@ -1911,6 +1914,11 @@
   },
   "watchHistoryLog": [
     {
+      "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 6,
+      "at": 1782410287436
+    },
+    {
       "slug": "ghost-concert-missing-songs",
       "ep": 1,
       "at": 1782245990434
@@ -2022,5 +2030,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782410218205
+  "updatedAt": 1782410286131
 }

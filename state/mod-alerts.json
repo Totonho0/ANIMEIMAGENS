@@ -12152,6 +12152,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:eafc98c5-9509-4930-a50e-de8f5baba17b": {
+      "userKey": "v:eafc98c5-9509-4930-a50e-de8f5baba17b",
+      "messageId": "1519582423266889809",
+      "channelId": "1510739162116915371",
+      "ip": "45.74.159.42",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #EAFC98C5",
+      "visitorShortId": "EAFC98C5",
+      "lastSeenAt": 1782367082086,
+      "lastAlertAt": 1782367082086,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

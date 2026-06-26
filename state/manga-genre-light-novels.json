@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "id": "the-beginning-after-the-end",
-      "titleId": "the-beginning-after-the-end",
-      "slug": "the-beginning-after-the-end",
+      "id": "the-beginning-after-the-end-ptbr",
+      "titleId": "the-beginning-after-the-end-ptbr",
+      "slug": "the-beginning-after-the-end-ptbr",
       "title": "The Beginning After The End",
       "author": "TurtleMe",
       "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1CZWdpbm5pbmctQWZ0ZXItVGhlLUVuZC0xLTE3NXgyMzgud2VicA",
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1iZWdpbm5pbmctYWZ0ZXItdGhlLWVuZC9jYXBpdHVsby0yMjUv",
-      "chapterName": "Capitulo 225",
-      "sub": "Capitulo 225"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1iZWdpbm5pbmctYWZ0ZXItdGhlLWVuZC1wdGJyL2NhcGl0dWxvLTI0MC8",
+      "chapterName": "Capitulo 240",
+      "sub": "Capitulo 240"
     },
     {
       "id": "parallel-world-pharmacy",
@@ -43,7 +43,7 @@
       "sub": "Capitulo 26"
     }
   ],
-  "updatedAt": 1782266764926,
+  "updatedAt": 1782485440096,
   "total": 3,
   "genre": "light-novels",
   "source": "mangalivre"

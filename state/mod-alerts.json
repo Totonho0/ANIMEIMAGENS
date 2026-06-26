@@ -13418,11 +13418,15 @@
       "username": "",
       "displayName": "Visitante #EE29FB45",
       "visitorShortId": "EE29FB45",
-      "lastSeenAt": 1782485400266,
-      "lastAlertAt": 1782485216703,
+      "lastSeenAt": 1782485417391,
+      "lastAlertAt": 1782485417391,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:f9b9dd2a-ca66-4dfa-a6d6-1c3bfaa72669": {
       "userKey": "v:f9b9dd2a-ca66-4dfa-a6d6-1c3bfaa72669",

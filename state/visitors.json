@@ -14397,7 +14397,7 @@
       "discordId": "1049408621013901422",
       "discordUsername": "𝓚𝔂𝓾𝓶𝓲",
       "createdAt": 1781904509548,
-      "lastSeenAt": 1782266994050,
+      "lastSeenAt": 1782433202900,
       "lastIp": "177.222.128.81"
     },
     "c07cd4ed-5990-4cf3-9a23-e8c390de76a6": {
@@ -25743,6 +25743,22 @@
       "createdAt": 1782432356664,
       "lastSeenAt": 1782432356664,
       "lastIp": "77.127.183.72"
+    },
+    "f9ea10a9-d00d-42c8-9dc6-0cae81f3ce5b": {
+      "id": "f9ea10a9-d00d-42c8-9dc6-0cae81f3ce5b",
+      "displayName": "Visitante #F9EA10A9",
+      "bio": "",
+      "avatar": "/logo.png",
+      "banner": "/placeholder.svg",
+      "favorites": [],
+      "watchLater": [],
+      "mangaFavorites": [],
+      "library": {},
+      "discordId": "",
+      "discordUsername": "",
+      "createdAt": 1782434658268,
+      "lastSeenAt": 1782434658451,
+      "lastIp": "216.73.216.88"
     }
   }
 }

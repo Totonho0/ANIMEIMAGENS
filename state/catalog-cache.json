@@ -14073,6 +14073,14 @@
       "data": {
         "items": [
           {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Dublado",
+            "slug": "assistir-re:zero-kara-hajimeru-isekai-seikatsu-3-dublado",
+            "url": "https://animesdigital.org/video/a/136771/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/ReZero-Dublado-3-categoria.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Kamisama Hajimemashita 2 Dublado",
             "slug": "assistir-kamisama-hajimemashita-2-dublado",
             "url": "https://animesdigital.org/video/a/136759/",
@@ -14094,11 +14102,22 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782433180841
+      "at": 1782466189579
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 1",
+            "epTitle": "Episódio 1",
+            "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
+            "episode": 1,
+            "url": "https://animeplay.cloud/episodio/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku-episodio-01",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/k9srUHVLj5pCQZNfylInNN4EUpp-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 11",
             "epTitle": "Episódio 11",
@@ -14351,17 +14370,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "hidarikiki-no-eren",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/hidarikiki-no-eren-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/8BOA1c9gHWSMYr00NQpd1OEQR01-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14369,7 +14377,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782433180837
+      "at": 1782466189576
     },
     "genre-row:drama": {
       "data": {
@@ -15968,6 +15976,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+            "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
+            "url": "https://animeplay.cloud/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/t3PY70vsvRWSNewgUQmrSRIY0nW-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
             "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
             "url": "https://animeplay.cloud/anime/heroine-seijo-iie-all-works-maid-desu-hokori",
@@ -16102,14 +16118,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oOmQf94idSBnDueIrM3FNQy8IXw-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Otome Kaijuu Caraméliser",
-            "slug": "otome-kaijuu-carameliser",
-            "url": "https://animeplay.cloud/anime/otome-kaijuu-carameliser",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1JW6hx7sAU1qRpYSxXpYb9B2xaG-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -16117,7 +16125,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782433180699
+      "at": 1782466189457
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16483,7 +16491,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782433179294
+      "at": 1782466188968
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -20881,5 +20889,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782460425293
+  "updatedAt": 1782466189579
 }

@@ -311,7 +311,7 @@
     "hentaiAccessCheckedAt": 1782430441408
   },
   "791a3e3c-c2f4-4d11-8395-a10a639d5d28": {
-    "createdAt": 1782485584164,
+    "createdAt": 1782485586480,
     "user": {
       "id": "995408617308164107",
       "username": "T s u k a z a",
@@ -320,8 +320,8 @@
     "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.4kNWTXYZdsVlMe9E2tYjUehkLed8Lg",
     "oauthRefreshToken": "cA8CwWAVoB2h3GiinddRsu1pYAliIw",
     "oauthAccessExpiresAt": 1783090384164,
-    "discordUserRefreshedAt": 1782485584164,
+    "discordUserRefreshedAt": 1782485586480,
     "hentaiAccess": false,
-    "hentaiAccessCheckedAt": 1782485584564
+    "hentaiAccessCheckedAt": 1782485587714
   }
 }

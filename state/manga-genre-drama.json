@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "jujutsu-kaisen-modulo",
+      "titleId": "jujutsu-kaisen-modulo",
+      "slug": "jujutsu-kaisen-modulo",
+      "title": "Jujutsu Kaisen Modulo",
+      "author": "AKUTAMI Gege",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0p1anV0c3UtS2Fpc2VuLU1vZHVsby0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2p1anV0c3Uta2Fpc2VuLW1vZHVsby9jYXBpdHVsby0yNS8",
+      "chapterName": "Capitulo 25",
+      "sub": "Capitulo 25"
+    },
+    {
       "id": "colorist-ptbr",
       "titleId": "colorist-ptbr",
       "slug": "colorist-ptbr",
@@ -10,23 +24,23 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tMzIv",
-      "chapterName": "Capitulo 32",
-      "sub": "Capitulo 32"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tMzYv",
+      "chapterName": "Capitulo 36",
+      "sub": "Capitulo 36"
     },
     {
-      "id": "one-piece",
-      "titleId": "one-piece",
-      "slug": "one-piece",
-      "title": "One Piece",
-      "author": "Eiichiro Oda",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
+      "id": "revenge-of-the-baskerville-bloodhound",
+      "titleId": "revenge-of-the-baskerville-bloodhound",
+      "slug": "revenge-of-the-baskerville-bloodhound",
+      "title": "Revenge of the Baskerville Bloodhound",
+      "author": "Arang",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL1JldmVuZ2Utb2YtdGhlLUJhc2tlcnZpbGxlLUJsb29kaG91bmQtMTc1eDIzOC53ZWJw",
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS9jYXBpdHVsby0xMTgzLw",
-      "chapterName": "Capitulo 1183",
-      "sub": "Capitulo 1183"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JldmVuZ2Utb2YtdGhlLWJhc2tlcnZpbGxlLWJsb29kaG91bmQvY2FwaXR1bG8tMTY5Lw",
+      "chapterName": "Capitulo 169",
+      "sub": "Capitulo 169"
     },
     {
       "id": "mato-seihei-no-slave-ptbr",
@@ -38,9 +52,23 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTc3Lw",
-      "chapterName": "Capitulo 177",
-      "sub": "Capitulo 177"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTgxLw",
+      "chapterName": "Capitulo 181",
+      "sub": "Capitulo 181"
+    },
+    {
+      "id": "one-piece-ptbr",
+      "titleId": "one-piece-ptbr",
+      "slug": "one-piece-ptbr",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODUv",
+      "chapterName": "Capitulo 1185",
+      "sub": "Capitulo 1185"
     },
     {
       "id": "omniscient-reader",
@@ -55,34 +83,6 @@
       "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29tbmlzY2llbnQtcmVhZGVyL2NhcGl0dWxvLTMwNS8",
       "chapterName": "Capitulo 305",
       "sub": "Capitulo 305"
-    },
-    {
-      "id": "jujutsu-kaisen-modulo",
-      "titleId": "jujutsu-kaisen-modulo",
-      "slug": "jujutsu-kaisen-modulo",
-      "title": "Jujutsu Kaisen Modulo",
-      "author": "AKUTAMI Gege",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0p1anV0c3UtS2Fpc2VuLU1vZHVsby0xNzV4MjM4LndlYnA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2p1anV0c3Uta2Fpc2VuLW1vZHVsby9jYXBpdHVsby0yNC8",
-      "chapterName": "Capitulo 24",
-      "sub": "Capitulo 24"
-    },
-    {
-      "id": "revenge-of-the-baskerville-bloodhound",
-      "titleId": "revenge-of-the-baskerville-bloodhound",
-      "slug": "revenge-of-the-baskerville-bloodhound",
-      "title": "Revenge of the Baskerville Bloodhound",
-      "author": "Arang",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL1JldmVuZ2Utb2YtdGhlLUJhc2tlcnZpbGxlLUJsb29kaG91bmQtMTc1eDIzOC53ZWJw",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JldmVuZ2Utb2YtdGhlLWJhc2tlcnZpbGxlLWJsb29kaG91bmQvY2FwaXR1bG8tMTUyLw",
-      "chapterName": "Capitulo 152",
-      "sub": "Capitulo 152"
     },
     {
       "id": "the-greatest-estate-developer",
@@ -883,7 +883,7 @@
       "sub": "Kaneshiro"
     }
   ],
-  "updatedAt": 1782266764913,
+  "updatedAt": 1782485440091,
   "total": 63,
   "genre": "drama",
   "source": "mangalivre"

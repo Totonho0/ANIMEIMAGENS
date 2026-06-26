@@ -18159,6 +18159,30 @@
             "provider": "animeplay"
           },
           {
+            "title": "Akane-banashi",
+            "slug": "akane-banashi",
+            "url": "https://animeplay.cloud/anime/akane-banashi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/9EWwNjZWPeIbPyKeeo5o3grsYW5-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Kanan-sama wa Akumade Choroi",
+            "slug": "kanan-sama-wa-akumade-choroi",
+            "url": "https://animeplay.cloud/anime/kanan-sama-wa-akumade-choroi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/xiPY3Rnak9CLenDjbiTsQWRwf8u-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Honzuki no Gekokujou 4",
+            "slug": "honzuki-no-gekokujou-4",
+            "url": "https://animeplay.cloud/anime/honzuki-no-gekokujou-4",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cBgA4PdYNr0EqXB1naRe1ndrC33-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Snowball Earth Dublado",
             "slug": "snowball-earth-dublado",
             "url": "https://animeplay.cloud/anime/snowball-earth-dublado",
@@ -18277,30 +18301,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-            "url": "https://animeplay.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/2F7zlgOtk9z0FGn2EjOFWDjGcBP-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Dorohedoro 2",
-            "slug": "dorohedoro-2",
-            "url": "https://animeplay.cloud/anime/dorohedoro-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/aQRE6qJJpAu120Yek7oUfGgDHsv-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Daikenja Riddle no Jikan Gyakkou",
-            "slug": "the-great-sage-ryddel-and-the-hands-of-time",
-            "url": "https://animeplay.cloud/anime/the-great-sage-ryddel-and-the-hands-of-time",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/nI42iJ6GAWN6U4MkJgLq75vGNmx-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -18308,7 +18308,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782294082946
+      "at": 1782485247976
     },
     "partner:animesdigital|todos|5||24": {
       "data": {
@@ -18413,7 +18413,7 @@
             "title": "beastsaga",
             "slug": "beastsaga",
             "url": "https://animesdigital.org/anime/a/beastsaga",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beast-saga-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18421,7 +18421,7 @@
             "title": "avatar a lenda de korra",
             "slug": "avatar-a-lenda-de-korra",
             "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-a-lenda-de-korra-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18429,7 +18429,7 @@
             "title": "avatar a lenda de korra livro 2 2",
             "slug": "avatar-a-lenda-de-korra-livro-2-2",
             "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra-livro-2-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-a-lenda-de-korra-livro-2-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18437,7 +18437,7 @@
             "title": "avatar a lenda de korra livro 4 2",
             "slug": "avatar-a-lenda-de-korra-livro-4-2",
             "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra-livro-4-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-a-lenda-de-korra-livro-4-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18445,7 +18445,7 @@
             "title": "avatar a lenda de korra livro 3 2",
             "slug": "avatar-a-lenda-de-korra-livro-3-2",
             "url": "https://animesdigital.org/anime/a/avatar-a-lenda-de-korra-livro-3-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-a-lenda-de-korra-livro-3-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18453,7 +18453,7 @@
             "title": "avatar livro da agua",
             "slug": "avatar-livro-da-agua",
             "url": "https://animesdigital.org/anime/a/avatar-livro-da-agua",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-livro-da-agua-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18461,7 +18461,7 @@
             "title": "avatarlivrodofogo",
             "slug": "avatarlivrodofogo",
             "url": "https://animesdigital.org/anime/a/avatarlivrodofogo",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-livro-do-fogo-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18469,7 +18469,7 @@
             "title": "avatar livro da terra",
             "slug": "avatar-livro-da-terra",
             "url": "https://animesdigital.org/anime/a/avatar-livro-da-terra",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-livro-da-terra-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18477,7 +18477,7 @@
             "title": "bna",
             "slug": "bna",
             "url": "https://animesdigital.org/anime/a/bna",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-bna-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18485,7 +18485,7 @@
             "title": "breakers",
             "slug": "breakers",
             "url": "https://animesdigital.org/anime/a/breakers",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-breakers-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18493,7 +18493,7 @@
             "title": "beastars 2",
             "slug": "beastars-2",
             "url": "https://animesdigital.org/anime/a/beastars-2",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-beastars-dublado-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           },
@@ -18501,7 +18501,7 @@
             "title": "babylon",
             "slug": "babylon",
             "url": "https://animesdigital.org/anime/a/babylon",
-            "poster": null,
+            "poster": "https://animesdigital.org/wp-content/uploads/2021/10/assistir-babylon-todos-os-episodios-online-animesdigital.jpg",
             "kind": "anime",
             "provider": "animesdigital"
           }
@@ -18511,7 +18511,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782294082793
+      "at": 1782485247294
     },
     "partner:animesdigital|todos|6||24": {
       "data": {
@@ -20881,5 +20881,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782485245664
+  "updatedAt": 1782485247976
 }

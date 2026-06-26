@@ -10,23 +10,23 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNC8",
-      "chapterName": "Capitulo 314",
-      "sub": "Capitulo 314"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNy8",
+      "chapterName": "Capitulo 317",
+      "sub": "Capitulo 317"
     },
     {
-      "id": "absolute-regression",
-      "titleId": "absolute-regression",
-      "slug": "absolute-regression",
+      "id": "absolute-regression-ptbr",
+      "titleId": "absolute-regression-ptbr",
+      "slug": "absolute-regression-ptbr",
       "title": "Absolute Regression",
       "author": "Jang Yeonghun",
       "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0Fic29sdXRlLVJlZ3Jlc3Npb24tMTc1eDIzOC53ZWJw",
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2Fic29sdXRlLXJlZ3Jlc3Npb24vY2FwaXR1bG8tOTcv",
-      "chapterName": "Capitulo 97",
-      "sub": "Capitulo 97"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2Fic29sdXRlLXJlZ3Jlc3Npb24tcHRici9jYXBpdHVsby0xMDcv",
+      "chapterName": "Capitulo 107",
+      "sub": "Capitulo 107"
     },
     {
       "id": "a-regressors-tale-of-cultivation",
@@ -71,7 +71,7 @@
       "sub": "Capitulo 205 Final"
     }
   ],
-  "updatedAt": 1782266764913,
+  "updatedAt": 1782485440091,
   "total": 5,
   "genre": "historico",
   "source": "mangalivre"

@@ -16943,6 +16943,30 @@
             "provider": "animeplay"
           },
           {
+            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
+            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "url": "https://animeplay.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "url": "https://animeplay.cloud/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/2F7zlgOtk9z0FGn2EjOFWDjGcBP-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
+            "title": "Stranger Things: Histórias de 85 Dublado",
+            "slug": "stranger-things-historias-de-85-dublado",
+            "url": "https://animeplay.cloud/anime/stranger-things-historias-de-85-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/zUdykEDaQrjGKnVnAAcua3kNiAG-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Shunkashuutou Daikousha: Haru no Mai Dublado",
             "slug": "shunkashuutou-daikousha-haru-no-mai-dublado",
             "url": "https://animeplay.cloud/anime/shunkashuutou-daikousha-haru-no-mai-dublado",
@@ -17053,30 +17077,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/eJngpqzGzppVkR5XoM9uuPFOukn-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Himekishi wa Barbaroi no Yome",
-            "slug": "himekishi-wa-barbaroi-no-yome",
-            "url": "https://animeplay.cloud/anime/himekishi-wa-barbaroi-no-yome",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/dBTihfaorYtEz8fnT8nMITYmQwa-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Awajima Hyakkei",
-            "slug": "a-hundred-scenes-of-awajima",
-            "url": "https://animeplay.cloud/anime/a-hundred-scenes-of-awajima",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/WAbrf6kONFAdXtG5N1s7no4zEw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Kujima Utaeba Ie Hororo",
-            "slug": "kujima-utaeba-ie-hororo",
-            "url": "https://animeplay.cloud/anime/kujima-utaeba-ie-hororo",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/agXbnHcwfL0kfh46mjaZbBxKlXQ-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -17084,7 +17084,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782294031549
+      "at": 1782485241972
     },
     "partner:animesdigital|todos|4||24": {
       "data": {
@@ -20881,5 +20881,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782485240254
+  "updatedAt": 1782485241972
 }

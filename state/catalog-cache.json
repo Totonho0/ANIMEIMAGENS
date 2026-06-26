@@ -14073,6 +14073,14 @@
       "data": {
         "items": [
           {
+            "title": "Reincarnation no Kaben",
+            "slug": "assistir-reincarnation-no-kaben",
+            "url": "https://animesdigital.org/video/a/136774/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Reincarnation-no-KabenEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Dublado",
             "slug": "assistir-re:zero-kara-hajimeru-isekai-seikatsu-3-dublado",
             "url": "https://animesdigital.org/video/a/136771/",
@@ -14102,7 +14110,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782466189579
+      "at": 1782485170477
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14251,6 +14259,17 @@
             "isRelease": true
           },
           {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "acchi-kocchi",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/acchi-kocchi-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/75ragCS0h4FfKnltJAG2Ke5Mo9h-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
             "slug": "heroine-seijo-iie-all-works-maid-desu-hokori",
@@ -14359,17 +14378,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "marriagetoxin-dublado",
-            "episode": 9,
-            "url": "https://animeplay.cloud/episodio/marriagetoxin-dublado-episodio-09",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/qDy1orqXrn3bMOBy5lsi8Ncihsm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14377,7 +14385,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782466189576
+      "at": 1782485170473
     },
     "genre-row:drama": {
       "data": {
@@ -15976,6 +15984,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Acchi Kocchi",
+            "slug": "acchi-kocchi",
+            "url": "https://animeplay.cloud/anime/acchi-kocchi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/8ScaxBUvjSt36CGqiCEmGcuo2Bw-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
             "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
             "url": "https://animeplay.cloud/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
@@ -16110,14 +16126,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1s7wuO2nrL20hD10Y83OpTx3vII-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "World Is Dancing",
-            "slug": "the-world-is-dancing",
-            "url": "https://animeplay.cloud/anime/the-world-is-dancing",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oOmQf94idSBnDueIrM3FNQy8IXw-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -16125,7 +16133,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782466189457
+      "at": 1782485170344
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16491,7 +16499,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782466188968
+      "at": 1782485168861
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -16694,7 +16702,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782433181536
+      "at": 1782485170950
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -20889,5 +20897,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782474825093
+  "updatedAt": 1782485170950
 }

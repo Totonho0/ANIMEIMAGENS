@@ -13577,11 +13577,15 @@
       "username": "",
       "displayName": "TSUKAZA",
       "visitorShortId": "EE29FB45",
-      "lastSeenAt": 1782486295569,
-      "lastAlertAt": 1782486239279,
+      "lastSeenAt": 1782486307910,
+      "lastAlertAt": 1782486307910,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

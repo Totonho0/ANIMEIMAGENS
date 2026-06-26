@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "id": "one-piece",
-      "titleId": "one-piece",
-      "slug": "one-piece",
-      "title": "One Piece",
-      "author": "Eiichiro Oda",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS9jYXBpdHVsby0xMTgzLw",
-      "chapterName": "Capitulo 1183",
-      "sub": "Capitulo 1183"
-    },
-    {
       "id": "mato-seihei-no-slave-ptbr",
       "titleId": "mato-seihei-no-slave-ptbr",
       "slug": "mato-seihei-no-slave-ptbr",
@@ -24,9 +10,37 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTc3Lw",
-      "chapterName": "Capitulo 177",
-      "sub": "Capitulo 177"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTgxLw",
+      "chapterName": "Capitulo 181",
+      "sub": "Capitulo 181"
+    },
+    {
+      "id": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
+      "titleId": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
+      "slug": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
+      "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
+      "author": "Harawata Saizou",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1JlaW5jYXJuYXRpb24tQ29saXNldW0tVGhlLVdlYWtlc3QtU2tpbGwtQ29ucXVlcnMtdGhlLVN0cm9uZ2VzdC1Xb21lbi1hbmQtQ3JlYXRlcy1hLUhhcmVtLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JlaW5jYXJuYXRpb24tY29saXNldW0tdGhlLXdlYWtlc3Qtc2tpbGwtY29ucXVlcnMtdGhlLXN0cm9uZ2VzdC13b21lbi1hbmQtY3JlYXRlcy1hLWhhcmVtL2NhcGl0dWxvLTM3Lw",
+      "chapterName": "Capitulo 37",
+      "sub": "Capitulo 37"
+    },
+    {
+      "id": "one-piece-ptbr",
+      "titleId": "one-piece-ptbr",
+      "slug": "one-piece-ptbr",
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L09uZS1QaWVjZS1NYW5nYS1MaXZyZS0xNzV4MjM4LndlYnA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29uZS1waWVjZS1wdGJyL2NhcGl0dWxvLTExODUv",
+      "chapterName": "Capitulo 1185",
+      "sub": "Capitulo 1185"
     },
     {
       "id": "ruridragon",
@@ -841,20 +855,6 @@
       "sub": "Capitulo 85"
     },
     {
-      "id": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
-      "titleId": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
-      "slug": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
-      "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
-      "author": "Harawata Saizou",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1JlaW5jYXJuYXRpb24tQ29saXNldW0tVGhlLVdlYWtlc3QtU2tpbGwtQ29ucXVlcnMtdGhlLVN0cm9uZ2VzdC1Xb21lbi1hbmQtQ3JlYXRlcy1hLUhhcmVtLTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JlaW5jYXJuYXRpb24tY29saXNldW0tdGhlLXdlYWtlc3Qtc2tpbGwtY29ucXVlcnMtdGhlLXN0cm9uZ2VzdC13b21lbi1hbmQtY3JlYXRlcy1hLWhhcmVtL2NhcGl0dWxvLTI3Lw",
-      "chapterName": "Capitulo 27.",
-      "sub": "Capitulo 27."
-    },
-    {
       "id": "ultimate-scheming-system",
       "titleId": "ultimate-scheming-system",
       "slug": "ultimate-scheming-system",
@@ -981,7 +981,7 @@
       "sub": "Capitulo 10"
     }
   ],
-  "updatedAt": 1782266764794,
+  "updatedAt": 1782485440009,
   "total": 70,
   "genre": "comedia",
   "source": "mangalivre"

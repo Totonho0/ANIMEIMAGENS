@@ -14073,6 +14073,22 @@
       "data": {
         "items": [
           {
+            "title": "Hokuto no Ken (2026)",
+            "slug": "assistir-hokuto-no-ken-(2026)",
+            "url": "https://animesdigital.org/video/a/136779/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Hokuto-no-Ken-2026Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Kami no Shizuku",
+            "slug": "assistir-kami-no-shizuku",
+            "url": "https://animesdigital.org/video/a/136776/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kami-no-ShizukuEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Snowball Earth",
             "slug": "assistir-snowball-earth",
             "url": "https://animesdigital.org/video/a/136777/",
@@ -14118,7 +14134,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782490672453
+      "at": 1782492935110
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14393,7 +14409,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782490672450
+      "at": 1782492935107
     },
     "genre-row:drama": {
       "data": {
@@ -16141,7 +16157,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782490672313
+      "at": 1782492934941
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16296,7 +16312,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782490674666
+      "at": 1782492936994
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -16491,7 +16507,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782490671818
+      "at": 1782492933329
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -16694,7 +16710,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782490673054
+      "at": 1782492935523
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -20889,5 +20905,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782490674666
+  "updatedAt": 1782492936994
 }

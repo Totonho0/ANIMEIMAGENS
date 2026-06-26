@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "id": "gachiakuta-ptbr",
-      "titleId": "gachiakuta-ptbr",
-      "slug": "gachiakuta-ptbr",
-      "title": "Gachiakuta",
-      "author": "Kei Urana",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dhY2hpYWt1dGEtTWFuZ2EtTGl2cmUtMTc1eDIzOC53ZWJw",
+      "id": "jujutsu-kaisen-modulo",
+      "titleId": "jujutsu-kaisen-modulo",
+      "slug": "jujutsu-kaisen-modulo",
+      "title": "Jujutsu Kaisen Modulo",
+      "author": "AKUTAMI Gege",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0p1anV0c3UtS2Fpc2VuLU1vZHVsby0xNzV4MjM4LndlYnA",
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhY2hpYWt1dGEtcHRici9jYXBpdHVsby0xNjYv",
-      "chapterName": "Capitulo 166",
-      "sub": "Capitulo 166"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2p1anV0c3Uta2Fpc2VuLW1vZHVsby9jYXBpdHVsby0yNS8",
+      "chapterName": "Capitulo 25",
+      "sub": "Capitulo 25"
     },
     {
       "id": "nano-machine-ptbr",
@@ -24,9 +24,23 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNC8",
-      "chapterName": "Capitulo 314",
-      "sub": "Capitulo 314"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNy8",
+      "chapterName": "Capitulo 317",
+      "sub": "Capitulo 317"
+    },
+    {
+      "id": "gachiakuta-ptbr",
+      "titleId": "gachiakuta-ptbr",
+      "slug": "gachiakuta-ptbr",
+      "title": "Gachiakuta",
+      "author": "Kei Urana",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0dhY2hpYWt1dGEtTWFuZ2EtTGl2cmUtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2dhY2hpYWt1dGEtcHRici9jYXBpdHVsby0xNjkv",
+      "chapterName": "Capitulo 169",
+      "sub": "Capitulo 169"
     },
     {
       "id": "mato-seihei-no-slave-ptbr",
@@ -38,9 +52,9 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTc3Lw",
-      "chapterName": "Capitulo 177",
-      "sub": "Capitulo 177"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTgxLw",
+      "chapterName": "Capitulo 181",
+      "sub": "Capitulo 181"
     },
     {
       "id": "omniscient-reader",
@@ -55,20 +69,6 @@
       "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29tbmlzY2llbnQtcmVhZGVyL2NhcGl0dWxvLTMwNS8",
       "chapterName": "Capitulo 305",
       "sub": "Capitulo 305"
-    },
-    {
-      "id": "jujutsu-kaisen-modulo",
-      "titleId": "jujutsu-kaisen-modulo",
-      "slug": "jujutsu-kaisen-modulo",
-      "title": "Jujutsu Kaisen Modulo",
-      "author": "AKUTAMI Gege",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0p1anV0c3UtS2Fpc2VuLU1vZHVsby0xNzV4MjM4LndlYnA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2p1anV0c3Uta2Fpc2VuLW1vZHVsby9jYXBpdHVsby0yNC8",
-      "chapterName": "Capitulo 24",
-      "sub": "Capitulo 24"
     },
     {
       "id": "the-greatest-estate-developer",
@@ -463,7 +463,7 @@
       "sub": "Capitulo 85"
     }
   ],
-  "updatedAt": 1782266764813,
+  "updatedAt": 1782485440016,
   "total": 33,
   "genre": "sobrenatural",
   "source": "mangalivre"

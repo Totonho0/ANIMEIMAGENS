@@ -10,9 +10,9 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNC8",
-      "chapterName": "Capitulo 314",
-      "sub": "Capitulo 314"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNy8",
+      "chapterName": "Capitulo 317",
+      "sub": "Capitulo 317"
     },
     {
       "id": "mato-seihei-no-slave-ptbr",
@@ -24,9 +24,23 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTc3Lw",
-      "chapterName": "Capitulo 177",
-      "sub": "Capitulo 177"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL21hdG8tc2VpaGVpLW5vLXNsYXZlLXB0YnIvY2FwaXR1bG8tMTgxLw",
+      "chapterName": "Capitulo 181",
+      "sub": "Capitulo 181"
+    },
+    {
+      "id": "the-beginning-after-the-end-ptbr",
+      "titleId": "the-beginning-after-the-end-ptbr",
+      "slug": "the-beginning-after-the-end-ptbr",
+      "title": "The Beginning After The End",
+      "author": "TurtleMe",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1CZWdpbm5pbmctQWZ0ZXItVGhlLUVuZC0xLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1iZWdpbm5pbmctYWZ0ZXItdGhlLWVuZC1wdGJyL2NhcGl0dWxvLTI0MC8",
+      "chapterName": "Capitulo 240",
+      "sub": "Capitulo 240"
     },
     {
       "id": "dandadan",
@@ -505,20 +519,6 @@
       "sub": "Capitulo 20"
     },
     {
-      "id": "the-beginning-after-the-end",
-      "titleId": "the-beginning-after-the-end",
-      "slug": "the-beginning-after-the-end",
-      "title": "The Beginning After The End",
-      "author": "TurtleMe",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1RoZS1CZWdpbm5pbmctQWZ0ZXItVGhlLUVuZC0xLTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS1iZWdpbm5pbmctYWZ0ZXItdGhlLWVuZC9jYXBpdHVsby0yMjUv",
-      "chapterName": "Capitulo 225",
-      "sub": "Capitulo 225"
-    },
-    {
       "id": "henkyou-mob-kizoku-no-uchi-ni-totsuidekita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nanda-ga",
       "titleId": "henkyou-mob-kizoku-no-uchi-ni-totsuidekita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nanda-ga",
       "slug": "henkyou-mob-kizoku-no-uchi-ni-totsuidekita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nanda-ga",
@@ -771,7 +771,7 @@
       "sub": "Capitulo 10"
     }
   ],
-  "updatedAt": 1782242873222,
+  "updatedAt": 1782485440118,
   "total": 55,
   "genre": "romance",
   "source": "mangalivre"

@@ -325,17 +325,13 @@
     "hentaiAccessCheckedAt": 1782485749080
   },
   "284c7d3b-8ed1-49ef-9c65-a7b80318e3e6": {
-    "createdAt": 1782485818239,
+    "createdAt": 1782485844365,
     "user": {
       "id": "995408617308164107",
       "username": "T s u k a z a",
       "avatar": "https://cdn.discordapp.com/avatars/995408617308164107/6cdec21a65a10182d7183e93a8a5b78d.png?size=256"
     },
-    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.ChfqKGnCaDQtGLQL2SxCEk1oOStkue",
-    "oauthRefreshToken": "0NsHFTt22RRju6yHgTaiTTMJ2iPSas",
-    "oauthAccessExpiresAt": 1783090618239,
-    "discordUserRefreshedAt": 1782485818239,
     "hentaiAccess": false,
-    "hentaiAccessCheckedAt": 1782485818541
+    "hentaiAccessCheckedAt": 1782485844540
   }
 }

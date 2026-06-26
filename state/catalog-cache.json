@@ -14073,6 +14073,22 @@
       "data": {
         "items": [
           {
+            "title": "Snowball Earth",
+            "slug": "assistir-snowball-earth",
+            "url": "https://animesdigital.org/video/a/136777/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Snowball-EarthEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
+            "title": "Tensei Shitara Slime Datta Ken 4",
+            "slug": "assistir-tensei-shitara-slime-datta-ken-4",
+            "url": "https://animesdigital.org/video/a/136775/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Tensei-Shitara-Slime-Datta-Ken-4Ep.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Reincarnation no Kaben",
             "slug": "assistir-reincarnation-no-kaben",
             "url": "https://animesdigital.org/video/a/136774/",
@@ -14095,14 +14111,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/06/assistir-kamisama-hajimemashita-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Kamisama Hajimemashita Dublado",
-            "slug": "assistir-kamisama-hajimemashita-dublado",
-            "url": "https://animesdigital.org/video/a/136755/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2024/01/assistir-kamisama-hajimemashita-dublado-dublado-todos-os-episodios-online-animes-online-205x300.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -14110,7 +14118,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782487398189
+      "at": 1782490672453
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -14385,7 +14393,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782487398244
+      "at": 1782490672450
     },
     "genre-row:drama": {
       "data": {
@@ -16133,7 +16141,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782487396892
+      "at": 1782490672313
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16483,7 +16491,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782487395158
+      "at": 1782490671818
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -16686,7 +16694,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782487398640
+      "at": 1782490673054
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -20881,5 +20889,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782489225777
+  "updatedAt": 1782490673054
 }

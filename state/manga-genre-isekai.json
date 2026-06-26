@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
+      "titleId": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
+      "slug": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
+      "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
+      "author": "Harawata Saizou",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1JlaW5jYXJuYXRpb24tQ29saXNldW0tVGhlLVdlYWtlc3QtU2tpbGwtQ29ucXVlcnMtdGhlLVN0cm9uZ2VzdC1Xb21lbi1hbmQtQ3JlYXRlcy1hLUhhcmVtLTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JlaW5jYXJuYXRpb24tY29saXNldW0tdGhlLXdlYWtlc3Qtc2tpbGwtY29ucXVlcnMtdGhlLXN0cm9uZ2VzdC13b21lbi1hbmQtY3JlYXRlcy1hLWhhcmVtL2NhcGl0dWxvLTM3Lw",
+      "chapterName": "Capitulo 37",
+      "sub": "Capitulo 37"
+    },
+    {
       "id": "a-regressors-tale-of-cultivation",
       "titleId": "a-regressors-tale-of-cultivation",
       "slug": "a-regressors-tale-of-cultivation",
@@ -183,20 +197,6 @@
       "sub": "Capitulo 46."
     },
     {
-      "id": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
-      "titleId": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
-      "slug": "reincarnation-coliseum-the-weakest-skill-conquers-the-strongest-women-and-creates-a-harem",
-      "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
-      "author": "Harawata Saizou",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1JlaW5jYXJuYXRpb24tQ29saXNldW0tVGhlLVdlYWtlc3QtU2tpbGwtQ29ucXVlcnMtdGhlLVN0cm9uZ2VzdC1Xb21lbi1hbmQtQ3JlYXRlcy1hLUhhcmVtLTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JlaW5jYXJuYXRpb24tY29saXNldW0tdGhlLXdlYWtlc3Qtc2tpbGwtY29ucXVlcnMtdGhlLXN0cm9uZ2VzdC13b21lbi1hbmQtY3JlYXRlcy1hLWhhcmVtL2NhcGl0dWxvLTI3Lw",
-      "chapterName": "Capitulo 27.",
-      "sub": "Capitulo 27."
-    },
-    {
       "id": "ultimate-scheming-system",
       "titleId": "ultimate-scheming-system",
       "slug": "ultimate-scheming-system",
@@ -281,7 +281,7 @@
       "sub": "Capitulo 19.5."
     }
   ],
-  "updatedAt": 1782266764855,
+  "updatedAt": 1782485440044,
   "total": 20,
   "genre": "isekai",
   "source": "mangalivre"

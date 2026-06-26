@@ -16281,22 +16281,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/cZnMdvNioymJxGM9DUISkjwKtwa-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Needy Girl Overdose Dublado",
-            "slug": "needy-girl-overdose-dublado",
-            "url": "https://animeplay.cloud/anime/needy-girl-overdose-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/bC6by4FdWsjG3ZesalPHRwPykeR-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Haikyuu!! Dublado",
-            "slug": "haikyuu-dublado",
-            "url": "https://animeplay.cloud/anime/haikyuu-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/05/sfrmkzwoHCnla2Tmgui3B5FFB4S-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -16304,7 +16288,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782433182991
+      "at": 1782485172542
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -20897,5 +20881,5 @@
       "at": 1782072517890
     }
   },
-  "updatedAt": 1782485170950
+  "updatedAt": 1782485172542
 }

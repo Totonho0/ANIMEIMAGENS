@@ -14767,6 +14767,14 @@
       "data": {
         "items": [
           {
+            "title": "Yuusha no Kuzu",
+            "slug": "assistir-yuusha-no-kuzu",
+            "url": "https://animesdigital.org/video/a/136792/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/01/Yuusha-no-KuzuEp.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Needy Girl Overdose",
             "slug": "assistir-needy-girl-overdose",
             "url": "https://animesdigital.org/video/a/136791/",
@@ -14877,14 +14885,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Reincarnation-no-KabenEp.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Dublado",
-            "slug": "assistir-re:zero-kara-hajimeru-isekai-seikatsu-3-dublado",
-            "url": "https://animesdigital.org/video/a/136771/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/ReZero-Dublado-3-categoria.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -14892,7 +14892,7 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782583702832
+      "at": 1782592944096
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
@@ -15167,7 +15167,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782583703008
+      "at": 1782592944295
     },
     "genre-row:drama": {
       "data": {
@@ -15322,7 +15322,7 @@
         "hasMore": false,
         "genreId": "drama"
       },
-      "at": 1782583709459
+      "at": 1782592945541
     },
     "genre-row:aventura": {
       "data": {
@@ -15477,7 +15477,7 @@
         "hasMore": false,
         "genreId": "aventura"
       },
-      "at": 1782583710041
+      "at": 1782592946004
     },
     "genre-row:fantasia": {
       "data": {
@@ -15632,7 +15632,7 @@
         "hasMore": false,
         "genreId": "fantasia"
       },
-      "at": 1782583710271
+      "at": 1782592946114
     },
     "genre-row:romance": {
       "data": {
@@ -15778,7 +15778,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1782583709772
+      "at": 1782592945885
     },
     "genre-row:acao": {
       "data": {
@@ -15933,7 +15933,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1782583708218
+      "at": 1782592945425
     },
     "genre-row:comedia": {
       "data": {
@@ -16079,7 +16079,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1782583709603
+      "at": 1782592945651
     },
     "lancamentos|1||120": {
       "data": {
@@ -16924,7 +16924,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782583703130
+      "at": 1782592945251
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -17063,7 +17063,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782586480365
+      "at": 1782592946959
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -17258,7 +17258,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782583701597
+      "at": 1782592943790
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -17461,7 +17461,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782586478609
+      "at": 1782592945712
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -22471,23 +22471,56 @@
       "data": {
         "items": [
           {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "yowayowa-sensei",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/yBve4Qs3LzigKPHHdPPopTe6Tev-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
             "slug": "neko-to-ryuu",
             "episode": 1,
             "url": "https://animesonline.cloud/episodio/neko-to-ryuu-episodio-01",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/2gVLTv2dGIWR03xON7IrmGDmIgj-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 24",
+            "epTitle": "Episódio 24",
+            "slug": "yuusha-no-kuzu",
+            "episode": 24,
+            "url": "https://animesonline.cloud/episodio/yuusha-no-kuzu-episodio-24",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8ruCdwqNEX3ad2AjCBoUjrHOWRx-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 14",
+            "epTitle": "Episódio 14",
+            "slug": "shunkashuutou-daikousha-haru-no-mai",
+            "episode": 14,
+            "url": "https://animesonline.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-14",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/c3xAde7YmVCt06IMWb189fXiMnB-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "needy-girl-overdose",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/bxslfusKrNkjU4D0CW0LtwP02it-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "yowayowa-sensei",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/yowayowa-sensei-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/yBve4Qs3LzigKPHHdPPopTe6Tev-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
@@ -22700,46 +22733,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/p2AUjof6JeqOBKIbw2icr0HzNnm-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "kanojo-okarishimasu-5th-season-dublado",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/feMpRawQ31r9EkImghYIZO4ANsC-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "awajima-hyakkei",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/awajima-hyakkei-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/7OygxCmGsGFRewPUsA6oJVhga0E-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1782582687055
+      "at": 1782592944221
     },
     "lancamentos|1||48": {
       "data": {
@@ -23013,7 +23013,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782590049432
+      "at": 1782592947916
     },
     "todos|2||24": {
       "data": {
@@ -23158,7 +23158,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782586479754
+      "at": 1782592948716
     },
     "todos|3||24": {
       "data": {
@@ -24111,7 +24111,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782583703260
+      "at": 1782592944236
     },
     "todos|1||24": {
       "data": {
@@ -24337,7 +24337,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782582688683
+      "at": 1782592945222
     },
     "partner:animesdrive|todos|1||24": {
       "data": {
@@ -24540,7 +24540,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782583703329
+      "at": 1782592945334
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -24687,7 +24687,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782586479501
+      "at": 1782592946540
     },
     "partner:animesdrive|todos|3||24": {
       "data": {
@@ -31925,5 +31925,5 @@
       "at": 1782590054759
     }
   },
-  "updatedAt": 1782590054769
+  "updatedAt": 1782592948716
 }

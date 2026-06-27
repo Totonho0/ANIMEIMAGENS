@@ -15322,7 +15322,7 @@
         "hasMore": false,
         "genreId": "drama"
       },
-      "at": 1782597447771
+      "at": 1782597589681
     },
     "genre-row:aventura": {
       "data": {
@@ -15477,7 +15477,7 @@
         "hasMore": false,
         "genreId": "aventura"
       },
-      "at": 1782597448137
+      "at": 1782597590051
     },
     "genre-row:fantasia": {
       "data": {
@@ -15632,7 +15632,7 @@
         "hasMore": false,
         "genreId": "fantasia"
       },
-      "at": 1782597448279
+      "at": 1782597590162
     },
     "genre-row:romance": {
       "data": {
@@ -15778,7 +15778,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1782597448016
+      "at": 1782597589937
     },
     "genre-row:acao": {
       "data": {
@@ -15933,7 +15933,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1782597447648
+      "at": 1782597589461
     },
     "genre-row:comedia": {
       "data": {
@@ -16079,7 +16079,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1782597447895
+      "at": 1782597589811
     },
     "lancamentos|1||120": {
       "data": {
@@ -16924,7 +16924,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782597446124
+      "at": 1782597589587
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -17063,7 +17063,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782597448346
+      "at": 1782597589712
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -17258,7 +17258,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782597444705
+      "at": 1782597589592
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -17461,7 +17461,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782597446738
+      "at": 1782597589719
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -24540,7 +24540,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782597445909
+      "at": 1782597589582
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -24687,7 +24687,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782597447570
+      "at": 1782597589708
     },
     "partner:animesdrive|todos|3||24": {
       "data": {
@@ -31925,5 +31925,5 @@
       "at": 1782590054759
     }
   },
-  "updatedAt": 1782597450191
+  "updatedAt": 1782597590162
 }

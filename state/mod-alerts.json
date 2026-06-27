@@ -14575,6 +14575,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:3c215835-a155-4ddd-a063-dc2f43267a51": {
+      "userKey": "v:3c215835-a155-4ddd-a063-dc2f43267a51",
+      "messageId": "1520426772880166913",
+      "channelId": "1510739162116915371",
+      "ip": "106.54.62.156",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #3C215835",
+      "visitorShortId": "3C215835",
+      "lastSeenAt": 1782568390705,
+      "lastAlertAt": 1782568390705,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

@@ -10333,13 +10333,17 @@
       "ip": "177.115.96.202",
       "discordId": "1480714580148617321",
       "username": "Ello (V.A)",
-      "lastSeenAt": 1782597624883,
-      "lastAlertAt": 1782597624398,
+      "lastSeenAt": 1782597629365,
+      "lastAlertAt": 1782597629365,
       "componentsOk": true,
       "viaBot": true,
       "embedOnlineStatus": true,
       "displayName": "Visitante #9386EF13",
-      "visitorShortId": "9386EF13"
+      "visitorShortId": "9386EF13",
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:3ff9a492-73be-4f8b-bc49-42e2112c5842": {
       "userKey": "v:3ff9a492-73be-4f8b-bc49-42e2112c5842",

@@ -30719,6 +30719,32 @@
         "kind": "anime",
         "provider": "animesdigital"
       }
+    },
+    "neko-to-ryuu": {
+      "at": 1782584271152,
+      "data": {
+        "slug": "neko-to-ryuu",
+        "title": "Neko to Ryuu",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9odDBkV0JidGt1Ykx6YVMzeUlMSWpTSlUzbVMuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - O Gato e o Dragão",
+            "url": "https://animeplay.cloud/episodio/neko-to-ryuu-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "animeplay",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Fantasia",
+          "Sci-Fi"
+        ]
+      }
     }
   }
 }

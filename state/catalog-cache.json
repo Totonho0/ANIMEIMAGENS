@@ -17029,6 +17029,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Tensei shitara Slime Datta Ken 4th Season Dublado",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "url": "https://animeplay.cloud/anime/tensei-shitara-slime-datta-ken-4th-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/eboMISzbfsu9bAp4GYVa6nzDma1-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
             "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
             "url": "https://animeplay.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
@@ -17170,7 +17178,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782486352759
+      "at": 1782577482710
     },
     "partner:animesdigital|todos|4||24": {
       "data": {
@@ -22699,5 +22707,5 @@
       "at": 1782577480936
     }
   },
-  "updatedAt": 1782577480958
+  "updatedAt": 1782577482710
 }

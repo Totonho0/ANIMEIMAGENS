@@ -14770,10 +14770,10 @@
       "displayName": "Visitante #122D7732",
       "visitorShortId": "122D7732",
       "lastSeenAt": 1782582892957,
-      "lastAlertAt": 1782582892957,
+      "lastAlertAt": 1782583296324,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:42fd60d1-615e-49c2-85ce-7dc49df124d0": {
       "userKey": "v:42fd60d1-615e-49c2-85ce-7dc49df124d0",
@@ -14785,10 +14785,10 @@
       "displayName": "Visitante #42FD60D1",
       "visitorShortId": "42FD60D1",
       "lastSeenAt": 1782582951588,
-      "lastAlertAt": 1782582951588,
+      "lastAlertAt": 1782583296324,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     }
   },
   "links": {

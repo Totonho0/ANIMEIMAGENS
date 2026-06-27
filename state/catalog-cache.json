@@ -18253,6 +18253,14 @@
             "provider": "animeplay"
           },
           {
+            "title": "Needy Girl Overdose",
+            "slug": "needy-girl-overdose",
+            "url": "https://animeplay.cloud/anime/needy-girl-overdose",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/jl79CIc8yL0m5VKR2X1qkoAsre0-185x278.jpg",
+            "kind": "anime",
+            "provider": "animeplay"
+          },
+          {
             "title": "Akane-banashi",
             "slug": "akane-banashi",
             "url": "https://animeplay.cloud/anime/akane-banashi",
@@ -18387,14 +18395,6 @@
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/1D9htdBwuSQRL0jhoDty5TOSvBT-185x278.jpg",
             "kind": "anime",
             "provider": "animeplay"
-          },
-          {
-            "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-            "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-            "url": "https://animeplay.cloud/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
           }
         ],
         "category": "todos",
@@ -18402,7 +18402,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782485247976
+      "at": 1782577494413
     },
     "partner:animesdigital|todos|5||24": {
       "data": {
@@ -23159,5 +23159,5 @@
       "at": 1782577492627
     }
   },
-  "updatedAt": 1782577492656
+  "updatedAt": 1782577494413
 }

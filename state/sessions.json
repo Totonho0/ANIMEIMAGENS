@@ -333,5 +333,19 @@
     },
     "hentaiAccess": false,
     "hentaiAccessCheckedAt": 1782485844540
+  },
+  "605637fc-ca59-4cff-a069-9c80d1ed6922": {
+    "createdAt": 1782597623050,
+    "user": {
+      "id": "1480714580148617321",
+      "username": "Ello (V.A)",
+      "avatar": "https://cdn.discordapp.com/avatars/1480714580148617321/91e56c17bf77241108f8ba7cdcb97a39.png?size=256"
+    },
+    "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.itUBTDQMHeI3ovIEKwcmmS3h5aVIqJ",
+    "oauthRefreshToken": "bMVQxQK1km0fyRMudFrFDIqdUuaNuM",
+    "oauthAccessExpiresAt": 1783202423050,
+    "discordUserRefreshedAt": 1782597623050,
+    "hentaiAccess": true,
+    "hentaiAccessCheckedAt": 1782597623257
   }
 }

@@ -30546,6 +30546,92 @@
           "Sci-Fi"
         ]
       }
+    },
+    "dr-stone-stone-wars": {
+      "at": 1782577515080,
+      "data": {
+        "slug": "dr-stone-stone-wars",
+        "title": "Dr Stone Stone Wars Todos os Episódios",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMC9hc3Npc3Rpci1kci1zdG9uZS1zdG9uZS13YXJzLXRvZG9zLW9zLWVwaXNvZGlvcy1vbmxpbmUtYW5pbWVzZGlnaXRhbC5qcGc",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Dr. Stone: Stone Wars Episódio 01 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9418b0z",
+            "videoId": "9418b0z"
+          },
+          {
+            "number": 2,
+            "title": "Dr. Stone: Stone Wars Episódio 02 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9417b0",
+            "videoId": "9417b0"
+          },
+          {
+            "number": 3,
+            "title": "Dr. Stone: Stone Wars Episódio 03 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9416b0z",
+            "videoId": "9416b0z"
+          },
+          {
+            "number": 4,
+            "title": "Dr. Stone: Stone Wars Episódio 04 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9415b0",
+            "videoId": "9415b0"
+          },
+          {
+            "number": 5,
+            "title": "Dr. Stone: Stone Wars Episódio 05 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9414b0",
+            "videoId": "9414b0"
+          },
+          {
+            "number": 6,
+            "title": "Dr. Stone: Stone Wars Episódio 06 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9413b0",
+            "videoId": "9413b0"
+          },
+          {
+            "number": 7,
+            "title": "Dr. Stone: Stone Wars Episódio 07 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9412b0",
+            "videoId": "9412b0"
+          },
+          {
+            "number": 8,
+            "title": "Dr. Stone: Stone Wars Episódio 08 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9411b0",
+            "videoId": "9411b0"
+          },
+          {
+            "number": 9,
+            "title": "Dr. Stone: Stone Wars Episódio 09 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9410b0",
+            "videoId": "9410b0"
+          },
+          {
+            "number": 10,
+            "title": "Dr. Stone: Stone Wars Episódio 10 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9409b0",
+            "videoId": "9409b0"
+          },
+          {
+            "number": 11,
+            "title": "Dr. Stone: Stone Wars Episódio 11 4 anos atrás",
+            "url": "https://animesdigital.org/video/a/9408b002z",
+            "videoId": "9408b002z"
+          },
+          {
+            "number": 12,
+            "title": "Dr. Stone: Ryuusui – Episódio Especial Episódio 12 3 anos atrás",
+            "url": "https://animesdigital.org/video/a/62162b0",
+            "videoId": "62162b0"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
     }
   }
 }

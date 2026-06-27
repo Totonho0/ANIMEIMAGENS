@@ -14800,10 +14800,10 @@
       "displayName": "Visitante #D17D7299",
       "visitorShortId": "D17D7299",
       "lastSeenAt": 1782583357982,
-      "lastAlertAt": 1782583357982,
+      "lastAlertAt": 1782583746349,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": false
     },
     "v:5444546f-2384-4562-bc61-368e7b0f5f25": {
       "userKey": "v:5444546f-2384-4562-bc61-368e7b0f5f25",
@@ -14819,6 +14819,60 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": true
+    },
+    "v:21d548f2-6fcf-41c0-8630-288f1a433df2": {
+      "userKey": "v:21d548f2-6fcf-41c0-8630-288f1a433df2",
+      "messageId": "1520491186077438064",
+      "channelId": "1510739162116915371",
+      "ip": "66.249.84.8",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #21D548F2",
+      "visitorShortId": "21D548F2",
+      "lastSeenAt": 1782583748022,
+      "lastAlertAt": 1782583748022,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:d9e50742-d5b4-4f44-b25b-46e84de21e26": {
+      "userKey": "v:d9e50742-d5b4-4f44-b25b-46e84de21e26",
+      "messageId": "1520491186794528921",
+      "channelId": "1510739162116915371",
+      "ip": "66.249.84.9",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #D9E50742",
+      "visitorShortId": "D9E50742",
+      "lastSeenAt": 1782583748211,
+      "lastAlertAt": 1782583748211,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
+    },
+    "v:34b8336d-b27a-4af1-aca3-382f06781cb1": {
+      "userKey": "v:34b8336d-b27a-4af1-aca3-382f06781cb1",
+      "messageId": "",
+      "channelId": "",
+      "ip": "66.249.84.9",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #34B8336D",
+      "visitorShortId": "34B8336D",
+      "lastSeenAt": 1782583749483,
+      "lastAlertAt": 0
+    },
+    "v:5a7c3e69-3928-4301-beaa-b7ce904a71c5": {
+      "userKey": "v:5a7c3e69-3928-4301-beaa-b7ce904a71c5",
+      "messageId": "",
+      "channelId": "",
+      "ip": "66.249.84.9",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #5A7C3E69",
+      "visitorShortId": "5A7C3E69",
+      "lastSeenAt": 1782583749544,
+      "lastAlertAt": 0
     }
   },
   "links": {

@@ -2348,7 +2348,7 @@
       }
     },
     "anime:dr-stone-science-future-3-dublado:13": {
-      "at": 1782577633697,
+      "at": 1782577651158,
       "data": {
         "sources": [
           {
@@ -2478,6 +2478,25 @@
         "provider": "aoc",
         "poster": "https://image.tmdb.org/t/p/w780/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-episodio-06"
+      }
+    },
+    "anime:dr-stone-science-future-3-dublado:1": {
+      "at": 1782577652556,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://animeflix.blog/Animes/Letra-D/Dr. Stone- Science Future  2/Dub/01.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fanimeflix.blog%2FAnimes%2FLetra-D%2FDr.%20Stone-%20Science%20Future%20%202%2FDub%2F01.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "dr-stone-science-future-3-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/dr-stone-science-future-3-dublado-episodio-01"
       }
     }
   }

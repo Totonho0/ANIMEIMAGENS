@@ -9642,254 +9642,283 @@
           {
             "title": "One Piece – Todos os Episodios",
             "slug": "one-piece",
-            "url": "https://animeplay.cloud/anime/one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
             "slug": "nageki-no-bourei-wa-intai-shitai",
-            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.6",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Uzumaki – Todos os Episódios",
             "slug": "uzumaki",
-            "url": "https://animeplay.cloud/anime/uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
             "slug": "hitoribocchi-no-isekai-kouryaku",
-            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
             "slug": "maou-sama-retry",
-            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
+          },
+          {
+            "title": "Nukitashi the Animation Especial",
+            "slug": "nukitashi-the-animation-especial",
+            "url": "https://animesonline.cloud/anime/nukitashi-the-animation-especial",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/p97uA76Mwhw1jqPLEdYvnLJXeAP-185x278.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "MF Ghost 3",
+            "slug": "mf-ghost-3",
+            "url": "https://animesonline.cloud/anime/mf-ghost-3",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/dJ38wZHcNUMxK0xViMLTgJc0eYe-185x278.jpg",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+            "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
+            "url": "https://animesonline.cloud/anime/yuusha-party-wo-oidasareta-kiyoubinbou",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/vdTDfjZkuzYFC1Xwa02kYvy41ET-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tamon-kun Ima Docchi!?",
+            "slug": "tamon-kun-ima-docchi",
+            "url": "https://animesonline.cloud/anime/tamon-kun-ima-docchi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/3Z7G0zxIivPz4zVYgtjbbqD5M47-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+            "url": "https://animesonline.cloud/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/G93qDwQc8qL9IKK5RnummB0D9I-185x278.jpg",
+            "rating": "8.62",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ao no Miburo 2",
+            "slug": "ao-no-miburo-2",
+            "url": "https://animesonline.cloud/anime/ao-no-miburo-2",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/2Xl8LDp17ugW9yjWrhZ0nSE6HRj-185x278.jpg",
+            "rating": "6.86",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sousou no Friere Dublado",
+            "slug": "sousou-no-friere-dublado",
+            "url": "https://animesonline.cloud/anime/sousou-no-friere-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
+            "rating": "8.921",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Jujutsu Kaisen 2 Dublado",
             "slug": "jujutsu-kaisen-2-dublado",
-            "url": "https://animeplay.cloud/anime/jujutsu-kaisen-2-dublado",
+            "url": "https://animesonline.cloud/anime/jujutsu-kaisen-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/v1QcGlOMSiRWawyGWNHYULToOjL-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Jujutsu Kaisen 2",
             "slug": "jujutsu-kaisen-2",
-            "url": "https://animeplay.cloud/anime/jujutsu-kaisen-2",
+            "url": "https://animesonline.cloud/anime/jujutsu-kaisen-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/jQ8gVoT1q5gsRXL63p8LiL0Ahgr-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Record of Ragnarok 3 Dublado",
             "slug": "record-of-ragnarok-3-dublado",
-            "url": "https://animeplay.cloud/anime/record-of-ragnarok-3-dublado",
+            "url": "https://animesonline.cloud/anime/record-of-ragnarok-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/iJStWZQNGQ6tgedmr47ujU59KoX-185x278.jpg",
+            "rating": "8.5",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Record of Ragnarok 3",
             "slug": "record-of-ragnarok-3",
-            "url": "https://animeplay.cloud/anime/record-of-ragnarok-3",
+            "url": "https://animesonline.cloud/anime/record-of-ragnarok-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/gwBONsdJKYdOZ8iqv9fgcMGhFQF-185x278.jpg",
+            "rating": "8.5",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Jujutsu Kaisen Dublado",
             "slug": "jujutsu-kaisen-dublado",
-            "url": "https://animeplay.cloud/anime/jujutsu-kaisen-dublado",
+            "url": "https://animesonline.cloud/anime/jujutsu-kaisen-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/mGPwEkHxyErWoX7Z1sk2YuOKtQ8-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Sanxian Lun Hui",
             "slug": "sanxian-lun-hui",
-            "url": "https://animeplay.cloud/anime/sanxian-lun-hui",
+            "url": "https://animesonline.cloud/anime/sanxian-lun-hui",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/01/gGAq0zmhVn1qAEyFrthSnzbuYCp-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Chainsaw Man Dublado",
             "slug": "chainsaw-man-dublado",
-            "url": "https://animeplay.cloud/anime/chainsaw-man-dublado",
+            "url": "https://animesonline.cloud/anime/chainsaw-man-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/eM7GYp7CrEnDZmZXyMnOr9iXDlo-185x278.jpg",
+            "rating": "8.568",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "One-Punch Man 3 Dublado",
             "slug": "one-punch-man-3-dublado",
-            "url": "https://animeplay.cloud/anime/one-punch-man-3-dublado",
+            "url": "https://animesonline.cloud/anime/one-punch-man-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/12/geAHbOOX9rVwFSBopLDv0WQQWNh-185x278.jpg",
+            "rating": "8.4",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Chainsaw Man – O Filme: Arco da Reze",
             "slug": "chainsaw-man-o-filme-arco-da-reze",
-            "url": "https://animeplay.cloud/anime/chainsaw-man-o-filme-arco-da-reze",
+            "url": "https://animesonline.cloud/anime/chainsaw-man-o-filme-arco-da-reze",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/tj1XhCQ2Rw2sT2o7lIdqPIYvjsx-185x278.jpg",
+            "rating": "8.9",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Blue SWAT",
             "slug": "blue-swat",
-            "url": "https://animeplay.cloud/anime/blue-swat",
+            "url": "https://animesonline.cloud/anime/blue-swat",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/ve8vUheXC3j9LoaE9UZqiHyTvom-185x278.jpg",
+            "rating": "9",
             "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Choudenshi Bioman",
-            "slug": "esquadrao-super-atomico-bioman",
-            "url": "https://animeplay.cloud/anime/esquadrao-super-atomico-bioman",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/mk6sbzGR5QPLWvI7kSqU1tC8oqS-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Kimi to Koete Koi ni Naru Dublado",
             "slug": "kimi-to-koete-koi-ni-naru-dublado",
-            "url": "https://animeplay.cloud/anime/kimi-to-koete-koi-ni-naru-dublado",
+            "url": "https://animesonline.cloud/anime/kimi-to-koete-koi-ni-naru-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Kamen Rider ZX",
             "slug": "kamen-rider-zx",
-            "url": "https://animeplay.cloud/anime/kamen-rider-zx",
+            "url": "https://animesonline.cloud/anime/kamen-rider-zx",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/jzOwdnoEl88j8OfSD5T77oSMVPv-185x278.jpg",
+            "rating": "8.1",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tatsuki Fujimoto 17-26 Dublado",
             "slug": "tatsuki-fujimoto-17-26-dublado",
-            "url": "https://animeplay.cloud/anime/tatsuki-fujimoto-17-26-dublado",
+            "url": "https://animesonline.cloud/anime/tatsuki-fujimoto-17-26-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/6dXurS7fBLNavfzAKdCybdCwUjQ-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tatsuki Fujimoto 17-26",
             "slug": "tatsuki-fujimoto-17-26",
-            "url": "https://animeplay.cloud/anime/tatsuki-fujimoto-17-26",
+            "url": "https://animesonline.cloud/anime/tatsuki-fujimoto-17-26",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zZW4CJQE7nfu8btJLoWIcOaa7fe-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hikaru ga Shinda Natsu Dublado",
             "slug": "hikaru-ga-shinda-natsu-dublado",
-            "url": "https://animeplay.cloud/anime/hikaru-ga-shinda-natsu-dublado",
+            "url": "https://animesonline.cloud/anime/hikaru-ga-shinda-natsu-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/dJKA2cVUxV3bZq5gI5Ez3WlD811-185x278.jpg",
+            "rating": "8.15",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Gnosia Dublado",
             "slug": "gnosia-dublado",
-            "url": "https://animeplay.cloud/anime/gnosia-dublado",
+            "url": "https://animesonline.cloud/anime/gnosia-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
+            "rating": "8.1",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Star Wars: Visions Season 3",
             "slug": "star-wars-visions-season-3",
-            "url": "https://animeplay.cloud/anime/star-wars-visions-season-3",
+            "url": "https://animesonline.cloud/anime/star-wars-visions-season-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/uQQPHaTNiHVSqO0K4p9fy7NWZOK-185x278.jpg",
+            "rating": "7.1",
             "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Cengjing You Yongshi",
-            "slug": "cengjing-you-yongshi",
-            "url": "https://animeplay.cloud/anime/cengjing-you-yongshi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/bOEexTA3D7HTb5oOLBRJAaLDXEo-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Disney Twisted-Wonderland: A Série Dublado",
-            "slug": "disney-twisted-wonderland-a-serie-dublado",
-            "url": "https://animeplay.cloud/anime/disney-twisted-wonderland-a-serie-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Disney Twisted-Wonderland: A Série",
-            "slug": "disney-twisted-wonderland-a-serie",
-            "url": "https://animeplay.cloud/anime/disney-twisted-wonderland-a-serie",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Alma-chan wa Kazoku ni Naritai Dublado",
-            "slug": "alma-chan-wa-kazoku-ni-naritai-dublado",
-            "url": "https://animeplay.cloud/anime/alma-chan-wa-kazoku-ni-naritai-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sal3tEwQCv1Eh9PSMZbMpg8MUqe-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Kekkon Yubiwa Monogatari II Dublado",
-            "slug": "kekkon-yubiwa-monogatari-ii-dublado",
-            "url": "https://animeplay.cloud/anime/kekkon-yubiwa-monogatari-ii-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/dd17YkjAmyycnIYuVBhqgN2ZipP-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Boku no Hero Academia: Final Season Dublado",
-            "slug": "boku-no-hero-academia-final-season-dublado",
-            "url": "https://animeplay.cloud/anime/boku-no-hero-academia-final-season-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 10,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~10d) — em modo cache; tentando reconectar.",
-        "catalogFromCache": true,
-        "aocDegraded": false,
-        "total": 475,
-        "cachedAt": 1781739769633,
+        "total": 482,
+        "cachedAt": 1782590031219,
         "aocCircuitOpen": false,
-        "aocReachable": false,
+        "aocDegraded": false,
+        "catalogFromCache": false,
+        "aocReachable": true,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -9904,9 +9933,9 @@
           "timeoutStreak": 0
         },
         "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1782575603302,
-          "lastProbeOk": false,
+          "reachable": true,
+          "lastProbeAt": 1782576414335,
+          "lastProbeOk": true,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -9932,7 +9961,7 @@
           "fixHint": null
         }
       },
-      "at": 1782575622694
+      "at": 1782590031245
     },
     "todos|11||120": {
       "data": {
@@ -9940,254 +9969,283 @@
           {
             "title": "One Piece – Todos os Episodios",
             "slug": "one-piece",
-            "url": "https://animeplay.cloud/anime/one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
             "slug": "nageki-no-bourei-wa-intai-shitai",
-            "url": "https://animeplay.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
             "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.6",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Uzumaki – Todos os Episódios",
             "slug": "uzumaki",
-            "url": "https://animeplay.cloud/anime/uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
             "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Hitoribocchi no Isekai Kouryaku",
             "slug": "hitoribocchi-no-isekai-kouryaku",
-            "url": "https://animeplay.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Maou-sama, Retry! 2 – Todos os Episódios",
             "slug": "maou-sama-retry",
-            "url": "https://animeplay.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
             "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
-            "url": "https://animeplay.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
             "poster": "https://animeplay.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
+          },
+          {
+            "title": "Cengjing You Yongshi",
+            "slug": "cengjing-you-yongshi",
+            "url": "https://animesonline.cloud/anime/cengjing-you-yongshi",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/bOEexTA3D7HTb5oOLBRJAaLDXEo-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Disney Twisted-Wonderland: A Série Dublado",
+            "slug": "disney-twisted-wonderland-a-serie-dublado",
+            "url": "https://animesonline.cloud/anime/disney-twisted-wonderland-a-serie-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Disney Twisted-Wonderland: A Série",
+            "slug": "disney-twisted-wonderland-a-serie",
+            "url": "https://animesonline.cloud/anime/disney-twisted-wonderland-a-serie",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Alma-chan wa Kazoku ni Naritai Dublado",
+            "slug": "alma-chan-wa-kazoku-ni-naritai-dublado",
+            "url": "https://animesonline.cloud/anime/alma-chan-wa-kazoku-ni-naritai-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sal3tEwQCv1Eh9PSMZbMpg8MUqe-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kekkon Yubiwa Monogatari II Dublado",
+            "slug": "kekkon-yubiwa-monogatari-ii-dublado",
+            "url": "https://animesonline.cloud/anime/kekkon-yubiwa-monogatari-ii-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/dd17YkjAmyycnIYuVBhqgN2ZipP-185x278.jpg",
+            "rating": "6.48",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Boku no Hero Academia: Final Season Dublado",
+            "slug": "boku-no-hero-academia-final-season-dublado",
+            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-final-season-dublado",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
+            "rating": "8.651",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai Dublado",
             "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
-            "url": "https://animeplay.cloud/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
+            "url": "https://animesonline.cloud/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/bD80ugDX7krshLcWxnqRYCOQPoo-185x278.jpg",
+            "rating": "9.2",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Spy x Family 3 Dublado",
             "slug": "spy-x-family-3-dublado",
-            "url": "https://animeplay.cloud/anime/spy-x-family-3-dublado",
+            "url": "https://animesonline.cloud/anime/spy-x-family-3-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vDGB41PATBLb5GaXTfG1weZ03Xr-185x278.jpg",
+            "rating": "8.5",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
             "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
-            "url": "https://animeplay.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku-dublado",
+            "url": "https://animesonline.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/6E1hsfFlwWr14yxfgmt9Lt7Gjw9-185x278.jpg",
+            "rating": "7.1",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Chainsaw Man Movie: Reze-hen",
             "slug": "chainsaw-man-movie-reze-hen",
-            "url": "https://animeplay.cloud/anime/chainsaw-man-movie-reze-hen",
+            "url": "https://animesonline.cloud/anime/chainsaw-man-movie-reze-hen",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/2CBMtiqU90SrcGN0aopRIHmTb5E-185x278.jpg",
+            "rating": "10",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Radiant 2 Dublado",
             "slug": "radiant-2-dublado",
-            "url": "https://animeplay.cloud/anime/radiant-2-dublado",
+            "url": "https://animesonline.cloud/anime/radiant-2-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/sPv6FNe5tdqPBAz3Fo1tNDKmBA0-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Radiant 2",
             "slug": "radiant-2",
-            "url": "https://animeplay.cloud/anime/radiant-2",
+            "url": "https://animesonline.cloud/anime/radiant-2",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/53vD5Fty9KWNo3ek7R9zuf7Zg4s-185x278.jpg",
+            "rating": "8.6",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Ganso! Bandori-chan",
             "slug": "ganso-bandori-chan",
-            "url": "https://animeplay.cloud/anime/ganso-bandori-chan",
+            "url": "https://animesonline.cloud/anime/ganso-bandori-chan",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/166Zsq2TYqjbJr2v5CBU0TZnLNe-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Let’s Play Dublado",
             "slug": "lets-play-dublado",
-            "url": "https://animeplay.cloud/anime/lets-play-dublado",
+            "url": "https://animesonline.cloud/anime/lets-play-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q-185x278.jpg",
+            "rating": "7.8",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Getter Robo Arc",
             "slug": "getter-robo-arc",
-            "url": "https://animeplay.cloud/anime/getter-robo-arc",
+            "url": "https://animesonline.cloud/anime/getter-robo-arc",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/esCeud4cz74FEm8Gqwy7m0dmSrf-185x278.jpg",
+            "rating": "5.7",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Wandance Dublado",
             "slug": "wandance-dublado",
-            "url": "https://animeplay.cloud/anime/wandance-dublado",
+            "url": "https://animesonline.cloud/anime/wandance-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
+            "rating": "7.2",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Witch Watch Dublado",
             "slug": "witch-watch-dublado",
-            "url": "https://animeplay.cloud/anime/witch-watch-dublado",
+            "url": "https://animesonline.cloud/anime/witch-watch-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Romantic Killer Dublado",
             "slug": "romantic-killer-dublado",
-            "url": "https://animeplay.cloud/anime/romantic-killer-dublado",
+            "url": "https://animesonline.cloud/anime/romantic-killer-dublado",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/24ou2XFtgHpkElfmmGciW4vJIgw-185x278.jpg",
+            "rating": "8.374",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Yamato yo Towa ni Rebel 3199",
             "slug": "yamato-yo-towa-ni-rebel-3199",
-            "url": "https://animeplay.cloud/anime/yamato-yo-towa-ni-rebel-3199",
+            "url": "https://animesonline.cloud/anime/yamato-yo-towa-ni-rebel-3199",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/1t4UWrOtHaPe10LezucvL1Vt05u-185x278.jpg",
+            "rating": "10",
             "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Kimi to Koete Koi ni Naru",
-            "slug": "kimi-to-koete-koi-ni-naru",
-            "url": "https://animeplay.cloud/anime/kimi-to-koete-koi-ni-naru",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Shingeki no Bahamut: Virgin Soul",
             "slug": "shingeki-no-bahamut-virgin-soul",
-            "url": "https://animeplay.cloud/anime/shingeki-no-bahamut-virgin-soul",
+            "url": "https://animesonline.cloud/anime/shingeki-no-bahamut-virgin-soul",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/oWjLPatirGO8AxizsTujUGGHjcu-185x278.jpg",
+            "rating": "7.7",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
+          },
+          {
+            "title": "Kimi to Koete Koi ni Naru",
+            "slug": "kimi-to-koete-koi-ni-naru",
+            "url": "https://animesonline.cloud/anime/kimi-to-koete-koi-ni-naru",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
           },
           {
             "title": "Isekai Quartet 3",
             "slug": "isekai-quartet-3",
-            "url": "https://animeplay.cloud/anime/isekai-quartet-3",
+            "url": "https://animesonline.cloud/anime/isekai-quartet-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/34N589rXVvG9wiQhN1O1fj4afBq-185x278.jpg",
+            "rating": "6.8",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Chanto Suenai Kyuuketsuki-chan",
             "slug": "chanto-suenai-kyuuketsuki-chan",
-            "url": "https://animeplay.cloud/anime/chanto-suenai-kyuuketsuki-chan",
+            "url": "https://animesonline.cloud/anime/chanto-suenai-kyuuketsuki-chan",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/i2hhAwqhmIDPl8ZhCLpmRbQSInw-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           },
           {
             "title": "Gnosia",
             "slug": "gnosia",
-            "url": "https://animeplay.cloud/anime/gnosia",
+            "url": "https://animesonline.cloud/anime/gnosia",
             "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/2D4j3VlE2ZzNroic5imNLBQXGi-185x278.jpg",
+            "rating": "8.1",
             "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Ganglion",
-            "slug": "ganglion",
-            "url": "https://animeplay.cloud/anime/ganglion",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/bUmLo4YaaIvh4L38PZnr4dxbykI-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Tensei Akujo no Kuro Rekishi",
-            "slug": "tensei-akujo-no-kuro-rekishi",
-            "url": "https://animeplay.cloud/anime/tensei-akujo-no-kuro-rekishi",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/mPxqrX1cSrG63rFiCgGhYeG3PWX-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Tondemo Skill de Isekai Hourou Meshi 2 Dublado",
-            "slug": "tondemo-skill-de-isekai-hourou-meshi-2-dublado",
-            "url": "https://animeplay.cloud/anime/tondemo-skill-de-isekai-hourou-meshi-2-dublado",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/pGin9RJ5tPkat5RAIKdAxi54YU3-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Wandance",
-            "slug": "wandance",
-            "url": "https://animeplay.cloud/anime/wandance",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Tondemo Skill de Isekai Hourou Meshi 2",
-            "slug": "tondemo-skill-de-isekai-hourou-meshi-2",
-            "url": "https://animeplay.cloud/anime/tondemo-skill-de-isekai-hourou-meshi-2",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/ghKSFSl2j3MvuP6buHgqPKynIHe-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
-          },
-          {
-            "title": "Chitose-kun wa Ramune Bin no Naka",
-            "slug": "chitose-kun-wa-ramune-bin-no-naka",
-            "url": "https://animeplay.cloud/anime/chitose-kun-wa-ramune-bin-no-naka",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2025/10/vtfibksdwu4gdzBhZTFeVdMwCFN-185x278.jpg",
-            "kind": "anime",
-            "provider": "animeplay"
+            "provider": "aoc"
           }
         ],
         "category": "todos",
         "page": 11,
         "hasMore": true,
-        "warning": "Catálogo salvo (há ~10d) — em modo cache; tentando reconectar.",
-        "catalogFromCache": true,
-        "aocDegraded": false,
-        "total": 475,
-        "cachedAt": 1781739769633,
+        "total": 482,
+        "cachedAt": 1782590032019,
         "aocCircuitOpen": false,
-        "aocReachable": false,
+        "aocDegraded": false,
+        "catalogFromCache": false,
+        "aocReachable": true,
         "aocCircuit": {
           "open": false,
           "openUntil": 0,
@@ -10202,9 +10260,9 @@
           "timeoutStreak": 0
         },
         "aocReachability": {
-          "reachable": false,
-          "lastProbeAt": 1782575603302,
-          "lastProbeOk": false,
+          "reachable": true,
+          "lastProbeAt": 1782576414335,
+          "lastProbeOk": true,
           "cookieOnly": true
         },
         "cookieConfigured": true,
@@ -10230,7 +10288,7 @@
           "fixHint": null
         }
       },
-      "at": 1782575622881
+      "at": 1782590032043
     },
     "todos|12||120": {
       "data": {
@@ -26875,7 +26933,567 @@
         "hasMore": true
       },
       "at": 1782590029470
+    },
+    "todos|10||48": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nukitashi the Animation Especial",
+            "slug": "nukitashi-the-animation-especial",
+            "url": "https://animesonline.cloud/anime/nukitashi-the-animation-especial",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/p97uA76Mwhw1jqPLEdYvnLJXeAP-185x278.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "MF Ghost 3",
+            "slug": "mf-ghost-3",
+            "url": "https://animesonline.cloud/anime/mf-ghost-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/dJ38wZHcNUMxK0xViMLTgJc0eYe-185x278.jpg",
+            "rating": "7.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+            "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
+            "url": "https://animesonline.cloud/anime/yuusha-party-wo-oidasareta-kiyoubinbou",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/vdTDfjZkuzYFC1Xwa02kYvy41ET-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tamon-kun Ima Docchi!?",
+            "slug": "tamon-kun-ima-docchi",
+            "url": "https://animesonline.cloud/anime/tamon-kun-ima-docchi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/3Z7G0zxIivPz4zVYgtjbbqD5M47-185x278.jpg",
+            "rating": "8.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+            "slug": "kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+            "url": "https://animesonline.cloud/anime/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/G93qDwQc8qL9IKK5RnummB0D9I-185x278.jpg",
+            "rating": "8.62",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ao no Miburo 2",
+            "slug": "ao-no-miburo-2",
+            "url": "https://animesonline.cloud/anime/ao-no-miburo-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/2Xl8LDp17ugW9yjWrhZ0nSE6HRj-185x278.jpg",
+            "rating": "6.86",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sousou no Friere Dublado",
+            "slug": "sousou-no-friere-dublado",
+            "url": "https://animesonline.cloud/anime/sousou-no-friere-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/tjdfiiZVgmX05DEjGO97PUVSmHx-185x278.jpg",
+            "rating": "8.921",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jujutsu Kaisen 2 Dublado",
+            "slug": "jujutsu-kaisen-2-dublado",
+            "url": "https://animesonline.cloud/anime/jujutsu-kaisen-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/v1QcGlOMSiRWawyGWNHYULToOjL-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jujutsu Kaisen 2",
+            "slug": "jujutsu-kaisen-2",
+            "url": "https://animesonline.cloud/anime/jujutsu-kaisen-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/jQ8gVoT1q5gsRXL63p8LiL0Ahgr-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Record of Ragnarok 3 Dublado",
+            "slug": "record-of-ragnarok-3-dublado",
+            "url": "https://animesonline.cloud/anime/record-of-ragnarok-3-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/iJStWZQNGQ6tgedmr47ujU59KoX-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Record of Ragnarok 3",
+            "slug": "record-of-ragnarok-3",
+            "url": "https://animesonline.cloud/anime/record-of-ragnarok-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/gwBONsdJKYdOZ8iqv9fgcMGhFQF-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Jujutsu Kaisen Dublado",
+            "slug": "jujutsu-kaisen-dublado",
+            "url": "https://animesonline.cloud/anime/jujutsu-kaisen-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/mGPwEkHxyErWoX7Z1sk2YuOKtQ8-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Sanxian Lun Hui",
+            "slug": "sanxian-lun-hui",
+            "url": "https://animesonline.cloud/anime/sanxian-lun-hui",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/01/gGAq0zmhVn1qAEyFrthSnzbuYCp-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Chainsaw Man Dublado",
+            "slug": "chainsaw-man-dublado",
+            "url": "https://animesonline.cloud/anime/chainsaw-man-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/eM7GYp7CrEnDZmZXyMnOr9iXDlo-185x278.jpg",
+            "rating": "8.568",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "One-Punch Man 3 Dublado",
+            "slug": "one-punch-man-3-dublado",
+            "url": "https://animesonline.cloud/anime/one-punch-man-3-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/12/geAHbOOX9rVwFSBopLDv0WQQWNh-185x278.jpg",
+            "rating": "8.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Chainsaw Man – O Filme: Arco da Reze",
+            "slug": "chainsaw-man-o-filme-arco-da-reze",
+            "url": "https://animesonline.cloud/anime/chainsaw-man-o-filme-arco-da-reze",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/tj1XhCQ2Rw2sT2o7lIdqPIYvjsx-185x278.jpg",
+            "rating": "8.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Blue SWAT",
+            "slug": "blue-swat",
+            "url": "https://animesonline.cloud/anime/blue-swat",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/ve8vUheXC3j9LoaE9UZqiHyTvom-185x278.jpg",
+            "rating": "9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kimi to Koete Koi ni Naru Dublado",
+            "slug": "kimi-to-koete-koi-ni-naru-dublado",
+            "url": "https://animesonline.cloud/anime/kimi-to-koete-koi-ni-naru-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kamen Rider ZX",
+            "slug": "kamen-rider-zx",
+            "url": "https://animesonline.cloud/anime/kamen-rider-zx",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/jzOwdnoEl88j8OfSD5T77oSMVPv-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tatsuki Fujimoto 17-26 Dublado",
+            "slug": "tatsuki-fujimoto-17-26-dublado",
+            "url": "https://animesonline.cloud/anime/tatsuki-fujimoto-17-26-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/6dXurS7fBLNavfzAKdCybdCwUjQ-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tatsuki Fujimoto 17-26",
+            "slug": "tatsuki-fujimoto-17-26",
+            "url": "https://animesonline.cloud/anime/tatsuki-fujimoto-17-26",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/zZW4CJQE7nfu8btJLoWIcOaa7fe-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hikaru ga Shinda Natsu Dublado",
+            "slug": "hikaru-ga-shinda-natsu-dublado",
+            "url": "https://animesonline.cloud/anime/hikaru-ga-shinda-natsu-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/dJKA2cVUxV3bZq5gI5Ez3WlD811-185x278.jpg",
+            "rating": "8.15",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Gnosia Dublado",
+            "slug": "gnosia-dublado",
+            "url": "https://animesonline.cloud/anime/gnosia-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/11/zmQPDO6RdidMg7Y95s8I62SbKxK-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Star Wars: Visions Season 3",
+            "slug": "star-wars-visions-season-3",
+            "url": "https://animesonline.cloud/anime/star-wars-visions-season-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/uQQPHaTNiHVSqO0K4p9fy7NWZOK-185x278.jpg",
+            "rating": "7.1",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 10,
+        "hasMore": true
+      },
+      "at": 1782590031219
+    },
+    "todos|11||48": {
+      "data": {
+        "items": [
+          {
+            "title": "One Piece – Todos os Episodios",
+            "slug": "one-piece",
+            "url": "https://animesonline.cloud/anime/one-piece",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
+            "rating": "8.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Nageki no Bourei wa Intai shitai – Todos os Episódios",
+            "slug": "nageki-no-bourei-wa-intai-shitai",
+            "url": "https://animesonline.cloud/anime/nageki-no-bourei-wa-intai-shitai",
+            "poster": "https://image.tmdb.org/t/p/original/bZD55gpX7UDmPTO3rJKFUOkwX7A.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Uzumaki – Todos os Episódios",
+            "slug": "uzumaki",
+            "url": "https://animesonline.cloud/anime/uzumaki",
+            "poster": "https://image.tmdb.org/t/p/original/xHNtl7bhElOMrtksYnC0z5GRnSO.jpg",
+            "rating": "5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Hitoribocchi no Isekai Kouryaku",
+            "slug": "hitoribocchi-no-isekai-kouryaku",
+            "url": "https://animesonline.cloud/anime/hitoribocchi-no-isekai-kouryaku",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/12/luou4eQgwh5TdghrH3KuoSdFgqp-185x278.jpg",
+            "rating": "7.4",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Maou-sama, Retry! 2 – Todos os Episódios",
+            "slug": "maou-sama-retry",
+            "url": "https://animesonline.cloud/anime/maou-sama-retry-todos-os-episodios",
+            "poster": "https://image.tmdb.org/t/p/original/kYV3iknVbKGcy6MxTpvnTZmgFXq.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 – Todos os Episódios",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
+            "url": "https://animesonline.cloud/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-todos-os-episodios",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2024/09/pMLitK7uCKoF25dNn5Xai0RuFra-185x278.jpg",
+            "rating": "6.9",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Cengjing You Yongshi",
+            "slug": "cengjing-you-yongshi",
+            "url": "https://animesonline.cloud/anime/cengjing-you-yongshi",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/bOEexTA3D7HTb5oOLBRJAaLDXEo-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Disney Twisted-Wonderland: A Série Dublado",
+            "slug": "disney-twisted-wonderland-a-serie-dublado",
+            "url": "https://animesonline.cloud/anime/disney-twisted-wonderland-a-serie-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Disney Twisted-Wonderland: A Série",
+            "slug": "disney-twisted-wonderland-a-serie",
+            "url": "https://animesonline.cloud/anime/disney-twisted-wonderland-a-serie",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/c9RJoqZktpCQVUiZOhHLyq6Fhwb-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Alma-chan wa Kazoku ni Naritai Dublado",
+            "slug": "alma-chan-wa-kazoku-ni-naritai-dublado",
+            "url": "https://animesonline.cloud/anime/alma-chan-wa-kazoku-ni-naritai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/sal3tEwQCv1Eh9PSMZbMpg8MUqe-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kekkon Yubiwa Monogatari II Dublado",
+            "slug": "kekkon-yubiwa-monogatari-ii-dublado",
+            "url": "https://animesonline.cloud/anime/kekkon-yubiwa-monogatari-ii-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/dd17YkjAmyycnIYuVBhqgN2ZipP-185x278.jpg",
+            "rating": "6.48",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Boku no Hero Academia: Final Season Dublado",
+            "slug": "boku-no-hero-academia-final-season-dublado",
+            "url": "https://animesonline.cloud/anime/boku-no-hero-academia-final-season-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/myxWINN4lV2YRtb3DcCi7UFn6C5-185x278.jpg",
+            "rating": "8.651",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai Dublado",
+            "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
+            "url": "https://animesonline.cloud/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/bD80ugDX7krshLcWxnqRYCOQPoo-185x278.jpg",
+            "rating": "9.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Spy x Family 3 Dublado",
+            "slug": "spy-x-family-3-dublado",
+            "url": "https://animesonline.cloud/anime/spy-x-family-3-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/vDGB41PATBLb5GaXTfG1weZ03Xr-185x278.jpg",
+            "rating": "8.5",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Akujiki Reijou to Kyouketsu Koushaku Dublado",
+            "slug": "akujiki-reijou-to-kyouketsu-koushaku-dublado",
+            "url": "https://animesonline.cloud/anime/akujiki-reijou-to-kyouketsu-koushaku-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/6E1hsfFlwWr14yxfgmt9Lt7Gjw9-185x278.jpg",
+            "rating": "7.1",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Chainsaw Man Movie: Reze-hen",
+            "slug": "chainsaw-man-movie-reze-hen",
+            "url": "https://animesonline.cloud/anime/chainsaw-man-movie-reze-hen",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/2CBMtiqU90SrcGN0aopRIHmTb5E-185x278.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Radiant 2 Dublado",
+            "slug": "radiant-2-dublado",
+            "url": "https://animesonline.cloud/anime/radiant-2-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/sPv6FNe5tdqPBAz3Fo1tNDKmBA0-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Radiant 2",
+            "slug": "radiant-2",
+            "url": "https://animesonline.cloud/anime/radiant-2",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/53vD5Fty9KWNo3ek7R9zuf7Zg4s-185x278.jpg",
+            "rating": "8.6",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Ganso! Bandori-chan",
+            "slug": "ganso-bandori-chan",
+            "url": "https://animesonline.cloud/anime/ganso-bandori-chan",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/166Zsq2TYqjbJr2v5CBU0TZnLNe-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Let’s Play Dublado",
+            "slug": "lets-play-dublado",
+            "url": "https://animesonline.cloud/anime/lets-play-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q-185x278.jpg",
+            "rating": "7.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Getter Robo Arc",
+            "slug": "getter-robo-arc",
+            "url": "https://animesonline.cloud/anime/getter-robo-arc",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/esCeud4cz74FEm8Gqwy7m0dmSrf-185x278.jpg",
+            "rating": "5.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Wandance Dublado",
+            "slug": "wandance-dublado",
+            "url": "https://animesonline.cloud/anime/wandance-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/1FbU0jXGPTKKWtRkVD1zplH73La-185x278.jpg",
+            "rating": "7.2",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Witch Watch Dublado",
+            "slug": "witch-watch-dublado",
+            "url": "https://animesonline.cloud/anime/witch-watch-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Romantic Killer Dublado",
+            "slug": "romantic-killer-dublado",
+            "url": "https://animesonline.cloud/anime/romantic-killer-dublado",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/24ou2XFtgHpkElfmmGciW4vJIgw-185x278.jpg",
+            "rating": "8.374",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Yamato yo Towa ni Rebel 3199",
+            "slug": "yamato-yo-towa-ni-rebel-3199",
+            "url": "https://animesonline.cloud/anime/yamato-yo-towa-ni-rebel-3199",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/1t4UWrOtHaPe10LezucvL1Vt05u-185x278.jpg",
+            "rating": "10",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Shingeki no Bahamut: Virgin Soul",
+            "slug": "shingeki-no-bahamut-virgin-soul",
+            "url": "https://animesonline.cloud/anime/shingeki-no-bahamut-virgin-soul",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/oWjLPatirGO8AxizsTujUGGHjcu-185x278.jpg",
+            "rating": "7.7",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Kimi to Koete Koi ni Naru",
+            "slug": "kimi-to-koete-koi-ni-naru",
+            "url": "https://animesonline.cloud/anime/kimi-to-koete-koi-ni-naru",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/l8YQfVfTKtWnBS54cvHlCLeUidc-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Isekai Quartet 3",
+            "slug": "isekai-quartet-3",
+            "url": "https://animesonline.cloud/anime/isekai-quartet-3",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/34N589rXVvG9wiQhN1O1fj4afBq-185x278.jpg",
+            "rating": "6.8",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Chanto Suenai Kyuuketsuki-chan",
+            "slug": "chanto-suenai-kyuuketsuki-chan",
+            "url": "https://animesonline.cloud/anime/chanto-suenai-kyuuketsuki-chan",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/i2hhAwqhmIDPl8ZhCLpmRbQSInw-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Gnosia",
+            "slug": "gnosia",
+            "url": "https://animesonline.cloud/anime/gnosia",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2025/10/2D4j3VlE2ZzNroic5imNLBQXGi-185x278.jpg",
+            "rating": "8.1",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "todos",
+        "page": 11,
+        "hasMore": true
+      },
+      "at": 1782590032019
     }
   },
-  "updatedAt": 1782590029499
+  "updatedAt": 1782590032043
 }

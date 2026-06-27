@@ -2403,6 +2403,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-dublado-episodio-11"
       }
+    },
+    "anime:dr-stone-science-future-3-dublado:9": {
+      "at": 1782577551428,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-D/Dr-Stone-Science-Future-4/Dub/09.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-D%2FDr-Stone-Science-Future-4%2FDub%2F09.mp4&ref=aoc"
+          }
+        ],
+        "episode": 9,
+        "slug": "dr-stone-science-future-3-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-dublado-episodio-09"
+      }
     }
   }
 }

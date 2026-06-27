@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "id": "colorist-ptbr",
-      "titleId": "colorist-ptbr",
-      "slug": "colorist-ptbr",
-      "title": "Colorist",
-      "author": "",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tMzIv",
-      "chapterName": "Capitulo 32",
-      "sub": "Capitulo 32"
-    },
-    {
       "id": "nano-machine-ptbr",
       "titleId": "nano-machine-ptbr",
       "slug": "nano-machine-ptbr",
@@ -24,9 +10,65 @@
       "language": "PT",
       "provider": "mangalivre",
       "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNC8",
-      "chapterName": "Capitulo 314",
-      "sub": "Capitulo 314"
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL25hbm8tbWFjaGluZS1wdGJyL2NhcGl0dWxvLTMxNy8",
+      "chapterName": "Capitulo 317",
+      "sub": "Capitulo 317"
+    },
+    {
+      "id": "colorist-ptbr",
+      "titleId": "colorist-ptbr",
+      "slug": "colorist-ptbr",
+      "title": "Colorist",
+      "author": "",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL0NvbG9yaXN0LTE3NXgyMzgud2VicA",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2NvbG9yaXN0LXB0YnIvY2FwaXR1bG8tMzYv",
+      "chapterName": "Capitulo 36",
+      "sub": "Capitulo 36"
+    },
+    {
+      "id": "revenge-of-the-baskerville-bloodhound",
+      "titleId": "revenge-of-the-baskerville-bloodhound",
+      "slug": "revenge-of-the-baskerville-bloodhound",
+      "title": "Revenge of the Baskerville Bloodhound",
+      "author": "Arang",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL1JldmVuZ2Utb2YtdGhlLUJhc2tlcnZpbGxlLUJsb29kaG91bmQtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JldmVuZ2Utb2YtdGhlLWJhc2tlcnZpbGxlLWJsb29kaG91bmQvY2FwaXR1bG8tMTY5Lw",
+      "chapterName": "Capitulo 169",
+      "sub": "Capitulo 169"
+    },
+    {
+      "id": "solo-leveling-ragnarok",
+      "titleId": "solo-leveling-ragnarok",
+      "slug": "solo-leveling-ragnarok",
+      "title": "Solo Leveling: Ragnarok",
+      "author": "Daul",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1NvbG8tTGV2ZWxpbmctUmFnbmFyb2stbWFuZ2EtbGl2cmUtMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3NvbG8tbGV2ZWxpbmctcmFnbmFyb2svY2FwaXR1bG8tNjgv",
+      "chapterName": "Capitulo 68",
+      "sub": "Capitulo 68"
+    },
+    {
+      "id": "absolute-regression-ptbr",
+      "titleId": "absolute-regression-ptbr",
+      "slug": "absolute-regression-ptbr",
+      "title": "Absolute Regression",
+      "author": "Jang Yeonghun",
+      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0Fic29sdXRlLVJlZ3Jlc3Npb24tMTc1eDIzOC53ZWJw",
+      "language": "PT",
+      "provider": "mangalivre",
+      "kind": "manga",
+      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2Fic29sdXRlLXJlZ3Jlc3Npb24tcHRici9jYXBpdHVsby0xMDcv",
+      "chapterName": "Capitulo 107",
+      "sub": "Capitulo 107"
     },
     {
       "id": "omniscient-reader",
@@ -41,34 +83,6 @@
       "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL29tbmlzY2llbnQtcmVhZGVyL2NhcGl0dWxvLTMwNS8",
       "chapterName": "Capitulo 305",
       "sub": "Capitulo 305"
-    },
-    {
-      "id": "absolute-regression",
-      "titleId": "absolute-regression",
-      "slug": "absolute-regression",
-      "title": "Absolute Regression",
-      "author": "Jang Yeonghun",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L0Fic29sdXRlLVJlZ3Jlc3Npb24tMTc1eDIzOC53ZWJw",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL2Fic29sdXRlLXJlZ3Jlc3Npb24vY2FwaXR1bG8tOTcv",
-      "chapterName": "Capitulo 97",
-      "sub": "Capitulo 97"
-    },
-    {
-      "id": "revenge-of-the-baskerville-bloodhound",
-      "titleId": "revenge-of-the-baskerville-bloodhound",
-      "slug": "revenge-of-the-baskerville-bloodhound",
-      "title": "Revenge of the Baskerville Bloodhound",
-      "author": "Arang",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzExL1JldmVuZ2Utb2YtdGhlLUJhc2tlcnZpbGxlLUJsb29kaG91bmQtMTc1eDIzOC53ZWJw",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3JldmVuZ2Utb2YtdGhlLWJhc2tlcnZpbGxlLWJsb29kaG91bmQvY2FwaXR1bG8tMTUyLw",
-      "chapterName": "Capitulo 152",
-      "sub": "Capitulo 152"
     },
     {
       "id": "reincarnation-of-the-fist-king",
@@ -97,20 +111,6 @@
       "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3RoZS10YWxlLW9mLXRoZS1za2VsZXRvbi1tZXNzZW5nZXIvY2FwaXR1bG8tMjIv",
       "chapterName": "Capitulo 22",
       "sub": "Capitulo 22"
-    },
-    {
-      "id": "solo-leveling-ragnarok",
-      "titleId": "solo-leveling-ragnarok",
-      "slug": "solo-leveling-ragnarok",
-      "title": "Solo Leveling: Ragnarok",
-      "author": "Daul",
-      "poster": "/api/poster/r/aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L1NvbG8tTGV2ZWxpbmctUmFnbmFyb2stbWFuZ2EtbGl2cmUtMTc1eDIzOC53ZWJw",
-      "language": "PT",
-      "provider": "mangalivre",
-      "kind": "manga",
-      "chapterId": "aHR0cHM6Ly9tYW5nYWxpdnJlLnRvL21hbmdhL3NvbG8tbGV2ZWxpbmctcmFnbmFyb2svY2FwaXR1bG8tNjcv",
-      "chapterName": "Capitulo 67",
-      "sub": "Capitulo 67"
     },
     {
       "id": "the-greatest-estate-developer",
@@ -225,7 +225,7 @@
       "sub": "Capitulo 10"
     }
   ],
-  "updatedAt": 1782266764926,
+  "updatedAt": 1782597459034,
   "total": 16,
   "genre": "manhwa",
   "source": "mangalivre"

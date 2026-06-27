@@ -15009,11 +15009,15 @@
       "username": "",
       "displayName": "Visitante #9386EF13",
       "visitorShortId": "9386EF13",
-      "lastSeenAt": 1782597442735,
-      "lastAlertAt": 1782597442735,
+      "lastSeenAt": 1782597459601,
+      "lastAlertAt": 1782597459601,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     },
     "v:f12d9f9b-7441-42e7-916f-54bd700d9087": {
       "userKey": "v:f12d9f9b-7441-42e7-916f-54bd700d9087",

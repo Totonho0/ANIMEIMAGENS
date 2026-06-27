@@ -14212,11 +14212,44 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782582686812
+      "at": 1782583702832
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 24",
+            "epTitle": "Episódio 24",
+            "slug": "yuusha-no-kuzu",
+            "episode": 24,
+            "url": "https://animeplay.cloud/episodio/yuusha-no-kuzu-episodio-24",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/8ruCdwqNEX3ad2AjCBoUjrHOWRx-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 14",
+            "epTitle": "Episódio 14",
+            "slug": "shunkashuutou-daikousha-haru-no-mai",
+            "episode": 14,
+            "url": "https://animeplay.cloud/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-14",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/c3xAde7YmVCt06IMWb189fXiMnB-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "needy-girl-overdose",
+            "episode": 13,
+            "url": "https://animeplay.cloud/episodio/needy-girl-overdose-episodio-13",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bxslfusKrNkjU4D0CW0LtwP02it-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
@@ -14447,39 +14480,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
-            "episode": 10,
-            "url": "https://animeplay.cloud/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado-episodio-10",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/p2AUjof6JeqOBKIbw2icr0HzNnm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "kanojo-okarishimasu-5th-season-dublado",
-            "episode": 9,
-            "url": "https://animeplay.cloud/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-09",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/feMpRawQ31r9EkImghYIZO4ANsC-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "awajima-hyakkei",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/awajima-hyakkei-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/7OygxCmGsGFRewPUsA6oJVhga0E-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -14487,7 +14487,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782582687634
+      "at": 1782583703008
     },
     "genre-row:drama": {
       "data": {
@@ -16235,7 +16235,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782582688719
+      "at": 1782583703130
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -16374,7 +16374,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782582983794
+      "at": 1782583704972
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -16569,7 +16569,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782582687338
+      "at": 1782583701597
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -16772,7 +16772,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782582983798
+      "at": 1782583703670
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -23153,6 +23153,39 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 24",
+            "epTitle": "Episódio 24",
+            "slug": "yuusha-no-kuzu",
+            "episode": 24,
+            "url": "https://animesdrive.online/episodio/yuusha-no-kuzu-episodio-24",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/8ruCdwqNEX3ad2AjCBoUjrHOWRx-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 14",
+            "epTitle": "Episódio 14",
+            "slug": "shunkashuutou-daikousha-haru-no-mai",
+            "episode": 14,
+            "url": "https://animesdrive.online/episodio/shunkashuutou-daikousha-haru-no-mai-episodio-14",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/c3xAde7YmVCt06IMWb189fXiMnB-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "needy-girl-overdose",
+            "episode": 13,
+            "url": "https://animesdrive.online/episodio/needy-girl-overdose-episodio-13",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/bxslfusKrNkjU4D0CW0LtwP02it-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
             "slug": "neko-to-ryuu",
@@ -23382,39 +23415,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
-            "episode": 10,
-            "url": "https://animesdrive.online/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado-episodio-10",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/p2AUjof6JeqOBKIbw2icr0HzNnm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "kanojo-okarishimasu-5th-season-dublado",
-            "episode": 9,
-            "url": "https://animesdrive.online/episodio/kanojo-okarishimasu-5th-season-dublado-episodio-09",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/feMpRawQ31r9EkImghYIZO4ANsC-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "awajima-hyakkei",
-            "episode": 12,
-            "url": "https://animesdrive.online/episodio/awajima-hyakkei-episodio-12",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/7OygxCmGsGFRewPUsA6oJVhga0E-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -23422,7 +23422,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782582687687
+      "at": 1782583703260
     },
     "todos|1||24": {
       "data": {
@@ -23851,7 +23851,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782582688881
+      "at": 1782583703329
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -23998,7 +23998,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782582983791
+      "at": 1782583704485
     },
     "partner:animesdrive|todos|3||24": {
       "data": {
@@ -24484,5 +24484,5 @@
       "at": 1782583694888
     }
   },
-  "updatedAt": 1782583694888
+  "updatedAt": 1782583704972
 }

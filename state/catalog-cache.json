@@ -7061,7 +7061,7 @@
         "page": 1,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590022149,
+        "cachedAt": 1782604422274,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7091,7 +7091,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -7102,13 +7102,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590022179
+      "at": 1782604422306
     },
     "todos|2||120": {
       "data": {
@@ -7307,7 +7307,7 @@
         "page": 2,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590023137,
+        "cachedAt": 1782604423481,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7337,7 +7337,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -7348,13 +7348,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590023168
+      "at": 1782604423514
     },
     "todos|3||120": {
       "data": {
@@ -7625,7 +7625,7 @@
         "page": 3,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590023931,
+        "cachedAt": 1782604424335,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7655,7 +7655,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -7666,13 +7666,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590023967
+      "at": 1782604424363
     },
     "todos|4||120": {
       "data": {
@@ -7952,7 +7952,7 @@
         "page": 4,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590025044,
+        "cachedAt": 1782604425332,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -7982,7 +7982,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -7993,13 +7993,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590025069
+      "at": 1782604425359
     },
     "todos|5||120": {
       "data": {
@@ -8279,7 +8279,7 @@
         "page": 5,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590025996,
+        "cachedAt": 1782604426269,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8309,7 +8309,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -8320,13 +8320,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590026019
+      "at": 1782604426295
     },
     "todos|6||120": {
       "data": {
@@ -8606,7 +8606,7 @@
         "page": 6,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590026857,
+        "cachedAt": 1782604427191,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8636,7 +8636,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -8647,13 +8647,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590026884
+      "at": 1782604427218
     },
     "todos|7||120": {
       "data": {
@@ -8933,7 +8933,7 @@
         "page": 7,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590027725,
+        "cachedAt": 1782604428028,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -8963,7 +8963,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -8974,13 +8974,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590027771
+      "at": 1782604428056
     },
     "todos|8||120": {
       "data": {
@@ -9260,7 +9260,7 @@
         "page": 8,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590028620,
+        "cachedAt": 1782604428876,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9290,7 +9290,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -9301,13 +9301,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590028648
+      "at": 1782604428903
     },
     "todos|9||120": {
       "data": {
@@ -9587,7 +9587,7 @@
         "page": 9,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590029470,
+        "cachedAt": 1782604429852,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9617,7 +9617,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -9628,13 +9628,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590029499
+      "at": 1782604429877
     },
     "todos|10||120": {
       "data": {
@@ -9914,7 +9914,7 @@
         "page": 10,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590031219,
+        "cachedAt": 1782604430802,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -9944,7 +9944,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -9955,13 +9955,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590031245
+      "at": 1782604430829
     },
     "todos|11||120": {
       "data": {
@@ -10241,7 +10241,7 @@
         "page": 11,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590032019,
+        "cachedAt": 1782604431819,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10271,7 +10271,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -10282,13 +10282,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590032043
+      "at": 1782604431846
     },
     "todos|12||120": {
       "data": {
@@ -10568,7 +10568,7 @@
         "page": 12,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590033694,
+        "cachedAt": 1782604432682,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10598,7 +10598,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -10609,13 +10609,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590033718
+      "at": 1782604432709
     },
     "todos|13||120": {
       "data": {
@@ -10895,7 +10895,7 @@
         "page": 13,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590035414,
+        "cachedAt": 1782604433582,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -10925,7 +10925,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -10936,13 +10936,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590035441
+      "at": 1782604433616
     },
     "todos|14||120": {
       "data": {
@@ -11222,7 +11222,7 @@
         "page": 14,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590036998,
+        "cachedAt": 1782604434649,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11252,7 +11252,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -11263,13 +11263,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590037024
+      "at": 1782604434675
     },
     "todos|15||120": {
       "data": {
@@ -11540,7 +11540,7 @@
         "page": 15,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590038664,
+        "cachedAt": 1782604435422,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11570,7 +11570,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -11581,13 +11581,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590038692
+      "at": 1782604435450
     },
     "todos|16||120": {
       "data": {
@@ -11867,7 +11867,7 @@
         "page": 16,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590040433,
+        "cachedAt": 1782604436419,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -11897,7 +11897,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -11908,13 +11908,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590040458
+      "at": 1782604436443
     },
     "todos|17||120": {
       "data": {
@@ -12194,7 +12194,7 @@
         "page": 17,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590042557,
+        "cachedAt": 1782604437196,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -12224,7 +12224,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -12235,13 +12235,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590042585
+      "at": 1782604437220
     },
     "todos|18||120": {
       "data": {
@@ -12521,7 +12521,7 @@
         "page": 18,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590044513,
+        "cachedAt": 1782604438178,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -12551,7 +12551,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -12562,13 +12562,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590044551
+      "at": 1782604438204
     },
     "todos|19||120": {
       "data": {
@@ -12848,7 +12848,7 @@
         "page": 19,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590046583,
+        "cachedAt": 1782604438987,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -12878,7 +12878,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -12889,13 +12889,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590046609
+      "at": 1782604439027
     },
     "todos|20||120": {
       "data": {
@@ -13166,7 +13166,7 @@
         "page": 20,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782590048435,
+        "cachedAt": 1782604439877,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13196,7 +13196,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -13207,13 +13207,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590048460
+      "at": 1782604439903
     },
     "legendado|1||120": {
       "data": {
@@ -13412,7 +13412,7 @@
         "page": 1,
         "hasMore": true,
         "total": 68,
-        "cachedAt": 1782590050766,
+        "cachedAt": 1782604442099,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13442,7 +13442,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -13453,13 +13453,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590050778
+      "at": 1782604442106
     },
     "legendado|2||120": {
       "data": {
@@ -13622,7 +13622,7 @@
         "page": 2,
         "hasMore": true,
         "total": 68,
-        "cachedAt": 1782590051786,
+        "cachedAt": 1782604443292,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13652,7 +13652,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -13663,13 +13663,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590051794
+      "at": 1782604443300
     },
     "legendado|3||120": {
       "data": {
@@ -13895,7 +13895,7 @@
         "page": 3,
         "hasMore": true,
         "total": 68,
-        "cachedAt": 1782590052759,
+        "cachedAt": 1782604444118,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13925,7 +13925,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -13936,13 +13936,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590052771
+      "at": 1782604444128
     },
     "dublado|1||120": {
       "data": {
@@ -14168,7 +14168,7 @@
         "page": 1,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782590053034,
+        "cachedAt": 1782604444376,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14198,7 +14198,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -14209,13 +14209,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590053047
+      "at": 1782604444387
     },
     "dublado|2||120": {
       "data": {
@@ -14441,7 +14441,7 @@
         "page": 2,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782590053887,
+        "cachedAt": 1782604445302,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14471,7 +14471,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -14482,13 +14482,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590053895
+      "at": 1782604445311
     },
     "dublado|3||120": {
       "data": {
@@ -14714,7 +14714,7 @@
         "page": 3,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782590054759,
+        "cachedAt": 1782604446205,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14744,7 +14744,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -14755,13 +14755,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590054769
+      "at": 1782604446216
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -16352,8 +16352,8 @@
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
-        "total": 65,
-        "cachedAt": 1782590049432,
+        "total": 73,
+        "cachedAt": 1782604440757,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -16383,7 +16383,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -16394,13 +16394,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590049438
+      "at": 1782604440765
     },
     "lancamentos|2||120": {
       "data": {
@@ -16674,7 +16674,7 @@
         "page": 2,
         "hasMore": true,
         "total": 73,
-        "cachedAt": 1782590050515,
+        "cachedAt": 1782604441826,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -16704,7 +16704,7 @@
         "isProd": true,
         "datacenterRisk": false,
         "authFailed": false,
-        "recentCatalog403": true,
+        "recentCatalog403": false,
         "aocBlocked": false,
         "blocking": false,
         "fixHint": null,
@@ -16715,13 +16715,13 @@
           "isProd": true,
           "datacenterRisk": false,
           "authFailed": false,
-          "recentCatalog403": true,
+          "recentCatalog403": false,
           "aocBlocked": false,
           "blocking": false,
           "fixHint": null
         }
       },
-      "at": 1782590050524
+      "at": 1782604441837
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -23013,7 +23013,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782597449292
+      "at": 1782604440757
     },
     "todos|2||24": {
       "data": {
@@ -25170,7 +25170,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782590022149
+      "at": 1782604422274
     },
     "todos|2||48": {
       "data": {
@@ -25369,7 +25369,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782590023137
+      "at": 1782604423481
     },
     "todos|3||48": {
       "data": {
@@ -25640,7 +25640,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1782590023931
+      "at": 1782604424335
     },
     "todos|4||48": {
       "data": {
@@ -25920,7 +25920,7 @@
         "page": 4,
         "hasMore": true
       },
-      "at": 1782590025044
+      "at": 1782604425332
     },
     "todos|5||48": {
       "data": {
@@ -26200,7 +26200,7 @@
         "page": 5,
         "hasMore": true
       },
-      "at": 1782590025996
+      "at": 1782604426269
     },
     "todos|6||48": {
       "data": {
@@ -26480,7 +26480,7 @@
         "page": 6,
         "hasMore": true
       },
-      "at": 1782590026857
+      "at": 1782604427191
     },
     "todos|7||48": {
       "data": {
@@ -26760,7 +26760,7 @@
         "page": 7,
         "hasMore": true
       },
-      "at": 1782590027725
+      "at": 1782604428028
     },
     "todos|8||48": {
       "data": {
@@ -27040,7 +27040,7 @@
         "page": 8,
         "hasMore": true
       },
-      "at": 1782590028620
+      "at": 1782604428876
     },
     "todos|9||48": {
       "data": {
@@ -27320,7 +27320,7 @@
         "page": 9,
         "hasMore": true
       },
-      "at": 1782590029470
+      "at": 1782604429852
     },
     "todos|10||48": {
       "data": {
@@ -27600,7 +27600,7 @@
         "page": 10,
         "hasMore": true
       },
-      "at": 1782590031219
+      "at": 1782604430802
     },
     "todos|11||48": {
       "data": {
@@ -27880,7 +27880,7 @@
         "page": 11,
         "hasMore": true
       },
-      "at": 1782590032019
+      "at": 1782604431819
     },
     "todos|12||48": {
       "data": {
@@ -28160,7 +28160,7 @@
         "page": 12,
         "hasMore": true
       },
-      "at": 1782590033694
+      "at": 1782604432682
     },
     "todos|13||48": {
       "data": {
@@ -28440,7 +28440,7 @@
         "page": 13,
         "hasMore": true
       },
-      "at": 1782590035414
+      "at": 1782604433582
     },
     "todos|14||48": {
       "data": {
@@ -28720,7 +28720,7 @@
         "page": 14,
         "hasMore": true
       },
-      "at": 1782590036998
+      "at": 1782604434649
     },
     "todos|15||48": {
       "data": {
@@ -28991,7 +28991,7 @@
         "page": 15,
         "hasMore": true
       },
-      "at": 1782590038664
+      "at": 1782604435422
     },
     "todos|16||48": {
       "data": {
@@ -29271,7 +29271,7 @@
         "page": 16,
         "hasMore": true
       },
-      "at": 1782590040433
+      "at": 1782604436419
     },
     "todos|17||48": {
       "data": {
@@ -29551,7 +29551,7 @@
         "page": 17,
         "hasMore": true
       },
-      "at": 1782590042557
+      "at": 1782604437196
     },
     "todos|18||48": {
       "data": {
@@ -29831,7 +29831,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1782590044513
+      "at": 1782604438178
     },
     "todos|19||48": {
       "data": {
@@ -30111,7 +30111,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1782590046583
+      "at": 1782604438987
     },
     "todos|20||48": {
       "data": {
@@ -30382,7 +30382,7 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1782590048435
+      "at": 1782604439877
     },
     "lancamentos|2||48": {
       "data": {
@@ -30656,7 +30656,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782590050515
+      "at": 1782604441826
     },
     "legendado|1||48": {
       "data": {
@@ -30855,7 +30855,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782590050766
+      "at": 1782604442099
     },
     "legendado|2||48": {
       "data": {
@@ -31018,7 +31018,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782590051786
+      "at": 1782604443292
     },
     "legendado|3||48": {
       "data": {
@@ -31244,7 +31244,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1782590052759
+      "at": 1782604444118
     },
     "dublado|1||48": {
       "data": {
@@ -31470,7 +31470,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782590053034
+      "at": 1782604444376
     },
     "dublado|2||48": {
       "data": {
@@ -31696,7 +31696,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782590053887
+      "at": 1782604445302
     },
     "dublado|3||48": {
       "data": {
@@ -31922,8 +31922,8 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1782590054759
+      "at": 1782604446205
     }
   },
-  "updatedAt": 1782597590162
+  "updatedAt": 1782604446216
 }

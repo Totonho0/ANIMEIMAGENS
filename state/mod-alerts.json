@@ -15966,11 +15966,15 @@
       "username": "",
       "displayName": "Visitante #FA03FB77",
       "visitorShortId": "FA03FB77",
-      "lastSeenAt": 1782684096838,
-      "lastAlertAt": 1782684095161,
+      "lastSeenAt": 1782684105670,
+      "lastAlertAt": 1782684105670,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "",
+      "viewingTitle": "",
+      "viewingDetail": "",
+      "viewingUpdatedAt": 0
     }
   },
   "links": {

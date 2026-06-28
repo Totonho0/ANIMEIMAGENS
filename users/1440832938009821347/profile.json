@@ -1,8 +1,8 @@
 {
   "name": "Rick",
   "bio": "",
-  "avatar": "https://cdn.discordapp.com/avatars/1440832938009821347/360c3cf79d28afd584816aa8d32ba9be.png?size=256",
-  "discordAvatar": "https://cdn.discordapp.com/avatars/1440832938009821347/360c3cf79d28afd584816aa8d32ba9be.png?size=256",
+  "avatar": "https://cdn.discordapp.com/avatars/1440832938009821347/1bc276676c0d35ddc5f9e7c0d386c93b.png?size=256",
+  "discordAvatar": "https://cdn.discordapp.com/avatars/1440832938009821347/1bc276676c0d35ddc5f9e7c0d386c93b.png?size=256",
   "customAvatar": false,
   "banner": "/placeholder.svg",
   "favorites": [],
@@ -78,5 +78,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782430495492
+  "updatedAt": 1782672770604
 }

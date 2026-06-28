@@ -13895,7 +13895,7 @@
         "page": 3,
         "hasMore": true,
         "total": 68,
-        "cachedAt": 1782618846599,
+        "cachedAt": 1782633255854,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13942,7 +13942,7 @@
           "fixHint": null
         }
       },
-      "at": 1782618846608
+      "at": 1782633255863
     },
     "dublado|1||120": {
       "data": {
@@ -14168,7 +14168,7 @@
         "page": 1,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782618846993,
+        "cachedAt": 1782633256234,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14215,7 +14215,7 @@
           "fixHint": null
         }
       },
-      "at": 1782618847001
+      "at": 1782633256245
     },
     "dublado|2||120": {
       "data": {
@@ -14441,7 +14441,7 @@
         "page": 2,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782618848009,
+        "cachedAt": 1782633257141,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14488,7 +14488,7 @@
           "fixHint": null
         }
       },
-      "at": 1782618848020
+      "at": 1782633257153
     },
     "dublado|3||120": {
       "data": {
@@ -14714,7 +14714,7 @@
         "page": 3,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782618849031,
+        "cachedAt": 1782633258016,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14761,7 +14761,7 @@
           "fixHint": null
         }
       },
-      "at": 1782618849039
+      "at": 1782633258031
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -31252,7 +31252,7 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1782618846599
+      "at": 1782633255854
     },
     "dublado|1||48": {
       "data": {
@@ -31478,7 +31478,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782618846993
+      "at": 1782633256234
     },
     "dublado|2||48": {
       "data": {
@@ -31704,7 +31704,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782618848009
+      "at": 1782633257141
     },
     "dublado|3||48": {
       "data": {
@@ -31930,8 +31930,8 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1782618849031
+      "at": 1782633258016
     }
   },
-  "updatedAt": 1782633253977
+  "updatedAt": 1782633258031
 }

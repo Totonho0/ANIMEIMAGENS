@@ -349,7 +349,7 @@
     "hentaiAccessCheckedAt": 1782597625940
   },
   "a46afa74-2958-4f20-aac6-021fa62379cf": {
-    "createdAt": 1782660384510,
+    "createdAt": 1782660386247,
     "user": {
       "id": "377188128735232010",
       "username": "Totonho",
@@ -358,8 +358,8 @@
     "oauthAccessToken": "MTUwOTI2Mjg0MDk2MjQ4MjE4Ng.TXumK8nDWmQHY7lheJksVAfTN63JM3",
     "oauthRefreshToken": "fpYisrywz3YfvEYCAATk7dwv3odjhE",
     "oauthAccessExpiresAt": 1783265184510,
-    "discordUserRefreshedAt": 1782660384510,
+    "discordUserRefreshedAt": 1782660386247,
     "hentaiAccess": true,
-    "hentaiAccessCheckedAt": 1782660384720
+    "hentaiAccessCheckedAt": 1782660386874
   }
 }

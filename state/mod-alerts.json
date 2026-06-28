@@ -10162,17 +10162,13 @@
       "ip": "143.131.235.95",
       "discordId": "377188128735232010",
       "username": "Totonho",
-      "lastSeenAt": 1782415909158,
-      "lastAlertAt": 1782416333463,
+      "lastSeenAt": 1782660385951,
+      "lastAlertAt": 1782660385618,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": false,
-      "displayName": "Visitante #C2C8D174",
-      "visitorShortId": "C2C8D174",
-      "viewingKind": "anime",
-      "viewingTitle": "Tongari Boushi no Atelier Dublado",
-      "viewingDetail": "Episódio 09 - Pesadelo submerso na escuridão",
-      "viewingUpdatedAt": 1782415909158
+      "embedOnlineStatus": true,
+      "displayName": "Visitante #EFA10133",
+      "visitorShortId": "EFA10133"
     },
     "v:62392afb-f92d-4f4c-939a-ca63128f4041": {
       "userKey": "v:62392afb-f92d-4f4c-939a-ca63128f4041",
@@ -15689,21 +15685,6 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
-    },
-    "v:efa10133-74a8-4ffb-b752-5892a3465518": {
-      "userKey": "v:efa10133-74a8-4ffb-b752-5892a3465518",
-      "messageId": "1520812485114855656",
-      "channelId": "1510739162116915371",
-      "ip": "143.131.235.95",
-      "discordId": "",
-      "username": "",
-      "displayName": "Visitante #EFA10133",
-      "visitorShortId": "EFA10133",
-      "lastSeenAt": 1782660369401,
-      "lastAlertAt": 1782660351687,
-      "viaBot": true,
-      "componentsOk": true,
-      "embedOnlineStatus": true
     }
   },
   "links": {
@@ -15739,6 +15720,7 @@
     "ip:6bbf77bede7a7dcc": "d:995408617308164107",
     "d:1420173047293411399": "ip:55cad40b8a970b06",
     "ip:55cad40b8a970b06": "d:1420173047293411399",
-    "v:9386ef13-2966-41ed-9bf0-f5415465026b": "d:1480714580148617321"
+    "v:9386ef13-2966-41ed-9bf0-f5415465026b": "d:1480714580148617321",
+    "v:efa10133-74a8-4ffb-b752-5892a3465518": "d:377188128735232010"
   }
 }

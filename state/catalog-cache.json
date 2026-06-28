@@ -14767,6 +14767,14 @@
       "data": {
         "items": [
           {
+            "title": "Kuroneko to Majo no Kyoushitsu",
+            "slug": "assistir-kuroneko-to-majo-no-kyoushitsu",
+            "url": "https://animesdigital.org/video/a/136800/",
+            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kuroneko-to-Majo-no-Kyoushitsu.jpg",
+            "kind": "anime",
+            "provider": "animesdigital"
+          },
+          {
             "title": "Ace of the Diamond Act II Season 2",
             "slug": "assistir-ace-of-the-diamond-act-ii-season-2",
             "url": "https://animesdigital.org/video/a/136796/",
@@ -14885,14 +14893,6 @@
             "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Hokuto-no-Ken-2026Ep.jpg",
             "kind": "anime",
             "provider": "animesdigital"
-          },
-          {
-            "title": "Kami no Shizuku",
-            "slug": "assistir-kami-no-shizuku",
-            "url": "https://animesdigital.org/video/a/136776/",
-            "poster": "https://animesdigital.org/wp-content/uploads/2026/04/Kami-no-ShizukuEp.jpg",
-            "kind": "anime",
-            "provider": "animesdigital"
           }
         ],
         "category": "lancamentos",
@@ -14900,11 +14900,99 @@
         "hasMore": false,
         "partnerId": "animesdigital"
       },
-      "at": 1782659861390
+      "at": 1782672772305
     },
     "partner:animeplay|lancamentos|1||24": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 1168",
+            "epTitle": "Episódio 1168",
+            "slug": "one-piece",
+            "episode": 1168,
+            "url": "https://animeplay.cloud/episodio/one-piece-episodio-1168",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/zgaKhbb9f7cKT7ajFUZa60PABdP-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/1M3Blf4MXfnHzaTxcblnkdqPyFT-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "needy-girl-overdose-dublado",
+            "episode": 9,
+            "url": "https://animeplay.cloud/episodio/needy-girl-overdose-dublado-episodio-09",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/7kblSDpmteYEAZq73oehcN6jOeu-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "mao",
+            "episode": 13,
+            "url": "https://animeplay.cloud/episodio/mao-episodio-13",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/j6mMLoqaBj7dZLdd2tvs9xLlqGB-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "yomi-no-tsugai-dublado",
+            "episode": 10,
+            "url": "https://animeplay.cloud/episodio/yomi-no-tsugai-dublado-episodio-10",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/tin9fsxWVelD4ifEkzsaBzUGVmp-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/isfQP5lp03PiRZrv4Go5Ck0BjOc-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "episode": 13,
+            "url": "https://animeplay.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-13",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/quR7RZIlkjOoaBZfDV5i7WqhukX-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "episode": 12,
+            "url": "https://animeplay.cloud/episodio/yozakura-san-chi-no-daisakusen-2-episodio-12",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/vyufaDiyOyDymQyCpEhulH6FBp8-300x170.jpg",
+            "kind": "anime",
+            "provider": "animeplay",
+            "isRelease": true
+          },
           {
             "title": "Episódio 24",
             "epTitle": "Episódio 24",
@@ -15080,94 +15168,6 @@
             "kind": "anime",
             "provider": "animeplay",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "dr-stone-science-future-4-part-3",
-            "episode": 13,
-            "url": "https://animeplay.cloud/episodio/dr-stone-science-future-4-part-3-episodio-13",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/9fQg4B1Rgei8rxI6JBKvStCRe1d-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/gj47bQTLyMHMjRcCh0xg082xRsb-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 14",
-            "epTitle": "Episódio 14",
-            "slug": "hokuto-no-ken-fist-of-the-north-star",
-            "episode": 14,
-            "url": "https://animeplay.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-14",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/wZOEQ9WNX4VFYDXrRuRm998Ze3M-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/8Bfkjspd1VfXHS9BJGoAMugVUly-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kami-no-shizuku",
-            "episode": 12,
-            "url": "https://animeplay.cloud/episodio/kami-no-shizuku-episodio-12",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/caCyPbQuYYbuIADUlCnQ6n10xmm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "snowball-earth",
-            "episode": 13,
-            "url": "https://animeplay.cloud/episodio/snowball-earth-episodio-13",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/wiqeswxs8kiWCO5TO09Up6FYLTy-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
-            "episode": 1,
-            "url": "https://animeplay.cloud/episodio/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku-episodio-01",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/k9srUHVLj5pCQZNfylInNN4EUpp-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "episode": 11,
-            "url": "https://animeplay.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-11",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/yiARNbRGEyRZw1x3zSRNTvqsEIP-300x170.jpg",
-            "kind": "anime",
-            "provider": "animeplay",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -15175,7 +15175,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782659861781
+      "at": 1782672772549
     },
     "genre-row:drama": {
       "data": {
@@ -15330,7 +15330,7 @@
         "hasMore": false,
         "genreId": "drama"
       },
-      "at": 1782660353375
+      "at": 1782672775521
     },
     "genre-row:aventura": {
       "data": {
@@ -15485,7 +15485,7 @@
         "hasMore": false,
         "genreId": "aventura"
       },
-      "at": 1782660353802
+      "at": 1782672775919
     },
     "genre-row:fantasia": {
       "data": {
@@ -15640,7 +15640,7 @@
         "hasMore": false,
         "genreId": "fantasia"
       },
-      "at": 1782660353946
+      "at": 1782672776146
     },
     "genre-row:romance": {
       "data": {
@@ -15786,7 +15786,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1782660353662
+      "at": 1782672775792
     },
     "genre-row:acao": {
       "data": {
@@ -15941,7 +15941,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1782660353236
+      "at": 1782672775401
     },
     "genre-row:comedia": {
       "data": {
@@ -16087,7 +16087,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1782660353530
+      "at": 1782672775660
     },
     "lancamentos|1||120": {
       "data": {
@@ -16932,7 +16932,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782660354984
+      "at": 1782672773960
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -17071,7 +17071,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782660356851
+      "at": 1782672776044
     },
     "partner:animesdigital|todos|1||24": {
       "data": {
@@ -17266,7 +17266,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782660353212
+      "at": 1782672774198
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -17469,7 +17469,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782660355317
+      "at": 1782672774659
     },
     "partner:animesdigital|todos|3||24": {
       "data": {
@@ -22479,12 +22479,100 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 1168",
+            "epTitle": "Episódio 1168",
+            "slug": "one-piece",
+            "episode": 1168,
+            "url": "https://animesonline.cloud/episodio/one-piece-episodio-1168",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/wvvU6slT9DpjOUwnwnTeQ9Rm23N-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/isfQP5lp03PiRZrv4Go5Ck0BjOc-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 1",
             "epTitle": "Episódio 1",
             "slug": "neko-to-ryuu",
             "episode": 1,
             "url": "https://animesonline.cloud/episodio/neko-to-ryuu-episodio-01",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/2gVLTv2dGIWR03xON7IrmGDmIgj-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/1M3Blf4MXfnHzaTxcblnkdqPyFT-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "mao",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/mao-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/j6mMLoqaBj7dZLdd2tvs9xLlqGB-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "yomi-no-tsugai-dublado",
+            "episode": 10,
+            "url": "https://animesonline.cloud/episodio/yomi-no-tsugai-dublado-episodio-10",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/tin9fsxWVelD4ifEkzsaBzUGVmp-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "episode": 13,
+            "url": "https://animesonline.cloud/episodio/ace-of-the-diamond-act-ii-season-2-episodio-13",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/quR7RZIlkjOoaBZfDV5i7WqhukX-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/yozakura-san-chi-no-daisakusen-2-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/vyufaDiyOyDymQyCpEhulH6FBp8-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "needy-girl-overdose-dublado",
+            "episode": 9,
+            "url": "https://animesonline.cloud/episodio/needy-girl-overdose-dublado-episodio-09",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/7kblSDpmteYEAZq73oehcN6jOeu-300x170.jpg",
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
@@ -22653,101 +22741,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 10",
-            "epTitle": "Episódio 10",
-            "slug": "kill-ao-dublado",
-            "episode": 10,
-            "url": "https://animesonline.cloud/episodio/kill-ao-dublado-episodio-10",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9AvP94SyBJD8tUPGaK2lRrRZbq0-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 9",
-            "epTitle": "Episódio 9",
-            "slug": "kill-ao-dublado",
-            "episode": 9,
-            "url": "https://animesonline.cloud/episodio/kill-ao-dublado-episodio-09",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/4KjlUaaZfMxJT82QMmL7gwutMkA-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 14",
-            "epTitle": "Episódio 14",
-            "slug": "hokuto-no-ken-fist-of-the-north-star",
-            "episode": 14,
-            "url": "https://animesonline.cloud/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-14",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/jy8v8oF9KnDh5DSA2H4w0nRMgTg-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "snowball-earth",
-            "episode": 13,
-            "url": "https://animesonline.cloud/episodio/snowball-earth-episodio-13",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/3W1o1m4em10QjqMthbYsULP64b9-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/9Snh1hXhQP4BsvMbkDpRmWfcAw4-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kami-no-shizuku",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/kami-no-shizuku-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/caCyPbQuYYbuIADUlCnQ6n10xmm-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
-            "episode": 1,
-            "url": "https://animesonline.cloud/episodio/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku-episodio-01",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/k9srUHVLj5pCQZNfylInNN4EUpp-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "episode": 11,
-            "url": "https://animesonline.cloud/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-11",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/yiARNbRGEyRZw1x3zSRNTvqsEIP-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true
       },
-      "at": 1782659861713
+      "at": 1782672773354
     },
     "lancamentos|1||48": {
       "data": {
@@ -23850,6 +23850,94 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 1168",
+            "epTitle": "Episódio 1168",
+            "slug": "one-piece",
+            "episode": 1168,
+            "url": "https://animesdrive.online/episodio/one-piece-episodio-1168",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/2000n5ItgFVZxYvHSXnE95gr0F1-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "kuroneko-to-majo-no-kyoushitsu",
+            "episode": 12,
+            "url": "https://animesdrive.online/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-12",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/1M3Blf4MXfnHzaTxcblnkdqPyFT-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "mao",
+            "episode": 13,
+            "url": "https://animesdrive.online/episodio/mao-episodio-13",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/j6mMLoqaBj7dZLdd2tvs9xLlqGB-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 10",
+            "epTitle": "Episódio 10",
+            "slug": "yomi-no-tsugai-dublado",
+            "episode": 10,
+            "url": "https://animesdrive.online/episodio/yomi-no-tsugai-dublado-episodio-10",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/tin9fsxWVelD4ifEkzsaBzUGVmp-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "tsue-to-tsurugi-no-wistoria-2",
+            "episode": 12,
+            "url": "https://animesdrive.online/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-12",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/isfQP5lp03PiRZrv4Go5Ck0BjOc-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 13",
+            "epTitle": "Episódio 13",
+            "slug": "ace-of-the-diamond-act-ii-season-2",
+            "episode": 13,
+            "url": "https://animesdrive.online/episodio/ace-of-the-diamond-act-ii-season-2-episodio-13",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/quR7RZIlkjOoaBZfDV5i7WqhukX-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "yozakura-san-chi-no-daisakusen-2",
+            "episode": 12,
+            "url": "https://animesdrive.online/episodio/yozakura-san-chi-no-daisakusen-2-episodio-12",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/vyufaDiyOyDymQyCpEhulH6FBp8-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
+            "title": "Episódio 9",
+            "epTitle": "Episódio 9",
+            "slug": "needy-girl-overdose-dublado",
+            "episode": 9,
+            "url": "https://animesdrive.online/episodio/needy-girl-overdose-dublado-episodio-09",
+            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/7kblSDpmteYEAZq73oehcN6jOeu-300x170.jpg",
+            "kind": "anime",
+            "provider": "animesdrive",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 24",
             "epTitle": "Episódio 24",
             "slug": "yuusha-no-kuzu",
@@ -24024,94 +24112,6 @@
             "kind": "anime",
             "provider": "animesdrive",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "dr-stone-science-future-4-part-3",
-            "episode": 13,
-            "url": "https://animesdrive.online/episodio/dr-stone-science-future-4-part-3-episodio-13",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/9fQg4B1Rgei8rxI6JBKvStCRe1d-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season",
-            "episode": 12,
-            "url": "https://animesdrive.online/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-12",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/8Bfkjspd1VfXHS9BJGoAMugVUly-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 14",
-            "epTitle": "Episódio 14",
-            "slug": "hokuto-no-ken-fist-of-the-north-star",
-            "episode": 14,
-            "url": "https://animesdrive.online/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-14",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/7I3R0Ic5DCxY2HipU1avkgaQxMh-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-            "episode": 12,
-            "url": "https://animesdrive.online/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-12",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/3Y9wbPdjpCnaZBxybd95PWnB1NJ-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 13",
-            "epTitle": "Episódio 13",
-            "slug": "snowball-earth",
-            "episode": 13,
-            "url": "https://animesdrive.online/episodio/snowball-earth-episodio-13",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/pHKEWl4DKkiXF5TarAxuHwB9AFI-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "kami-no-shizuku",
-            "episode": 12,
-            "url": "https://animesdrive.online/episodio/kami-no-shizuku-episodio-12",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/caCyPbQuYYbuIADUlCnQ6n10xmm-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 1",
-            "epTitle": "Episódio 1",
-            "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
-            "episode": 1,
-            "url": "https://animesdrive.online/episodio/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku-episodio-01",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/k9srUHVLj5pCQZNfylInNN4EUpp-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
-          },
-          {
-            "title": "Episódio 11",
-            "epTitle": "Episódio 11",
-            "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado",
-            "episode": 11,
-            "url": "https://animesdrive.online/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-dublado-episodio-11",
-            "poster": "https://animesdrive.online/wp-content/uploads/2026/06/yiARNbRGEyRZw1x3zSRNTvqsEIP-300x170.jpg",
-            "kind": "anime",
-            "provider": "animesdrive",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
@@ -24119,7 +24119,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782659862003
+      "at": 1782672772854
     },
     "todos|1||24": {
       "data": {
@@ -24345,7 +24345,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782659863630
+      "at": 1782672775273
     },
     "partner:animesdrive|todos|1||24": {
       "data": {
@@ -24548,7 +24548,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782660354859
+      "at": 1782672773757
     },
     "partner:animesdrive|todos|2||24": {
       "data": {
@@ -24695,7 +24695,7 @@
         "hasMore": true,
         "partnerId": "animesdrive"
       },
-      "at": 1782660356551
+      "at": 1782672775949
     },
     "partner:animesdrive|todos|3||24": {
       "data": {
@@ -31933,5 +31933,5 @@
       "at": 1782662046418
     }
   },
-  "updatedAt": 1782662046426
+  "updatedAt": 1782672776146
 }

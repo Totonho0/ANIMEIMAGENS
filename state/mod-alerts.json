@@ -12868,10 +12868,10 @@
       "discordId": "1440832938009821347",
       "username": "Rick",
       "lastSeenAt": 1782672768749,
-      "lastAlertAt": 1782672768749,
+      "lastAlertAt": 1782673150199,
       "componentsOk": true,
       "viaBot": true,
-      "embedOnlineStatus": true,
+      "embedOnlineStatus": false,
       "displayName": "Visitante #30CA96E5",
       "visitorShortId": "30CA96E5"
     },

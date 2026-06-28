@@ -15330,7 +15330,7 @@
         "hasMore": false,
         "genreId": "drama"
       },
-      "at": 1782597589681
+      "at": 1782633245239
     },
     "genre-row:aventura": {
       "data": {
@@ -15485,7 +15485,7 @@
         "hasMore": false,
         "genreId": "aventura"
       },
-      "at": 1782597590051
+      "at": 1782633245612
     },
     "genre-row:fantasia": {
       "data": {
@@ -15640,7 +15640,7 @@
         "hasMore": false,
         "genreId": "fantasia"
       },
-      "at": 1782597590162
+      "at": 1782633245748
     },
     "genre-row:romance": {
       "data": {
@@ -15786,7 +15786,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1782597589937
+      "at": 1782633245485
     },
     "genre-row:acao": {
       "data": {
@@ -15941,7 +15941,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1782597589461
+      "at": 1782633245122
     },
     "genre-row:comedia": {
       "data": {
@@ -16087,7 +16087,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1782597589811
+      "at": 1782633245350
     },
     "lancamentos|1||120": {
       "data": {
@@ -16361,7 +16361,7 @@
         "page": 1,
         "hasMore": true,
         "total": 73,
-        "cachedAt": 1782618843177,
+        "cachedAt": 1782633245002,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -16408,7 +16408,7 @@
           "fixHint": null
         }
       },
-      "at": 1782618843189
+      "at": 1782633245010
     },
     "lancamentos|2||120": {
       "data": {
@@ -23021,7 +23021,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782618843177
+      "at": 1782633245002
     },
     "todos|2||24": {
       "data": {
@@ -31933,5 +31933,5 @@
       "at": 1782618849031
     }
   },
-  "updatedAt": 1782633243183
+  "updatedAt": 1782633245748
 }

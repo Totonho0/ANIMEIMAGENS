@@ -7744,7 +7744,7 @@
       }
     },
     "hitoribocchi-no-isekai-kouryaku": {
-      "at": 1782592951824,
+      "at": 1782660486018,
       "data": {
         "slug": "hitoribocchi-no-isekai-kouryaku",
         "title": "Hitoribocchi no Isekai Kouryaku",
@@ -7912,7 +7912,7 @@
       }
     },
     "uzumaki": {
-      "at": 1782586427791,
+      "at": 1782660485741,
       "data": {
         "slug": "uzumaki",
         "title": "Uzumaki - Todos os Episódios",
@@ -7953,7 +7953,7 @@
       }
     },
     "maou-sama-retry": {
-      "at": 1782586425627,
+      "at": 1782660486954,
       "data": {
         "slug": "maou-sama-retry",
         "title": "Maou-sama, Retry! 2 - Todos os Episódios",
@@ -8035,7 +8035,7 @@
       }
     },
     "tensei-kizoku-kantei-skill-de-nariagaru-2": {
-      "at": 1782586426830,
+      "at": 1782660487929,
       "data": {
         "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2",
         "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2 - Todos os Episódios",
@@ -8115,7 +8115,7 @@
       }
     },
     "nageki-no-bourei-wa-intai-shitai": {
-      "at": 1782586424559,
+      "at": 1782660488741,
       "data": {
         "slug": "nageki-no-bourei-wa-intai-shitai",
         "title": "Nageki no Bourei wa Intai shitai - Todos os Episódios",
@@ -30699,7 +30699,7 @@
       }
     },
     "neko-to-ryuu": {
-      "at": 1782586429242,
+      "at": 1782660488946,
       "data": {
         "slug": "neko-to-ryuu",
         "title": "Neko to Ryuu",
@@ -30709,12 +30709,12 @@
           {
             "number": 1,
             "title": "Episódio 01 - O Gato e o Dragão",
-            "url": "https://animeplay.cloud/episodio/neko-to-ryuu-episodio-01"
+            "url": "https://animesdrive.online/episodio/neko-to-ryuu-episodio-01"
           }
         ],
         "totalEpisodes": 1,
         "kind": "anime",
-        "provider": "animeplay",
+        "provider": "animesdrive",
         "genres": [
           "Legendado",
           "Dublado",
@@ -31111,6 +31111,92 @@
             "title": "Atelier Escha e Logy: Alchemists Of The Dusk Sky Episódio 12 4 anos atrás",
             "url": "https://animesdigital.org/video/a/1998/",
             "videoId": "1998"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "animesdigital"
+      }
+    },
+    "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega": {
+      "at": 1782660487528,
+      "data": {
+        "slug": "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
+        "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega - Animes",
+        "poster": "/api/poster/r/aHR0cHM6Ly9hbmltZXNkaWdpdGFsLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNy9SeXphLW5vLUF0ZWxpZXItY2F0ZWdvcmlhLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 01 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/84607x001z",
+            "videoId": "84607x001z"
+          },
+          {
+            "number": 2,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 02 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/85840z001z",
+            "videoId": "85840z001z"
+          },
+          {
+            "number": 3,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 03 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/87196x001z",
+            "videoId": "87196x001z"
+          },
+          {
+            "number": 4,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 04 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/87848x001z",
+            "videoId": "87848x001z"
+          },
+          {
+            "number": 5,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 05 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/98660b0",
+            "videoId": "98660b0"
+          },
+          {
+            "number": 6,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 06 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/99492/",
+            "videoId": "99492"
+          },
+          {
+            "number": 7,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 07 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/100571b0",
+            "videoId": "100571b0"
+          },
+          {
+            "number": 8,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 08 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/101691b0",
+            "videoId": "101691b0"
+          },
+          {
+            "number": 9,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 09 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/102692b0",
+            "videoId": "102692b0"
+          },
+          {
+            "number": 10,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 10 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/103040b0",
+            "videoId": "103040b0"
+          },
+          {
+            "number": 11,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 11 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/103467b0",
+            "videoId": "103467b0"
+          },
+          {
+            "number": 12,
+            "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega Episódio 12 2 anos atrás",
+            "url": "https://animesdigital.org/video/a/103871b0",
+            "videoId": "103871b0"
           }
         ],
         "totalEpisodes": 12,

@@ -11668,7 +11668,7 @@
       }
     },
     "tongari-boushi-no-atelier-dublado": {
-      "at": 1782068019048,
+      "at": 1782660474892,
       "data": {
         "slug": "tongari-boushi-no-atelier-dublado",
         "title": "Tongari Boushi no Atelier Dublado",
@@ -11678,84 +11678,79 @@
           {
             "number": 1,
             "title": "Episódio 01 - A magia que deu início a tudo.",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-01"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - A Escola da Pastagem",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-02"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - O teste da cordilheira Dada",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-03"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Uma visita a Karun",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-04"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - O labirinto do Dragão Gigante Escamado",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-05"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06 - A luz de um dia chuvoso",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-06"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07 - Para quem é a magia?",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-07"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08 - As suspeitas do Conselho de Segurança Mágica",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-08"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 09 - Pesadelo submerso na escuridão",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-09"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-09"
           },
           {
             "number": 10,
             "title": "Episódio 10 -A promessa prateada",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-10"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-10"
           },
           {
             "number": 11,
             "title": "Episódio 11 - Teste da Caverna das Costas da Serpente",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-11"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-11"
           },
           {
             "number": 12,
             "title": "Episódio 12 - À sombra de Lomonorn",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-12"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-12"
+          },
+          {
+            "number": 13,
+            "title": "Episódio 13 - A magia que foi proibida",
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-13"
           }
         ],
-        "totalEpisodes": 12,
+        "totalEpisodes": 13,
         "kind": "anime",
-        "provider": "animeplay",
-        "audioVariants": {
-          "current": "dub",
-          "variants": {
-            "default": {
-              "slug": "tongari-boushi-no-atelier",
-              "title": "Tongari Boushi no Atelier",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "tongari-boushi-no-atelier-dublado",
-              "title": "Tongari Boushi no Atelier Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Drama",
+          "Sci-Fi & Fantasia"
+        ]
       }
     },
     "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi": {
@@ -23688,7 +23683,7 @@
       }
     },
     "tongari-boushi-no-atelier": {
-      "at": 1782410203136,
+      "at": 1782660472004,
       "data": {
         "slug": "tongari-boushi-no-atelier",
         "title": "Tongari Boushi no Atelier",
@@ -23698,101 +23693,84 @@
           {
             "number": 0,
             "title": "Episódio 00 - Trailer",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-00"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-00"
           },
           {
             "number": 1,
             "title": "Episódio 01 - A magia que deu início a tudo.",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-01"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-01"
           },
           {
             "number": 2,
             "title": "Episódio 02 - A Escola da Pastagem",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-02"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-02"
           },
           {
             "number": 3,
             "title": "Episódio 03 - O teste da cordilheira Dada",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-03"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-03"
           },
           {
             "number": 4,
             "title": "Episódio 04 - Uma visita a Karun",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-04"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-04"
           },
           {
             "number": 5,
             "title": "Episódio 05 - O labirinto do Dragão Gigante Escamado",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-05"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-05"
           },
           {
             "number": 6,
             "title": "Episódio 06 - A luz de um dia chuvoso",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-06"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-06"
           },
           {
             "number": 7,
             "title": "Episódio 07 - Para quem é a magia?",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-07"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-07"
           },
           {
             "number": 8,
             "title": "Episódio 08 - As suspeitas do Conselho de Segurança Mágica",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-08"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-08"
           },
           {
             "number": 9,
             "title": "Episódio 09 - Pesadelo submerso na escuridão",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-09"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-09"
           },
           {
             "number": 10,
             "title": "Episódio 10 -A promessa prateada",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-10"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-10"
           },
           {
             "number": 11,
             "title": "Episódio 11 - Teste da Caverna das Costas da Serpente",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-11"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-11"
           },
           {
             "number": 12,
             "title": "Episódio 12 - À sombra de Lomonorn",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-12"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-12"
           },
           {
             "number": 13,
             "title": "Episódio 13 - A magia que foi proibida",
-            "url": "https://animeplay.cloud/episodio/tongari-boushi-no-atelier-episodio-13"
+            "url": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-episodio-13"
           }
         ],
         "totalEpisodes": 14,
         "kind": "anime",
-        "provider": "animeplay",
+        "provider": "aoc",
         "genres": [
           "Legendado",
           "Dublado",
           "Animação",
           "Drama",
           "Sci-Fi & Fantasia"
-        ],
-        "audioVariants": {
-          "current": "default",
-          "variants": {
-            "default": {
-              "slug": "tongari-boushi-no-atelier",
-              "title": "Tongari Boushi no Atelier",
-              "audio": "default",
-              "label": "Legendado"
-            },
-            "dub": {
-              "slug": "tongari-boushi-no-atelier-dublado",
-              "title": "Tongari Boushi no Atelier Dublado",
-              "audio": "dub",
-              "label": "Dublado"
-            }
-          }
-        }
+        ]
       }
     },
     "kusuriya-no-hitorigoto-2": {
@@ -30741,6 +30719,314 @@
           "Legendado",
           "Dublado",
           "Animação",
+          "Fantasia",
+          "Sci-Fi"
+        ]
+      }
+    },
+    "ah-mama-x-holic-miwaku-no-mama-to-amaama-kankei": {
+      "at": 1782660471756,
+      "data": {
+        "slug": "ah-mama-x-holic-miwaku-no-mama-to-amaama-kankei",
+        "title": "Mama x Holic Miwaku no Mama to Amaama Kankei",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIxLzExL21hbWEteC1ob2xpYy1taXdha3Utbm8tbWFtYS10by1hbWFhbWEta2Fua2VpLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Mama x Holic Miwaku no Mama to Amaama Kankei Episódio 01",
+            "url": "https://www.assistirhentai.com/episodio/mama-x-holic-miwaku-no-mama-to-amaama-kankei-episodio-01/",
+            "episodeSlug": "mama-x-holic-miwaku-no-mama-to-amaama-kankei-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Mama x Holic Miwaku no Mama to Amaama Kankei Episódio 02",
+            "url": "https://www.assistirhentai.com/episodio/mama-x-holic-miwaku-no-mama-to-amaama-kankei-episodio-02/",
+            "episodeSlug": "mama-x-holic-miwaku-no-mama-to-amaama-kankei-episodio-02"
+          }
+        ],
+        "totalEpisodes": 2,
+        "kind": "anime",
+        "provider": "assistirhentai"
+      }
+    },
+    "ah-niku-mesu-r30-nikuyoku-ni-ochita-mesu-tachi-the-animation": {
+      "at": 1782660471991,
+      "data": {
+        "slug": "ah-niku-mesu-r30-nikuyoku-ni-ochita-mesu-tachi-the-animation",
+        "title": "Niku Mesu R30: Nikuyoku Ni Ochita Mesu-tachi The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA2LzAtMTExLmpwZw",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Niku Mesu R30: Nikuyoku Ni Ochita Mesu-tachi The Animation Episódio 01",
+            "url": "https://www.assistirhentai.com/episodio/niku-mesu-r30-nikuyoku-ni-ochita-mesu-tachi-the-animation-episodio-01/",
+            "episodeSlug": "niku-mesu-r30-nikuyoku-ni-ochita-mesu-tachi-the-animation-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "assistirhentai"
+      }
+    },
+    "ah-ero-zemi-ecchi-ni-yaru-ki-ni-abc-the-animation": {
+      "at": 1782660472260,
+      "data": {
+        "slug": "ah-ero-zemi-ecchi-ni-yaru-ki-ni-abc-the-animation",
+        "title": "Ero Zemi: Ecchi Ni Yaru-ki Ni ABC – The Animation",
+        "poster": "/api/poster/r/aHR0cHM6Ly93d3cuYXNzaXN0aXJoZW50YWkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA0L0Vyb1plbWkuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Ero Zemi: Ecchi Ni Yaru-ki Ni ABC - The Animation Episódio 01",
+            "url": "https://www.assistirhentai.com/episodio/ero-zemi-ecchi-ni-yaru-ki-ni-abc-the-animation-episodio-01/",
+            "episodeSlug": "ero-zemi-ecchi-ni-yaru-ki-ni-abc-the-animation-episodio-01"
+          }
+        ],
+        "totalEpisodes": 1,
+        "kind": "anime",
+        "provider": "assistirhentai"
+      }
+    },
+    "tsuihousha-shokudou-e-youkoso": {
+      "at": 1782660472637,
+      "data": {
+        "slug": "tsuihousha-shokudou-e-youkoso",
+        "title": "Tsuihousha Shokudou e Youkoso!",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9ucGl0ZndGeXNMT3Y5M2Z5cFFyZ1dDN1kydHouanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Você está livre",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - Está muito gostoso!",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Esse é um aventureiro!",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - É muito cedo para um pedido de casamento!",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - Vim buscar a Senhorita Atelier",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - Fique bom logo",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Hoje fechamos por motivos comerciais",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Se é importante para você, não deixe passar!",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Quanto mais longe e alto o lugar, é onde eu quero chegar",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - A última peça?",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Bem-vindos ao Outcasts' Diner!",
+            "url": "https://animesonline.cloud/episodio/tsuihousha-shokudou-e-youkoso-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Animação",
+          "Comédia",
+          "Sci-Fi & Fantasia"
+        ]
+      }
+    },
+    "kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado": {
+      "at": 1782660473238,
+      "data": {
+        "slug": "kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado",
+        "title": "The Unaware Atelier Master Dublado",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mUWxZODNtWHhCWEU0cmhSWjJ3c3lNa0VXUWQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Episódio 01 - Uma situação típica de uma pessoa com autoavaliação baixa, mas que, na verdade, tem altas habilidades",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-01"
+          },
+          {
+            "number": 2,
+            "title": "Episódio 02 - O Primeiro Atelier",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Mineração para ele",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Novos amigos na nova oficina",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05 - Uma cidade fronteiriça com inimigos pra todos os lados",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Nona Direção",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O novo papai de um ovo misterioso",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Fwoosh e Akuri",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Confissão da Lise",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Encontro da Yulishia",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11 - O Segredo do Margrave",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Uma história comum sobre um ex-menino de recados em um grupo de heróis que na verdade era classificado como SSS em tudo, exceto combate",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-dublado-episodio-12"
+          }
+        ],
+        "totalEpisodes": 12,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
+          "Fantasia",
+          "Sci-Fi"
+        ]
+      }
+    },
+    "kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi": {
+      "at": 1782660473576,
+      "data": {
+        "slug": "kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi",
+        "title": "The Unaware Atelier Master",
+        "poster": "/api/poster/r/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avdzc4MC9mUWxZODNtWHhCWEU0cmhSWjJ3c3lNa0VXUWQuanBn",
+        "synopsis": "",
+        "episodes": [
+          {
+            "number": 2,
+            "title": "Episódio 02 - Minha primeira oficina",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-02"
+          },
+          {
+            "number": 3,
+            "title": "Episódio 03 - Mineração para ele",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-03"
+          },
+          {
+            "number": 4,
+            "title": "Episódio 04 - Novos amigos do novo ateliê",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-04"
+          },
+          {
+            "number": 5,
+            "title": "Episódio 05",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-05"
+          },
+          {
+            "number": 6,
+            "title": "Episódio 06 - A Nona Direção",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-06"
+          },
+          {
+            "number": 7,
+            "title": "Episódio 07 - O novo papai de um ovo misterioso",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-07"
+          },
+          {
+            "number": 8,
+            "title": "Episódio 08 - Fwoosh e Akuri",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-08"
+          },
+          {
+            "number": 9,
+            "title": "Episódio 09 - Confissão da Lise",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-09"
+          },
+          {
+            "number": 10,
+            "title": "Episódio 10 - Confissão da Lise",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-10"
+          },
+          {
+            "number": 11,
+            "title": "Episódio 11",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-11"
+          },
+          {
+            "number": 12,
+            "title": "Episódio 12 - Final - Uma situação típica sobre um ex-faz tudo de um grupo de heróis que na verdade é rank SSS em tudo, menos em combate",
+            "url": "https://animesonline.cloud/episodio/kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi-episodio-12"
+          }
+        ],
+        "totalEpisodes": 11,
+        "kind": "anime",
+        "provider": "aoc",
+        "genres": [
+          "Legendado",
+          "Dublado",
+          "Ação",
+          "Animação",
+          "Aventura",
           "Fantasia",
           "Sci-Fi"
         ]

@@ -1375,7 +1375,8 @@
       6,
       7,
       8,
-      9
+      9,
+      10
     ]
   },
   "started": {
@@ -1922,6 +1923,11 @@
   "watchHistoryLog": [
     {
       "slug": "tongari-boushi-no-atelier-dublado",
+      "ep": 10,
+      "at": 1782661791112
+    },
+    {
+      "slug": "tongari-boushi-no-atelier-dublado",
       "ep": 9,
       "at": 1782417349921
     },
@@ -2052,5 +2058,5 @@
     }
   ],
   "watchHistoryHidden": [],
-  "updatedAt": 1782661723214
+  "updatedAt": 1782661790871
 }

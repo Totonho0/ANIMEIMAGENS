@@ -2517,6 +2517,25 @@
         "poster": "https://image.tmdb.org/t/p/w780/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/dr-stone-science-future-4-part-3-dublado-episodio-02"
       }
+    },
+    "anime:tongari-boushi-no-atelier-dublado:4": {
+      "at": 1782660494750,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://aniplay.online/Midias/Animes/Letra-T/Tongari-Boushi-no-Atelier/Dub/04.mp4",
+            "label": "FullHD / HLS",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Faniplay.online%2FMidias%2FAnimes%2FLetra-T%2FTongari-Boushi-no-Atelier%2FDub%2F04.mp4&ref=aoc"
+          }
+        ],
+        "episode": 4,
+        "slug": "tongari-boushi-no-atelier-dublado",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/A3LWweARdmmkyy6dTkn9BuXvwCM.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/tongari-boushi-no-atelier-dublado-episodio-04"
+      }
     }
   }
 }

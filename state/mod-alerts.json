@@ -16657,11 +16657,15 @@
       "username": "",
       "displayName": "Visitante #9E6FB167",
       "visitorShortId": "9E6FB167",
-      "lastSeenAt": 1782740364786,
-      "lastAlertAt": 1782740293927,
+      "lastSeenAt": 1782740499131,
+      "lastAlertAt": 1782740499131,
       "viaBot": true,
       "componentsOk": true,
-      "embedOnlineStatus": true
+      "embedOnlineStatus": true,
+      "viewingKind": "anime",
+      "viewingTitle": "Bleach",
+      "viewingDetail": "O Dia Em Que Me Tornei Um Shinigami",
+      "viewingUpdatedAt": 1782740499131
     }
   },
   "links": {

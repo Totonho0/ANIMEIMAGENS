@@ -2618,6 +2618,31 @@
         "poster": "https://image.tmdb.org/t/p/w780/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",
         "episodeUrl": "https://animesonline.cloud/episodio/solo-leveling-dublado-episodio-01"
       }
+    },
+    "anime:bleach:1": {
+      "at": 1782740499763,
+      "data": {
+        "sources": [
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-B/Bleach/01.mp4",
+            "label": "Legendado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-B%2FBleach%2F01.mp4&ref=aoc"
+          },
+          {
+            "type": "mp4",
+            "src": "https://mangas.cloud/Animes/Letra-B/Bleach-Dublado/001.mp4",
+            "label": "Dublado",
+            "proxyUrl": "/cdn-play?u=https%3A%2F%2Fmangas.cloud%2FAnimes%2FLetra-B%2FBleach-Dublado%2F001.mp4&ref=aoc"
+          }
+        ],
+        "episode": 1,
+        "slug": "bleach",
+        "kind": "anime",
+        "provider": "aoc",
+        "poster": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "episodeUrl": "https://animesonline.cloud/episodio/bleach-episodio-01"
+      }
     }
   }
 }

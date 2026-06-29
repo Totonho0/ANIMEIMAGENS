@@ -16708,6 +16708,21 @@
       "viaBot": true,
       "componentsOk": true,
       "embedOnlineStatus": false
+    },
+    "v:bc7cbdb6-6a65-46b2-94c9-60868dbc2435": {
+      "userKey": "v:bc7cbdb6-6a65-46b2-94c9-60868dbc2435",
+      "messageId": "1521164866767949865",
+      "channelId": "1510739162116915371",
+      "ip": "45.74.159.42",
+      "discordId": "",
+      "username": "",
+      "displayName": "Visitante #BC7CBDB6",
+      "visitorShortId": "BC7CBDB6",
+      "lastSeenAt": 1782744365949,
+      "lastAlertAt": 1782744365949,
+      "viaBot": true,
+      "componentsOk": true,
+      "embedOnlineStatus": true
     }
   },
   "links": {

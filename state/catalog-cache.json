@@ -15330,7 +15330,7 @@
         "hasMore": false,
         "genreId": "drama"
       },
-      "at": 1782740109754
+      "at": 1782740251465
     },
     "genre-row:aventura": {
       "data": {
@@ -15485,7 +15485,7 @@
         "hasMore": false,
         "genreId": "aventura"
       },
-      "at": 1782740110213
+      "at": 1782740251857
     },
     "genre-row:fantasia": {
       "data": {
@@ -15640,7 +15640,7 @@
         "hasMore": false,
         "genreId": "fantasia"
       },
-      "at": 1782740110517
+      "at": 1782740251992
     },
     "genre-row:romance": {
       "data": {
@@ -15786,7 +15786,7 @@
         "hasMore": false,
         "genreId": "romance"
       },
-      "at": 1782740110072
+      "at": 1782740251721
     },
     "genre-row:acao": {
       "data": {
@@ -15941,7 +15941,7 @@
         "hasMore": false,
         "genreId": "acao"
       },
-      "at": 1782740109599
+      "at": 1782740251338
     },
     "genre-row:comedia": {
       "data": {
@@ -16087,7 +16087,7 @@
         "hasMore": false,
         "genreId": "comedia"
       },
-      "at": 1782740109887
+      "at": 1782740251595
     },
     "lancamentos|1||120": {
       "data": {
@@ -16932,7 +16932,7 @@
         "hasMore": true,
         "partnerId": "animeplay"
       },
-      "at": 1782740109959
+      "at": 1782740253664
     },
     "partner:animeplay|todos|2||24": {
       "data": {
@@ -17266,7 +17266,7 @@
         "hasMore": true,
         "partnerId": "animesdigital"
       },
-      "at": 1782740109964
+      "at": 1782740252208
     },
     "partner:animesdigital|todos|2||24": {
       "data": {
@@ -31933,5 +31933,5 @@
       "at": 1782734046959
     }
   },
-  "updatedAt": 1782740110517
+  "updatedAt": 1782740253664
 }

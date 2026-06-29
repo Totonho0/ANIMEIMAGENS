@@ -11924,7 +11924,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -12194,7 +12194,7 @@
         "page": 17,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782748436957,
+        "cachedAt": 1782762837976,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -12241,7 +12241,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748436983
+      "at": 1782762838005
     },
     "todos|18||120": {
       "data": {
@@ -12251,7 +12251,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -12521,7 +12521,7 @@
         "page": 18,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782748437887,
+        "cachedAt": 1782762838850,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -12568,7 +12568,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748437914
+      "at": 1782762838877
     },
     "todos|19||120": {
       "data": {
@@ -12578,7 +12578,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -12848,7 +12848,7 @@
         "page": 19,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782748438744,
+        "cachedAt": 1782762839764,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -12895,7 +12895,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748438777
+      "at": 1782762839798
     },
     "todos|20||120": {
       "data": {
@@ -12905,7 +12905,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animeplay.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -13166,7 +13166,7 @@
         "page": 20,
         "hasMore": true,
         "total": 482,
-        "cachedAt": 1782748439725,
+        "cachedAt": 1782762840728,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13213,7 +13213,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748439748
+      "at": 1782762840768
     },
     "legendado|1||120": {
       "data": {
@@ -13354,15 +13354,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "url": "https://animesonline.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Otome Kaijuu Caraméliser",
             "slug": "otome-kaijuu-carameliser",
             "url": "https://animesonline.cloud/anime/otome-kaijuu-carameliser",
@@ -13399,11 +13390,47 @@
             "provider": "aoc"
           },
           {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animesonline.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Blue Lock 3",
             "slug": "blue-lock-3",
             "url": "https://animesonline.cloud/anime/blue-lock-3",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
             "rating": "8.045",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
+            "url": "https://animesonline.cloud/anime/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bWHLEMqymTuaRAEDQQvwHfw7AR9-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Yani Neko",
+            "slug": "chainsmoker-cat",
+            "url": "https://animesonline.cloud/anime/chainsmoker-cat",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
+            "title": "Super no Ura de Yani Suu Futari",
+            "slug": "smoking-behind-the-supermarket-with-you",
+            "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           }
@@ -13412,7 +13439,7 @@
         "page": 1,
         "hasMore": true,
         "total": 68,
-        "cachedAt": 1782748442156,
+        "cachedAt": 1782762843005,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13459,7 +13486,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748442165
+      "at": 1782762843012
     },
     "legendado|2||120": {
       "data": {
@@ -13469,33 +13496,6 @@
             "slug": "koukaku-kidouta",
             "url": "https://animesonline.cloud/anime/koukaku-kidouta",
             "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "slug": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
-            "url": "https://animesonline.cloud/anime/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/bWHLEMqymTuaRAEDQQvwHfw7AR9-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Yani Neko",
-            "slug": "chainsmoker-cat",
-            "url": "https://animesonline.cloud/anime/chainsmoker-cat",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/mVaXYoSvcMWwbbJXKvkZTPdWRkR-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
-            "title": "Super no Ura de Yani Suu Futari",
-            "slug": "smoking-behind-the-supermarket-with-you",
-            "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
@@ -13609,11 +13609,11 @@
             "provider": "aoc"
           },
           {
-            "title": "Kujima Utaeba Ie Hororo",
-            "slug": "kujima-utaeba-ie-hororo",
-            "url": "https://animesonline.cloud/anime/kujima-utaeba-ie-hororo",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/agXbnHcwfL0kfh46mjaZbBxKlXQ-185x278.jpg",
-            "rating": "7.1",
+            "title": "Himekishi wa Barbaroi no Yome",
+            "slug": "himekishi-wa-barbaroi-no-yome",
+            "url": "https://animesonline.cloud/anime/himekishi-wa-barbaroi-no-yome",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/dBTihfaorYtEz8fnT8nMITYmQwa-185x278.jpg",
+            "rating": "8.2",
             "kind": "anime",
             "provider": "aoc"
           }
@@ -13622,7 +13622,7 @@
         "page": 2,
         "hasMore": true,
         "total": 68,
-        "cachedAt": 1782748443016,
+        "cachedAt": 1782762843842,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13669,7 +13669,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748443026
+      "at": 1782762843849
     },
     "legendado|3||120": {
       "data": {
@@ -13846,15 +13846,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Kami no Niwatsuki Kusunoki-tei",
-            "slug": "kami-no-niwatsuki-kusunoki-tei",
-            "url": "https://animesonline.cloud/anime/kami-no-niwatsuki-kusunoki-tei",
-            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Honzuki no Gekokujou 4",
             "slug": "honzuki-no-gekokujou-4",
             "url": "https://animesonline.cloud/anime/honzuki-no-gekokujou-4",
@@ -13889,13 +13880,22 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Kami no Niwatsuki Kusunoki-tei",
+            "slug": "kami-no-niwatsuki-kusunoki-tei",
+            "url": "https://animesonline.cloud/anime/kami-no-niwatsuki-kusunoki-tei",
+            "poster": "https://animeplay.cloud/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "legendado",
         "page": 3,
         "hasMore": true,
         "total": 68,
-        "cachedAt": 1782748444047,
+        "cachedAt": 1782762844705,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -13942,7 +13942,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748444058
+      "at": 1782762844713
     },
     "dublado|1||120": {
       "data": {
@@ -14168,7 +14168,7 @@
         "page": 1,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782748444349,
+        "cachedAt": 1782762845128,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14215,7 +14215,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748444357
+      "at": 1782762845140
     },
     "dublado|2||120": {
       "data": {
@@ -14441,7 +14441,7 @@
         "page": 2,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782748445265,
+        "cachedAt": 1782762845991,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14488,7 +14488,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748445273
+      "at": 1782762845999
     },
     "dublado|3||120": {
       "data": {
@@ -14714,7 +14714,7 @@
         "page": 3,
         "hasMore": true,
         "total": 74,
-        "cachedAt": 1782748446231,
+        "cachedAt": 1782762846838,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -14761,7 +14761,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748446240
+      "at": 1782762846857
     },
     "partner:animesdigital|lancamentos|1||24": {
       "data": {
@@ -16093,6 +16093,17 @@
       "data": {
         "items": [
           {
+            "title": "Episódio 1",
+            "epTitle": "Episódio 1",
+            "slug": "world-is-dancing",
+            "episode": 1,
+            "url": "https://animesonline.cloud/episodio/world-is-dancing-episodio-01",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/qVChvfXUKES8lg7kVKcR8Cv2cu1-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
+          {
             "title": "Episódio 9",
             "epTitle": "Episódio 9",
             "slug": "tsue-to-tsurugi-no-wistoria-2-dublado",
@@ -16344,24 +16355,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "tensei-shitara-slime-datta-ken-4th-season",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8Bfkjspd1VfXHS9BJGoAMugVUly-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 1,
         "hasMore": true,
         "total": 76,
-        "cachedAt": 1782748440583,
+        "cachedAt": 1782762841654,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -16408,11 +16408,22 @@
           "fixHint": null
         }
       },
-      "at": 1782748440591
+      "at": 1782762841664
     },
     "lancamentos|2||120": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8Bfkjspd1VfXHS9BJGoAMugVUly-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 13",
             "epTitle": "Episódio 13",
@@ -16665,24 +16676,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/fBOzmacthEKe8CZyhjz3iEiVPv1-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true,
         "total": 76,
-        "cachedAt": 1782748441851,
+        "cachedAt": 1782762842657,
         "aocCircuitOpen": false,
         "aocDegraded": false,
         "catalogFromCache": false,
@@ -16729,7 +16729,7 @@
           "fixHint": null
         }
       },
-      "at": 1782748441865
+      "at": 1782762842667
     },
     "partner:animeplay|todos|1||24": {
       "data": {
@@ -23021,7 +23021,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782752336893
+      "at": 1782762841654
     },
     "todos|2||24": {
       "data": {
@@ -29289,7 +29289,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -29559,7 +29559,7 @@
         "page": 17,
         "hasMore": true
       },
-      "at": 1782748436957
+      "at": 1782762837976
     },
     "todos|18||48": {
       "data": {
@@ -29569,7 +29569,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -29839,7 +29839,7 @@
         "page": 18,
         "hasMore": true
       },
-      "at": 1782748437887
+      "at": 1782762838850
     },
     "todos|19||48": {
       "data": {
@@ -29849,7 +29849,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -30119,7 +30119,7 @@
         "page": 19,
         "hasMore": true
       },
-      "at": 1782748438744
+      "at": 1782762839764
     },
     "todos|20||48": {
       "data": {
@@ -30129,7 +30129,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -30390,11 +30390,22 @@
         "page": 20,
         "hasMore": true
       },
-      "at": 1782748439725
+      "at": 1782762840728
     },
     "lancamentos|2||48": {
       "data": {
         "items": [
+          {
+            "title": "Episódio 12",
+            "epTitle": "Episódio 12",
+            "slug": "tensei-shitara-slime-datta-ken-4th-season",
+            "episode": 12,
+            "url": "https://animesonline.cloud/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-12",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/8Bfkjspd1VfXHS9BJGoAMugVUly-300x170.jpg",
+            "kind": "anime",
+            "provider": "aoc",
+            "isRelease": true
+          },
           {
             "title": "Episódio 13",
             "epTitle": "Episódio 13",
@@ -30647,24 +30658,13 @@
             "kind": "anime",
             "provider": "aoc",
             "isRelease": true
-          },
-          {
-            "title": "Episódio 12",
-            "epTitle": "Episódio 12",
-            "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-            "episode": 12,
-            "url": "https://animesonline.cloud/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-episodio-12",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/fBOzmacthEKe8CZyhjz3iEiVPv1-300x170.jpg",
-            "kind": "anime",
-            "provider": "aoc",
-            "isRelease": true
           }
         ],
         "category": "lancamentos",
         "page": 2,
         "hasMore": true
       },
-      "at": 1782748441851
+      "at": 1782762842657
     },
     "legendado|1||48": {
       "data": {
@@ -30805,15 +30805,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "url": "https://animesonline.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Otome Kaijuu Caraméliser",
             "slug": "otome-kaijuu-carameliser",
             "url": "https://animesonline.cloud/anime/otome-kaijuu-carameliser",
@@ -30850,30 +30841,20 @@
             "provider": "aoc"
           },
           {
+            "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "url": "https://animesonline.cloud/anime/the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/oulMDIOJBoFqMvM5Fku5XKazYGX-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          },
+          {
             "title": "Blue Lock 3",
             "slug": "blue-lock-3",
             "url": "https://animesonline.cloud/anime/blue-lock-3",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/a6i8cVlkIQbHBrxoGFdOG47xtZu-185x278.jpg",
             "rating": "8.045",
-            "kind": "anime",
-            "provider": "aoc"
-          }
-        ],
-        "category": "legendado",
-        "page": 1,
-        "hasMore": true
-      },
-      "at": 1782748442156
-    },
-    "legendado|2||48": {
-      "data": {
-        "items": [
-          {
-            "title": "Koukaku Kidouta",
-            "slug": "koukaku-kidouta",
-            "url": "https://animesonline.cloud/anime/koukaku-kidouta",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
-            "rating": "0",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -30900,6 +30881,25 @@
             "slug": "smoking-behind-the-supermarket-with-you",
             "url": "https://animesonline.cloud/anime/smoking-behind-the-supermarket-with-you",
             "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/nSdgX507jBlonGFC91Ve0TfcLjJ-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
+          }
+        ],
+        "category": "legendado",
+        "page": 1,
+        "hasMore": true
+      },
+      "at": 1782762843005
+    },
+    "legendado|2||48": {
+      "data": {
+        "items": [
+          {
+            "title": "Koukaku Kidouta",
+            "slug": "koukaku-kidouta",
+            "url": "https://animesonline.cloud/anime/koukaku-kidouta",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/06/v3ELg68YGvjSvumMB3nynWyF3bP-185x278.jpg",
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
@@ -31013,11 +31013,11 @@
             "provider": "aoc"
           },
           {
-            "title": "Kujima Utaeba Ie Hororo",
-            "slug": "kujima-utaeba-ie-hororo",
-            "url": "https://animesonline.cloud/anime/kujima-utaeba-ie-hororo",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/agXbnHcwfL0kfh46mjaZbBxKlXQ-185x278.jpg",
-            "rating": "7.1",
+            "title": "Himekishi wa Barbaroi no Yome",
+            "slug": "himekishi-wa-barbaroi-no-yome",
+            "url": "https://animesonline.cloud/anime/himekishi-wa-barbaroi-no-yome",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/dBTihfaorYtEz8fnT8nMITYmQwa-185x278.jpg",
+            "rating": "8.2",
             "kind": "anime",
             "provider": "aoc"
           }
@@ -31026,7 +31026,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782748443016
+      "at": 1782762843842
     },
     "legendado|3||48": {
       "data": {
@@ -31203,15 +31203,6 @@
             "provider": "aoc"
           },
           {
-            "title": "Kami no Niwatsuki Kusunoki-tei",
-            "slug": "kami-no-niwatsuki-kusunoki-tei",
-            "url": "https://animesonline.cloud/anime/kami-no-niwatsuki-kusunoki-tei",
-            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c-185x278.jpg",
-            "rating": "0",
-            "kind": "anime",
-            "provider": "aoc"
-          },
-          {
             "title": "Honzuki no Gekokujou 4",
             "slug": "honzuki-no-gekokujou-4",
             "url": "https://animesonline.cloud/anime/honzuki-no-gekokujou-4",
@@ -31246,13 +31237,22 @@
             "rating": "0",
             "kind": "anime",
             "provider": "aoc"
+          },
+          {
+            "title": "Kami no Niwatsuki Kusunoki-tei",
+            "slug": "kami-no-niwatsuki-kusunoki-tei",
+            "url": "https://animesonline.cloud/anime/kami-no-niwatsuki-kusunoki-tei",
+            "poster": "https://animesonline.cloud/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c-185x278.jpg",
+            "rating": "0",
+            "kind": "anime",
+            "provider": "aoc"
           }
         ],
         "category": "legendado",
         "page": 3,
         "hasMore": true
       },
-      "at": 1782748444047
+      "at": 1782762844705
     },
     "dublado|1||48": {
       "data": {
@@ -31478,7 +31478,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782748444349
+      "at": 1782762845128
     },
     "dublado|2||48": {
       "data": {
@@ -31704,7 +31704,7 @@
         "page": 2,
         "hasMore": true
       },
-      "at": 1782748445265
+      "at": 1782762845991
     },
     "dublado|3||48": {
       "data": {
@@ -31930,8 +31930,8 @@
         "page": 3,
         "hasMore": true
       },
-      "at": 1782748446231
+      "at": 1782762846838
     }
   },
-  "updatedAt": 1782762836246
+  "updatedAt": 1782762846857
 }

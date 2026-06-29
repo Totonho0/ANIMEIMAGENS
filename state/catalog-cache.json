@@ -24908,7 +24908,7 @@
             "slug": "one-piece",
             "url": "https://animesonline.cloud/anime/one-piece",
             "poster": "https://animesonline.cloud/wp-content/uploads/2023/12/assisitr-one-piece.jpg-185x278.webp",
-            "rating": "8.8",
+            "rating": "8.9",
             "kind": "anime",
             "provider": "aoc"
           },
@@ -25178,7 +25178,7 @@
         "page": 1,
         "hasMore": true
       },
-      "at": 1782748422365
+      "at": 1782752341902
     },
     "todos|2||48": {
       "data": {
@@ -31933,5 +31933,5 @@
       "at": 1782748446231
     }
   },
-  "updatedAt": 1782752338098
+  "updatedAt": 1782752341902
 }
